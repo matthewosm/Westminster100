@@ -1,0 +1,885 @@
+[
+  {
+    "party": "Conservative",
+    "member_count_total": 116,
+    "member_count_with_payments": 63,
+    "member_count_earning": 60,
+    "total_monetary_12m": 4397732.04,
+    "total_inkind_12m": 437420.47,
+    "total_combined_12m": 4835152.51,
+    "avg_per_member": 37911.48,
+    "avg_per_earning_member": 73295.53,
+    "star_player": {
+      "mnis_id": 4483,
+      "name": "Rishi Sunak",
+      "total_monetary_12m": 948253.61,
+      "constituency": "Richmond and Northallerton",
+      "thumbnail_url": "https://members-api.parliament.uk/api/Members/4483/Thumbnail"
+    },
+    "categories": {
+      "1.1": {
+        "monetary": 2136944.5300000003,
+        "inkind": 4530.68,
+        "count": 198
+      },
+      "1.2": {
+        "monetary": 1105861.5799999998,
+        "inkind": 0,
+        "count": 30
+      },
+      "2": {
+        "monetary": 1120345.6,
+        "inkind": 31793.480000000003,
+        "count": 98
+      },
+      "3": {
+        "monetary": 0,
+        "inkind": 88639.51,
+        "count": 79
+      },
+      "4": {
+        "monetary": 34580.33,
+        "inkind": 312056.8,
+        "count": 83
+      },
+      "5": {
+        "monetary": 0,
+        "inkind": 400.0,
+        "count": 1
+      }
+    },
+    "top_earners": [
+      {
+        "mnis_id": 4483,
+        "name": "Rishi Sunak",
+        "total_monetary_12m": 948253.61,
+        "constituency": "Richmond and Northallerton",
+        "thumbnail_url": "https://members-api.parliament.uk/api/Members/4483/Thumbnail"
+      },
+      {
+        "mnis_id": 1508,
+        "name": "Sir Geoffrey Cox",
+        "total_monetary_12m": 736590.69,
+        "constituency": "Torridge and Tavistock",
+        "thumbnail_url": "https://members-api.parliament.uk/api/Members/1508/Thumbnail"
+      },
+      {
+        "mnis_id": 373,
+        "name": "David Davis",
+        "total_monetary_12m": 283876.8,
+        "constituency": "Goole and Pocklington",
+        "thumbnail_url": "https://members-api.parliament.uk/api/Members/373/Thumbnail"
+      },
+      {
+        "mnis_id": 4597,
+        "name": "Mrs Kemi Badenoch",
+        "total_monetary_12m": 281812.5,
+        "constituency": "North West Essex",
+        "thumbnail_url": "https://members-api.parliament.uk/api/Members/4597/Thumbnail"
+      },
+      {
+        "mnis_id": 1572,
+        "name": "Sir Jeremy Hunt",
+        "total_monetary_12m": 222870.0,
+        "constituency": "Godalming and Ash",
+        "thumbnail_url": "https://members-api.parliament.uk/api/Members/1572/Thumbnail"
+      }
+    ]
+  },
+  {
+    "party": "Labour",
+    "member_count_total": 362,
+    "member_count_with_payments": 81,
+    "member_count_earning": 74,
+    "total_monetary_12m": 1448541.66,
+    "total_inkind_12m": 534042.7,
+    "total_combined_12m": 1982584.36,
+    "avg_per_member": 4001.5,
+    "avg_per_earning_member": 19574.89,
+    "star_player": {
+      "mnis_id": 4356,
+      "name": "Angela Rayner",
+      "total_monetary_12m": 144000.0,
+      "constituency": "Ashton-under-Lyne",
+      "thumbnail_url": "https://members-api.parliament.uk/api/Members/4356/Thumbnail"
+    },
+    "categories": {
+      "1.1": {
+        "monetary": 379060.7299999999,
+        "inkind": 0,
+        "count": 99
+      },
+      "1.2": {
+        "monetary": 73746.52,
+        "inkind": 10250.91,
+        "count": 4
+      },
+      "2": {
+        "monetary": 978486.6900000001,
+        "inkind": 313893.04000000004,
+        "count": 142
+      },
+      "3": {
+        "monetary": 2377.7999999999997,
+        "inkind": 71755.09,
+        "count": 93
+      },
+      "4": {
+        "monetary": 14869.92,
+        "inkind": 135066.66000000003,
+        "count": 63
+      },
+      "5": {
+        "monetary": 0,
+        "inkind": 3077.0,
+        "count": 3
+      }
+    },
+    "top_earners": [
+      {
+        "mnis_id": 4356,
+        "name": "Angela Rayner",
+        "total_monetary_12m": 144000.0,
+        "constituency": "Ashton-under-Lyne",
+        "thumbnail_url": "https://members-api.parliament.uk/api/Members/4356/Thumbnail"
+      },
+      {
+        "mnis_id": 4504,
+        "name": "Wes Streeting",
+        "total_monetary_12m": 105249.98,
+        "constituency": "Ilford North",
+        "thumbnail_url": "https://members-api.parliament.uk/api/Members/4504/Thumbnail"
+      },
+      {
+        "mnis_id": 5267,
+        "name": "Yuan Yang",
+        "total_monetary_12m": 101658.57,
+        "constituency": "Earley and Woodley",
+        "thumbnail_url": "https://members-api.parliament.uk/api/Members/5267/Thumbnail"
+      },
+      {
+        "mnis_id": 5213,
+        "name": "Dr Zubir Ahmed",
+        "total_monetary_12m": 81688.0,
+        "constituency": "Glasgow South West",
+        "thumbnail_url": "https://members-api.parliament.uk/api/Members/5213/Thumbnail"
+      },
+      {
+        "mnis_id": 4046,
+        "name": "Bridget Phillipson",
+        "total_monetary_12m": 72000.0,
+        "constituency": "Houghton and Sunderland South",
+        "thumbnail_url": "https://members-api.parliament.uk/api/Members/4046/Thumbnail"
+      }
+    ]
+  },
+  {
+    "party": "Reform UK",
+    "member_count_total": 8,
+    "member_count_with_payments": 6,
+    "member_count_earning": 6,
+    "total_monetary_12m": 1003978.41,
+    "total_inkind_12m": 175333.05,
+    "total_combined_12m": 1179311.46,
+    "avg_per_member": 125497.3,
+    "avg_per_earning_member": 167329.74,
+    "star_player": {
+      "mnis_id": 5091,
+      "name": "Nigel Farage",
+      "total_monetary_12m": 632027.04,
+      "constituency": "Clacton",
+      "thumbnail_url": "https://members-api.parliament.uk/api/Members/5091/Thumbnail"
+    },
+    "categories": {
+      "1.1": {
+        "monetary": 663848.5900000001,
+        "inkind": 0,
+        "count": 93
+      },
+      "1.2": {
+        "monetary": 197629.82,
+        "inkind": 0,
+        "count": 4
+      },
+      "2": {
+        "monetary": 142500.0,
+        "inkind": 0,
+        "count": 16
+      },
+      "3": {
+        "monetary": 0,
+        "inkind": 3635.27,
+        "count": 5
+      },
+      "4": {
+        "monetary": 0,
+        "inkind": 166697.78,
+        "count": 14
+      },
+      "5": {
+        "monetary": 0,
+        "inkind": 5000.0,
+        "count": 1
+      }
+    },
+    "top_earners": [
+      {
+        "mnis_id": 5091,
+        "name": "Nigel Farage",
+        "total_monetary_12m": 632027.04,
+        "constituency": "Clacton",
+        "thumbnail_url": "https://members-api.parliament.uk/api/Members/5091/Thumbnail"
+      },
+      {
+        "mnis_id": 4320,
+        "name": "Robert Jenrick",
+        "total_monetary_12m": 116700.0,
+        "constituency": "Newark",
+        "thumbnail_url": "https://members-api.parliament.uk/api/Members/4320/Thumbnail"
+      },
+      {
+        "mnis_id": 4743,
+        "name": "Lee Anderson",
+        "total_monetary_12m": 116102.44,
+        "constituency": "Ashfield",
+        "thumbnail_url": "https://members-api.parliament.uk/api/Members/4743/Thumbnail"
+      },
+      {
+        "mnis_id": 4475,
+        "name": "Suella Braverman",
+        "total_monetary_12m": 62175.75,
+        "constituency": "Fareham and Waterlooville",
+        "thumbnail_url": "https://members-api.parliament.uk/api/Members/4475/Thumbnail"
+      },
+      {
+        "mnis_id": 5161,
+        "name": "Richard Tice",
+        "total_monetary_12m": 52473.18,
+        "constituency": "Boston and Skegness",
+        "thumbnail_url": "https://members-api.parliament.uk/api/Members/5161/Thumbnail"
+      }
+    ]
+  },
+  {
+    "party": "Liberal Democrat",
+    "member_count_total": 72,
+    "member_count_with_payments": 48,
+    "member_count_earning": 44,
+    "total_monetary_12m": 728521.92,
+    "total_inkind_12m": 330655.24,
+    "total_combined_12m": 1059177.16,
+    "avg_per_member": 10118.36,
+    "avg_per_earning_member": 16557.32,
+    "star_player": {
+      "mnis_id": 4769,
+      "name": "Daisy Cooper",
+      "total_monetary_12m": 68000.0,
+      "constituency": "St Albans",
+      "thumbnail_url": "https://members-api.parliament.uk/api/Members/4769/Thumbnail"
+    },
+    "categories": {
+      "1.1": {
+        "monetary": 33293.659999999996,
+        "inkind": 0,
+        "count": 19
+      },
+      "1.2": {
+        "monetary": 163072.1,
+        "inkind": 0,
+        "count": 20
+      },
+      "2": {
+        "monetary": 519943.25,
+        "inkind": 18181.27,
+        "count": 137
+      },
+      "3": {
+        "monetary": 245.17,
+        "inkind": 270746.68,
+        "count": 67
+      },
+      "4": {
+        "monetary": 11967.74,
+        "inkind": 26732.29,
+        "count": 30
+      },
+      "5": {
+        "monetary": 0,
+        "inkind": 14995.0,
+        "count": 2
+      }
+    },
+    "top_earners": [
+      {
+        "mnis_id": 4769,
+        "name": "Daisy Cooper",
+        "total_monetary_12m": 68000.0,
+        "constituency": "St Albans",
+        "thumbnail_url": "https://members-api.parliament.uk/api/Members/4769/Thumbnail"
+      },
+      {
+        "mnis_id": 4776,
+        "name": "Munira Wilson",
+        "total_monetary_12m": 61600.0,
+        "constituency": "Twickenham",
+        "thumbnail_url": "https://members-api.parliament.uk/api/Members/4776/Thumbnail"
+      },
+      {
+        "mnis_id": 5325,
+        "name": "Charlie Maynard",
+        "total_monetary_12m": 60000.0,
+        "constituency": "Witney",
+        "thumbnail_url": "https://members-api.parliament.uk/api/Members/5325/Thumbnail"
+      },
+      {
+        "mnis_id": 5219,
+        "name": "Mike Martin",
+        "total_monetary_12m": 56286.45,
+        "constituency": "Tunbridge Wells",
+        "thumbnail_url": "https://members-api.parliament.uk/api/Members/5219/Thumbnail"
+      },
+      {
+        "mnis_id": 5086,
+        "name": "Josh Babarinde",
+        "total_monetary_12m": 37000.0,
+        "constituency": "Eastbourne",
+        "thumbnail_url": "https://members-api.parliament.uk/api/Members/5086/Thumbnail"
+      }
+    ]
+  },
+  {
+    "party": "Labour (Co-op)",
+    "member_count_total": 42,
+    "member_count_with_payments": 13,
+    "member_count_earning": 12,
+    "total_monetary_12m": 189033.3,
+    "total_inkind_12m": 64653.39,
+    "total_combined_12m": 253686.69,
+    "avg_per_member": 4500.79,
+    "avg_per_earning_member": 15752.77,
+    "star_player": {
+      "mnis_id": 4263,
+      "name": "Lucy Powell",
+      "total_monetary_12m": 96000.0,
+      "constituency": "Manchester Central",
+      "thumbnail_url": "https://members-api.parliament.uk/api/Members/4263/Thumbnail"
+    },
+    "categories": {
+      "1.1": {
+        "monetary": 8296.3,
+        "inkind": 0,
+        "count": 5
+      },
+      "1.2": {
+        "monetary": 0,
+        "inkind": 0,
+        "count": 0
+      },
+      "2": {
+        "monetary": 180737.0,
+        "inkind": 26600.0,
+        "count": 18
+      },
+      "3": {
+        "monetary": 0,
+        "inkind": 10228.0,
+        "count": 8
+      },
+      "4": {
+        "monetary": 0,
+        "inkind": 27485.39,
+        "count": 5
+      },
+      "5": {
+        "monetary": 0,
+        "inkind": 340.0,
+        "count": 1
+      }
+    },
+    "top_earners": [
+      {
+        "mnis_id": 4263,
+        "name": "Lucy Powell",
+        "total_monetary_12m": 96000.0,
+        "constituency": "Manchester Central",
+        "thumbnail_url": "https://members-api.parliament.uk/api/Members/4263/Thumbnail"
+      },
+      {
+        "mnis_id": 5099,
+        "name": "Miatta Fahnbulleh",
+        "total_monetary_12m": 28500.0,
+        "constituency": "Peckham",
+        "thumbnail_url": "https://members-api.parliament.uk/api/Members/5099/Thumbnail"
+      },
+      {
+        "mnis_id": 4471,
+        "name": "Rachael Maskell",
+        "total_monetary_12m": 25187.0,
+        "constituency": "York Central",
+        "thumbnail_url": "https://members-api.parliament.uk/api/Members/4471/Thumbnail"
+      },
+      {
+        "mnis_id": 4595,
+        "name": "Gareth Snell",
+        "total_monetary_12m": 10000.0,
+        "constituency": "Stoke-on-Trent Central",
+        "thumbnail_url": "https://members-api.parliament.uk/api/Members/4595/Thumbnail"
+      },
+      {
+        "mnis_id": 4943,
+        "name": "Simon Lightwood",
+        "total_monetary_12m": 7950.0,
+        "constituency": "Wakefield and Rothwell",
+        "thumbnail_url": "https://members-api.parliament.uk/api/Members/4943/Thumbnail"
+      }
+    ]
+  },
+  {
+    "party": "Restore Britain",
+    "member_count_total": 1,
+    "member_count_with_payments": 1,
+    "member_count_earning": 1,
+    "total_monetary_12m": 80150.02,
+    "total_inkind_12m": 2346.92,
+    "total_combined_12m": 82496.94,
+    "avg_per_member": 80150.02,
+    "avg_per_earning_member": 80150.02,
+    "star_player": {
+      "mnis_id": 5158,
+      "name": "Rupert Lowe",
+      "total_monetary_12m": 80150.02,
+      "constituency": "Great Yarmouth",
+      "thumbnail_url": "https://members-api.parliament.uk/api/Members/5158/Thumbnail"
+    },
+    "categories": {
+      "1.1": {
+        "monetary": 35150.02,
+        "inkind": 0,
+        "count": 23
+      },
+      "1.2": {
+        "monetary": 0,
+        "inkind": 0,
+        "count": 0
+      },
+      "2": {
+        "monetary": 45000.0,
+        "inkind": 0,
+        "count": 9
+      },
+      "3": {
+        "monetary": 0,
+        "inkind": 556.0,
+        "count": 1
+      },
+      "4": {
+        "monetary": 0,
+        "inkind": 1790.92,
+        "count": 1
+      },
+      "5": {
+        "monetary": 0,
+        "inkind": 0,
+        "count": 0
+      }
+    },
+    "top_earners": [
+      {
+        "mnis_id": 5158,
+        "name": "Rupert Lowe",
+        "total_monetary_12m": 80150.02,
+        "constituency": "Great Yarmouth",
+        "thumbnail_url": "https://members-api.parliament.uk/api/Members/5158/Thumbnail"
+      }
+    ]
+  },
+  {
+    "party": "Sinn Féin",
+    "member_count_total": 7,
+    "member_count_with_payments": 1,
+    "member_count_earning": 1,
+    "total_monetary_12m": 56025.63,
+    "total_inkind_12m": 4427.99,
+    "total_combined_12m": 60453.62,
+    "avg_per_member": 8003.66,
+    "avg_per_earning_member": 56025.63,
+    "star_player": {
+      "mnis_id": 4823,
+      "name": "John Finucane",
+      "total_monetary_12m": 56025.63,
+      "constituency": "Belfast North",
+      "thumbnail_url": "https://members-api.parliament.uk/api/Members/4823/Thumbnail"
+    },
+    "categories": {
+      "1.1": {
+        "monetary": 0,
+        "inkind": 0,
+        "count": 0
+      },
+      "1.2": {
+        "monetary": 56025.63,
+        "inkind": 0,
+        "count": 1
+      },
+      "2": {
+        "monetary": 0,
+        "inkind": 0,
+        "count": 0
+      },
+      "3": {
+        "monetary": 0,
+        "inkind": 0,
+        "count": 0
+      },
+      "4": {
+        "monetary": 0,
+        "inkind": 4427.99,
+        "count": 3
+      },
+      "5": {
+        "monetary": 0,
+        "inkind": 0,
+        "count": 0
+      }
+    },
+    "top_earners": [
+      {
+        "mnis_id": 4823,
+        "name": "John Finucane",
+        "total_monetary_12m": 56025.63,
+        "constituency": "Belfast North",
+        "thumbnail_url": "https://members-api.parliament.uk/api/Members/4823/Thumbnail"
+      }
+    ]
+  },
+  {
+    "party": "Independent",
+    "member_count_total": 12,
+    "member_count_with_payments": 5,
+    "member_count_earning": 4,
+    "total_monetary_12m": 29122.19,
+    "total_inkind_12m": 58078.74,
+    "total_combined_12m": 87200.93,
+    "avg_per_member": 2426.85,
+    "avg_per_earning_member": 7280.55,
+    "star_player": {
+      "mnis_id": 5357,
+      "name": "Ayoub Khan",
+      "total_monetary_12m": 17303.0,
+      "constituency": "Birmingham Perry Barr",
+      "thumbnail_url": "https://members-api.parliament.uk/api/Members/5357/Thumbnail"
+    },
+    "categories": {
+      "1.1": {
+        "monetary": 17303.0,
+        "inkind": 0,
+        "count": 11
+      },
+      "1.2": {
+        "monetary": 11664.189999999999,
+        "inkind": 0,
+        "count": 2
+      },
+      "2": {
+        "monetary": 0,
+        "inkind": 40000.0,
+        "count": 1
+      },
+      "3": {
+        "monetary": 155.0,
+        "inkind": 1329.38,
+        "count": 15
+      },
+      "4": {
+        "monetary": 0,
+        "inkind": 16749.36,
+        "count": 11
+      },
+      "5": {
+        "monetary": 0,
+        "inkind": 0,
+        "count": 0
+      }
+    },
+    "top_earners": [
+      {
+        "mnis_id": 5357,
+        "name": "Ayoub Khan",
+        "total_monetary_12m": 17303.0,
+        "constituency": "Birmingham Perry Barr",
+        "thumbnail_url": "https://members-api.parliament.uk/api/Members/5357/Thumbnail"
+      },
+      {
+        "mnis_id": 221,
+        "name": "Dan Norris",
+        "total_monetary_12m": 8666.24,
+        "constituency": "North East Somerset and Hanham",
+        "thumbnail_url": "https://members-api.parliament.uk/api/Members/221/Thumbnail"
+      },
+      {
+        "mnis_id": 5231,
+        "name": "Mr Adnan Hussain",
+        "total_monetary_12m": 2997.95,
+        "constituency": "Blackburn",
+        "thumbnail_url": "https://members-api.parliament.uk/api/Members/5231/Thumbnail"
+      },
+      {
+        "mnis_id": 185,
+        "name": "Jeremy Corbyn",
+        "total_monetary_12m": 155.0,
+        "constituency": "Islington North",
+        "thumbnail_url": "https://members-api.parliament.uk/api/Members/185/Thumbnail"
+      },
+      {
+        "mnis_id": 172,
+        "name": "Ms Diane Abbott",
+        "total_monetary_12m": 0,
+        "constituency": "Hackney North and Stoke Newington",
+        "thumbnail_url": "https://members-api.parliament.uk/api/Members/172/Thumbnail"
+      }
+    ]
+  },
+  {
+    "party": "Scottish National Party",
+    "member_count_total": 9,
+    "member_count_with_payments": 2,
+    "member_count_earning": 2,
+    "total_monetary_12m": 15142.33,
+    "total_inkind_12m": 2392.16,
+    "total_combined_12m": 17534.49,
+    "avg_per_member": 1682.48,
+    "avg_per_earning_member": 7571.16,
+    "star_player": {
+      "mnis_id": 4434,
+      "name": "Stephen Gethins",
+      "total_monetary_12m": 12992.26,
+      "constituency": "Arbroath and Broughty Ferry",
+      "thumbnail_url": "https://members-api.parliament.uk/api/Members/4434/Thumbnail"
+    },
+    "categories": {
+      "1.1": {
+        "monetary": 2150.07,
+        "inkind": 0,
+        "count": 1
+      },
+      "1.2": {
+        "monetary": 9492.1,
+        "inkind": 0,
+        "count": 1
+      },
+      "2": {
+        "monetary": 0,
+        "inkind": 0,
+        "count": 0
+      },
+      "3": {
+        "monetary": 0,
+        "inkind": 1899.9,
+        "count": 3
+      },
+      "4": {
+        "monetary": 3500.16,
+        "inkind": 492.26,
+        "count": 2
+      },
+      "5": {
+        "monetary": 0,
+        "inkind": 0,
+        "count": 0
+      }
+    },
+    "top_earners": [
+      {
+        "mnis_id": 4434,
+        "name": "Stephen Gethins",
+        "total_monetary_12m": 12992.26,
+        "constituency": "Arbroath and Broughty Ferry",
+        "thumbnail_url": "https://members-api.parliament.uk/api/Members/4434/Thumbnail"
+      },
+      {
+        "mnis_id": 1440,
+        "name": "Pete Wishart",
+        "total_monetary_12m": 2150.07,
+        "constituency": "Perth and Kinross-shire",
+        "thumbnail_url": "https://members-api.parliament.uk/api/Members/1440/Thumbnail"
+      }
+    ]
+  },
+  {
+    "party": "Democratic Unionist Party",
+    "member_count_total": 5,
+    "member_count_with_payments": 1,
+    "member_count_earning": 1,
+    "total_monetary_12m": 2498.29,
+    "total_inkind_12m": 0,
+    "total_combined_12m": 2498.29,
+    "avg_per_member": 499.66,
+    "avg_per_earning_member": 2498.29,
+    "star_player": {
+      "mnis_id": 4857,
+      "name": "Carla Lockhart",
+      "total_monetary_12m": 2498.29,
+      "constituency": "Upper Bann",
+      "thumbnail_url": "https://members-api.parliament.uk/api/Members/4857/Thumbnail"
+    },
+    "categories": {
+      "1.1": {
+        "monetary": 0,
+        "inkind": 0,
+        "count": 0
+      },
+      "1.2": {
+        "monetary": 2498.29,
+        "inkind": 0,
+        "count": 1
+      },
+      "2": {
+        "monetary": 0,
+        "inkind": 0,
+        "count": 0
+      },
+      "3": {
+        "monetary": 0,
+        "inkind": 0,
+        "count": 0
+      },
+      "4": {
+        "monetary": 0,
+        "inkind": 0,
+        "count": 0
+      },
+      "5": {
+        "monetary": 0,
+        "inkind": 0,
+        "count": 0
+      }
+    },
+    "top_earners": [
+      {
+        "mnis_id": 4857,
+        "name": "Carla Lockhart",
+        "total_monetary_12m": 2498.29,
+        "constituency": "Upper Bann",
+        "thumbnail_url": "https://members-api.parliament.uk/api/Members/4857/Thumbnail"
+      }
+    ]
+  },
+  {
+    "party": "Green Party",
+    "member_count_total": 5,
+    "member_count_with_payments": 1,
+    "member_count_earning": 1,
+    "total_monetary_12m": 421.04,
+    "total_inkind_12m": 0,
+    "total_combined_12m": 421.04,
+    "avg_per_member": 84.21,
+    "avg_per_earning_member": 421.04,
+    "star_player": {
+      "mnis_id": 5447,
+      "name": "Hannah Spencer",
+      "total_monetary_12m": 421.04,
+      "constituency": "Gorton and Denton",
+      "thumbnail_url": "https://members-api.parliament.uk/api/Members/5447/Thumbnail"
+    },
+    "categories": {
+      "1.1": {
+        "monetary": 0,
+        "inkind": 0,
+        "count": 0
+      },
+      "1.2": {
+        "monetary": 421.04,
+        "inkind": 0,
+        "count": 1
+      },
+      "2": {
+        "monetary": 0,
+        "inkind": 0,
+        "count": 0
+      },
+      "3": {
+        "monetary": 0,
+        "inkind": 0,
+        "count": 0
+      },
+      "4": {
+        "monetary": 0,
+        "inkind": 0,
+        "count": 0
+      },
+      "5": {
+        "monetary": 0,
+        "inkind": 0,
+        "count": 0
+      }
+    },
+    "top_earners": [
+      {
+        "mnis_id": 5447,
+        "name": "Hannah Spencer",
+        "total_monetary_12m": 421.04,
+        "constituency": "Gorton and Denton",
+        "thumbnail_url": "https://members-api.parliament.uk/api/Members/5447/Thumbnail"
+      }
+    ]
+  },
+  {
+    "party": "Plaid Cymru",
+    "member_count_total": 4,
+    "member_count_with_payments": 1,
+    "member_count_earning": 0,
+    "total_monetary_12m": 0,
+    "total_inkind_12m": 0,
+    "total_combined_12m": 0,
+    "avg_per_member": 0.0,
+    "avg_per_earning_member": 0.0,
+    "star_player": {
+      "mnis_id": 5085,
+      "name": "Llinos Medi",
+      "total_monetary_12m": 0,
+      "constituency": "Ynys Môn",
+      "thumbnail_url": "https://members-api.parliament.uk/api/Members/5085/Thumbnail"
+    },
+    "categories": {
+      "1.1": {
+        "monetary": 0,
+        "inkind": 0,
+        "count": 0
+      },
+      "1.2": {
+        "monetary": 0,
+        "inkind": 0,
+        "count": 0
+      },
+      "2": {
+        "monetary": 0,
+        "inkind": 0,
+        "count": 0
+      },
+      "3": {
+        "monetary": 0,
+        "inkind": 0,
+        "count": 0
+      },
+      "4": {
+        "monetary": 0,
+        "inkind": 0,
+        "count": 0
+      },
+      "5": {
+        "monetary": 0,
+        "inkind": 0,
+        "count": 0
+      }
+    },
+    "top_earners": [
+      {
+        "mnis_id": 5085,
+        "name": "Llinos Medi",
+        "total_monetary_12m": 0,
+        "constituency": "Ynys Môn",
+        "thumbnail_url": "https://members-api.parliament.uk/api/Members/5085/Thumbnail"
+      }
+    ]
+  }
+]

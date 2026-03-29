@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MP Profile — The Westminster 100</title>
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    .profile-hero { display: flex; gap: 2rem; align-items: flex-start; flex-wrap: wrap; }
+    .profile-photo { width: 160px; height: 200px; border-radius: 10px; object-fit: cover; background: var(--grey-light); flex-shrink: 0; }
+    .profile-info { flex: 1; min-width: 250px; }
+    .profile-name { font-family: var(--font-serif); font-size: 2.2rem; font-weight: 900; color: var(--gold); line-height: 1.1; }
+    .profile-meta { font-size: 1rem; color: var(--grey-mid); margin-top: 0.3rem; }
+    .profile-party-badge { display: inline-block; font-size: 0.8rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; color: var(--white); padding: 0.3rem 0.8rem; border-radius: 4px; margin-top: 0.5rem; text-shadow: 0 1px 2px rgba(0,0,0,0.3); }
+    .stat-cards { display: flex; gap: 1rem; flex-wrap: wrap; margin-top: 1.5rem; }
+    .stat-card { background: var(--white); border-radius: 8px; padding: 1rem 1.2rem; box-shadow: 0 2px 8px rgba(0,0,0,0.06); text-align: center; min-width: 140px; }
+    .stat-card .sc-value { font-family: var(--font-serif); font-size: 1.4rem; font-weight: 700; color: var(--gold-dark); }
+    .stat-card .sc-label { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--grey-dark); margin-top: 0.2rem; }
+    .detail-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; }
+    @media (max-width: 768px) { .detail-grid { grid-template-columns: 1fr; } .profile-photo { width: 100px; height: 125px; } }
+  </style>
+</head>
+<body>
+
+  <header class="site-header">
+    <h1 class="site-title">The Westminster 100</h1>
+    <p class="site-tagline">The Definitive Guide to Parliamentary Prosperity</p>
+    <nav class="main-nav">
+      <a href="index.html" class="nav-link">The List</a>
+      <a href="parties.html" class="nav-link">The Franchises</a>
+      <a href="donors.html" class="nav-link">The Patrons</a>
+      <a href="philanthropists.html" class="nav-link">The Philanthropists</a>
+    </nav>
+  </header>
+
+  <section class="hero" id="mp-hero">
+    <div class="profile-hero" style="max-width:var(--max-width);margin:0 auto">
+      <img class="profile-photo" id="mp-photo" src="" alt="">
+      <div class="profile-info">
+        <div class="profile-name" id="mp-name"></div>
+        <div class="profile-meta" id="mp-meta"></div>
+        <div id="mp-badge"></div>
+        <div class="stat-cards" id="mp-stats"></div>
+      </div>
+    </div>
+  </section>
+
+  <hr class="gold-rule">
+
+  <section class="section">
+    <div class="detail-grid">
+      <!-- Left: Category Breakdown -->
+      <div>
+        <div class="section-header" style="text-align:left">
+          <h3>Revenue Streams</h3>
+          <p class="section-subtitle">Earnings by category</p>
+        </div>
+        <div class="chart-container">
+          <div style="display:flex;gap:1.5rem;align-items:center;flex-wrap:wrap">
+            <canvas id="mp-donut" style="width:160px;height:160px"></canvas>
+            <div id="mp-cat-legend"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Right: All Payers -->
+      <div>
+        <div class="section-header" style="text-align:left">
+          <h3>Benefactors</h3>
+          <p class="section-subtitle">All sources of income</p>
+        </div>
+        <div class="data-table-wrap">
+          <table class="data-table" id="payers-table">
+            <thead><tr>
+              <th data-sort="text">Patron</th>
+              <th data-sort="num" class="col-num">Amount</th>
+            </tr></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <hr class="gold-rule">
+
+  <!-- Active retainers -->
+  <section class="section" id="retainers-section" style="display:none">
+    <div class="section-header">
+      <h3>Active Retainers</h3>
+      <p class="section-subtitle">Ongoing employment and consultancy agreements</p>
+    </div>
+    <div class="data-table-wrap">
+      <table class="data-table" id="retainers-table">
+        <thead><tr>
+          <th data-sort="text">Employer</th>
+          <th data-sort="text">Role</th>
+          <th data-sort="num" class="col-num">Annual Rate</th>
+          <th data-sort="text">Period</th>
+          <th data-sort="text">Since</th>
+        </tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <hr class="gold-rule">
+
+  <!-- All payments -->
+  <section class="section">
+    <div class="section-header">
+      <h3>Full Payment Register</h3>
+      <p class="section-subtitle">Every declared payment &mdash; the complete dossier</p>
+    </div>
+    <div class="search-bar">
+      <input type="text" class="search-input" id="payments-search" placeholder="Search payments&hellip;">
+    </div>
+    <div class="data-table-wrap">
+      <table class="data-table" id="payments-table">
+        <thead><tr>
+          <th data-sort="text">Payer</th>
+          <th data-sort="text">Category</th>
+          <th data-sort="text">Type</th>
+          <th data-sort="num" class="col-num">Amount</th>
+          <th data-sort="text">Date</th>
+          <th data-sort="text">Description</th>
+          <th>Flags</th>
+        </tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <p class="disclaimer">
+      All data sourced from the <a href="https://interests.parliament.uk/" target="_blank">UK Parliamentary Register of Members' Financial Interests</a>.
+    </p>
+    <p class="gen-date"></p>
+  </footer>
+
+  <script src="js/utils.js"></script>
+  <script src="js/charts.js"></script>
+  <script src="js/mp.js"></script>
+</body>
+</html>

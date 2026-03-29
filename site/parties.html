@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Franchises — The Westminster 100</title>
+  <meta name="description" content="Westminster's most lucrative political brands, ranked by market capitalisation.">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <h1 class="site-title">The Westminster 100</h1>
+    <p class="site-tagline">The Definitive Guide to Parliamentary Prosperity</p>
+    <nav class="main-nav">
+      <a href="index.html" class="nav-link">The List</a>
+      <a href="parties.html" class="nav-link">The Franchises</a>
+      <a href="donors.html" class="nav-link">The Patrons</a>
+      <a href="philanthropists.html" class="nav-link">The Philanthropists</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>The Franchises</h2>
+    <p class="subtitle">Westminster's most lucrative political brands &mdash; where there's a party, there's a portfolio</p>
+  </section>
+
+  <hr class="gold-rule">
+
+  <!-- MARKET CAPITALISATION -->
+  <section class="section">
+    <div class="section-header">
+      <h3>Market Capitalisation</h3>
+      <p class="section-subtitle">Total declared earnings by political brand &mdash; think of it as a prospectus</p>
+    </div>
+    <div class="card-grid" id="party-cards"></div>
+  </section>
+
+  <hr class="gold-rule">
+
+  <!-- RETURN ON INVESTMENT -->
+  <section class="section">
+    <div class="section-header">
+      <h3>Return on Investment</h3>
+      <p class="section-subtitle">Average earnings per franchisee &mdash; quality over quantity</p>
+    </div>
+    <div class="chart-container">
+      <canvas id="roi-chart"></canvas>
+    </div>
+  </section>
+
+  <hr class="gold-rule">
+
+  <!-- REVENUE STREAMS -->
+  <section class="section">
+    <div class="section-header">
+      <h3>Revenue Streams</h3>
+      <p class="section-subtitle">How each franchise diversifies its income portfolio</p>
+    </div>
+    <div id="category-bars"></div>
+  </section>
+
+  <hr class="gold-rule">
+
+  <!-- FRANCHISE PLAYERS -->
+  <section class="section">
+    <div class="section-header">
+      <h3>Franchise Players</h3>
+      <p class="section-subtitle">The MVPs of each political operation</p>
+    </div>
+    <div class="card-grid card-grid-5" id="star-players"></div>
+  </section>
+
+  <footer class="site-footer">
+    <p class="disclaimer">
+      All data sourced from the <a href="https://interests.parliament.uk/" target="_blank">UK Parliamentary Register of Members' Financial Interests</a>.
+      This is a satirical presentation. No political brands were devalued in the making of this page.
+    </p>
+    <p class="gen-date"></p>
+  </footer>
+
+  <script src="js/utils.js"></script>
+  <script src="js/charts.js"></script>
+  <script src="js/parties.js"></script>
+</body>
+</html>

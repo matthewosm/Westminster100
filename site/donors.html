@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Patrons — The Westminster 100</title>
+  <meta name="description" content="Westminster's most generous benefactors — behind every great MP is a greater chequebook.">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <h1 class="site-title">The Westminster 100</h1>
+    <p class="site-tagline">The Definitive Guide to Parliamentary Prosperity</p>
+    <nav class="main-nav">
+      <a href="index.html" class="nav-link">The List</a>
+      <a href="parties.html" class="nav-link">The Franchises</a>
+      <a href="donors.html" class="nav-link">The Patrons</a>
+      <a href="philanthropists.html" class="nav-link">The Philanthropists</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>The Patrons</h2>
+    <p class="subtitle">Westminster's most generous benefactors &mdash; behind every great MP is a greater chequebook</p>
+  </section>
+
+  <hr class="gold-rule">
+
+  <!-- THE INNER CIRCLE: Top 3 donors -->
+  <section class="section">
+    <div class="section-header">
+      <h3>The Inner Circle</h3>
+      <p class="section-subtitle">The most magnanimous supporters of parliamentary talent</p>
+    </div>
+    <div class="podium" id="patron-podium"></div>
+  </section>
+
+  <hr class="gold-rule">
+
+  <!-- INVESTOR CLASSES: Donut chart -->
+  <section class="section">
+    <div class="section-header">
+      <h3>The Investor Classes</h3>
+      <p class="section-subtitle">The taxonomy of political philanthropy</p>
+    </div>
+    <div class="chart-container">
+      <div class="chart-row">
+        <div class="chart-col" style="display:flex;justify-content:center">
+          <canvas id="donor-type-donut"></canvas>
+        </div>
+        <div class="chart-col" id="donor-type-legend"></div>
+      </div>
+    </div>
+  </section>
+
+  <hr class="gold-rule">
+
+  <!-- DIVERSIFIED PORTFOLIOS -->
+  <section class="section">
+    <div class="section-header">
+      <h3>The Diversified Portfolios</h3>
+      <p class="section-subtitle">A balanced portfolio is a happy portfolio &mdash; donors backing multiple MPs</p>
+    </div>
+    <div class="data-table-wrap">
+      <table class="data-table" id="diversified-table">
+        <thead>
+          <tr>
+            <th data-sort="text">Patron</th>
+            <th data-sort="text">Type</th>
+            <th data-sort="num" class="col-num">Recipients</th>
+            <th data-sort="num" class="col-num">Total</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <hr class="gold-rule">
+
+  <!-- FULL PATRON LIST -->
+  <section class="section">
+    <div class="section-header">
+      <h3>The Full Patron List</h3>
+      <p class="section-subtitle">Every benefactor, every pound, fully transparent</p>
+    </div>
+    <div class="search-bar">
+      <input type="text" class="search-input" id="donor-search" placeholder="Search by name&hellip;">
+      <select class="filter-select" id="donor-type-filter">
+        <option value="">All Types</option>
+      </select>
+    </div>
+    <div class="data-table-wrap">
+      <table class="data-table" id="full-donor-table">
+        <thead>
+          <tr>
+            <th data-sort="num" class="col-num">Rank</th>
+            <th data-sort="text">Patron</th>
+            <th data-sort="text">Type</th>
+            <th data-sort="num" class="col-num">MPs</th>
+            <th data-sort="num" class="col-num">Monetary</th>
+            <th data-sort="num" class="col-num">In-Kind</th>
+            <th data-sort="num" class="col-num">Total</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <p class="disclaimer">
+      All data sourced from the <a href="https://interests.parliament.uk/" target="_blank">UK Parliamentary Register of Members' Financial Interests</a>.
+      This is a satirical presentation. All donations are a matter of public record.
+    </p>
+    <p class="gen-date"></p>
+  </footer>
+
+  <script src="js/utils.js"></script>
+  <script src="js/charts.js"></script>
+  <script src="js/donors.js"></script>
+</body>
+</html>

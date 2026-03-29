@@ -1,0 +1,876 @@
+--- Group: '89up ltd' (2 entries) ---
+  ID=  549  Name='89Up Ltd'  Addr='64-68 Pentonville Road, London N1 9PR'  Biz='None'  Status='Company'
+  ID=  585  Name='89up Ltd'  Addr='64-68 Pentonville Road, London N1 9PR'  Biz='None'  Status='Company'
+
+--- Group: 'adam management holdings ltd' (3 entries) ---
+  ID=  561  Name='Adam Management Holdings Limited'  Addr='1 Canada Square, London E14 5AA'  Biz='None'  Status='Company'
+  ID=  569  Name='Adam Management Holdings Ltd'  Addr='1 Canada Square, London E14 5AA'  Biz='None'  Status='Company'
+  ID=  525  Name='Adam Management Holdings Ltd'  Addr='1 Canada Square, London, E14 5AA'  Biz='None'  Status='Company'
+
+--- Group: 'aid alliance' (4 entries) ---
+  ID=  433  Name='Aid Alliance'  Addr='50 Coller Road, Norwich NR6 7FB'  Biz='None'  Status='Company'
+  ID=  429  Name='Aid Alliance'  Addr='50 Coller Road, Norwich, NR6 7FB'  Biz='None'  Status='Company'
+  ID=  520  Name='Aid Alliance'  Addr='8 All Saints Street London N1 9RL'  Biz='None'  Status='Company'
+  ID=  408  Name='Aid Alliance'  Addr='8 All Saints Street, London N1 9RL'  Biz='None'  Status='Company'
+
+--- Group: 'alcs' (3 entries) ---
+  ID=  123  Name='ALCS'  Addr='6th Floor, International House, 1 St Katharine's Way, London E1W 1UN'  Biz='Authors Licensing and Collection Society'  Status='None'
+  ID=  290  Name='ALCS'  Addr='6th Floor, International House, 1 St Katharine's Way, London E1W 1UN.'  Biz='None'  Status='None'
+  ID=  361  Name='ALCS'  Addr='International House, 6th Floor, 1 St Katharine's Way, London E1W 1UN'  Biz='None'  Status='None'
+
+--- Group: 'all england lawn tennis club championships ltd' (3 entries) ---
+  ID=  981  Name='All England Lawn Tennis Club (Championships)  Ltd'  Addr='Church Road, Wimbledon, London SW19 5AE'  Biz='None'  Status='Company'
+  ID= 1020  Name='The All England Lawn Tennis Club (CHAMPIONSHIPS) Limited'  Addr='Church Road, Wimbledon SW19 5AE'  Biz='None'  Status='Company'
+  ID=  975  Name='The All England Lawn Tennis Club (Championships) Limited'  Addr='Church Road, Wimbledon, London SW19 5AE'  Biz='None'  Status='Company'
+
+--- Group: 'all party parliamentary group for italy' (2 entries) ---
+  ID= 1371  Name='All Party Parliamentary Group for Italy'  Addr='House of Commons, London SW1A 0AA'  Biz='None'  Status='None'
+  ID= 1341  Name='All Party Parliamentary Group for Italy'  Addr='House of Commons, London, SW1A 0AA'  Biz='None'  Status='None'
+
+--- Group: 'allwyn entertainment ltd' (4 entries) ---
+  ID=  903  Name='Allwyn Entertainment Ltd'  Addr='37 Clarendon Rd, Watford WD17 1JA'  Biz='None'  Status='Company'
+  ID=  912  Name='Allwyn Entertainment Ltd'  Addr='37-39 Clarendon Road, Watford WD17 1JA'  Biz='None'  Status='Company'
+  ID=  911  Name='Allwyn Entertainment Ltd'  Addr='37-39 Clarendon Road, Watford, Hertfordshire, United Kingdom, WD17 1JA'  Biz='None'  Status='Company'
+  ID=  914  Name='Allwyn Entertainment Ltd'  Addr='Tolpits Lane, Watford, WD18 9RN'  Biz='None'  Status='Company'
+
+--- Group: 'armed forces parliamentary trust' (9 entries) ---
+  ID= 1375  Name='Armed Forces Parliamentary Trust'  Addr='Armed Forces Parliamentary Trust, House of Commons, London SW1A 0AA'  Biz='None'  Status='None'
+  ID=  842  Name='Armed Forces Parliamentary Trust'  Addr='House of Commons, London SW1A 0AA'  Biz='None'  Status='Other'
+  ID= 1379  Name='Armed Forces Parliamentary Trust'  Addr='House of Commons, London, SW1A 0AA'  Biz='None'  Status='None'
+  ID= 1513  Name='Armed Forces Parliamentary Trust'  Addr='House of Parliament, London, SW1A 0AA'  Biz='None'  Status='None'
+  ID= 1391  Name='Armed Forces Parliamentary Trust'  Addr='Houses of Parliament, London SW1A 0AA'  Biz='None'  Status='None'
+  ID= 1389  Name='Armed Forces Parliamentary Trust'  Addr='Houses of Parliament, London, SW1A 0AA'  Biz='None'  Status='None'
+  ID= 1390  Name='Armed Forces Parliamentary Trust'  Addr='Houses of Parliament, London, SW1A OAA'  Biz='None'  Status='None'
+  ID= 1348  Name='Armed Forces Parliamentary Trust'  Addr='Parliament'  Biz='None'  Status='None'
+  ID= 1392  Name='Armed forces parliamentary trust'  Addr='Houses of Parliament, London, Sw1A 0AA'  Biz='None'  Status='None'
+
+--- Group: 'arsenal football club ltd' (5 entries) ---
+  ID= 1088  Name='The Arsenal Football Club Limited'  Addr='Arsenal Football Club, Highbury House, 75 Drayton House, London N5 1BU'  Biz='None'  Status='Company'
+  ID=  761  Name='The Arsenal Football Club Limited'  Addr='Arsenal Football Club, Highbury House, 75 Drayton Park, London N5 1BU'  Biz='None'  Status='Company'
+  ID= 1167  Name='The Arsenal Football Club Limited'  Addr='Arsenal Football Club, Highbury House, 75 Drayton Park, London NW5 1BU'  Biz='None'  Status='Company'
+  ID=  921  Name='The Arsenal Football Club Limited'  Addr='Highbury House, 75 Drayton Park, London N5 1BU'  Biz='None'  Status='Company'
+  ID= 1110  Name='The Arsenal Football Club Ltd'  Addr='Highbury House, 75 Drayton Park, London N5 1BU'  Biz='None'  Status='Company'
+
+--- Group: 'ascot racecourse ltd' (2 entries) ---
+  ID=  885  Name='Ascot Racecourse Limited'  Addr='Ascot Racecourse, Ascot, Berkshire SL5 7JX'  Biz='None'  Status='Company'
+  ID= 1053  Name='Ascot Racecourse Limited'  Addr='Ascot Racecourse, Ascot, Berkshire, SL5 7JX'  Biz='None'  Status='Company'
+
+--- Group: 'authors licensing and collecting society' (2 entries) ---
+  ID=  115  Name='Authors Licensing and Collecting Society'  Addr='International House, 1 St Katharine's Way, London E1W 1UN'  Biz='None'  Status='None'
+  ID=  264  Name='Authors' Licensing and Collecting Society'  Addr='4 Battle Bridge Lane, London SE1 2HX'  Biz='None'  Status='None'
+
+--- Group: 'babcock international group' (2 entries) ---
+  ID= 1030  Name='Babcock International Group'  Addr='33 Wigmore Street, London W1U 1QX'  Biz='None'  Status='Company'
+  ID= 1028  Name='Babcock International Group'  Addr='33 Wigmore Street, London, W1U 1QX'  Biz='None'  Status='Company'
+
+--- Group: 'baron sainsbury of turville david sainsbury' (2 entries) ---
+  ID=  556  Name='Baron Sainsbury of Turville (David Sainsbury )'  Addr=''  Biz='None'  Status='Individual'
+  ID=  555  Name='Baron Sainsbury of Turville (David Sainsbury)'  Addr=''  Biz='None'  Status='Individual'
+
+--- Group: 'bbc' (3 entries) ---
+  ID=  891  Name='BBC'  Addr='BBC Broadcasting House, Portland Place, London W1A 1AA'  Biz='None'  Status='Company'
+  ID=  864  Name='BBC'  Addr='Broadcasting House, Portland Place, London W1A 1AA'  Biz='None'  Status='Company'
+  ID= 1002  Name='BBC'  Addr='Broadcasting House, Portland Place, London, W1A 1AA'  Biz='None'  Status='Company'
+
+--- Group: 'best for britain ltd' (2 entries) ---
+  ID=  589  Name='Best for Britain Limited'  Addr='International House, 36-38 Cornhill, London EC3V 3NG'  Biz='None'  Status='Company'
+  ID=  477  Name='Best for Britain Ltd'  Addr='International House, 36-38 Cornhill, London EC3V 3NG'  Biz='None'  Status='Company'
+
+--- Group: 'betterworld ltd' (3 entries) ---
+  ID=  709  Name='Betterworld Limited'  Addr='14 St Mary's Street, Stamford, Lincs PE9 2DF'  Biz='None'  Status='Company'
+  ID=  729  Name='Betterworld Ltd'  Addr='14 St Mary’s Street, Stamford PE9 2DF'  Biz='None'  Status='Company'
+  ID=  400  Name='Betterworld Ltd'  Addr='14 St. Mary's Street, Stamford, Lincs PE9 2DF'  Biz='None'  Status='Company'
+
+--- Group: 'betting  gaming council' (2 entries) ---
+  ID= 1059  Name='Betting & Gaming Council'  Addr='Kings Building, 16 Smith Square, London SW1P 3HQ'  Biz='None'  Status='Company'
+  ID=  966  Name='The Betting & Gaming Council'  Addr='Kings Building, 16 Smith Square, London SW1P 3HQ'  Biz='None'  Status='Company'
+
+--- Group: 'bloomsbury publishing' (2 entries) ---
+  ID=  329  Name='Bloomsbury Publishing'  Addr='50 Bedford Square, London WC18 3DP'  Biz='None'  Status='None'
+  ID=  318  Name='Bloomsbury Publishing'  Addr='Bloomsbury Publishing, 50 Bedford Square, London WC1B 3DP'  Biz='None'  Status='None'
+
+--- Group: 'bloomsbury publishing plc' (2 entries) ---
+  ID=  321  Name='Bloomsbury Publishing PLC'  Addr='50 Bedford Square, London WC1B 3DB'  Biz='Publisher'  Status='None'
+  ID=  317  Name='Bloomsbury Publishing Plc'  Addr='50 Bedford Square, London WC1B 3DP'  Biz='None'  Status='None'
+
+--- Group: 'bpi' (2 entries) ---
+  ID= 1196  Name='BPI'  Addr='Old Gloucester Street, London WC1N 3AX'  Biz='None'  Status='Company'
+  ID=  763  Name='BPI'  Addr='Unit 4/4a, Tileyard Studios, Tileyard Road, London N7 9AH'  Biz='None'  Status='Company'
+
+--- Group: 'bpi british recorded music industry ltd' (8 entries) ---
+  ID= 1152  Name='BPI (British Recorded Music Industry) Limited'  Addr='27 Old Gloucester Street, London WC1N 3AX'  Biz='None'  Status='Company'
+  ID=  757  Name='BPI (British Recorded Music Industry) Limited'  Addr='Unit 4/4A, Tileyard Studios, Tileyard Road, London N7 9AH'  Biz='None'  Status='Company'
+  ID= 1168  Name='BPI (British Recorded Music Industry) Ltd'  Addr='27 Old Gloucester St, London WC1N 3AX'  Biz='None'  Status='Company'
+  ID= 1192  Name='BPI (British Recorded Music Industry) Ltd'  Addr='27 Old Gloucester Street, London WC1N 3AX'  Biz='None'  Status='Company'
+  ID=  768  Name='BPI (British Recorded Music Industry) Ltd'  Addr='Unit 4/4A, Tileyard Studios, Tileyard Road, London N7 9AH'  Biz='None'  Status='Company'
+  ID=  893  Name='BPI (British Recorded Music Industry) Ltd'  Addr='Unit 4/4a, Tileyard Studios, Tileyard Road, London N7 9AH'  Biz='None'  Status='Company'
+  ID=  771  Name='BPI (British Recorded Music Industry) Ltd'  Addr='Unit 4/4a, Tileyard Studios, Tileyard Road, London, England, N7 9AH'  Biz='None'  Status='Company'
+  ID= 1194  Name='BPI (British Recorded Music Industry) Ltd'  Addr='Unit 4/4a, Tileyard studios, Tileyard Road, London N7 9AH'  Biz='None'  Status='Company'
+
+--- Group: 'bpi british recorded music ltd' (2 entries) ---
+  ID= 1201  Name='BPI (British Recorded Music) Ltd'  Addr='27 Old Gloucester Street, London WC1N 3AX'  Biz='None'  Status='Company'
+  ID=  773  Name='BPI (British Recorded Music) Ltd'  Addr='Unit 4/4a, Tileyard Studios, Tileyard Road, London N7 9AH'  Biz='None'  Status='Company'
+
+--- Group: 'british association for shooting and conservation' (2 entries) ---
+  ID=  805  Name='British Association for Shooting and Conservation'  Addr='Marford Mill, Rossett, Wrexham LL12 0HL'  Biz='None'  Status='Company'
+  ID=  803  Name='British Association for Shooting and Conservation'  Addr='Marford Mill, Rossett, Wrexham, LL12 0HL'  Biz='None'  Status='Company'
+
+--- Group: 'british broadcasting corporation' (2 entries) ---
+  ID= 1159  Name='British Broadcasting Corporation'  Addr='Broadcasting House, Portland Place, London W1A 1AA'  Biz='None'  Status='Company'
+  ID= 1171  Name='British Broadcasting Corporation'  Addr='Broadcasting House, Portland Place, London, W1A 1AA'  Biz='None'  Status='Company'
+
+--- Group: 'british recorded music industry' (2 entries) ---
+  ID=  888  Name='British Recorded Music Industry'  Addr='Unit 4/4A, Tileyard Studios, Tileyard Road, London N7 9AH'  Biz='None'  Status='Company'
+  ID=  772  Name='British Recorded Music Industry'  Addr='Unit 4/4a, Tileyard Rd, London N7 9AH'  Biz='None'  Status='Company'
+
+--- Group: 'british recorded music industry ltd' (2 entries) ---
+  ID= 1186  Name='British Recorded Music Industry Ltd'  Addr='27 Old Gloucester Street, London, England WC1N 3AX'  Biz='None'  Status='Company'
+  ID=  767  Name='British recorded music industry Ltd'  Addr='Unit 4/4A, Tileyard Studios, Tileyard Road, London N7 9AH'  Biz='None'  Status='Company'
+
+--- Group: 'bulldog political consulting' (2 entries) ---
+  ID= 1538  Name='Bulldog Political Consulting'  Addr='81 High Street, Cosham, Hampshire PO6 3BL'  Biz='None'  Status='None'
+  ID= 1531  Name='Bulldog Political Consulting'  Addr='81 High Street, Cosham, Portsmouth PO6 3BL'  Biz='None'  Status='None'
+
+--- Group: 'carlton club' (3 entries) ---
+  ID=  918  Name='Carlton Club'  Addr='69 St James Street, London SW1A 1PJ'  Biz='None'  Status='Unincorporated association'
+  ID= 1212  Name='Carlton Club'  Addr='69 St James's Street, London SW1A 1PJ'  Biz='None'  Status='Company'
+  ID= 1211  Name='Carlton Club'  Addr='69 St James’ Street, London SW1A 1PJ'  Biz='None'  Status='Company'
+
+--- Group: 'ceftus ltd' (2 entries) ---
+  ID=  770  Name='CEFTUS Ltd'  Addr='Flat 80 County Hall North Block, 5 Chicheley Street, London SE1 7PN'  Biz='None'  Status='Company'
+  ID=  759  Name='Ceftus Ltd'  Addr='Flat 80, County Hall North Block, 5 Chicheley Street, London SE1 7PN'  Biz='None'  Status='Company'
+
+--- Group: 'centre for social justice' (2 entries) ---
+  ID= 1491  Name='The Centre for Social Justice'  Addr='Kings Buildings, 16 Smith Square, Westminster SW1P 3HQ'  Biz='None'  Status='None'
+  ID= 1245  Name='The Centre for Social Justice'  Addr='Kings Buildings, 16 Smith Square, Westminster, SW1P 3HQ'  Biz='None'  Status='None'
+
+--- Group: 'centre for turkey studies  development' (2 entries) ---
+  ID= 1170  Name='Centre for Turkey Studies & Development'  Addr='Flat 80 County Hall North Block, 5 Chicheley Street, London , SE1 7PN'  Biz='None'  Status='Company'
+  ID= 1151  Name='Centre for Turkey Studies & Development'  Addr='Flat 80 County Hall North Block, 5 Chicheley Street, London SE1 7PN'  Biz='None'  Status='Company'
+
+--- Group: 'centre for turkey studies and development ltd' (2 entries) ---
+  ID= 1197  Name='Centre for Turkey Studies and Development Ltd'  Addr='239-241 Kennington Lane, London SE11 5QU'  Biz='None'  Status='Company'
+  ID= 1178  Name='Centre for Turkey Studies and Development Ltd'  Addr='Flat 80 County Hall North Block, 5 Chicheley Street, London SE1 7PN'  Biz='None'  Status='Company'
+
+--- Group: 'chamber of commerce istanbul turkiye' (2 entries) ---
+  ID= 1331  Name='Chamber of Commerce Istanbul Turkiye'  Addr='Binbirdirek Meydani Sok, No:1, 34400, Fatih Istanbul, Turkiye'  Biz='None'  Status='None'
+  ID= 1333  Name='Chamber of Commerce Istanbul Turkiye'  Addr='Bindirdirek Meydani Sok, No:1, 34400, Fatih, Istanbul Turkiye'  Biz='None'  Status='None'
+
+--- Group: 'chosun media' (2 entries) ---
+  ID=  345  Name='Chosun Media'  Addr='30 Sejong-daero 21-gil, Jung-gu, Seoul, South Korea'  Biz='South Korea Media organisation'  Status='None'
+  ID=  342  Name='Chosun Media'  Addr='The Chosunilbo, 30 Sejong-daero 21 gil, Jung-gu, Seoul, Korea'  Biz='None'  Status='None'
+
+--- Group: 'climate parliament' (2 entries) ---
+  ID= 1288  Name='Climate Parliament'  Addr='167-169 Great Portland Street, 5th Floor, London W1W 5PF'  Biz='None'  Status='None'
+  ID= 1323  Name='Climate Parliament'  Addr='21 The Cliff, Brighton East Sussex BN2 5RF'  Biz='None'  Status='None'
+
+--- Group: 'club for growth' (2 entries) ---
+  ID= 1220  Name='Club for Growth'  Addr='2001 L St NW St 600, Washington DC'  Biz='None'  Status='None'
+  ID=   10  Name='The Club for Growth'  Addr='2001 L St NW, Suite 600 Washington DC 20036'  Biz='None'  Status='None'
+
+--- Group: 'coalition for global prosperity' (2 entries) ---
+  ID= 1239  Name='Coalition for Global Prosperity'  Addr='1 Horse Guards Avenue, London SW1A 2HU'  Biz='None'  Status='None'
+  ID= 1216  Name='Coalition for Global Prosperity'  Addr='1 Horse Guards Avenue, London, SW1A 2HU'  Biz='None'  Status='None'
+
+--- Group: 'coalition for global prosperity cgp' (2 entries) ---
+  ID= 1432  Name='Coalition for Global Prosperity (CGP)'  Addr='1 Horse Guards Avenue, London SW1A 2HU'  Biz='None'  Status='None'
+  ID=  385  Name='The Coalition for Global Prosperity (CGP)'  Addr='Horse Guards Avenue, Westminster, London SW1A 2HU'  Biz='None'  Status='Company'
+
+--- Group: 'compass  together for a good society ltd' (3 entries) ---
+  ID=  559  Name='Compass - Together for a Good Society Ltd'  Addr='10 Salamanca Place, London SE1 7HB'  Biz='None'  Status='Company'
+  ID=  730  Name='Compass - Together for a Good Society Ltd'  Addr='10 Salamanca Place, London, SE1 7HB'  Biz='None'  Status='Company'
+  ID=  546  Name='Compass - Together for a Good Society Ltd'  Addr='10 Salamanca Place, SE1 7HB'  Biz='None'  Status='Company'
+
+--- Group: 'concordia forum' (2 entries) ---
+  ID= 1314  Name='The Concordia Forum'  Addr='254 Chapman Road, Ste 208 8331, Newark, DE 19702'  Biz='None'  Status='None'
+  ID= 1306  Name='The Concordia Forum'  Addr='254 Chapman Road, Ste 208 8331, Newark, DE19702'  Biz='None'  Status='None'
+
+--- Group: 'confidential' (2 entries) ---
+  ID=  284  Name='Confidential'  Addr='Confidential'  Biz='None'  Status='None'
+  ID=  285  Name='confidential'  Addr='confidential'  Biz='None'  Status='None'
+
+--- Group: 'conservative friends of israel ltd' (5 entries) ---
+  ID= 1430  Name='Conservative Friends of Israel Limited'  Addr='Conservative Friends of Israel Ltd, PO Box 72288, London, SW1P 9LB'  Biz='None'  Status='None'
+  ID=  882  Name='Conservative Friends of Israel Ltd'  Addr='325-327 Oldfield Lane North, Greenford, Middlesex UB6 0FX'  Biz='None'  Status='Company'
+  ID= 1290  Name='Conservative Friends of Israel Ltd'  Addr='CFI, PO Box 72288, London SW1P 9LB'  Biz='None'  Status='None'
+  ID= 1428  Name='Conservative Friends of Israel Ltd'  Addr='Conservative Friends of Israel Ltd, PO Box 72288, London SW1P 9LB'  Biz='None'  Status='None'
+  ID= 1257  Name='Conservative Friends of Israel Ltd'  Addr='PO Box 72288, London SW1P 9LB'  Biz='None'  Status='None'
+
+--- Group: 'conservative friends of israel ltd cfi ltd' (2 entries) ---
+  ID= 1475  Name='Conservative Friends of Israel Ltd (CFI Ltd)'  Addr='CFI Ltd, PO Box 72288, London SW1P 9LB'  Biz='None'  Status='None'
+  ID= 1256  Name='Conservative Friends of Israel Ltd (CFI Ltd)'  Addr='PO Box 72288, London SW1P 9LB'  Biz='None'  Status='None'
+
+--- Group: 'consulate of san marino' (2 entries) ---
+  ID= 1349  Name='Consulate of San Marino'  Addr='c/o Baird House, 15-17 Cross Street, Farringdon, London EC1N 8UW'  Biz='None'  Status='None'
+  ID= 1337  Name='Consulate of San Marino'  Addr='c/o Baird House, 15-17 St Cross Street, Farringdon, London EC1N 8UW'  Biz='None'  Status='None'
+
+--- Group: 'coventry city football club ltd' (2 entries) ---
+  ID= 1103  Name='Coventry City Football Club Ltd'  Addr='Sky Blue Lodge, Leamington Road, Ryton On Dunsmore, Coventry CV8 3FL'  Biz='None'  Status='Company'
+  ID=  800  Name='Coventry City Football Club Ltd'  Addr='Sky Blue Lodge, Leamington Road, Ryton on Dunsmore, Coventry, CV8 3FL'  Biz='None'  Status='Company'
+
+--- Group: 'deltroit asset management uk llp' (2 entries) ---
+  ID= 1262  Name='Deltroit Asset Management (UK) LLP'  Addr='50 Pall Mall, London SW1Y 5JH'  Biz='None'  Status='None'
+  ID= 1267  Name='Deltroit Asset Management (UK) LLP'  Addr='50, Pall Mall, London. SW1Y 5JH'  Biz='None'  Status='None'
+
+--- Group: 'devon county council' (2 entries) ---
+  ID=  130  Name='Devon County Council'  Addr='County Hall, Topsham Road, Exeter, Devon EX2 4QD'  Biz='None'  Status='None'
+  ID=  145  Name='Devon County Council'  Addr='Devon County Council, Topsham Road County Hall, Exeter EX2 4QD'  Biz='County Council'  Status='None'
+
+--- Group: 'doha forum' (4 entries) ---
+  ID= 1277  Name='Doha Forum'  Addr='Al Mirqab Tower, West Bay, Doha, State of Qatar'  Biz='None'  Status='None'
+  ID= 1278  Name='Doha Forum'  Addr='Ministry of Foreign Affairs , Almirqab Tower, West Bay, Doha, Qatar'  Biz='None'  Status='None'
+  ID= 1279  Name='Doha Forum'  Addr='Ministry of Foreign Affairs, Almirqab Tower, West Bay, Doha Qatar'  Biz='None'  Status='None'
+  ID= 1265  Name='Doha Forum'  Addr='Ministry of Foreign Affairs, Almirqab Tower, West Bay, Doha, Qatar'  Biz='None'  Status='None'
+
+--- Group: 'efl' (2 entries) ---
+  ID=  755  Name='EFL'  Addr='EFL House, 10 12 West Cliff, Preston PR1 8HU'  Biz='None'  Status='Company'
+  ID= 1085  Name='The EFL'  Addr='EFL House, 10 - 12 West Cliff, Preston PR1 8HU'  Biz='None'  Status='Company'
+
+--- Group: 'elnet uk' (4 entries) ---
+  ID= 1399  Name='ELNET UK'  Addr='4th Floor 6 Princes Street, London, W1B 2LG'  Biz='None'  Status='None'
+  ID= 1386  Name='ELNET UK'  Addr='4th Floor, 6 Princes Street, London W1B 2LG'  Biz='None'  Status='None'
+  ID= 1436  Name='ELNET UK'  Addr='Floor 4, 6 Princes Street, London W1B 2LG'  Biz='None'  Status='None'
+  ID= 1435  Name='Elnet UK'  Addr='4th Floor 6 Princes Street, London W1B 2LG'  Biz='None'  Status='None'
+
+--- Group: 'embassy of finland' (2 entries) ---
+  ID= 1295  Name='Embassy of Finland'  Addr='38 Chesham Place, London SW1X 8HW'  Biz='None'  Status='None'
+  ID= 1294  Name='Embassy of Finland'  Addr='38 Chesham Place, London, SW1X 8HW'  Biz='None'  Status='None'
+
+--- Group: 'energy and climate intelligence unit' (2 entries) ---
+  ID= 1301  Name='Energy and Climate Intelligence Unit'  Addr='180 Borough High Street, London SE1 1LB'  Biz='None'  Status='None'
+  ID= 1299  Name='Energy and Climate Intelligence Unit'  Addr='Energy and Climate Intelligence Unit, 180 Borough High Street, London SE1 1LB'  Biz='None'  Status='None'
+
+--- Group: 'enersoft international ltd' (3 entries) ---
+  ID=  791  Name='Enersoft International Limited'  Addr='74 York Street, Suite 7-4, Glasgow G2 8JX'  Biz='None'  Status='Company'
+  ID=  795  Name='Enersoft International Ltd'  Addr='74 York Street, Suite 7-4, Glasgow G2 8JX'  Biz='None'  Status='Company'
+  ID=  811  Name='Enersoft International Ltd'  Addr='74 York Street, Suite 7-4, Glasgow, G2 8JX'  Biz='None'  Status='Company'
+
+--- Group: 'english football league' (4 entries) ---
+  ID= 1143  Name='English Football League'  Addr='EFL House, 10-12 West Cliff, Preston, Lancashire PR1 8HU'  Biz='None'  Status='Company'
+  ID= 1081  Name='English Football League'  Addr='EFL House, 10-12 West Cliff, Preston, Lancashire PR1 8HU.'  Biz='None'  Status='Company'
+  ID= 1091  Name='English Football League'  Addr='Fifty Paddington, ​50 Eastbourne Terrace, ​London ​W2 6LG'  Biz='None'  Status='Company'
+  ID= 1145  Name='The English Football League'  Addr='EFL House, 10 - 12 West Cliff, Preston PR1 8HU.'  Biz='None'  Status='Company'
+
+--- Group: 'european jewish association' (2 entries) ---
+  ID= 1303  Name='European Jewish Association'  Addr='Rue du Cornet 22, 1040 Brussels'  Biz='None'  Status='None'
+  ID= 1296  Name='European Jewish Association'  Addr='Rue du Cornet 22, 1040 Etterbeek, Belgium'  Biz='None'  Status='None'
+
+--- Group: 'everymans library' (2 entries) ---
+  ID=  354  Name='Everyman's Library'  Addr='50 Albemarle Street, London W1S 4BD'  Biz='None'  Status='None'
+  ID=  304  Name='Everyman's Library'  Addr='Everyman's Library, 50 Albemarle Street, London, W1S 4BD'  Biz='None'  Status='None'
+
+--- Group: 'fa group' (2 entries) ---
+  ID= 1163  Name='The FA Group'  Addr='Wembley Stadium, London HA9 0WS'  Biz='None'  Status='Company'
+  ID=  840  Name='The FA Group'  Addr='Wembley Stadium, PO Box 1966, London SWIP 9EQ'  Biz='None'  Status='Company'
+
+--- Group: 'faith in public ltd' (2 entries) ---
+  ID=  744  Name='Faith in Public Ltd'  Addr='10 Queen Street Place, London EC4R 1BE'  Biz='None'  Status='Company'
+  ID=  717  Name='Faith in Public Ltd'  Addr='C/O Sedulo Office 605, Albert House, 256 - 260 Old Street, London EC1V 9DD'  Biz='None'  Status='Company'
+
+--- Group: 'falkland islands government' (3 entries) ---
+  ID= 1570  Name='Falkland Islands Government'  Addr='C/O 14, Broadway, London SW1 0BH'  Biz='None'  Status='None'
+  ID= 1238  Name='Falkland Islands Government'  Addr='Falkland Islands Government, Office of the Legislative Assembly, Gilbert House, Ross Road, Stanley, Falkland Islands, Stanley, FIQQ 1ZZ'  Biz='None'  Status='None'
+  ID= 1553  Name='Falkland Islands Government'  Addr='Office of the Legislative Assembly Gilbert House, Ross Road, Stanley, Falkland Islands, Stanley FIQQ 1ZZ'  Biz='None'  Status='None'
+
+--- Group: 'federal department of foreign affairs switzerland' (2 entries) ---
+  ID= 1251  Name='Federal Department of Foreign Affairs, Switzerland'  Addr='Embassy of Switzerland in the UK, 16-18 Montagu Place, London W1H 2BQ'  Biz='None'  Status='None'
+  ID= 1304  Name='Federal Department of Foreign Affairs, Switzerland'  Addr='Embassy of Switzerland in the United Kingdom, 16-18 Montagu Place, London W1H 2BQ'  Biz='None'  Status='None'
+
+--- Group: 'fincordtech management' (2 entries) ---
+  ID= 1562  Name='Fincordtech Management'  Addr='98 Mykhaila Hrushevskoho Stret, Kyiv 01021 Ukraine'  Biz='None'  Status='None'
+  ID= 1563  Name='Fincordtech Management'  Addr='9B Mykhaila Hrushevskoho Street, Kyiv, 01021 Ukraine'  Biz='None'  Status='None'
+
+--- Group: 'food and drink federation' (2 entries) ---
+  ID=  955  Name='Food and Drink Federation'  Addr='10 Bloomsbury Way, London WC1A 2SL'  Biz='None'  Status='Company'
+  ID= 1117  Name='The Food and Drink Federation'  Addr='10 Bloomsbury Way, London WC1A 2SL'  Biz='None'  Status='Company'
+
+--- Group: 'football association' (6 entries) ---
+  ID=  943  Name='Football Association'  Addr='London Football Association, Wembley Stadium, PO BOX 1996 SW1P 9EQ'  Biz='None'  Status='Company'
+  ID=  935  Name='The Football Association'  Addr='Wembley Stadium, London HA9 0WS'  Biz='None'  Status='Company'
+  ID= 1127  Name='The Football Association'  Addr='Wembley Stadium, London, HA9 0WS'  Biz='None'  Status='Company'
+  ID=  970  Name='The Football Association'  Addr='Wembley Stadium, PO Box 1966, London SW1P 98Q'  Biz='None'  Status='Company'
+  ID= 1071  Name='The Football Association'  Addr='Wembley Stadium, PO Box 1966, London SW1P 9EQ'  Biz='None'  Status='Company'
+  ID= 1107  Name='The Football Association'  Addr='Wembley Stadium, Wembley, London HA9 0WS'  Biz='None'  Status='Company'
+
+--- Group: 'football association ltd' (7 entries) ---
+  ID= 1039  Name='Football Association Limited'  Addr='Wembley Stadium, Wembley, London HA9 0WS'  Biz='None'  Status='Company'
+  ID=  997  Name='Football Association Limited'  Addr='Wembley Stadium, Wembley, London, HA9 0WS'  Biz='None'  Status='Company'
+  ID= 1189  Name='Football Association Ltd'  Addr='Wembley Stadium, Wembley, London HA9 0WS'  Biz='None'  Status='Company'
+  ID= 1102  Name='The Football Association Ltd'  Addr='Wembley Stadium, PO Box 1966, London , SW1P 98Q'  Biz='None'  Status='Company'
+  ID= 1142  Name='The Football Association Ltd'  Addr='Wembley Stadium, PO Box 1966, London SW1P 98Q'  Biz='None'  Status='Company'
+  ID= 1080  Name='The Football Association Ltd'  Addr='Wembley Stadium, Po Box 1966, London SW1P 98Q'  Biz='None'  Status='Company'
+  ID=  960  Name='The Football Association Ltd'  Addr='Wembley Stadium, Wembley, London HA9 0WS'  Biz='None'  Status='Company'
+
+--- Group: 'football association premier league ltd' (3 entries) ---
+  ID=  789  Name='The Football Association Premier League Ltd'  Addr='Brunel Building, 57 North Wharf Road, London W2 1HQ'  Biz='None'  Status='Company'
+  ID=  784  Name='The Football Association Premier League Ltd'  Addr='Brunel Building, 57 North Wharf Road, London, W2 1HQ'  Biz='None'  Status='Company'
+  ID=  856  Name='The Football Association Premier League Ltd'  Addr='Wembley Stadium, PO Box 1966, London SW1P 9EQ'  Biz='None'  Status='Company'
+
+--- Group: 'forb foundation matthew jones secretariat to appg forb' (2 entries) ---
+  ID= 1232  Name='THE FORB FOUNDATION, Matthew Jones, Secretariat to APPG FoRB'  Addr='5 Thornbury Close, Merthyr Tydfil, CF48 1HP'  Biz='None'  Status='None'
+  ID= 1501  Name='The FORB Foundation, Matthew Jones, Secretariat to APPG FoRB'  Addr='5 Thornbury Close, Merthyr Tydfil CF48 1HP'  Biz='None'  Status='None'
+
+--- Group: 'francobritish colloque ltd' (2 entries) ---
+  ID= 1140  Name='Franco-British Colloque Ltd'  Addr='Station House, Station Approach, East Horsley, Surrey KT24 6QX'  Biz='None'  Status='Company'
+  ID= 1246  Name='Franco-British Colloque Ltd'  Addr='Station House, Station Approach, East Horsley, Surrey, KT24 6QX'  Biz='None'  Status='None'
+
+--- Group: 'friedrichebertstiftung' (3 entries) ---
+  ID= 1346  Name='Friedrich-Ebert-Stiftung'  Addr='FES Regional Office for International Cooperation, Reichsratsstraße 13/5, 1010 Vienna Austria'  Biz='None'  Status='None'
+  ID= 1496  Name='Friedrich-Ebert-Stiftung'  Addr='Friedrich-Ebert-Stiftung Regional Office for International Cooperation, Reichsratsstraße 13/5, 1010 Wien, Austria, ZVR: 1480300992'  Biz='None'  Status='None'
+  ID= 1311  Name='Friedrich-Ebert-Stiftung'  Addr='Hiroshimastraße 28, 10785 Berlin, Germany'  Biz='None'  Status='None'
+
+--- Group: 'friends of sinn fin canada' (2 entries) ---
+  ID= 1524  Name='Friends of Sinn Féin Canada'  Addr='466 Dupont Street, Toronto, Ontario, M5R 1W6'  Biz='None'  Status='None'
+  ID= 1414  Name='Friends of Sinn Féin Canada'  Addr='Friends of Sinn Féin Canada 466 Dupont Street, Toronto, Ontario. M5R 1W6'  Biz='None'  Status='None'
+
+--- Group: 'friends of sinn fin usa' (3 entries) ---
+  ID= 1480  Name='Friends of Sinn Féin USA'  Addr='1212 6th Avenue, Fifth Floor, New York, NY 10036 USA'  Biz='None'  Status='None'
+  ID= 1470  Name='Friends of Sinn Féin USA'  Addr='1212 6th Avenue, Fifth Floor, New York. NY 10036 USA'  Biz='None'  Status='None'
+  ID= 1413  Name='Friends of Sinn Féin USA'  Addr='Friends of Sinn Féin USA 1212 Floor 5, Avenue of the Americas, New York. USA'  Biz='None'  Status='None'
+
+--- Group: 'gb news' (4 entries) ---
+  ID= 1543  Name='GB News'  Addr='57 North Wharf Road, W21AF'  Biz='None'  Status='None'
+  ID=   86  Name='GB News'  Addr='Riverbank House 2 Swan Lane, London EC4R 3TT'  Biz='Television news channel'  Status='None'
+  ID=  253  Name='GB News'  Addr='Riverbank House, 2 Swan Lane, London EC4R 3TT'  Biz='None'  Status='None'
+  ID=   90  Name='GB News'  Addr='The Point, 37 North Wharf Road, London W2 1AF'  Biz='None'  Status='None'
+
+--- Group: 'gb news ltd' (3 entries) ---
+  ID=  272  Name='GB News Limited'  Addr='Riverbank House, 2 Swan Lane, London EC4R 3TT'  Biz='None'  Status='None'
+  ID=  201  Name='GB News Ltd'  Addr='Riverbank House, 2 Swan Lane, London EC4R3TT'  Biz='None'  Status='None'
+  ID=   15  Name='GB News Ltd'  Addr='The Point, 37 North Wharf Road, London W2 1AF'  Biz='UK-based television and broadcasting company'  Status='None'
+
+--- Group: 'glastonbury festival events ltd' (2 entries) ---
+  ID= 1022  Name='Glastonbury Festival Events Limited'  Addr='Worthy Farm, Worthy Lane, Pilton, Shepton Mallet, Somerset BA4 4BY'  Biz='None'  Status='Company'
+  ID= 1019  Name='Glastonbury Festival Events Ltd'  Addr='Worthy Farm, Pilton, Shepton Mallet BA4 4BY'  Biz='None'  Status='Company'
+
+--- Group: 'global media  entertainment ltd' (2 entries) ---
+  ID=  818  Name='Global Media & Entertainment Limited'  Addr='30 Leicester Square, London WC2H 7LA'  Biz='None'  Status='Company'
+  ID=  829  Name='Global Media & Entertainment Ltd'  Addr='30 Leicester Square, London WC2H 7LA'  Biz='None'  Status='Company'
+
+--- Group: 'gmb' (2 entries) ---
+  ID=  736  Name='GMB'  Addr='Mary Turner House, 22 Stephenson Way, London NW1 2HD'  Biz='None'  Status='Trade Union'
+  ID=  916  Name='GMB'  Addr='Mary Turner House, 22 Stephenson Way, London, NW1 2HD'  Biz='None'  Status='Trade Union'
+
+--- Group: 'google uk ltd' (5 entries) ---
+  ID= 1137  Name='Google UK Ltd'  Addr='1 St.Giles High Street, London WC2H 8AG'  Biz='None'  Status='Company'
+  ID=  646  Name='Google UK Ltd'  Addr='1-13 St Giles High St, London WC2H 8AG'  Biz='None'  Status='Company'
+  ID=  992  Name='Google UK Ltd'  Addr='1-13 St Giles High Street, London WC2H 8AG'  Biz='None'  Status='Company'
+  ID=  644  Name='Google UK Ltd'  Addr='1-13 St Giles High Street, London, WC2H 8AG'  Biz='None'  Status='Company'
+  ID=  754  Name='Google UK Ltd'  Addr='Belgrave House, 76 Buckingham Palace Road, London SW1W 9QT'  Biz='None'  Status='Company'
+
+--- Group: 'great britain china centre' (4 entries) ---
+  ID= 1285  Name='Great Britain China Centre'  Addr='16 Smith Square, London SW1P 3HQ'  Biz='None'  Status='None'
+  ID=  850  Name='Great Britain China Centre'  Addr='4th Floor, 42-44 Bishopsgate, London EC2N 4AH'  Biz='None'  Status='Other'
+  ID=  853  Name='Great Britain China Centre'  Addr='Kings Buildings, Smith Square, London SW1P 3HQ'  Biz='None'  Status='Company'
+  ID=  940  Name='Great Britain China Centre'  Addr='Kings Buildings, Smith Square, London, SW1P 3HQ'  Biz='None'  Status='Company'
+
+--- Group: 'guardian news  media ltd' (2 entries) ---
+  ID=  263  Name='Guardian News & Media Limited'  Addr='PO Box 68164, Kings Place, 90 York Way, London N1P 2AP'  Biz='None'  Status='None'
+  ID=  255  Name='Guardian News & Media Ltd'  Addr='Kings Place, 90 York Way, London N1P 2AP'  Biz='None'  Status='None'
+
+--- Group: 'henry jackson society' (3 entries) ---
+  ID=  780  Name='Henry Jackson Society'  Addr='Millbank Tower, 21-24 Millbank, London SW1P 4QP'  Biz='None'  Status='Company'
+  ID=  769  Name='The Henry Jackson Society'  Addr='20th Floor, Millbank Tower, Millbank, London SW1P 4QP'  Biz='None'  Status='Company'
+  ID=  782  Name='The Henry Jackson Society'  Addr='Millbank Tower, 21-24 Millbank, London SW1P 4QP'  Biz='None'  Status='Other'
+
+--- Group: 'hestview ltd' (2 entries) ---
+  ID= 1182  Name='Hestview Limited'  Addr='4 Wellington Place, Leeds, West Yorkshire LS1 4AP'  Biz='None'  Status='Company'
+  ID=  762  Name='Hestview Ltd'  Addr='4 Wellington Place, Leeds, West Yorkshire LS1 4AP'  Biz='None'  Status='Company'
+
+--- Group: 'heward mills ltd' (2 entries) ---
+  ID= 1466  Name='Heward Mills Ltd'  Addr='77 Farringdon Road, London EC1M 3JU'  Biz='None'  Status='None'
+  ID= 1456  Name='Heward Mills Ltd'  Addr='Heward Mills Ltd, 77 Farringdon Road, London EC1M 3JU'  Biz='None'  Status='None'
+
+--- Group: 'hm government of gibraltar' (6 entries) ---
+  ID= 1397  Name='H.M. Government of Gibraltar'  Addr='Gibraltar House, 150 Strand, London WC2R 1JA'  Biz='None'  Status='None'
+  ID= 1440  Name='HM Government of Gibraltar'  Addr='6 Convent Place, Gibraltar GX11 1AA'  Biz='None'  Status='None'
+  ID= 1468  Name='HM Government of Gibraltar'  Addr='Gibraltar House, 150 Strand, London'  Biz='None'  Status='None'
+  ID= 1422  Name='HM Government of Gibraltar'  Addr='Gibraltar House, 150 Strand, London WC2R 1JA'  Biz='None'  Status='None'
+  ID= 1410  Name='HM Government of Gibraltar'  Addr='Gibraltar House, 150 Strand, London, WC2R 1JA'  Biz='None'  Status='None'
+  ID=  894  Name='HM Government of Gibraltar'  Addr='Gibraltar House, 150 The Strand, London WC2R 1JA'  Biz='None'  Status='Other'
+
+--- Group: 'hoover institution' (2 entries) ---
+  ID=   97  Name='Hoover Institution'  Addr='434 Galvez Mall Stanford University Stanford, CA 94305-6003'  Biz='None'  Status='None'
+  ID= 1335  Name='Hoover Institution'  Addr='434 Galvez Mall, Stanford University, CA 94305 USA'  Biz='None'  Status='None'
+
+--- Group: 'horatius advisory ltd' (3 entries) ---
+  ID= 1266  Name='Horatius Advisory Limited'  Addr='53 Davies Street, London W1K 5JH'  Biz='None'  Status='None'
+  ID= 1268  Name='Horatius Advisory Ltd'  Addr='53 Davies Street, London W1K 5JH'  Biz='None'  Status='None'
+  ID= 1261  Name='Horatius Advisory Ltd.'  Addr='53 Davies Street, London W1K 5JH'  Biz='None'  Status='None'
+
+--- Group: 'house of representatives of cyprus' (2 entries) ---
+  ID= 1467  Name='House of Representatives of Cyprus'  Addr='1402 Nicosia, Cyprus'  Biz='None'  Status='None'
+  ID= 1483  Name='House of Representatives of Cyprus'  Addr='House of Representatives, 1102 Nicosia, Cyprus'  Biz='None'  Status='None'
+
+--- Group: 'hudson institute' (2 entries) ---
+  ID= 1404  Name='Hudson Institute'  Addr='1201 Pennsylvania Avenue NW, Suite 400, Washington DC 20004'  Biz='None'  Status='None'
+  ID= 1495  Name='Hudson Institute'  Addr='1201 Pennsylvania Avenue NW, Suite 400, Washington, DC 20004'  Biz='None'  Status='None'
+
+--- Group: 'international centre of justice for palestinians' (2 entries) ---
+  ID=  451  Name='International Centre of Justice for Palestinians'  Addr='Scottish Provident House, 1st Floor, 76-80 College Road, Harrow HA1 1BQ'  Biz='None'  Status='Company'
+  ID= 1521  Name='International Centre of Justice for Palestinians'  Addr='Scottish Provident House, 1st Floor, 76-80 College Road, Harrow, England, HA1 1BQ'  Biz='None'  Status='None'
+
+--- Group: 'international conservation caucus foundation' (4 entries) ---
+  ID= 1321  Name='International Conservation Caucus Foundation'  Addr='2nd Floor Parkgates Buoy New Road, Prestwich, Manchester, M25 0TL'  Biz='None'  Status='None'
+  ID= 1463  Name='International Conservation Caucus Foundation'  Addr='2nd Floor Parkgates, Bury New Road, Prestwich, Manchester M25 0TL'  Biz='None'  Status='None'
+  ID= 1571  Name='International Conservation Caucus Foundation'  Addr='71-75 Shelton Street, Covent Garden, London , WC2H 9JQ'  Biz='None'  Status='None'
+  ID= 1459  Name='International Conservation Caucus Foundation'  Addr='71-75 Shelton Street, Covent Garden, London WC2H 9JQ'  Biz='None'  Status='None'
+
+--- Group: 'international democracy union' (2 entries) ---
+  ID= 1225  Name='International Democracy Union'  Addr='IDU Franz Josef Strauß Haus Mies-van-der-Rohe-Str. 1 80807 Munich Germany'  Biz='None'  Status='None'
+  ID= 1273  Name='International Democracy Union'  Addr='International Democracy Union IDU, Franz Josef Strauß Haus, Mies-van-der-Rohe-Str. 1, 80807 Munich, Germany'  Biz='None'  Status='None'
+
+--- Group: 'ipgl ltd' (3 entries) ---
+  ID=  422  Name='IPGL Limited'  Addr='39 Sloane Street, London SW1X 9PL'  Biz='None'  Status='Company'
+  ID=  488  Name='IPGL Limited'  Addr='3rd Floor 39 Sloane Street, Knightsbridge, London SW1X 9LP'  Biz='None'  Status='Company'
+  ID=  726  Name='IPGL Limited'  Addr='3rd Floor, 39 Sloane Street, Knightsbridge, London, United Kingdom SW1X 9LP'  Biz='None'  Status='Company'
+
+--- Group: 'ipswich town football club co ltd' (2 entries) ---
+  ID=  849  Name='Ipswich Town Football Club Company Limited'  Addr='Portman Road, Ipswich IP1 2DA'  Biz='None'  Status='Company'
+  ID=  998  Name='Ipswich Town Football Club Company Limited'  Addr='Portman Road, Ipswich, IP1 2DA'  Biz='None'  Status='Company'
+
+--- Group: 'italian ipu group' (2 entries) ---
+  ID= 1367  Name='Italian IPU Group'  Addr='Protocol Office, Chamber of Deputies, Piazza Del Parlamento, 24 00186 Rome'  Biz='None'  Status='None'
+  ID= 1340  Name='Italian IPU Group'  Addr='Protocol Office, Chamber of Deputies, Piazza del Parlamento 24, 00186 Rome'  Biz='None'  Status='None'
+
+--- Group: 'italian parliament' (2 entries) ---
+  ID= 1342  Name='Italian Parliament'  Addr='Camera de Deputati, Palazzo Montecitorio - Piazza Montecitorio 00186, Rome'  Biz='None'  Status='None'
+  ID= 1373  Name='Italian Parliament'  Addr='Camera dei Deputati , Palazzo Montecitorio - Piazza Montecitorio, 00186 - Rome (Italy)'  Biz='None'  Status='None'
+
+--- Group: 'itv studios ltd' (2 entries) ---
+  ID=  830  Name='ITV STUDIOS LIMITED'  Addr='ITV White City, 201 Wood Lane, London W12 7RU'  Biz='None'  Status='Company'
+  ID=  109  Name='ITV Studios Limited'  Addr='Itv White City, 201 Wood Lane, London, United Kingdom, W12 7RU'  Biz='Television programme production'  Status='None'
+
+--- Group: 'ivors academy' (2 entries) ---
+  ID= 1093  Name='Ivors Academy'  Addr='1 Upper James Street, London W1F 9DE'  Biz='None'  Status='Company'
+  ID= 1077  Name='The Ivors Academy'  Addr='1 Upper James St, London, W1F 9DE'  Biz='None'  Status='Trust'
+
+--- Group: 'jc bamford excavators ltd' (3 entries) ---
+  ID=  679  Name='J.C. Bamford Excavators Limited'  Addr='Lakeside Works, Rocester, Uttoxeter, ST14 5JP'  Biz='None'  Status='Company'
+  ID=  539  Name='J.C. Bamford Excavators Ltd'  Addr='Lakeside Works, Rocester, Uttoxeter, ST14 5JP'  Biz='None'  Status='Company'
+  ID=  532  Name='J.C. Bamford Excavators Ltd'  Addr='Lakeside Works, Rocester, Uttoxeter, Staffordshire ST14 5JP'  Biz='None'  Status='Company'
+
+--- Group: 'jockey club' (4 entries) ---
+  ID= 1149  Name='Jockey Club'  Addr='Cheltenham Racecourse, Evesham Road, Cheltenham GL50 4SH'  Biz='None'  Status='Company'
+  ID=  984  Name='The Jockey Club'  Addr='21-27 Lambs Conduit Street, London WC1N 3NL'  Biz='None'  Status='Company'
+  ID= 1136  Name='The Jockey Club'  Addr='21-27 Lambs Conduit Street, London, England WC1N 3NL'  Biz='None'  Status='Company'
+  ID=  758  Name='The Jockey Club'  Addr='The Jockey Club, 21-27 Lambs Conduit Street, London WC1N 3NL'  Biz='None'  Status='Company'
+
+--- Group: 'jockey club racecourses ltd' (3 entries) ---
+  ID=  751  Name='Jockey Club Racecourses Limited'  Addr='21-27 Lambs Conduit Street, London WC1N 3NL'  Biz='None'  Status='Company'
+  ID=  756  Name='Jockey Club Racecourses Ltd'  Addr='21-27 Lambs Conduit Street, London WC1N 3NL'  Biz='None'  Status='Company'
+  ID= 1057  Name='Jockey Club Racecourses Ltd'  Addr='21-27 Lambs Conduit Street, London, England WC1N 3NL'  Biz='None'  Status='Company'
+
+--- Group: 'kingdom of saudi arabia' (2 entries) ---
+  ID= 1361  Name='The Kingdom of Saudi Arabia'  Addr='C/o, Royal Embassy of Saudi Arabia, 30 Charles Street, London, W1J 5DZ'  Biz='None'  Status='None'
+  ID= 1366  Name='The Kingdom of Saudi Arabia'  Addr='c/o Royal Embassy of Saudi Arabia, 30 Charles Street, London W1J 5DZ'  Biz='None'  Status='None'
+
+--- Group: 'knights tailoring ltd' (2 entries) ---
+  ID=  869  Name='Knights Tailoring Ltd'  Addr='1 Brassey Road, Old Potts Way, Shrewsbury, Shropshire. SY3 7FA'  Biz='None'  Status='Company'
+  ID= 1037  Name='Knights Tailoring Ltd'  Addr='5 Station Road, Tidworth SP9 7NN'  Biz='None'  Status='Company'
+
+--- Group: 'konrad adenauer stiftung' (2 entries) ---
+  ID= 1293  Name='Konrad Adenauer Stiftung'  Addr='63 Eccleston Square, London SW1V 1PH'  Biz='None'  Status='None'
+  ID= 1439  Name='Konrad Adenauer Stiftung'  Addr='Konrad-Adenauer-Stiftung e. V. Multilateral Dialogue Geneva, Avenue de France 23, CH-1202 Geneva Switzerland'  Biz='None'  Status='None'
+
+--- Group: 'konradadenauerstiftung' (2 entries) ---
+  ID= 1523  Name='Konrad-Adenauer-Stiftung'  Addr='42 Essex Street, London WC2R 3JF'  Biz='None'  Status='None'
+  ID= 1522  Name='Konrad-Adenauer-Stiftung'  Addr='42 Essex Street, London, WC2R 3JF'  Biz='None'  Status='None'
+
+--- Group: 'kyivstar' (3 entries) ---
+  ID= 1549  Name='Kyivstar'  Addr='03113, m. Kyiv, vul. Dehtiarivska, 53'  Biz='None'  Status='None'
+  ID= 1530  Name='Kyivstar'  Addr='53 Degtyarivska St, Kiev, Kyiv City, 03113, Ukraine'  Biz='None'  Status='None'
+  ID= 1540  Name='Kyivstar'  Addr='Vikentiya Khvoiky St, 15/15'  Biz='None'  Status='None'
+
+--- Group: 'labour friends of israel' (2 entries) ---
+  ID= 1569  Name='Labour Friends of Israel'  Addr='BM LFI, London WC1N 3XX'  Biz='None'  Status='None'
+  ID= 1452  Name='Labour Friends of Israel'  Addr='BM LFI, London, WC1N 3XX'  Biz='None'  Status='None'
+
+--- Group: 'labour friends of israel ltd' (3 entries) ---
+  ID= 1568  Name='Labour Friends of Israel Ltd'  Addr='BM LFI, London WC1N 2XX'  Biz='None'  Status='None'
+  ID= 1248  Name='Labour Friends of Israel Ltd'  Addr='BM LFI, London WC1N 3XX'  Biz='None'  Status='None'
+  ID= 1461  Name='Labour Friends of Israel Ltd'  Addr='BM LFI, London, WC1N 3XX'  Biz='None'  Status='None'
+
+--- Group: 'lawn tennis association' (8 entries) ---
+  ID=  973  Name='Lawn Tennis Association'  Addr='100 Priory Lane, London SW15 5JQ'  Biz='None'  Status='Company'
+  ID= 1021  Name='Lawn Tennis Association'  Addr='100 Priory Lane, Roehampton, London SW15 5JQ'  Biz='None'  Status='Company'
+  ID= 1012  Name='Lawn Tennis Association'  Addr='National Tennis Centre, 100 Priory Lane, Roehampton, London SW15 5JQ'  Biz='None'  Status='Company'
+  ID= 1052  Name='Lawn Tennis Association'  Addr='The National Tennis Centre, 100 Priory Lane, London SW15 5JQ'  Biz='None'  Status='Company'
+  ID=  978  Name='Lawn Tennis Association'  Addr='The National Tennis Centre, 100 Priory Lane, Roehampton, London SW15 5JQ'  Biz='None'  Status='Company'
+  ID= 1010  Name='Lawn Tennis Association'  Addr='The National Tennis Centre, 100 Priory Lane, Roehampton, London, SW15 5JQ'  Biz='None'  Status='Company'
+  ID= 1011  Name='The Lawn Tennis Association'  Addr='The National Tennis Centre, 100 Priory Lane, Roehampton, London SW15 5JQ'  Biz='None'  Status='Company'
+  ID= 1006  Name='The Lawn Tennis Association'  Addr='The National Tennis Centre, 100 Priory Lane, Roehampton, London, SW15 5JQ'  Biz='None'  Status='Company'
+
+--- Group: 'lawn tennis association ltd' (4 entries) ---
+  ID= 1042  Name='Lawn Tennis Association Limited'  Addr='National Tennis Centre, 100 Priory Lane, Roehampton, London SW15 5JQ'  Biz='None'  Status='Company'
+  ID= 1050  Name='Lawn Tennis Association Limited'  Addr='The National Tennis Centre, 100 Priory Lane, Roehampton, SW15 5JQ'  Biz='None'  Status='Company'
+  ID= 1041  Name='Lawn Tennis Association Ltd'  Addr='National Tennis Centre, 100 Priory Lane, Roehampton, London SW15 5JQ'  Biz='None'  Status='Company'
+  ID=  986  Name='The Lawn Tennis Association Limited'  Addr='The National Tennis Centre 100 Priory Lane, Roehampton, London SW15 5JQ'  Biz='None'  Status='Company'
+
+--- Group: 'leicestershire county council' (2 entries) ---
+  ID=  135  Name='Leicestershire County Council'  Addr='County Hall, Glenfield LE3 8HA'  Biz='None'  Status='None'
+  ID=  214  Name='Leicestershire County Council'  Addr='Leicestershire County Council, County Hall, Glenfield, Leicester LE3 8RA'  Biz='Local Authority'  Status='None'
+
+--- Group: 'lloyds banking group' (2 entries) ---
+  ID= 1203  Name='Lloyds Banking Group'  Addr='8th Floor, 25 Gresham Street, London EC2V 7HN'  Biz='None'  Status='Company'
+  ID= 1108  Name='Lloyds Banking Group'  Addr='Lloyds Bank plc. 25 Gresham Street, London EC2V 7HN'  Biz='None'  Status='Company'
+
+--- Group: 'london marathon events ltd' (5 entries) ---
+  ID= 1132  Name='London Marathon Events Limited'  Addr='190 Great Dover Street, London SE1 4YB'  Biz='None'  Status='Company'
+  ID= 1043  Name='London Marathon Events Ltd'  Addr='190 Great Dover Street, London SE1 4YB'  Biz='None'  Status='Company'
+  ID= 1101  Name='London Marathon Events Ltd'  Addr='190 Great Dover Street, London, England SE1 4YB'  Biz='None'  Status='Company'
+  ID= 1129  Name='London Marathon Events Ltd'  Addr='190 Great Dover Street, London, SE1 4YB'  Biz='None'  Status='Company'
+  ID= 1111  Name='London Marathon Events Ltd'  Addr='Marathon House, 190 Great Dover St, London SE1 4YB'  Biz='None'  Status='Company'
+
+--- Group: 'marriott harrison' (2 entries) ---
+  ID=  901  Name='Marriott Harrison'  Addr='80 Cheapside, London EC2V 6EE'  Biz='None'  Status='Company'
+  ID= 1118  Name='Marriott Harrison'  Addr='80 Cheapside, London, England EC2V 6EE'  Biz='None'  Status='Company'
+
+--- Group: 'marriott harrison llp' (2 entries) ---
+  ID=  866  Name='Marriott Harrison LLP'  Addr='80 Cheapside, London EC2V 6EE'  Biz='None'  Status='Company'
+  ID= 1121  Name='Marriott Harrison LLP'  Addr='80 Cheapside, London,EC2V 6EE'  Biz='None'  Status='Company'
+
+--- Group: 'ministry of foreign affairs of the state of qatar' (4 entries) ---
+  ID= 1260  Name='Ministry of Foreign Affairs of the State of Qatar'  Addr=''  Biz='None'  Status='None'
+  ID= 1485  Name='Ministry of Foreign Affairs of the State of Qatar'  Addr='Embassy of the State of Qatar in London, 1 South Audley Street, London W1K 1NB'  Biz='None'  Status='None'
+  ID= 1494  Name='Ministry of Foreign Affairs of the State of Qatar'  Addr='Embassy of the State of Qatar in London, 1 South Audley Street, London W1U 4FB'  Biz='None'  Status='None'
+  ID= 1286  Name='Ministry of Foreign Affairs of the State of Qatar,'  Addr='Embassy of the State of Qatar, 1 South Audley Street, London W1U 4FB'  Biz='None'  Status='None'
+
+--- Group: 'ministry of foreign affairs taiwan' (2 entries) ---
+  ID= 1420  Name='Ministry of Foreign Affairs, Taiwan'  Addr='No. 2, Ketagalan Blvd, Zhongzheng District, Taipei City, Taiwan'  Biz='None'  Status='None'
+  ID= 1445  Name='Ministry of Foreign Affairs, Taiwan'  Addr='Taipei Representative Office in the United Kingdom, 50 Grosvenor Gardens, London, SW1W 0EB'  Biz='None'  Status='None'
+
+--- Group: 'minster law ltd' (3 entries) ---
+  ID=  320  Name='Minster Law Limited'  Addr='Kingfisher House, Calder Park, Wakefield WF2 7UA'  Biz='Solicitor'  Status='None'
+  ID=  316  Name='Minster Law Limited'  Addr='Kingfisher House, Calder Park, Wakefield, WF2 7UA'  Biz='Solicitors'  Status='None'
+  ID=  367  Name='Minster Law Limited'  Addr='Kingsfisher House, Calder Park, Wakefield, WF2 7UA'  Biz='Solicitors'  Status='None'
+
+--- Group: 'morphou municipality' (2 entries) ---
+  ID= 1345  Name='Morphou Municipality'  Addr='2 Aglantzias Avenue, 2108 Aglantzia, Nicosia Cyprus'  Biz='None'  Status='None'
+  ID= 1339  Name='Morphou Municipality'  Addr='2 Aglantzias Avenue, 2108 Nicosia'  Biz='None'  Status='None'
+
+--- Group: 'motorsport uk' (5 entries) ---
+  ID=  796  Name='Motorsport UK'  Addr='41 Bicester Motion, Command Works, Launton, Bicester OX27 8AL'  Biz='None'  Status='Company'
+  ID= 1084  Name='Motorsport UK'  Addr='Bicester Motion, Bicester OX27 8FY'  Biz='None'  Status='Company'
+  ID= 1029  Name='Motorsport UK'  Addr='Bicester Motion, OX27 8FY'  Biz='None'  Status='Company'
+  ID=  993  Name='Motorsport UK'  Addr='Bicester Motion, OX27 8FY.'  Biz='None'  Status='Other'
+  ID=  797  Name='Motorsport UK'  Addr='Motorsport UK House, 141 The Command Works, Southern Avenue, Bicester Heritage OX27 8FY'  Biz='None'  Status='Company'
+
+--- Group: 'national farmers union' (2 entries) ---
+  ID=  764  Name='National Farmers Union'  Addr='18 Smith Square, Westminster, London SW1P 3HZ'  Biz='None'  Status='Trade Union'
+  ID=  752  Name='National Farmers' Union'  Addr='Agriculture House, Stoneleigh Park, Stoneleigh, Warwickshire CV8 2TZ'  Biz='None'  Status='Other'
+
+--- Group: 'national liberal club' (12 entries) ---
+  ID=  745  Name='National Liberal  Club'  Addr='1 Whitehall Place, London, SW1A 2HE'  Biz='None'  Status='Unincorporated association'
+  ID=  802  Name='National Liberal Club'  Addr='1 Whitehall Pl, London SW1A 2HE'  Biz='None'  Status='Company'
+  ID= 1202  Name='National Liberal Club'  Addr='1 Whitehall Place Westminster, London SW1A 2HE'  Biz='None'  Status='Company'
+  ID= 1207  Name='National Liberal Club'  Addr='1 Whitehall Place, London , SW1A 2HE'  Biz='None'  Status='Unincorporated association'
+  ID=  746  Name='National Liberal Club'  Addr='1 Whitehall Place, London SW1A 2HE'  Biz='None'  Status='Unincorporated association'
+  ID=  792  Name='National Liberal Club'  Addr='1 Whitehall Place, London, SW1A 2HE'  Biz='None'  Status='Unincorporated association'
+  ID= 1164  Name='National Liberal Club'  Addr='1 Whitehall Place, Westminster, London SW1A2HE'  Biz='None'  Status='Company'
+  ID=  775  Name='National Liberal Club'  Addr='1 Whitehall place, London SW1A 2HE'  Biz='None'  Status='Other'
+  ID= 1184  Name='National Liberal Club'  Addr='National Liberal Club, 1 Whitehall Place, London SW1A 2HE'  Biz='None'  Status='Other'
+  ID= 1206  Name='National Liberal Club'  Addr='Whitehall Place, London SW1A 2HE'  Biz='None'  Status='Friendly society'
+  ID= 1205  Name='The National Liberal Club'  Addr='1 Whitehall Place SW1'  Biz='None'  Status='Other'
+  ID=  799  Name='The National Liberal Club'  Addr='1 Whitehall Place, London SW1A 2HE'  Biz='None'  Status='Unincorporated association'
+
+--- Group: 'national theatre' (3 entries) ---
+  ID= 1166  Name='National Theatre'  Addr='The Royal National Theatre, Upper Ground, London SE1 9PX'  Biz='None'  Status='Company'
+  ID= 1165  Name='National Theatre'  Addr='The Royal National Theatre, Upper Ground, London, SE1 9PX'  Biz='None'  Status='Company'
+  ID=  836  Name='National Theatre'  Addr='Upper Ground. South Bank, London SE1 9PX'  Biz='None'  Status='Company'
+
+--- Group: 'newcastle united ltd' (2 entries) ---
+  ID= 1161  Name='Newcastle United Limited'  Addr='St James' Park, Newcastle upon Tyne NE14ST'  Biz='None'  Status='Company'
+  ID= 1032  Name='Newcastle United Limited'  Addr='St James' Park, Newcatle upon Tyne NE1 4ST'  Biz='None'  Status='Company'
+
+--- Group: 'nottingham forest football club ltd' (2 entries) ---
+  ID=  843  Name='Nottingham Forest Football Club Limited'  Addr='The City Ground, Pavilion Road, West Bridgford NG2 5FJ'  Biz='None'  Status='Company'
+  ID=  835  Name='Nottingham Forest Football Club Limited'  Addr='The City Ground, Pavilion Road, West Bridgford, Nottingham, NG2 5FJ'  Biz='None'  Status='Company'
+
+--- Group: 'omani british lawyers association' (2 entries) ---
+  ID= 1557  Name='Omani British Lawyer's Association'  Addr='Al Bathari Building, Al Jami Al Akbar St, Muscat 111, Oman'  Biz='None'  Status='None'
+  ID= 1558  Name='Omani British Lawyers' Association'  Addr='Al Bathari Building, Al Jami Al AkbarSt, Muscat 111, Oman'  Biz='None'  Status='None'
+
+--- Group: 'oxford institute of digital health' (2 entries) ---
+  ID= 1287  Name='Oxford Institute of Digital Health'  Addr='Radcliffe Primary Care Building, Radcliffe Observatory Quarter, Woodstock Road, Oxford OX2 6GG.'  Biz='None'  Status='None'
+  ID=   20  Name='Oxford Institute of Digital Health'  Addr='Radcliffe Primary Care Building, Radcliffe Observatory Quarter, Woodstock Road, Oxford, OX2 6GG'  Biz='None'  Status='None'
+
+--- Group: 'oxfordshire county council' (2 entries) ---
+  ID=  187  Name='Oxfordshire County Council'  Addr='County Hall, New Road, Oxford OX1 1ND'  Biz='None'  Status='None'
+  ID=  175  Name='Oxfordshire County Council'  Addr='New Road, Oxford OX1 1ND'  Biz='None'  Status='None'
+
+--- Group: 'peace and justice project' (2 entries) ---
+  ID=  781  Name='Peace and Justice Project'  Addr='Unit F2,1st Floor The London Fashion Centre, 89-93 Fonthill Road, London N4 3JH'  Biz='None'  Status='Company'
+  ID=  778  Name='The Peace and Justice Project'  Addr='Unit F2,1st Floor The London Fashion Centre, 89-93 Fonthill Road, London N4 3JH'  Biz='None'  Status='Company'
+
+--- Group: 'penguin books ltd' (3 entries) ---
+  ID=  353  Name='Penguin Books Ltd'  Addr='20 Vauxhall Bridge Road, London SW1V 2SA'  Biz='None'  Status='None'
+  ID=  351  Name='Penguin Books Ltd'  Addr='20 Vauxhall Bridge Road, London, England SW1V 2SA'  Biz='None'  Status='None'
+  ID=  302  Name='Penguin Books Ltd'  Addr='Embassy Gardens. One Embassy Gardens, 8 Viaduct Gardens, London, SW11 7BW'  Biz='None'  Status='None'
+
+--- Group: 'peters fraser  dunlop ltd' (2 entries) ---
+  ID=  251  Name='Peters Fraser & Dunlop Limited'  Addr='55 New Oxford Street, London WC1A 1BS'  Biz='None'  Status='None'
+  ID=  250  Name='Peters Fraser & Dunlop Ltd'  Addr='55 New Oxford Street, London WC1A 1BS'  Biz='Book Publisher'  Status='None'
+
+--- Group: 'powell  co' (2 entries) ---
+  ID=  335  Name='Powell & Co'  Addr='Verbruggens House, Number One Street, Royal Woolwich Arsenal, London SE18 6HG'  Biz='Solicitor'  Status='None'
+  ID=  330  Name='Powell & Co'  Addr='Verbruggens House, Number One Street, Royal Woolwich Arsenal, London, SE18 6HG'  Biz='Solicitor'  Status='None'
+
+--- Group: 'premier league' (4 entries) ---
+  ID=  870  Name='Premier League'  Addr='Brunel Building, 57 North Wharf Road, London W2 1HQ'  Biz='None'  Status='Company'
+  ID=  996  Name='Premier League'  Addr='Brunel Building, 57 North Wharf Road, London, United Kingdom W2 1HQ'  Biz='None'  Status='Company'
+  ID=  972  Name='Premier League'  Addr='Premier League, Brunel Building, 57 North Wharf Road, London, W2 1HQ.'  Biz='None'  Status='Company'
+  ID=  760  Name='The Premier League'  Addr='Brunel Building, 57 North Wharf Road, London W2 1HQ'  Biz='None'  Status='Company'
+
+--- Group: 'progressive international' (2 entries) ---
+  ID= 1360  Name='Progressive International'  Addr='71-75 Shelton Street, London WC2H 9JQ'  Biz='None'  Status='None'
+  ID= 1252  Name='Progressive International'  Addr='71-75 Shelton Street, London, WC2H 9JQ'  Biz='None'  Status='None'
+
+--- Group: 'prosperity institute' (2 entries) ---
+  ID=  994  Name='Prosperity Institute'  Addr='11 Charles Street, London,W1J 5DW'  Biz='None'  Status='Company'
+  ID= 1443  Name='Prosperity Institute'  Addr='11 Charles Street,London,W1J 5DW'  Biz='None'  Status='None'
+
+--- Group: 'prosperity law llp' (2 entries) ---
+  ID=  346  Name='Prosperity Law LLP'  Addr='Vantage Point, 4 Hardman Street, Spinningfields, Manchester M3 3HF'  Biz='Solicitor'  Status='None'
+  ID=  309  Name='Prosperity Law LLP'  Addr='Vantage Point, 4 Hardman Street, Spinningfields, Manchester, M3 3HF'  Biz='Solicitor'  Status='None'
+
+--- Group: 'prs for music' (4 entries) ---
+  ID= 1116  Name='PRS For Music'  Addr='Golding House, 2 Hay's Lane, London SE1 2HB'  Biz='None'  Status='Company'
+  ID= 1094  Name='PRS for Music'  Addr='1st Floor Goldings House, 2 Hays Lane, London SE1 2HB'  Biz='None'  Status='Company'
+  ID= 1114  Name='PRS for Music'  Addr='1st Floor, Goldings House, 2 Hays Lane, London SE1 2HB'  Biz='None'  Status='Company'
+  ID=  983  Name='PRS for Music'  Addr='Goldings House, 2 Hays Lane, London SE1 2HB'  Biz='None'  Status='Company'
+
+--- Group: 'rcw literary agency' (2 entries) ---
+  ID=  204  Name='RCW Literary Agency'  Addr='20 Powis Mews, London W11 1JN'  Biz='Literary agency'  Status='None'
+  ID=  301  Name='RCW literary Agency'  Addr='RCW literary Agency, 20 Powis Mews, London W11 1JN'  Biz='Literary Agency'  Status='None'
+
+--- Group: 'refugee asylum  migration policy project ramp' (2 entries) ---
+  ID=  742  Name='Refugee, Asylum & Migration Policy Project (RAMP)'  Addr='The Courtyard, High Street, Ascot , SL5 7HP'  Biz='None'  Status='Company'
+  ID=  718  Name='Refugee, Asylum & Migration Policy Project (RAMP)'  Addr='The Courtyard, High Street, Ascot SL5 7HP'  Biz='None'  Status='Company'
+
+--- Group: 'refugee asylum and migration policy project ramp' (2 entries) ---
+  ID=  479  Name='Refugee, Asylum and Migration Policy Project (RAMP)'  Addr='The Courtyard, High Street, Ascot SL5 7HP'  Biz='None'  Status='Company'
+  ID=  425  Name='The Refugee, Asylum and Migration Policy Project (RAMP)'  Addr='The Courtyard, High Street, Ascot SL5 7HP'  Biz='None'  Status='Company'
+
+--- Group: 'results uk' (3 entries) ---
+  ID= 1374  Name='Results UK'  Addr=''  Biz='None'  Status='None'
+  ID= 1315  Name='Results UK'  Addr='DC-207, Clarence Centre for Enterprise and Innovation, 6 St George's Circus, London SE1 6FE'  Biz='None'  Status='None'
+  ID= 1377  Name='Results UK'  Addr='DC-207, Clarence Centre for Enterprise and Innovation, 6 St George's Circus, London SE1 6FE, UK'  Biz='None'  Status='None'
+
+--- Group: 'royal edinburgh military tattoo' (3 entries) ---
+  ID=  922  Name='The Royal Edinburgh Military Tattoo'  Addr='1-2 Cockburn Street, Edinburgh EH1 1QB'  Biz='None'  Status='Other'
+  ID=  934  Name='The Royal Edinburgh Military Tattoo'  Addr='1-3 Cockburn Street, Edinburgh EH1 1QB'  Biz='None'  Status='Company'
+  ID=  924  Name='The Royal Edinburgh Military Tattoo'  Addr='REMT Charities SC108857, 1-3 Cockburn Street, Edinburgh EH1 1QB'  Biz='None'  Status='Other'
+
+--- Group: 'rtc education ltd' (3 entries) ---
+  ID=  252  Name='RTC Education Ltd'  Addr='153 Great Titchfield Street, London W1W 5BD'  Biz='A provider of undergraduate and postgraduate education programmes to UK and international students.'  Status='None'
+  ID=  867  Name='RTC Education Ltd'  Addr='Carmine Court, 202 Imperial Drive, Harrow, Middlesex HA2 7HG'  Biz='None'  Status='Company'
+  ID=  865  Name='RTC Education Ltd'  Addr='Carmine Court, 202 Imperial Drive, Harrow, Middlesex, England, HA2 7HG'  Biz='None'  Status='Company'
+
+--- Group: 'rugby football union' (3 entries) ---
+  ID=  857  Name='Rugby Football Union'  Addr='Rugby House, Allianz Stadium, 200 Whitton Road, Twickenham TW2 7BA'  Biz='None'  Status='Company'
+  ID=  854  Name='Rugby Football Union'  Addr='Rugby House, Twickenham Stadium, 200 Whitton Road, Twickenham , TW2 7BA'  Biz='None'  Status='Company'
+  ID=  971  Name='Rugby Football Union'  Addr='Rugby House,Twickenham Stadium, 200 Whitton Road, Twickenham TW2 7BA'  Biz='None'  Status='Company'
+
+--- Group: 'rugby world cup england 2025' (2 entries) ---
+  ID=  937  Name='Rugby World Cup (England 2025)'  Addr='Onside Law LLP, 642A Kings Road, London SW6 2DU'  Biz='None'  Status='Company'
+  ID=  919  Name='Rugby World Cup (England 2025)'  Addr='Onside Law LLP, 642A Kings Road, London, SW6 2DU'  Biz='None'  Status='Company'
+
+--- Group: 'safelane global via animar travel network' (2 entries) ---
+  ID= 1350  Name='Safelane Global (via Animar Travel Network)'  Addr='Unit 2 Phocle Park, Phocle Green, Upton Bishop, Ross-On-Wye, Herefordshire, United Kingdom, HR9 7XU'  Biz='None'  Status='None'
+  ID= 1362  Name='Safelane Global (via Animar Travel Network)'  Addr='Unit 2 Phocle Park, Phocle Green, Upton bishop, Ross on Wye, Herefordshire HR9 7XU'  Biz='None'  Status='None'
+
+--- Group: 'silverstone' (2 entries) ---
+  ID= 1003  Name='Silverstone'  Addr='Silverstone Circuit, Towcester, Northamptonshire, United Kingdom, NN12 8TN'  Biz='None'  Status='Company'
+  ID= 1031  Name='Silverstone'  Addr='The Jimmy Brown Centre, Silverstone Circuit, Towcester NN12 8TN'  Biz='None'  Status='Company'
+
+--- Group: 'silverstone circuits ltd' (13 entries) ---
+  ID= 1033  Name='Silverstone Circuits Limited'  Addr='Jimmy Brown Centre, Silverstone Circuit, Towcester NN12 8TN'  Biz='None'  Status='Company'
+  ID=  990  Name='Silverstone Circuits Limited'  Addr='Silverstone Circuit, Northamptonshire NN12 8TN'  Biz='None'  Status='Company'
+  ID= 1023  Name='Silverstone Circuits Limited'  Addr='Silverstone Circuit, Towcester, Northamptonshire NN12 8TN'  Biz='None'  Status='Company'
+  ID= 1005  Name='Silverstone Circuits Limited'  Addr='Silverstone Circuit, Towcester, Northamptonshire, NN12 8TN'  Biz='None'  Status='Company'
+  ID= 1038  Name='Silverstone Circuits Limited'  Addr='Silverstone Circuit, Towcester, Northamptonshire, United Kingdom, NN12 8TN'  Biz='None'  Status='Company'
+  ID= 1034  Name='Silverstone Circuits Limited'  Addr='The Jimmy Brown Centre, Silverstone Circuit, Towcester , NN12 8TN'  Biz='None'  Status='Company'
+  ID= 1000  Name='Silverstone Circuits Limited'  Addr='The Jimmy Brown Centre, Silverstone Circuit, Towcester NN12 8TN'  Biz='None'  Status='Company'
+  ID= 1025  Name='Silverstone Circuits Ltd'  Addr='Silverstone Circuit , Towcester , NN12 8TN'  Biz='None'  Status='Company'
+  ID= 1024  Name='Silverstone Circuits Ltd'  Addr='Silverstone Circuit, Towcester, Northamptonshire, NN12 8TN'  Biz='None'  Status='Company'
+  ID=  991  Name='Silverstone Circuits Ltd'  Addr='The Jimmy Brown Centre, Silverstone Circuit, Towcester NN12 8TN'  Biz='None'  Status='Company'
+  ID= 1027  Name='Silverstone Circuits Ltd'  Addr='The Jimmy Brown Centre, Silverstone Circuit, Towcester, NN12 8TN'  Biz='None'  Status='Company'
+  ID= 1015  Name='Silverstone Circuits Ltd'  Addr='The Jimmy Brown Centre, Silverstone Circuit, Towcester, Northamptonshire NN12 8TN'  Biz='None'  Status='Company'
+  ID= 1026  Name='Silverstone Circuits Ltd'  Addr='The Jimmy Brown Centre, Silverstone Circuits, Towcester. NN12 8TN'  Biz='None'  Status='Company'
+
+--- Group: 'sky uk ltd' (2 entries) ---
+  ID=  946  Name='Sky UK Limited'  Addr='Grant Way, Isleworth, Middlesex TW7 5QD'  Biz='None'  Status='Company'
+  ID=  947  Name='Sky UK Ltd'  Addr='Grant Way, Isleworth, Middlesex TW7 5QD'  Biz='None'  Status='Company'
+
+--- Group: 'sme4labour ltd' (6 entries) ---
+  ID=  681  Name='SME4LABOUR LTD'  Addr='80 North Block, 5 Chicheley Street, London SE1 7PN'  Biz='None'  Status='Company'
+  ID=  690  Name='SME4LABOUR LTD'  Addr='Flat 80 County Hall North Block, 5 Chicheley Street, London SE1 7PN'  Biz='None'  Status='Company'
+  ID=  407  Name='SME4LABOUR LTD'  Addr='Flat 80 County Hall, North Block, 5 Chicheley Street, London England, SE1 7PN'  Biz='None'  Status='Company'
+  ID=  648  Name='SME4Labour LTD'  Addr='Flat 80 County Hall North Block, 5 Chicheley Street, London, England, SE1 7PN'  Biz='None'  Status='Company'
+  ID=  694  Name='SME4Labour Ltd'  Addr='80 North Block, 5 Chicheley Street, SE1 7PN'  Biz='None'  Status='Company'
+  ID=  645  Name='SME4Labour Ltd'  Addr='Flat 80, County Hall North Block, 5 Chicheley Street, London, England, SE1 7PN'  Biz='None'  Status='Company'
+
+--- Group: 'somerset council' (2 entries) ---
+  ID=  157  Name='Somerset Council'  Addr='County Hall, Taunton, Somerset'  Biz='None'  Status='None'
+  ID=  210  Name='Somerset Council'  Addr='County Hall, The Crescent, Taunton TA1 4DY'  Biz='None'  Status='None'
+
+--- Group: 'spectator' (2 entries) ---
+  ID=   63  Name='The Spectator'  Addr='22 Old Queen St, London SW1H 9HP'  Biz='Newspaper'  Status='None'
+  ID=   52  Name='The Spectator'  Addr='22 Old Queen Street, London SW1H 9HP'  Biz='None'  Status='None'
+
+--- Group: 'stiftung mnchner sicherheitskonferenz ggmbh' (2 entries) ---
+  ID= 1237  Name='Stiftung Münchner Sicherheitskonferenz gGmbH'  Addr='Friedrichstrasse 154 | 10117 Berlin, Germany'  Biz='None'  Status='None'
+  ID= 1378  Name='Stiftung Münchner Sicherheitskonferenz gGmbH'  Addr='Karolinenplatz 3, 80333 Munich, Germany'  Biz='None'  Status='None'
+
+--- Group: 'strand partners' (2 entries) ---
+  ID=  607  Name='Strand Partners'  Addr='5 Technology Park, Colindeep Lane, Colindale, London NW9 6BX'  Biz='None'  Status='Company'
+  ID=  649  Name='Strand Partners'  Addr='5 Technology Park, Colindeep Lane, Colindale, London, United Kingdom, NW9 6BX'  Biz='None'  Status='Company'
+
+--- Group: 'strathgrove ltd' (2 entries) ---
+  ID=  604  Name='STRATHGROVE LIMITED'  Addr='Acre House, 11/15 William Road, London NW1 3ER'  Biz='None'  Status='Company'
+  ID=  512  Name='Strathgrove Ltd'  Addr='Acre House, 11/15 William Road, London NW1 3ER'  Biz='None'  Status='Company'
+
+--- Group: 'surrey county council' (2 entries) ---
+  ID=  211  Name='Surrey County Council'  Addr='11 Cockshot Hill, Woodhatch, Reigate RH2 8EF'  Biz='None'  Status='None'
+  ID=  197  Name='Surrey County Council'  Addr='Woodhatch Place, 11 Cockshot Hill, Reigate RH2 8EF'  Biz='None'  Status='None'
+
+--- Group: 'taiwan ministry of foreign affairs' (2 entries) ---
+  ID= 1250  Name='Taiwan Ministry of Foreign Affairs'  Addr='2 Ketagalan Boulevard, Zhongzheng District, Taipei City 100202, Taiwan'  Biz='None'  Status='None'
+  ID= 1300  Name='Taiwan Ministry of Foreign Affairs'  Addr='Ministry of Foreign Affairs, 2 Ketagalan Blvd., Zhongzheng District, Taipei City 100202 Taiwan (Republic of China)'  Biz='None'  Status='None'
+
+--- Group: 'taiwanese ministry of foreign affairs' (5 entries) ---
+  ID= 1473  Name='Taiwanese Ministry of Foreign Affairs'  Addr='2 Ketagalan Blvd, Zhongzheng District, Taipei City 100202'  Biz='None'  Status='None'
+  ID= 1393  Name='Taiwanese Ministry of Foreign Affairs'  Addr='2 Ketagalan Blvd, Zhongzheng District, Taipei City 100202, Taiwan'  Biz='None'  Status='None'
+  ID= 1465  Name='Taiwanese Ministry of Foreign Affairs'  Addr='2 Ketagalan Blvd, Zhongzheng District, Taipei City 100202, Taiwan.'  Biz='None'  Status='None'
+  ID= 1474  Name='Taiwanese Ministry of Foreign Affairs'  Addr='2, Ketagalan Blvd, Zhongzheng District, Taipei City 100202, Taiwan'  Biz='None'  Status='None'
+  ID= 1472  Name='Taiwanese Ministry of Foreign Affairs'  Addr='2, Ketagalan Blvd., Zhongzheng District, Taipei City 100202, Taiwan'  Biz='None'  Status='None'
+
+--- Group: 'taiwans ministry of foreign affairs' (2 entries) ---
+  ID= 1561  Name='Taiwan's Ministry of Foreign Affairs'  Addr='2, Ketagalan Blvd, Zhongzheng Dist, Taipei City 100202, Taiwan'  Biz='None'  Status='None'
+  ID= 1556  Name='Taiwan's Ministry of Foreign Affairs'  Addr='2, Ketagalan Blvd., Zhongzheng Dist., Taipei City 100202, Taiwan (R.O.C.)'  Biz='None'  Status='None'
+
+--- Group: 'tattersalls ltd' (2 entries) ---
+  ID=  500  Name='Tattersalls Ltd'  Addr='Tattersalls Ltd, Terrace House, 125 High Street, Newmarket CB8 9BT'  Biz='None'  Status='Company'
+  ID=  374  Name='Tattersalls Ltd'  Addr='Terrace House, 125 High Street, Newmarket CB8 9BT'  Biz='None'  Status='Company'
+
+--- Group: 'telegraph media group holdings ltd' (2 entries) ---
+  ID=   78  Name='Telegraph Media Group Holdings Limited'  Addr='111, Buckingham Palace Road, London SW1W 0DT'  Biz='Newspaper'  Status='None'
+  ID=  122  Name='Telegraph Media Group Holdings Ltd'  Addr='111 Buckingham Palace Road, London SW1W 0DT'  Biz='Media/newspaper'  Status='None'
+
+--- Group: 'these executive minds texem ltd' (2 entries) ---
+  ID=   24  Name='These Executive Minds (TEXEM) Limited'  Addr='Office B1, Redlands Business Centre, 3-5 Tapton House Road, Sheffield, South Yorks S10 5BY'  Biz='Provider of executive education and leadership development programmes'  Status='None'
+  ID=   53  Name='These Executive Minds (TEXEM) Ltd'  Addr='Redlands Business Centre, 3 - 5 Tapton House Road, Sheffield S10 5BY'  Biz='Management Consultancy'  Status='None'
+
+--- Group: 'thompsons solicitors llp' (3 entries) ---
+  ID=  356  Name='Thompsons Solicitors LLP'  Addr='1st Floor, Churchill House, 47 Regent Road, Stoke on Trent, Staffordshire, ST1 3BT'  Biz='Solicitors'  Status='None'
+  ID=  324  Name='Thompsons Solicitors LLP'  Addr='Congress House, 26-28 Great Russell Street, London WC1B 3LW'  Biz='Solicitor'  Status='None'
+  ID=  202  Name='Thompsons Solicitors LLP'  Addr='Congress House, Great Russell Street, London WC1B 3LW'  Biz='None'  Status='None'
+
+--- Group: 'tratos uk ltd' (3 entries) ---
+  ID= 1319  Name='Tratos (UK)) Ltd.'  Addr='Knowsley Factory Randles Road, Knowsley Business Park, Prescot, Merseyside L34 9HX'  Biz='None'  Status='None'
+  ID=  399  Name='Tratos UK Limited'  Addr='50 Randles Road, Knowsley Business Park, Prescot, Merseyside L34 9HX'  Biz='None'  Status='Company'
+  ID=  424  Name='Tratos UK Limited'  Addr='50 Randles Road, Knowsley Business Park, Prescot, Merseyside, L34 9HX'  Biz='None'  Status='Company'
+
+--- Group: 'uk friends of ukraine' (8 entries) ---
+  ID= 1221  Name='UK Friends of Ukraine'  Addr='62 Lots Road, London SW10 0DQ'  Biz='None'  Status='None'
+  ID= 1217  Name='UK Friends of Ukraine'  Addr='62 Lots Road, London SW10 0QD'  Biz='None'  Status='None'
+  ID= 1226  Name='UK Friends of Ukraine'  Addr='62 Lots Road, London, United Kingdom, SW10 0DQ'  Biz='None'  Status='None'
+  ID= 1229  Name='UK Friends of Ukraine'  Addr='81 High Street, Cosham, Portsmouth PO6 3BL'  Biz='None'  Status='None'
+  ID= 1405  Name='UK Friends of Ukraine'  Addr='81 High Street, Cosham, Portsmouth, England, PO6 3BL'  Biz='None'  Status='None'
+  ID= 1551  Name='UK Friends of Ukraine'  Addr='81 High Street, Cosham, Portsmouth, PO6 3BL'  Biz='None'  Status='None'
+  ID= 1407  Name='UK Friends of Ukraine'  Addr='81 High Street, Cosham, Portsmouth, PO63BL'  Biz='None'  Status='None'
+  ID= 1537  Name='UK Friends of Ukraine'  Addr='UK Friends of Ukraine 81 High Street, Cosham, Portsmouth, PO6 3BL'  Biz='None'  Status='None'
+
+--- Group: 'uk friends of ukraine ltd' (2 entries) ---
+  ID= 1401  Name='UK Friends of Ukraine Ltd'  Addr='81 High Street, Cosham, Portsmouth, England, PO6 3BL'  Biz='None'  Status='None'
+  ID= 1402  Name='UK Friends of Ukraine Ltd'  Addr='81 High Street, Cosham,Portsmouth, England, PO6 3BL'  Biz='None'  Status='None'
+
+--- Group: 'uk hospitality industries' (2 entries) ---
+  ID=  860  Name='UK Hospitality Industries'  Addr='10 Bloomsbury Way, London, WC1A 2SL'  Biz='None'  Status='Company'
+  ID=  861  Name='UK Hospitality Industries'  Addr='6th Floor 10 Bloomsbury Way, London, England, WC1A 2SL'  Biz='None'  Status='Company'
+
+--- Group: 'uk interactive entertainment association ltd' (2 entries) ---
+  ID= 1120  Name='The UK Interactive Entertainment Association Limited'  Addr='Lower Ground Floor, Black Bull Yard, 18a, 24-28 Hatton Wall, London EC1N 8JH'  Biz='None'  Status='Company'
+  ID= 1138  Name='UK Interactive Entertainment Association Limited'  Addr='Lower Ground Floor, Black Bull Yard, 18a, 24-28 Hatton Wall, London, England, EC1N 8JH'  Biz='None'  Status='Company'
+
+--- Group: 'uk music' (7 entries) ---
+  ID= 1040  Name='UK MUsic'  Addr='33 Foley Street, London W1W 7TL'  Biz='None'  Status='Company'
+  ID= 1130  Name='UK Music'  Addr='33 Foley Street, London W1W 7TL'  Biz='None'  Status='Company'
+  ID=  987  Name='UK Music'  Addr='Savoy Hill House, 7-10 Savoy Hill, London WC2R 0BU'  Biz='None'  Status='Company'
+  ID= 1135  Name='UK Music'  Addr='UK Music, Work.Life , 33 Foley Street, London, W1W 7TL'  Biz='None'  Status='Company'
+  ID= 1090  Name='UK Music'  Addr='Work.Life 33 Foley Street, London W1W 7TL'  Biz='None'  Status='Company'
+  ID= 1079  Name='UK Music'  Addr='Work.Life, 33 Foley Street, London W1W 7TL'  Biz='None'  Status='Company'
+  ID=  977  Name='UK Music'  Addr='Work.Life, 33 Foley Street, London, England W1W 7TL'  Biz='None'  Status='Company'
+
+--- Group: 'ukreiif  built environment networking ltd' (2 entries) ---
+  ID= 1073  Name='UKREiiF & Built Environment Networking Ltd'  Addr='5th Floor 133 Houndsditch, London, United Kingdom EC3A 7BX'  Biz='None'  Status='Company'
+  ID= 1069  Name='UKREiiF & Built Environment Networking Ltd'  Addr='5th Floor 133 Houndsditch, London, United Kingdom, EC3A 7BX'  Biz='None'  Status='Company'
+
+--- Group: 'unison' (5 entries) ---
+  ID=  572  Name='UNISON'  Addr='130 Euston Road, London NW1A 2AY'  Biz='None'  Status='Trade Union'
+  ID=  454  Name='UNISON'  Addr='UNISON Centre, 130 Euston Road NW1 2AY'  Biz='None'  Status='Trade Union'
+  ID=  448  Name='UNISON'  Addr='UNISON Centre, 130 Euston Road, London NW1 2AY'  Biz='None'  Status='Trade Union'
+  ID=  411  Name='UNISON'  Addr='UNISON, 130 Euston Road, London NW1 2AY'  Biz='None'  Status='Trade Union'
+  ID=  481  Name='Unison'  Addr='130 Euston Road, London NW1 2AY'  Biz='None'  Status='Trade Union'
+
+--- Group: 'united against malnutrition and hunger' (4 entries) ---
+  ID= 1525  Name='United Against Malnutrition and Hunger'  Addr='71-75 Shelton Street, Covent Garden, London WC2H 9JQ'  Biz='None'  Status='None'
+  ID= 1444  Name='United Against Malnutrition and Hunger'  Addr='8 St Thomas Street, London SE1 9RS'  Biz='None'  Status='None'
+  ID= 1533  Name='United Against Malnutrition and Hunger'  Addr='Alliance to End Malnutrition and Hunger Limited (known as United Against Malnutrition and Hunger), 71-75 Shelton Street, London WC2H 9JQ'  Biz='None'  Status='None'
+  ID= 1565  Name='United Against Malnutrition and Hunger'  Addr='Alliance to End Malnutrition and Hunger Limited, 71-75 Shelton Street, Covent Garden, London WC2H 9JQ'  Biz='None'  Status='None'
+
+--- Group: 'united agents' (2 entries) ---
+  ID=  220  Name='United Agents'  Addr='12-26 Lexington Street, London W1F 0LE'  Biz='None'  Status='None'
+  ID=  274  Name='United Agents'  Addr='Lexington House, 12-26 Lexington St, Soho, London W1F 0LE'  Biz='None'  Status='None'
+
+--- Group: 'united nations population fund via the all party parliamentary group on global sexual and reproductive health and as per its appg register' (3 entries) ---
+  ID= 1446  Name='United Nations Population Fund via the All Party Parliamentary Group on Global Sexual and Reproductive Health and as per its APPG Register'  Addr='United Nations Population Fund, 605 3rd Avenue, New York, NY 10158'  Biz='None'  Status='None'
+  ID= 1516  Name='United Nations Population Fund via the All Party Parliamentary Group on Global Sexual and Reproductive Health and as per its APPG Register.'  Addr='605 3rd Avenue, New York NY 10158'  Biz='None'  Status='None'
+  ID= 1506  Name='United Nations Population Fund via the All Party Parliamentary Group on Global Sexual and Reproductive Health and as per its APPG Register.'  Addr='United Nations Population Fund, 605 3rd Avenue, New York, NY 10158'  Biz='None'  Status='None'
+
+--- Group: 'walbrook club' (2 entries) ---
+  ID= 1174  Name='The Walbrook Club'  Addr='37a Walbrook, London EC4N 8BS'  Biz='None'  Status='Company'
+  ID= 1208  Name='The Walbrook Club'  Addr='The Walbrook Club, 37a Walbrook, London EC4N 8BS'  Biz='None'  Status='Company'
+
+--- Group: 'weidenfeld  nicolson united kingdom orion publishing group' (2 entries) ---
+  ID=  294  Name='Weidenfeld & Nicolson United Kingdom, Orion Publishing Group'  Addr='Carmelite House, 50 Victoria Embankment, London EC47 0DZ'  Biz='Publisher'  Status='None'
+  ID=  357  Name='Weidenfeld & Nicolson United Kingdom, Orion Publishing Group'  Addr='Carmelite House, 50 Victoria Embankment, London. EC47 0DZ'  Biz='None'  Status='None'
+
+--- Group: 'westminster foundation for democracy' (2 entries) ---
+  ID= 1234  Name='Westminster Foundation for Democracy'  Addr='Artillery House, 11-19 Artillery Row, London SW1P 1RT'  Biz='None'  Status='None'
+  ID= 1532  Name='Westminster Foundation for Democracy'  Addr='Clive House, 70 Petty France, London SW1H 9EX'  Biz='None'  Status='None'
+
+--- Group: 'wigan warriors' (3 entries) ---
+  ID=  868  Name='Wigan Warriors'  Addr='Loire Drive, Wigan WN5 0UH'  Biz='None'  Status='Company'
+  ID= 1100  Name='Wigan Warriors'  Addr='Loire Drive, Wigan WN50UH'  Biz='None'  Status='Company'
+  ID=  938  Name='Wigan Warriors'  Addr='Loire Drive, Wigan, WN5 0UH'  Biz='None'  Status='Company'
+
+--- Group: 'world forum' (2 entries) ---
+  ID= 1536  Name='The World Forum'  Addr='Reinhardtstr. 1, 10117 Berlin, Germany'  Biz='None'  Status='None'
+  ID= 1534  Name='World Forum'  Addr='Reinhardtstr. 1, 10117 Berlin, Germany'  Biz='None'  Status='None'
+
+--- Group: 'x corp' (3 entries) ---
+  ID=  138  Name='X Corp'  Addr='Market Square, 1355 Market St Suite 900 San Francisco California 94103'  Biz='None'  Status='None'
+  ID=  107  Name='X Corp'  Addr='Market Square, 1355 Market Street Suite 900, San Francisco, California 94103'  Biz='Social media'  Status='None'
+  ID=  112  Name='X Corp'  Addr='Market Square, 1355 Market Street Suite, 900 San Francisco, California, 94103'  Biz='None'  Status='None'
+
+--- Group: 'yachad' (2 entries) ---
+  ID= 1567  Name='Yachad'  Addr='Star House, 104-108 Grafton Road NW5 4BA'  Biz='None'  Status='None'
+  ID= 1564  Name='Yachad'  Addr='Star House, 104-108 Grafton Road, London NW5 4BA'  Biz='None'  Status='None'
+
+--- Group: 'yes foundation' (3 entries) ---
+  ID= 1541  Name='YES Foundation'  Addr='19-20 Bourne Court, Southend Road, Woodford Green, Essex IG8 8HD'  Biz='None'  Status='None'
+  ID= 1528  Name='YES Foundation'  Addr='Raffingers Llp Unit, 19-20 Bourne Court, Southend Road, Woodford Green, Essex IG8 8HD'  Biz='None'  Status='None'
+  ID= 1550  Name='Yes Foundation'  Addr='01601, Ukraine, Кyiv, Shovkovychna Street, 42-44'  Biz='None'  Status='None'
+
+--- Group: 'yimby initiative ltd' (3 entries) ---
+  ID=  573  Name='The YIMBY Initiative Ltd'  Addr='12 Old Bond Street, London W1S 4PW'  Biz='None'  Status='Company'
+  ID=  603  Name='The YIMBY Initiative Ltd'  Addr='12 Old Bond Street, London, W1S 4PW, England'  Biz='None'  Status='Company'
+  ID=  601  Name='The Yimby Initiative Ltd'  Addr='12 Old Bond Street, London W1S 4PW'  Biz='None'  Status='Company'
+
+--- Group: 'zhytomyr administration' (3 entries) ---
+  ID= 1529  Name='Zhytomyr Administration'  Addr='25 Mala Berdichivska str., Zhytomyr, Ukraine, 10014'  Biz='None'  Status='None'
+  ID= 1548  Name='Zhytomyr Administration'  Addr='Public service and Government, Bud 1 Kimn, 406, Vul. Lesi Ukrainky. Zhytomyr'  Biz='None'  Status='None'
+  ID= 1539  Name='Zhytomyr Administration'  Addr='S.P. Korolova Square, 4/2, Zhytomyr, Zhytomyr Oblast, Ukraine, 10002'  Biz='None'  Status='None'
+

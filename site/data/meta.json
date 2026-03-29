@@ -1,0 +1,37 @@
+{
+  "generated_at": "2026-03-29T21:28:07.607470",
+  "as_of_date": "2026-03-29",
+  "since_date": "2025-03-29",
+  "total_mps_with_payments": 223,
+  "total_monetary_12m": 7951166.83,
+  "total_inkind_12m": 1609350.66,
+  "total_combined_12m": 9560517.49,
+  "party_colours": {
+    "Conservative": "#0087DC",
+    "Labour": "#E4003B",
+    "Labour (Co-op)": "#E4003B",
+    "Liberal Democrat": "#FAA61A",
+    "Reform UK": "#12B6CF",
+    "Scottish National Party": "#FDF38E",
+    "Green Party": "#6AB023",
+    "Plaid Cymru": "#005B54",
+    "Democratic Unionist Party": "#D46A4C",
+    "Sinn Féin": "#326760",
+    "Social Democratic & Labour Party": "#2AA82C",
+    "Alliance": "#F6CB2F",
+    "Ulster Unionist Party": "#48A5EE",
+    "Traditional Unionist Voice": "#0C3A6A",
+    "Independent": "#AAAAAA",
+    "Speaker": "#AAAAAA",
+    "Restore Britain": "#7F3F98",
+    "Your Party": "#999999"
+  },
+  "category_labels": {
+    "1.1": "Freelance Enterprise",
+    "1.2": "Retained Services",
+    "2": "Philanthropic Support",
+    "3": "Lifestyle Benefits",
+    "4": "International Fact-Finding",
+    "5": "Diplomatic Gifts"
+  }
+}

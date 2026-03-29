@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Philanthropists — The Westminster 100</title>
+  <meta name="description" content="Westminster's most generous souls — MPs who gave away shareholder value for the greater good.">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <h1 class="site-title">The Westminster 100</h1>
+    <p class="site-tagline">The Definitive Guide to Parliamentary Prosperity</p>
+    <nav class="main-nav">
+      <a href="index.html" class="nav-link">The List</a>
+      <a href="parties.html" class="nav-link">The Franchises</a>
+      <a href="donors.html" class="nav-link">The Patrons</a>
+      <a href="philanthropists.html" class="nav-link">The Philanthropists</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>The Philanthropists</h2>
+    <p class="subtitle">Members who gave away perfectly good earnings &mdash; a baffling strategy in any market</p>
+    <div class="hero-stats">
+      <div class="hero-stat">
+        <span class="value" id="hero-donated" style="color:#6ABF6A">—</span>
+        <span class="label">Total Donated Onwards</span>
+      </div>
+      <div class="hero-stat">
+        <span class="value" id="hero-philanthropists" style="color:#6ABF6A">—</span>
+        <span class="label">Charitable Members</span>
+      </div>
+    </div>
+  </section>
+
+  <hr class="gold-rule">
+
+  <!-- TOP PHILANTHROPISTS -->
+  <section class="section">
+    <div class="section-header">
+      <h3>The Giving Podium</h3>
+      <p class="section-subtitle">Giving away shareholder value since time immemorial</p>
+    </div>
+    <div class="podium" id="philanthropist-podium"></div>
+  </section>
+
+  <hr class="gold-rule">
+
+  <!-- FULL TABLE -->
+  <section class="section">
+    <div class="section-header">
+      <h3>The Honour Roll</h3>
+      <p class="section-subtitle">Every penny donated &mdash; a loss to the portfolio, a gain for society</p>
+    </div>
+    <div class="data-table-wrap">
+      <table class="data-table" id="philanthropist-table">
+        <thead>
+          <tr>
+            <th data-sort="num" class="col-num">Rank</th>
+            <th data-sort="text">Member</th>
+            <th data-sort="text">Party</th>
+            <th data-sort="num" class="col-num">Total Donated</th>
+            <th data-sort="num" class="col-num">Donations</th>
+            <th data-sort="text">Donated To</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <p class="disclaimer">
+      All data sourced from the <a href="https://interests.parliament.uk/" target="_blank">UK Parliamentary Register of Members' Financial Interests</a>.
+      These payments were received by MPs but donated onwards to charity, community organisations, or other causes.
+    </p>
+    <p class="gen-date"></p>
+  </footer>
+
+  <script src="js/utils.js"></script>
+  <script src="js/charts.js"></script>
+  <script src="js/philanthropists.js"></script>
+</body>
+</html>

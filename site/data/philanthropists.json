@@ -1,0 +1,361 @@
+[
+  {
+    "mnis_id": 4483,
+    "name": "Rishi Sunak",
+    "party": "Conservative",
+    "constituency": "Richmond and Northallerton",
+    "thumbnail_url": "https://members-api.parliament.uk/api/Members/4483/Thumbnail",
+    "total_donated": 1498044.13,
+    "donations": [
+      {
+        "amount": 1096544.13,
+        "payer": "Goldman Sachs International",
+        "donated_to": "Charity",
+        "category": "1.2",
+        "date": "2026-02-16"
+      },
+      {
+        "amount": 373000.0,
+        "payer": "Anthropic Public Benefit Corporation",
+        "donated_to": "Charity",
+        "category": "1.2",
+        "date": "2026-01-09"
+      },
+      {
+        "amount": 28500.0,
+        "payer": "Times Media Limited",
+        "donated_to": "Charity",
+        "category": "1.2",
+        "date": "2026-02-02"
+      }
+    ],
+    "rank": 1
+  },
+  {
+    "mnis_id": 4051,
+    "name": "John Glen",
+    "party": "Conservative",
+    "constituency": "Salisbury",
+    "thumbnail_url": "https://members-api.parliament.uk/api/Members/4051/Thumbnail",
+    "total_donated": 60000.0,
+    "donations": [
+      {
+        "amount": 60000.0,
+        "payer": "Open Banking Limited",
+        "donated_to": "Community organisation",
+        "category": "1.2",
+        "date": "2026-02-09"
+      }
+    ],
+    "rank": 2
+  },
+  {
+    "mnis_id": 1572,
+    "name": "Sir Jeremy Hunt",
+    "party": "Conservative",
+    "constituency": "Godalming and Ash",
+    "thumbnail_url": "https://members-api.parliament.uk/api/Members/1572/Thumbnail",
+    "total_donated": 59000.0,
+    "donations": [
+      {
+        "amount": 35000.0,
+        "payer": "RL Datix (EBT) Ltd",
+        "donated_to": "Charity",
+        "category": "1.1",
+        "date": "2026-02-16"
+      },
+      {
+        "amount": 24000.0,
+        "payer": "Bank of America, N.A. London",
+        "donated_to": "Charity",
+        "category": "1.1",
+        "date": "2025-09-22"
+      }
+    ],
+    "rank": 3
+  },
+  {
+    "mnis_id": 4074,
+    "name": "Mark Garnier",
+    "party": "Conservative",
+    "constituency": "Wyre Forest",
+    "thumbnail_url": "https://members-api.parliament.uk/api/Members/4074/Thumbnail",
+    "total_donated": 8500.0,
+    "donations": [
+      {
+        "amount": 8000.0,
+        "payer": "Super Sharp Space Systems",
+        "donated_to": "Other",
+        "category": "1.2",
+        "date": "2023-09-01"
+      },
+      {
+        "amount": 500.0,
+        "payer": "Super Sharp Space Systems",
+        "donated_to": "Other",
+        "category": "1.2",
+        "date": "2024-07-24"
+      }
+    ],
+    "rank": 4
+  },
+  {
+    "mnis_id": 3991,
+    "name": "Jesse Norman",
+    "party": "Conservative",
+    "constituency": "Hereford and South Herefordshire",
+    "thumbnail_url": "https://members-api.parliament.uk/api/Members/3991/Thumbnail",
+    "total_donated": 3769.21,
+    "donations": [
+      {
+        "amount": 3093.72,
+        "payer": "Liberty Fund Inc",
+        "donated_to": "Charity",
+        "category": "1.1",
+        "date": "2025-02-27"
+      },
+      {
+        "amount": 675.49,
+        "payer": "Liberty Fund Inc",
+        "donated_to": "Charity",
+        "category": "1.1",
+        "date": "2025-09-30"
+      }
+    ],
+    "rank": 5
+  },
+  {
+    "mnis_id": 4462,
+    "name": "Tom Tugendhat",
+    "party": "Conservative",
+    "constituency": "Tonbridge",
+    "thumbnail_url": "https://members-api.parliament.uk/api/Members/4462/Thumbnail",
+    "total_donated": 3200.0,
+    "donations": [
+      {
+        "amount": 3200.0,
+        "payer": "Defaqto",
+        "donated_to": "Charity",
+        "category": "1.1",
+        "date": "2025-12-11"
+      }
+    ],
+    "rank": 6
+  },
+  {
+    "mnis_id": 1489,
+    "name": "Dawn Butler",
+    "party": "Labour",
+    "constituency": "Brent East",
+    "thumbnail_url": "https://members-api.parliament.uk/api/Members/1489/Thumbnail",
+    "total_donated": 2500.0,
+    "donations": [
+      {
+        "amount": 2500.0,
+        "payer": "Gibson, Dunn & Crutcher LLP",
+        "donated_to": "Other",
+        "category": "1.1",
+        "date": "2025-11-10"
+      }
+    ],
+    "rank": 7
+  },
+  {
+    "mnis_id": 5102,
+    "name": "Carla Denyer",
+    "party": "Green Party",
+    "constituency": "Bristol Central",
+    "thumbnail_url": "https://members-api.parliament.uk/api/Members/5102/Thumbnail",
+    "total_donated": 1800.0,
+    "donations": [
+      {
+        "amount": 1800.0,
+        "payer": "ITV Studios Limited",
+        "donated_to": "Charity",
+        "category": "1.1",
+        "date": "2025-12-08"
+      }
+    ],
+    "rank": 8
+  },
+  {
+    "mnis_id": 227,
+    "name": "Andrew George",
+    "party": "Liberal Democrat",
+    "constituency": "St Ives",
+    "thumbnail_url": "https://members-api.parliament.uk/api/Members/227/Thumbnail",
+    "total_donated": 1530.66,
+    "donations": [
+      {
+        "amount": 1530.66,
+        "payer": "Cornwall Council",
+        "donated_to": "Community organisation",
+        "category": "1.2",
+        "date": "2024-08-04"
+      }
+    ],
+    "rank": 9
+  },
+  {
+    "mnis_id": 4657,
+    "name": "Anneliese Dodds",
+    "party": "Labour (Co-op)",
+    "constituency": "Oxford East",
+    "thumbnail_url": "https://members-api.parliament.uk/api/Members/4657/Thumbnail",
+    "total_donated": 1000.0,
+    "donations": [
+      {
+        "amount": 1000.0,
+        "payer": "The Oxford Study Abroad Programme (OSAP)",
+        "donated_to": "Community organisation",
+        "category": "1.1",
+        "date": "2025-03-20"
+      }
+    ],
+    "rank": 10
+  },
+  {
+    "mnis_id": 1536,
+    "name": "Emily Thornberry",
+    "party": "Labour",
+    "constituency": "Islington South and Finsbury",
+    "thumbnail_url": "https://members-api.parliament.uk/api/Members/1536/Thumbnail",
+    "total_donated": 1000.0,
+    "donations": [
+      {
+        "amount": 1000.0,
+        "payer": "Global Media Group",
+        "donated_to": "Charity",
+        "category": "1.1",
+        "date": "2025-04-25"
+      }
+    ],
+    "rank": 11
+  },
+  {
+    "mnis_id": 5301,
+    "name": "Rebecca Smith",
+    "party": "Conservative",
+    "constituency": "South West Devon",
+    "thumbnail_url": "https://members-api.parliament.uk/api/Members/5301/Thumbnail",
+    "total_donated": 997.0,
+    "donations": [
+      {
+        "amount": 997.0,
+        "payer": "Plymouth City Council",
+        "donated_to": "Community organisation",
+        "category": "1.2",
+        "date": "2024-08-01"
+      }
+    ],
+    "rank": 12
+  },
+  {
+    "mnis_id": 4651,
+    "name": "Dan Carden",
+    "party": "Labour",
+    "constituency": "Liverpool Walton",
+    "thumbnail_url": "https://members-api.parliament.uk/api/Members/4651/Thumbnail",
+    "total_donated": 850.0,
+    "donations": [
+      {
+        "amount": 850.0,
+        "payer": "Associated Newspapers Ltd (ANMFS Ltd)",
+        "donated_to": "Charity",
+        "category": "1.1",
+        "date": "2026-01-29"
+      }
+    ],
+    "rank": 13
+  },
+  {
+    "mnis_id": 4107,
+    "name": "Dame Harriett Baldwin",
+    "party": "Conservative",
+    "constituency": "West Worcestershire",
+    "thumbnail_url": "https://members-api.parliament.uk/api/Members/4107/Thumbnail",
+    "total_donated": 760.0,
+    "donations": [
+      {
+        "amount": 760.0,
+        "payer": "MHP Group",
+        "donated_to": "Charity",
+        "category": "1.1",
+        "date": "2026-01-15"
+      }
+    ],
+    "rank": 14
+  },
+  {
+    "mnis_id": 5182,
+    "name": "Charlotte Cane",
+    "party": "Liberal Democrat",
+    "constituency": "Ely and East Cambridgeshire",
+    "thumbnail_url": "https://members-api.parliament.uk/api/Members/5182/Thumbnail",
+    "total_donated": 691.43,
+    "donations": [
+      {
+        "amount": 691.43,
+        "payer": "East Cambridgeshire District Council",
+        "donated_to": "Charity",
+        "category": "1.2",
+        "date": "2024-08-01"
+      }
+    ],
+    "rank": 15
+  },
+  {
+    "mnis_id": 5296,
+    "name": "Freddie van Mierlo",
+    "party": "Liberal Democrat",
+    "constituency": "Henley and Thame",
+    "thumbnail_url": "https://members-api.parliament.uk/api/Members/5296/Thumbnail",
+    "total_donated": 522.91,
+    "donations": [
+      {
+        "amount": 522.91,
+        "payer": "South Oxfordshire District Council",
+        "donated_to": "Local party organisation",
+        "category": "1.2",
+        "date": "2024-07-25"
+      }
+    ],
+    "rank": 16
+  },
+  {
+    "mnis_id": 5252,
+    "name": "Rachel Gilmour",
+    "party": "Liberal Democrat",
+    "constituency": "Tiverton and Minehead",
+    "thumbnail_url": "https://members-api.parliament.uk/api/Members/5252/Thumbnail",
+    "total_donated": 500.0,
+    "donations": [
+      {
+        "amount": 500.0,
+        "payer": "Mid Devon District Council",
+        "donated_to": "Charity",
+        "category": "1.2",
+        "date": "2024-07-24"
+      }
+    ],
+    "rank": 17
+  },
+  {
+    "mnis_id": 5030,
+    "name": "Dr Simon Opher",
+    "party": "Labour",
+    "constituency": "Stroud",
+    "thumbnail_url": "https://members-api.parliament.uk/api/Members/5030/Thumbnail",
+    "total_donated": 500.0,
+    "donations": [
+      {
+        "amount": 500.0,
+        "payer": "Mail on Sunday",
+        "donated_to": "Other",
+        "category": "1.1",
+        "date": "2025-03-20"
+      }
+    ],
+    "rank": 18
+  }
+]
