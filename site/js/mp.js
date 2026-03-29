@@ -103,7 +103,7 @@ function renderPayers(mp) {
   mp.top_payers.forEach(p => {
     const tr = document.createElement('tr');
     tr.innerHTML = `
-      <td><a href="patron.html?id=${encodeURIComponent(p.name)}">${esc(p.name)}</a></td>
+      <td><a href="patron.html?name=${encodeURIComponent(p.name)}">${esc(p.name)}</a></td>
       <td class="col-num" data-value="${p.total}">${formatCurrencyFull(p.total)}</td>
     `;
     tbody.appendChild(tr);
