@@ -153,12 +153,12 @@ function renderPayments(payments) {
     const tr = document.createElement('tr');
     tr.innerHTML = `
       <td>${esc(p.payer)}</td>
-      <td>${CAT_LABELS[p.category] || p.category}</td>
+      <td class="col-hide-xs">${CAT_LABELS[p.category] || p.category}</td>
       <td>${esc(p.payment_type)}</td>
       <td class="col-num" data-value="${p.amount}">${amountStr}</td>
       <td style="white-space:nowrap">${dateStr}</td>
-      <td style="font-size:0.8rem;max-width:250px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap" title="${esc(desc)}">${esc(shortDesc)}</td>
-      <td style="font-size:0.75rem">${flags.join(' ')}</td>
+      <td class="col-hide-xs" style="font-size:0.8rem;max-width:250px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap" title="${esc(desc)}">${esc(shortDesc)}</td>
+      <td class="col-hide-xs" style="font-size:0.75rem">${flags.join(' ')}</td>
     `;
     tbody.appendChild(tr);
   });

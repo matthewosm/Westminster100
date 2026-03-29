@@ -143,10 +143,10 @@ function renderDonorTable(donors) {
     tr.innerHTML = `
       <td class="col-rank">${i + 1}</td>
       <td><a href="patron.html?id=${d.payer_id}">${escapeHTML(d.canonical_name)}</a></td>
-      <td>${escapeHTML(d.donor_status)}</td>
+      <td class="col-hide-xs">${escapeHTML(d.donor_status)}</td>
       <td class="col-num" data-value="${d.mp_count}">${d.mp_count}</td>
-      <td class="col-num" data-value="${d.total_monetary}">${formatCurrencyFull(d.total_monetary)}</td>
-      <td class="col-num" data-value="${d.total_inkind}">${formatCurrency(d.total_inkind)}</td>
+      <td class="col-num col-hide-xs" data-value="${d.total_monetary}">${formatCurrencyFull(d.total_monetary)}</td>
+      <td class="col-num col-hide-xs" data-value="${d.total_inkind}">${formatCurrency(d.total_inkind)}</td>
       <td class="col-num" data-value="${d.total_amount}">${formatCurrencyFull(d.total_amount)}</td>
     `;
     tbody.appendChild(tr);

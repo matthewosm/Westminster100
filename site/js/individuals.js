@@ -128,11 +128,11 @@ function renderRetained(individuals) {
           <span class="party-dot" style="background:${getPartyColour(mp.party)}"></span>
           <a href="mp.html?id=${mp.mnis_id}">${escapeHTML(mp.name)}</a>
         </td>
-        <td><a href="party.html?name=${encodeURIComponent(mp.party)}">${escapeHTML(mp.party)}</a></td>
+        <td class="col-hide-xs"><a href="party.html?name=${encodeURIComponent(mp.party)}">${escapeHTML(mp.party)}</a></td>
         <td>${escapeHTML(payment.payer)}</td>
-        <td>${escapeHTML(payment.job_title || '—')}</td>
+        <td class="col-hide-xs">${escapeHTML(payment.job_title || '—')}</td>
         <td class="col-num" data-value="${payment.annual_rate}">${formatCurrencyFull(payment.annual_rate)}<span style="color:#999;font-size:0.75rem">/yr</span></td>
-        <td>${payment.start_date || '—'}</td>
+        <td class="col-hide-xs">${payment.start_date || '—'}</td>
       `;
       tbody.appendChild(tr);
     });
@@ -156,10 +156,10 @@ function renderLeaderboard(individuals) {
         <a href="mp.html?id=${mp.mnis_id}">${escapeHTML(mp.name)}</a>
       </td>
       <td><a href="party.html?name=${encodeURIComponent(mp.party)}">${escapeHTML(mp.party)}</a></td>
-      <td>${escapeHTML(mp.constituency || '')}</td>
+      <td class="col-hide-xs">${escapeHTML(mp.constituency || '')}</td>
       <td class="col-num" data-value="${mp.total_monetary_12m}">${formatCurrencyFull(mp.total_monetary_12m)}</td>
-      <td class="col-num" data-value="${mp.total_inkind_12m}">${formatCurrency(mp.total_inkind_12m)}</td>
-      <td class="col-num" data-value="${activeCats}">${activeCats}</td>
+      <td class="col-num col-hide-xs" data-value="${mp.total_inkind_12m}">${formatCurrency(mp.total_inkind_12m)}</td>
+      <td class="col-num col-hide-xs" data-value="${activeCats}">${activeCats}</td>
     `;
     tbody.appendChild(tr);
   });
