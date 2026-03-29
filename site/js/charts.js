@@ -63,13 +63,16 @@ function drawHorizontalBars(canvas, bars, opts = {}) {
   const gap = opts.gap || 6;
   const labelWidth = opts.labelWidth || 140;
   const valueWidth = opts.valueWidth || 80;
-  const maxBarWidth = opts.maxBarWidth || 300;
-  const width = labelWidth + maxBarWidth + valueWidth + 20;
+
+  // Fill parent container width
+  const containerWidth = canvas.parentElement ? canvas.parentElement.clientWidth : 600;
+  const width = Math.max(containerWidth, 400);
+  const maxBarWidth = width - labelWidth - valueWidth - 20;
   const height = bars.length * (barHeight + gap) + gap;
 
   canvas.width = width * dpr;
   canvas.height = height * dpr;
-  canvas.style.width = width + 'px';
+  canvas.style.width = '100%';
   canvas.style.height = height + 'px';
 
   const ctx = canvas.getContext('2d');
