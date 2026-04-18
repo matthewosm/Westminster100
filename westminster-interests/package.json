@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
+    "postbuild": "pagefind --site dist",
     "preview": "astro preview",
     "check": "astro check",
     "test": "vitest run",
@@ -15,6 +16,7 @@
     "@astrojs/mdx": "^5.0.0",
     "@astrojs/sitemap": "^3.7.0",
     "@pagefind/default-ui": "^1.4.0",
+    "pagefind": "^1.4.0",
     "@tailwindcss/vite": "^4.0.0",
     "astro": "^6.1.4",
     "gridjs": "^6.2.0",

@@ -1,0 +1,38 @@
+---
+// Old `/patron/[id]` URLs used raw payer IDs. The rebuild uses
+// canonical master payer IDs, so the id space no longer maps 1:1.
+// Land on the payer index rather than risk routing to the wrong
+// entity. Anyone deep-linking can rediscover via search.
+
+export function getStaticPaths() {
+  // Enumerate a small set of raw IDs (1–2000) so any historic bookmark
+  // lands on a real HTML file. These redirects are defensive — the old
+  // site never launched publicly.
+  const paths = [];
+  for (let i = 1; i <= 2000; i++) {
+    paths.push({ params: { id: String(i) }, props: { id: String(i) } });
+  }
+  return paths;
+}
+
+const { id } = Astro.props as { id: string };
+const target = "/payers";
+---
+
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8" />
+    <title>Redirecting…</title>
+    <meta http-equiv="refresh" content={`0; url=${target}`} />
+    <link rel="canonical" href={target} />
+    <meta name="robots" content="noindex" />
+  </head>
+  <body>
+    <p>
+      Redirecting to <a href={target}>the payer index</a>. Old payer ID
+      {id} has been re-scoped to canonical records; search for the
+      funder by name.
+    </p>
+  </body>
+</html>

@@ -1,0 +1,39 @@
+---
+// Pagefind search mounted in the site header. Wired up at build time
+// via `pagefind --site dist` (postbuild). The first visit triggers a
+// one-off JSON index fetch; subsequent searches hit the client cache.
+---
+
+<div id="search" class="wi-search" data-pagefind-ignore></div>
+
+<style>
+  /* Tune the default Pagefind UI to match the monochrome/civic theme. */
+  .wi-search {
+    --pagefind-ui-primary: var(--color-accent-600);
+    --pagefind-ui-text: var(--color-foreground);
+    --pagefind-ui-background: var(--color-surface);
+    --pagefind-ui-border: var(--color-border);
+    --pagefind-ui-tag: var(--color-ink-100);
+    --pagefind-ui-border-radius: 0.375rem;
+    --pagefind-ui-font: var(--font-sans);
+    min-width: 18rem;
+  }
+</style>
+
+<script>
+  import "@pagefind/default-ui/css/ui.css";
+  // @ts-expect-error — @pagefind/default-ui has no types bundled
+  import { PagefindUI } from "@pagefind/default-ui";
+
+  window.addEventListener("DOMContentLoaded", () => {
+    const el = document.getElementById("search");
+    if (!el) return;
+    new PagefindUI({
+      element: el,
+      showSubResults: true,
+      showImages: false,
+      resetStyles: false,
+      bundlePath: "/pagefind/",
+    });
+  });
+</script>

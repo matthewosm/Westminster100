@@ -1,5 +1,6 @@
 ---
 import "@/styles/theme.css";
+import Search from "@/components/Search.astro";
 
 interface Props {
   title: string;
@@ -35,7 +36,7 @@ const {
   </head>
   <body>
     <header class="border-b" style="border-color: var(--color-border)" data-pagefind-ignore>
-      <div class="mx-auto max-w-6xl px-4 py-4 flex items-center justify-between">
+      <div class="mx-auto max-w-6xl px-4 py-4 flex items-center justify-between gap-4 flex-wrap">
         <a href="/" class="font-serif text-xl font-semibold no-underline" style="color: var(--color-foreground)">
           Westminster Interests
         </a>
@@ -46,6 +47,7 @@ const {
           <a href="/appgs">APPGs</a>
           <a href="/methodology">Methodology</a>
         </nav>
+        <Search />
       </div>
     </header>
 

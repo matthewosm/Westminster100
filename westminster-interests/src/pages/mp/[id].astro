@@ -1,0 +1,31 @@
+---
+import { allMembers } from "@/lib/data";
+
+export async function getStaticPaths() {
+  return allMembers().map((m) => ({
+    params: { id: String(m.mnis_id) },
+    props: { id: String(m.mnis_id) },
+  }));
+}
+
+interface Props {
+  id: string;
+}
+
+const { id } = Astro.props;
+const target = `/member/${id}`;
+---
+
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8" />
+    <title>Redirecting…</title>
+    <meta http-equiv="refresh" content={`0; url=${target}`} />
+    <link rel="canonical" href={target} />
+    <meta name="robots" content="noindex" />
+  </head>
+  <body>
+    <p>Redirecting to <a href={target}>{target}</a>.</p>
+  </body>
+</html>
