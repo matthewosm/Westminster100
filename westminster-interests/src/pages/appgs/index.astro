@@ -1,0 +1,85 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import WindowSelector from "@/components/WindowSelector.astro";
+import GridIsland from "@/components/GridIsland.astro";
+import SummaryChart from "@/components/SummaryChart.astro";
+import AsOfFooter from "@/components/AsOfFooter.astro";
+import { formatGbp, formatNumber } from "@/lib/format";
+import { DEFAULT_WINDOW } from "@/types/window";
+import type { AppgIndexRow } from "@/types/appg";
+
+import appgsJson from "@/data/index/appgs.json";
+
+const appgs = appgsJson as unknown as AppgIndexRow[];
+const sorted = [...appgs].sort(
+  (a, b) =>
+    b.totals[DEFAULT_WINDOW].combined - a.totals[DEFAULT_WINDOW].combined,
+);
+
+const top10 = sorted
+  .filter((a) => a.totals[DEFAULT_WINDOW].combined > 0)
+  .slice(0, 10)
+  .map((a) => ({
+    label: a.title,
+    value: a.totals[DEFAULT_WINDOW].combined,
+    href: `/appg/${a.slug}`,
+  }));
+---
+
+<BaseLayout
+  title="APPGs"
+  description="All-Party Parliamentary Groups, backed by the mySociety canonical register."
+>
+  <section class="py-4" data-pagefind-ignore>
+    <h1 class="text-3xl mb-2">All-Party Parliamentary Groups</h1>
+    <p class="text-sm max-w-2xl" style="color: var(--color-muted);">
+      APPGs that received in-kind support, sponsorship, or attention from
+      funders registered against MPs' interests. Backed by the
+      <a href="https://pages.mysociety.org/appg_membership" target="_blank" rel="noopener">
+        mySociety APPG dataset ↗
+      </a>.
+    </p>
+    <div class="mt-4">
+      <WindowSelector />
+    </div>
+  </section>
+
+  <section class="py-4" data-pagefind-ignore>
+    <h2 class="text-sm font-semibold uppercase tracking-wide" style="color: var(--color-muted);">
+      Top APPGs by linked-payment value — trailing 12 months
+    </h2>
+    <SummaryChart rows={top10} />
+  </section>
+
+  <section class="py-2">
+    <GridIsland search paginate={50}>
+      <table class="w-full">
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Categories</th>
+            <th class="text-right">Linked value (12m)</th>
+            <th class="text-right">Members</th>
+            <th class="text-right">Officers</th>
+          </tr>
+        </thead>
+        <tbody>
+          {sorted.map((a) => {
+            const t = a.totals[DEFAULT_WINDOW];
+            return (
+              <tr>
+                <td><a href={`/appg/${a.slug}`}>{a.title}</a></td>
+                <td style="color: var(--color-muted);">{a.categories.join(", ") || "—"}</td>
+                <td class="text-right tabular-nums">{formatGbp(t.combined)}</td>
+                <td class="text-right tabular-nums">{formatNumber(a.member_count)}</td>
+                <td class="text-right tabular-nums">{formatNumber(a.officer_count)}</td>
+              </tr>
+            );
+          })}
+        </tbody>
+      </table>
+    </GridIsland>
+  </section>
+
+  <AsOfFooter />
+</BaseLayout>

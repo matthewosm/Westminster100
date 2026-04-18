@@ -1,0 +1,162 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import WindowSelector from "@/components/WindowSelector.astro";
+import PartyTag from "@/components/PartyTag.astro";
+import SummaryChart from "@/components/SummaryChart.astro";
+import AsOfFooter from "@/components/AsOfFooter.astro";
+import { formatGbp, formatNumber } from "@/lib/format";
+import { DEFAULT_WINDOW } from "@/types/window";
+import type { PartyIndexRow } from "@/types/party";
+import type { MemberIndexRow } from "@/types/member";
+
+import partiesJson from "@/data/index/parties.json";
+import membersJson from "@/data/index/members.json";
+
+const parties = partiesJson as unknown as PartyIndexRow[];
+const members = membersJson as unknown as MemberIndexRow[];
+
+export async function getStaticPaths() {
+  const { default: parties } = await import("@/data/index/parties.json");
+  const { default: members } = await import("@/data/index/members.json");
+  return (parties as PartyIndexRow[]).map((party) => ({
+    params: { slug: party.party_slug },
+    props: {
+      party,
+      members: (members as MemberIndexRow[]).filter(
+        (m) => m.party_slug === party.party_slug,
+      ),
+    },
+  }));
+}
+
+interface Props {
+  party: PartyIndexRow;
+  members: MemberIndexRow[];
+}
+
+const { party, members: partyMembers } = Astro.props;
+void parties;
+void members;
+
+const activeWindow = DEFAULT_WINDOW;
+const activeTotals = party.totals[activeWindow];
+
+const sortedMembers = [...partyMembers].sort(
+  (a, b) =>
+    b.totals[activeWindow].combined - a.totals[activeWindow].combined,
+);
+
+const top10 = sortedMembers
+  .filter((m) => m.totals[activeWindow].combined > 0)
+  .slice(0, 10)
+  .map((m) => ({
+    label: m.name,
+    value: m.totals[activeWindow].combined,
+    href: `/member/${m.mnis_id}`,
+  }));
+---
+
+<BaseLayout
+  title={party.party}
+  description={`${party.party} — aggregated declared financial interests.`}
+>
+  <section class="py-4" data-pagefind-body>
+    <h1 class="text-3xl mb-1 flex items-center gap-3">
+      <PartyTag party={party.party} />
+      <span>{party.party}</span>
+    </h1>
+    <p class="text-sm" style="color: var(--color-muted);">
+      {formatNumber(party.member_count)} members in this Parliament.
+    </p>
+  </section>
+
+  <section class="py-2" data-pagefind-ignore>
+    <WindowSelector />
+  </section>
+
+  <section
+    class="py-4 grid gap-3 md:grid-cols-4"
+    data-totals-block
+    data-totals-json={JSON.stringify(party.totals)}
+  >
+    <div class="border rounded-md p-3" style="border-color: var(--color-border); background: var(--color-surface);">
+      <div class="text-xs uppercase tracking-wide" style="color: var(--color-muted);">Members</div>
+      <div class="text-2xl font-serif mt-1 tabular-nums">{formatNumber(party.member_count)}</div>
+    </div>
+    <div class="border rounded-md p-3" style="border-color: var(--color-border); background: var(--color-surface);">
+      <div class="text-xs uppercase tracking-wide" style="color: var(--color-muted);">Total value</div>
+      <div class="text-2xl font-serif mt-1 tabular-nums" data-totals-field="combined" data-unit="currency">{formatGbp(activeTotals.combined)}</div>
+    </div>
+    <div class="border rounded-md p-3" style="border-color: var(--color-border); background: var(--color-surface);">
+      <div class="text-xs uppercase tracking-wide" style="color: var(--color-muted);">Monetary</div>
+      <div class="text-2xl font-serif mt-1 tabular-nums" data-totals-field="monetary" data-unit="currency">{formatGbp(activeTotals.monetary)}</div>
+    </div>
+    <div class="border rounded-md p-3" style="border-color: var(--color-border); background: var(--color-surface);">
+      <div class="text-xs uppercase tracking-wide" style="color: var(--color-muted);">In kind</div>
+      <div class="text-2xl font-serif mt-1 tabular-nums" data-totals-field="inkind" data-unit="currency">{formatGbp(activeTotals.inkind)}</div>
+    </div>
+  </section>
+
+  <section class="py-4">
+    <h2 class="text-sm font-semibold uppercase tracking-wide mb-2" style="color: var(--color-muted);">
+      Top {party.party} members — trailing 12 months
+    </h2>
+    <SummaryChart rows={top10} />
+  </section>
+
+  <section class="py-6">
+    <h2 class="text-xl mb-3">Members</h2>
+    <table class="w-full">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Constituency</th>
+          <th class="text-right">Total (12m)</th>
+          <th class="text-right">Payments (12m)</th>
+        </tr>
+      </thead>
+      <tbody>
+        {sortedMembers.map((m) => {
+          const t = m.totals[activeWindow];
+          return (
+            <tr>
+              <td><a href={`/member/${m.mnis_id}`}>{m.name}</a></td>
+              <td>{m.constituency ?? "—"}</td>
+              <td class="text-right tabular-nums">{formatGbp(t.combined)}</td>
+              <td class="text-right tabular-nums">{formatNumber(t.payment_count)}</td>
+            </tr>
+          );
+        })}
+      </tbody>
+    </table>
+  </section>
+
+  <AsOfFooter />
+</BaseLayout>
+
+<script>
+  import { DEFAULT_WINDOW, isWindow } from "@/types/window";
+  import type { Window } from "@/types/window";
+  import type { TotalsByWindow, WindowTotals } from "@/types/totals";
+
+  const GBP = new Intl.NumberFormat("en-GB", { style: "currency", currency: "GBP", maximumFractionDigits: 0 });
+
+  const totalsBlock = document.querySelector<HTMLElement>("[data-totals-block]");
+  const totalsByWindow = totalsBlock
+    ? (JSON.parse(totalsBlock.dataset.totalsJson ?? "{}") as TotalsByWindow)
+    : null;
+  const totalsFields = document.querySelectorAll<HTMLElement>("[data-totals-field]");
+
+  document.addEventListener("window:change", (event) => {
+    if (!totalsByWindow) return;
+    const detail = (event as CustomEvent).detail as { window: string };
+    const win: Window = isWindow(detail.window) ? detail.window : DEFAULT_WINDOW;
+    const bucket = totalsByWindow[win] as WindowTotals | undefined;
+    if (!bucket) return;
+    totalsFields.forEach((el) => {
+      const field = el.dataset.totalsField as keyof WindowTotals;
+      const raw = bucket[field] as number | undefined;
+      if (typeof raw === "number") el.textContent = GBP.format(raw);
+    });
+  });
+</script>

@@ -1,0 +1,76 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import WindowSelector from "@/components/WindowSelector.astro";
+import SummaryChart from "@/components/SummaryChart.astro";
+import AsOfFooter from "@/components/AsOfFooter.astro";
+import { formatGbp, formatNumber } from "@/lib/format";
+import { DEFAULT_WINDOW } from "@/types/window";
+import type { PartyIndexRow } from "@/types/party";
+
+import partiesJson from "@/data/index/parties.json";
+
+const parties = partiesJson as unknown as PartyIndexRow[];
+const sorted = [...parties].sort(
+  (a, b) =>
+    b.totals[DEFAULT_WINDOW].combined - a.totals[DEFAULT_WINDOW].combined,
+);
+
+const chartRows = sorted
+  .filter((p) => p.totals[DEFAULT_WINDOW].combined > 0)
+  .slice(0, 10)
+  .map((p) => ({
+    label: p.party,
+    value: p.totals[DEFAULT_WINDOW].combined,
+    href: `/party/${p.party_slug}`,
+  }));
+---
+
+<BaseLayout title="Parties" description="Party-level aggregates of MPs' declared financial interests.">
+  <section class="py-4" data-pagefind-ignore>
+    <h1 class="text-3xl mb-2">Parties</h1>
+    <p class="text-sm max-w-2xl" style="color: var(--color-muted);">
+      Party-level aggregates of registered interests. Party tags are
+      monochrome — the register makes no case for colour-coded analysis.
+    </p>
+    <div class="mt-4">
+      <WindowSelector />
+    </div>
+  </section>
+
+  <section class="py-4" data-pagefind-ignore>
+    <h2 class="text-sm font-semibold uppercase tracking-wide" style="color: var(--color-muted);">
+      Top parties — trailing 12 months
+    </h2>
+    <SummaryChart rows={chartRows} />
+  </section>
+
+  <section class="py-2">
+    <table class="w-full">
+      <thead>
+        <tr>
+          <th>Party</th>
+          <th class="text-right">Members</th>
+          <th class="text-right">Monetary (12m)</th>
+          <th class="text-right">In kind (12m)</th>
+          <th class="text-right">Payments (12m)</th>
+        </tr>
+      </thead>
+      <tbody>
+        {sorted.map((p) => {
+          const t = p.totals[DEFAULT_WINDOW];
+          return (
+            <tr>
+              <td><a href={`/party/${p.party_slug}`}>{p.party}</a></td>
+              <td class="text-right tabular-nums">{formatNumber(p.member_count)}</td>
+              <td class="text-right tabular-nums">{formatGbp(t.monetary)}</td>
+              <td class="text-right tabular-nums">{formatGbp(t.inkind)}</td>
+              <td class="text-right tabular-nums">{formatNumber(t.payment_count)}</td>
+            </tr>
+          );
+        })}
+      </tbody>
+    </table>
+  </section>
+
+  <AsOfFooter />
+</BaseLayout>

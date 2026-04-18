@@ -1,0 +1,232 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import WindowSelector from "@/components/WindowSelector.astro";
+import PaymentFlags from "@/components/PaymentFlags.astro";
+import CitationLink from "@/components/CitationLink.astro";
+import AsOfFooter from "@/components/AsOfFooter.astro";
+import { CATEGORY_SHORT } from "@/consts";
+import { formatDate, formatGbp, formatNumber } from "@/lib/format";
+import { DEFAULT_WINDOW } from "@/types/window";
+import { allAppgs } from "@/lib/data";
+import type { Appg } from "@/types/appg";
+
+export async function getStaticPaths() {
+  return allAppgs().map((appg) => ({
+    params: { slug: appg.slug },
+    props: { appg },
+  }));
+}
+
+interface Props {
+  appg: Appg;
+}
+
+const { appg } = Astro.props;
+const activeWindow = DEFAULT_WINDOW;
+const activeTotals = appg.totals[activeWindow];
+
+const activeMembers = appg.members.filter((m) => !m.removed);
+const officers = activeMembers.filter((m) => m.is_officer);
+const rankAndFileMembers = activeMembers.filter((m) => !m.is_officer);
+---
+
+<BaseLayout
+  title={appg.title}
+  description={`${appg.title} — canonical APPG record, officers, members, and linked payments.`}
+>
+  <section class="py-4 max-w-3xl" data-pagefind-body>
+    <h1 class="text-3xl mb-1">{appg.title}</h1>
+    <div class="flex flex-wrap gap-x-3 text-sm" style="color: var(--color-muted);">
+      {appg.categories.length > 0 && <span>{appg.categories.join(" · ")}</span>}
+      {appg.date_of_most_recent_agm && (
+        <span>Most recent AGM: {formatDate(appg.date_of_most_recent_agm)}</span>
+      )}
+    </div>
+    {appg.purpose && <p class="mt-3 text-sm">{appg.purpose}</p>}
+    <div class="mt-3 flex flex-wrap gap-x-4 text-sm">
+      {appg.website && (
+        <a href={appg.website} target="_blank" rel="noopener">
+          Website ↗
+        </a>
+      )}
+      {appg.source_url && (
+        <a href={appg.source_url} target="_blank" rel="noopener">
+          Parliamentary registration ↗
+        </a>
+      )}
+      {appg.registered_contact_name && (
+        <span style="color: var(--color-muted);">
+          Contact: {appg.registered_contact_name}
+        </span>
+      )}
+    </div>
+    {appg.secretariat && (
+      <p class="mt-3 text-sm" style="color: var(--color-muted);">
+        <span class="font-semibold">Secretariat:</span> {appg.secretariat}
+      </p>
+    )}
+  </section>
+
+  <section class="py-2" data-pagefind-ignore>
+    <WindowSelector />
+  </section>
+
+  <section
+    class="py-4 grid gap-3 md:grid-cols-4"
+    data-totals-block
+    data-totals-json={JSON.stringify(appg.totals)}
+  >
+    <div class="border rounded-md p-3" style="border-color: var(--color-border); background: var(--color-surface);">
+      <div class="text-xs uppercase tracking-wide" style="color: var(--color-muted);">Linked payments</div>
+      <div class="text-2xl font-serif mt-1 tabular-nums" data-totals-field="combined" data-unit="currency">{formatGbp(activeTotals.combined)}</div>
+    </div>
+    <div class="border rounded-md p-3" style="border-color: var(--color-border); background: var(--color-surface);">
+      <div class="text-xs uppercase tracking-wide" style="color: var(--color-muted);">Monetary</div>
+      <div class="text-2xl font-serif mt-1 tabular-nums" data-totals-field="monetary" data-unit="currency">{formatGbp(activeTotals.monetary)}</div>
+    </div>
+    <div class="border rounded-md p-3" style="border-color: var(--color-border); background: var(--color-surface);">
+      <div class="text-xs uppercase tracking-wide" style="color: var(--color-muted);">In kind</div>
+      <div class="text-2xl font-serif mt-1 tabular-nums" data-totals-field="inkind" data-unit="currency">{formatGbp(activeTotals.inkind)}</div>
+    </div>
+    <div class="border rounded-md p-3" style="border-color: var(--color-border); background: var(--color-surface);">
+      <div class="text-xs uppercase tracking-wide" style="color: var(--color-muted);">Members</div>
+      <div class="text-2xl font-serif mt-1 tabular-nums">{formatNumber(activeMembers.length)}</div>
+    </div>
+  </section>
+
+  {officers.length > 0 && (
+    <section class="py-4">
+      <h2 class="text-xl mb-2">Officers</h2>
+      <ul class="grid gap-1 md:grid-cols-2 text-sm">
+        {officers.map((m) => (
+          <li>
+            {m.mnis_id ? (
+              <a href={`/member/${m.mnis_id}`}>{m.name}</a>
+            ) : (
+              m.name
+            )}
+            {m.officer_role && (
+              <span style="color: var(--color-muted);"> — {m.officer_role}</span>
+            )}
+          </li>
+        ))}
+      </ul>
+    </section>
+  )}
+
+  {rankAndFileMembers.length > 0 && (
+    <section class="py-4">
+      <h2 class="text-xl mb-2">Members</h2>
+      <ul class="grid gap-1 md:grid-cols-2 lg:grid-cols-3 text-sm">
+        {rankAndFileMembers.map((m) => (
+          <li>
+            {m.mnis_id ? (
+              <a href={`/member/${m.mnis_id}`}>{m.name}</a>
+            ) : (
+              m.name
+            )}
+            {m.member_type === "lord" && (
+              <span class="text-xs ml-1" style="color: var(--color-muted);">(Lords)</span>
+            )}
+          </li>
+        ))}
+      </ul>
+    </section>
+  )}
+
+  {appg.payments.length > 0 && (
+    <section class="py-6">
+      <h2 class="text-xl mb-3">Linked payments</h2>
+      <p class="text-sm mb-2" style="color: var(--color-muted);">
+        Payments declared against this APPG by name. Resolution from
+        free-text declarations to the canonical register entry is
+        maintained in <a href="/methodology">the methodology</a>.
+      </p>
+      <table class="w-full text-sm" data-payments-table>
+        <thead>
+          <tr>
+            <th>Date</th>
+            <th>Category</th>
+            <th>Payer</th>
+            <th class="text-right">Amount</th>
+            <th>Type</th>
+            <th>Flags</th>
+            <th>Source</th>
+          </tr>
+        </thead>
+        <tbody>
+          {appg.payments.map((p) => (
+            <tr
+              data-date={p.date ?? ""}
+              data-regular={p.is_regular ? "1" : "0"}
+              data-start={p.start_date ?? ""}
+              data-end={p.end_date ?? ""}
+            >
+              <td class="tabular-nums">{formatDate(p.date)}</td>
+              <td>{CATEGORY_SHORT[p.category] ?? p.category}</td>
+              <td>
+                {p.is_confidential_payer && <a href="/payer/confidential">Confidential</a>}
+                {!p.is_confidential_payer && p.payer_id && (
+                  <a href={`/payer/${p.payer_id}`}>{p.payer_name}</a>
+                )}
+                {!p.is_confidential_payer && !p.payer_id && (p.payer_name ?? "—")}
+              </td>
+              <td class="text-right tabular-nums">{formatGbp(p.amount, true)}</td>
+              <td>{p.payment_type}</td>
+              <td><PaymentFlags payment={p} /></td>
+              <td><CitationLink href={p.source_url} /></td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </section>
+  )}
+
+  <AsOfFooter />
+</BaseLayout>
+
+<script>
+  import { DEFAULT_WINDOW, isWindow } from "@/types/window";
+  import type { Window } from "@/types/window";
+  import type { TotalsByWindow, WindowTotals } from "@/types/totals";
+  import { windowRange, paymentInWindow } from "@/lib/windows";
+
+  const GBP = new Intl.NumberFormat("en-GB", { style: "currency", currency: "GBP", maximumFractionDigits: 0 });
+
+  const totalsBlock = document.querySelector<HTMLElement>("[data-totals-block]");
+  const totalsByWindow = totalsBlock
+    ? (JSON.parse(totalsBlock.dataset.totalsJson ?? "{}") as TotalsByWindow)
+    : null;
+  const totalsFields = document.querySelectorAll<HTMLElement>("[data-totals-field]");
+  const paymentsTable = document.querySelector<HTMLTableElement>("[data-payments-table]");
+  const asOf =
+    document.querySelector("time[datetime]")?.getAttribute("datetime") ??
+    new Date().toISOString().slice(0, 10);
+
+  document.addEventListener("window:change", (event) => {
+    const detail = (event as CustomEvent).detail as { window: string };
+    const win: Window = isWindow(detail.window) ? detail.window : DEFAULT_WINDOW;
+    if (totalsByWindow) {
+      const bucket = totalsByWindow[win] as WindowTotals | undefined;
+      if (bucket) {
+        totalsFields.forEach((el) => {
+          const field = el.dataset.totalsField as keyof WindowTotals;
+          const raw = bucket[field] as number | undefined;
+          if (typeof raw === "number") el.textContent = GBP.format(raw);
+        });
+      }
+    }
+    if (paymentsTable) {
+      const range = windowRange(win, asOf);
+      paymentsTable.querySelectorAll<HTMLTableRowElement>("tbody tr").forEach((row) => {
+        const payload = {
+          is_regular: row.dataset.regular === "1",
+          date: row.dataset.date || null,
+          start_date: row.dataset.start || null,
+          end_date: row.dataset.end || null,
+        };
+        row.style.display = paymentInWindow(payload, row.dataset.start || null, range) ? "" : "none";
+      });
+    }
+  });
+</script>
