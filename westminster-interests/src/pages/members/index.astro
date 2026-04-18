@@ -1,0 +1,101 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import WindowSelector from "@/components/WindowSelector.astro";
+import GridIsland from "@/components/GridIsland.astro";
+import SummaryChart from "@/components/SummaryChart.astro";
+import PartyTag from "@/components/PartyTag.astro";
+import AsOfFooter from "@/components/AsOfFooter.astro";
+import { formatGbp, formatNumber } from "@/lib/format";
+import { DEFAULT_WINDOW } from "@/types/window";
+import type { MemberIndexRow } from "@/types/member";
+
+import membersJson from "@/data/index/members.json";
+
+const members = membersJson as unknown as MemberIndexRow[];
+const sorted = [...members].sort(
+  (a, b) =>
+    b.totals[DEFAULT_WINDOW].combined - a.totals[DEFAULT_WINDOW].combined,
+);
+
+const top10 = sorted.slice(0, 10).map((m) => ({
+  label: `${m.name} (${m.party ?? "—"})`,
+  value: m.totals[DEFAULT_WINDOW].combined,
+  href: `/member/${m.mnis_id}`,
+}));
+---
+
+<BaseLayout
+  title="Members"
+  description="All MPs, sortable by declared interests across six reporting windows."
+>
+  <section class="py-4" data-pagefind-ignore>
+    <h1 class="text-3xl mb-2">Members</h1>
+    <p class="text-sm max-w-2xl" style="color: var(--color-muted);">
+      Every MP who sits in this Parliament, with their registered interests.
+      Totals shown for the selected window.
+    </p>
+    <div class="mt-4 flex flex-wrap items-center gap-3">
+      <WindowSelector />
+    </div>
+  </section>
+
+  <section class="py-4" data-pagefind-ignore>
+    <h2 class="text-sm font-semibold uppercase tracking-wide" style="color: var(--color-muted);">
+      Top 10 — trailing 12 months
+    </h2>
+    <SummaryChart rows={top10} />
+  </section>
+
+  <section class="py-2">
+    <GridIsland search paginate={50}>
+      <table
+        class="wi-members-table w-full"
+        data-members-json={JSON.stringify(sorted)}
+      >
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Party</th>
+            <th>Constituency</th>
+            <th class="text-right">Monetary</th>
+            <th class="text-right">In kind</th>
+            <th class="text-right">Payments</th>
+            <th class="text-right">Payers</th>
+          </tr>
+        </thead>
+        <tbody>
+          {
+            sorted.map((m) => {
+              const t = m.totals[DEFAULT_WINDOW];
+              return (
+                <tr data-mnis-id={m.mnis_id}>
+                  <td>
+                    <a href={`/member/${m.mnis_id}`}>{m.name}</a>
+                  </td>
+                  <td>
+                    <PartyTag party={m.party} />
+                  </td>
+                  <td>{m.constituency ?? "—"}</td>
+                  <td class="text-right tabular-nums" data-totals="monetary">
+                    {formatGbp(t.monetary)}
+                  </td>
+                  <td class="text-right tabular-nums" data-totals="inkind">
+                    {formatGbp(t.inkind)}
+                  </td>
+                  <td class="text-right tabular-nums" data-totals="payment_count">
+                    {formatNumber(t.payment_count)}
+                  </td>
+                  <td class="text-right tabular-nums" data-totals="donor_count">
+                    {formatNumber(t.donor_count)}
+                  </td>
+                </tr>
+              );
+            })
+          }
+        </tbody>
+      </table>
+    </GridIsland>
+  </section>
+
+  <AsOfFooter />
+</BaseLayout>

@@ -1,0 +1,348 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import WindowSelector from "@/components/WindowSelector.astro";
+import PartyTag from "@/components/PartyTag.astro";
+import PaymentFlags from "@/components/PaymentFlags.astro";
+import CitationLink from "@/components/CitationLink.astro";
+import SummaryChart from "@/components/SummaryChart.astro";
+import AsOfFooter from "@/components/AsOfFooter.astro";
+import { CATEGORY_SHORT } from "@/consts";
+import { formatDate, formatGbp, formatNumber } from "@/lib/format";
+import { DEFAULT_WINDOW, WINDOWS, WINDOW_LABELS } from "@/types/window";
+import { allMembers } from "@/lib/data";
+import type { Member } from "@/types/member";
+
+export async function getStaticPaths() {
+  return allMembers().map((member) => ({
+    params: { mnis_id: String(member.mnis_id) },
+    props: { member },
+  }));
+}
+
+interface Props {
+  member: Member;
+}
+
+const { member } = Astro.props;
+const activeWindow = DEFAULT_WINDOW;
+const activeTotals = member.totals[activeWindow];
+
+const totalsCards = [
+  {
+    field: "combined",
+    label: "Total value",
+    unit: "currency",
+    display: formatGbp(activeTotals.combined),
+  },
+  {
+    field: "monetary",
+    label: "Monetary",
+    unit: "currency",
+    display: formatGbp(activeTotals.monetary),
+  },
+  {
+    field: "inkind",
+    label: "In kind",
+    unit: "currency",
+    display: formatGbp(activeTotals.inkind),
+  },
+  {
+    field: "payment_count",
+    label: "Payments",
+    unit: "number",
+    display: formatNumber(activeTotals.payment_count),
+  },
+];
+
+// Top-10 payers per window, ranked by declared amount within that
+// window's payment set. Tables remain authoritative; this is an
+// at-a-glance "who funds this MP" view.
+const payerTotalsByWindow: Record<
+  string,
+  { id: number | null; name: string | null; total: number }[]
+> = {};
+for (const win of WINDOWS) {
+  const byPayer = new Map<
+    string,
+    { id: number | null; name: string | null; total: number }
+  >();
+  for (const p of member.payments) {
+    if (!p.payer_name) continue;
+    const key = String(p.payer_id ?? p.payer_name);
+    const prev = byPayer.get(key) ?? { id: p.payer_id, name: p.payer_name, total: 0 };
+    prev.total += p.amount;
+    byPayer.set(key, prev);
+  }
+  payerTotalsByWindow[win] = [...byPayer.values()]
+    .sort((a, b) => b.total - a.total)
+    .slice(0, 10);
+}
+
+const topPayerRows = payerTotalsByWindow[activeWindow].map((row) => ({
+  label: row.name ?? "Unknown",
+  value: row.total,
+  href: row.id ? `/payer/${row.id}` : undefined,
+}));
+
+const categories = Object.entries(member.categories);
+---
+
+<BaseLayout
+  title={member.name}
+  description={`${member.name} — registered financial interests on Westminster Interests.`}
+>
+  <section class="py-4 flex gap-4 items-start flex-wrap md:flex-nowrap" data-pagefind-body>
+    <img
+      src={member.photo_url}
+      alt=""
+      width="96"
+      height="96"
+      loading="lazy"
+      class="rounded-md border"
+      style="border-color: var(--color-border); background: var(--color-surface);"
+      onerror="this.style.visibility='hidden'"
+    />
+    <div class="flex-1 min-w-0">
+      <h1 class="text-3xl mb-1">{member.name}</h1>
+      <p class="flex gap-2 items-center flex-wrap text-sm" style="color: var(--color-muted);">
+        <PartyTag party={member.party} />
+        <span>{member.constituency ?? "—"}</span>
+        <span>·</span>
+        <span>{member.house}</span>
+        {member.start_date && <span>· Since {formatDate(member.start_date)}</span>}
+      </p>
+      <p class="mt-4 text-sm max-w-2xl" style="color: var(--color-muted);">
+        Totals shown for the selected window. Payment rows update to match.
+      </p>
+    </div>
+  </section>
+
+  <section class="py-2" data-pagefind-ignore>
+    <WindowSelector />
+  </section>
+
+  <section
+    class="py-4 grid gap-3 md:grid-cols-4"
+    data-totals-block
+    data-totals-json={JSON.stringify(member.totals)}
+  >
+    {totalsCards.map((card) => (
+      <div
+        class="border rounded-md p-3"
+        style="border-color: var(--color-border); background: var(--color-surface);"
+      >
+        <div class="text-xs uppercase tracking-wide" style="color: var(--color-muted);">
+          {card.label}
+        </div>
+        <div
+          class="text-2xl font-serif mt-1 tabular-nums"
+          data-totals-field={card.field}
+          data-unit={card.unit}
+        >
+          {card.display}
+        </div>
+      </div>
+    ))}
+  </section>
+
+  {categories.length > 0 && (
+    <section
+      class="py-2 text-sm flex flex-wrap gap-x-4 gap-y-1"
+      style="color: var(--color-muted);"
+      data-category-block
+      data-categories-json={JSON.stringify(member.categories)}
+    >
+      <span class="font-semibold">By category:</span>
+      {categories.map(([cat, catTotals]) => (
+        <span>
+          <span class="font-semibold">{CATEGORY_SHORT[cat] ?? cat}</span>{" "}
+          <span data-category-totals={cat}>{formatGbp(catTotals[activeWindow].combined)}</span>
+        </span>
+      ))}
+    </section>
+  )}
+
+  <section
+    class="py-6"
+    data-payers-chart
+    data-payers-json={JSON.stringify(payerTotalsByWindow)}
+  >
+    <h2 class="text-sm font-semibold uppercase tracking-wide mb-2" style="color: var(--color-muted);">
+      Top payers — <span data-active-window-label>{WINDOW_LABELS[activeWindow]}</span>
+    </h2>
+    <SummaryChart rows={topPayerRows} />
+  </section>
+
+  {member.appg_memberships.length > 0 && (
+    <section class="py-6">
+      <h2 class="text-xl mb-3">APPG memberships</h2>
+      <ul class="grid gap-2 md:grid-cols-2 text-sm">
+        {member.appg_memberships.map((m) => (
+          <li>
+            <a href={`/appg/${m.appg_slug}`}>{m.appg_name}</a>
+            {m.officer_role && (
+              <span style="color: var(--color-muted);"> — {m.officer_role}</span>
+            )}
+          </li>
+        ))}
+      </ul>
+    </section>
+  )}
+
+  <section class="py-6">
+    <h2 class="text-xl mb-3">Registered payments</h2>
+    {member.payments.length === 0 && <p style="color: var(--color-muted);">No registered interests.</p>}
+    {member.payments.length > 0 && (
+      <table class="w-full text-sm" data-payments-table>
+        <thead>
+          <tr>
+            <th>Date</th>
+            <th>Category</th>
+            <th>Payer</th>
+            <th class="text-right">Amount</th>
+            <th>Type</th>
+            <th>APPG</th>
+            <th>Flags</th>
+            <th>Source</th>
+          </tr>
+        </thead>
+        <tbody>
+          {member.payments.map((p) => (
+            <tr
+              data-date={p.date ?? ""}
+              data-regular={p.is_regular ? "1" : "0"}
+              data-start={p.start_date ?? ""}
+              data-end={p.end_date ?? ""}
+            >
+              <td class="tabular-nums">{formatDate(p.date)}</td>
+              <td>{CATEGORY_SHORT[p.category] ?? p.category}</td>
+              <td>
+                {p.is_confidential_payer && <a href="/payer/confidential">Confidential</a>}
+                {!p.is_confidential_payer && p.payer_id && (
+                  <a href={`/payer/${p.payer_id}`}>{p.payer_name}</a>
+                )}
+                {!p.is_confidential_payer && !p.payer_id && (p.payer_name ?? "—")}
+                {p.is_regular && p.period && (
+                  <span class="text-xs ml-1" style="color: var(--color-muted);">
+                    ({p.period.toLowerCase()})
+                  </span>
+                )}
+              </td>
+              <td class="text-right tabular-nums">{formatGbp(p.amount, true)}</td>
+              <td>{p.payment_type}</td>
+              <td>
+                {p.appg_slug && <a href={`/appg/${p.appg_slug}`}>{p.appg_name}</a>}
+                {!p.appg_slug && "—"}
+              </td>
+              <td>
+                <PaymentFlags payment={p} />
+              </td>
+              <td>
+                <CitationLink href={p.source_url} />
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    )}
+  </section>
+
+  <AsOfFooter />
+</BaseLayout>
+
+<script>
+  import { WINDOW_LABELS, DEFAULT_WINDOW, isWindow } from "@/types/window";
+  import type { Window } from "@/types/window";
+  import type { TotalsByWindow, WindowTotals } from "@/types/totals";
+  import { windowRange, paymentInWindow } from "@/lib/windows";
+
+  const GBP = new Intl.NumberFormat("en-GB", {
+    style: "currency",
+    currency: "GBP",
+    maximumFractionDigits: 0,
+  });
+  const UK_NUMBER = new Intl.NumberFormat("en-GB");
+
+  function fmt(value: number, unit: string | null): string {
+    return unit === "number" ? UK_NUMBER.format(value) : GBP.format(value);
+  }
+
+  const totalsBlock = document.querySelector<HTMLElement>("[data-totals-block]");
+  const totalsByWindow = totalsBlock
+    ? (JSON.parse(totalsBlock.dataset.totalsJson ?? "{}") as TotalsByWindow)
+    : null;
+  const totalsFields = document.querySelectorAll<HTMLElement>(
+    "[data-totals-field]",
+  );
+
+  const categoryBlock = document.querySelector<HTMLElement>("[data-category-block]");
+  const categoriesByWindow = categoryBlock
+    ? (JSON.parse(categoryBlock.dataset.categoriesJson ?? "{}") as Record<
+        string,
+        TotalsByWindow
+      >)
+    : null;
+  const categoryCells = document.querySelectorAll<HTMLElement>(
+    "[data-category-totals]",
+  );
+
+  const windowLabel = document.querySelector<HTMLElement>("[data-active-window-label]");
+  const paymentsTable = document.querySelector<HTMLTableElement>(
+    "[data-payments-table]",
+  );
+
+  const asOf =
+    document.querySelector("time[datetime]")?.getAttribute("datetime") ??
+    new Date().toISOString().slice(0, 10);
+
+  function applyTotals(win: Window) {
+    if (!totalsByWindow) return;
+    const bucket = totalsByWindow[win] as WindowTotals | undefined;
+    if (!bucket) return;
+    totalsFields.forEach((el) => {
+      const field = el.dataset.totalsField as keyof WindowTotals;
+      const unit = el.dataset.unit ?? "currency";
+      const raw = bucket[field] as number | undefined;
+      if (typeof raw === "number") {
+        el.textContent = fmt(raw, unit);
+      }
+    });
+  }
+
+  function applyCategories(win: Window) {
+    if (!categoriesByWindow) return;
+    categoryCells.forEach((el) => {
+      const cat = el.dataset.categoryTotals ?? "";
+      const bucket = categoriesByWindow[cat]?.[win];
+      if (bucket) el.textContent = GBP.format(bucket.combined);
+    });
+  }
+
+  function applyRows(win: Window) {
+    if (!paymentsTable) return;
+    const range = windowRange(win, asOf);
+    paymentsTable.querySelectorAll<HTMLTableRowElement>("tbody tr").forEach((row) => {
+      const payload = {
+        is_regular: row.dataset.regular === "1",
+        date: row.dataset.date || null,
+        start_date: row.dataset.start || null,
+        end_date: row.dataset.end || null,
+      };
+      const visible = paymentInWindow(payload, row.dataset.start || null, range);
+      row.style.display = visible ? "" : "none";
+    });
+  }
+
+  function applyLabel(win: Window) {
+    if (windowLabel) windowLabel.textContent = WINDOW_LABELS[win];
+  }
+
+  document.addEventListener("window:change", (event) => {
+    const detail = (event as CustomEvent).detail as { window: string };
+    const win = isWindow(detail.window) ? detail.window : DEFAULT_WINDOW;
+    applyTotals(win);
+    applyCategories(win);
+    applyRows(win);
+    applyLabel(win);
+  });
+</script>
