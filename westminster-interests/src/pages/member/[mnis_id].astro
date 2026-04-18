@@ -200,70 +200,79 @@ const categories = Object.entries(member.categories);
     <h2 class="text-xl mb-3">Registered payments</h2>
     {member.payments.length === 0 && <p style="color: var(--color-muted);">No registered interests.</p>}
     {member.payments.length > 0 && (
-      <table class="w-full text-sm" data-payments-table>
-        <thead>
-          <tr>
-            <th>Date</th>
-            <th>Category</th>
-            <th>Payer</th>
-            <th>Details</th>
-            <th class="text-right">Amount</th>
-            <th>Type</th>
-            <th>APPG</th>
-            <th>Flags</th>
-            <th>Source</th>
-          </tr>
-        </thead>
-        <tbody>
-          {member.payments.map((p) => (
-            <tr
-              data-date={p.date ?? ""}
-              data-regular={p.is_regular ? "1" : "0"}
-              data-start={p.start_date ?? ""}
-              data-end={p.end_date ?? ""}
-            >
-              <td class="tabular-nums">{formatDate(p.date)}</td>
-              <td>{CATEGORY_SHORT[p.category] ?? p.category}</td>
-              <td>
-                {p.is_confidential_payer && <a href="/payer/confidential">Confidential</a>}
-                {!p.is_confidential_payer && p.payer_id && (
-                  <a href={`/payer/${p.payer_id}`}>{p.payer_name}</a>
-                )}
-                {!p.is_confidential_payer && !p.payer_id && (p.payer_name ?? "—")}
-                {p.is_regular && p.period && (
-                  <span class="text-xs ml-1" style="color: var(--color-muted);">
-                    ({p.period.toLowerCase()})
-                  </span>
-                )}
-              </td>
-              <td><PaymentDetails summary={p.summary} description={p.description} /></td>
-              <td class="text-right tabular-nums">{formatGbp(p.amount, true)}</td>
-              <td>{p.payment_type}</td>
-              <td>
-                {p.appg_slug && <a href={`/appg/${p.appg_slug}`}>{p.appg_name}</a>}
-                {!p.appg_slug && "—"}
-              </td>
-              <td>
-                <PaymentFlags payment={p} />
-              </td>
-              <td>
-                <CitationLink href={p.source_url} />
-              </td>
+      <div class="wi-payments-grid" data-payments-grid="member">
+        <!-- SSR fallback table — hidden once Grid.js takes over. -->
+        <table class="wi-ssr-fallback w-full text-sm">
+          <thead>
+            <tr>
+              <th>Date</th>
+              <th>Category</th>
+              <th>Payer</th>
+              <th>Details</th>
+              <th class="text-right">Amount</th>
+              <th>Type</th>
+              <th>APPG</th>
+              <th>Flags</th>
+              <th>Source</th>
             </tr>
-          ))}
-        </tbody>
-      </table>
+          </thead>
+          <tbody>
+            {member.payments.map((p) => (
+              <tr>
+                <td class="tabular-nums">{formatDate(p.date)}</td>
+                <td>{CATEGORY_SHORT[p.category] ?? p.category}</td>
+                <td>
+                  {p.is_confidential_payer && <a href="/payer/confidential">Confidential</a>}
+                  {!p.is_confidential_payer && p.payer_id && (
+                    <a href={`/payer/${p.payer_id}`}>{p.payer_name}</a>
+                  )}
+                  {!p.is_confidential_payer && !p.payer_id && (p.payer_name ?? "—")}
+                </td>
+                <td><PaymentDetails summary={p.summary} description={p.description} /></td>
+                <td class="text-right tabular-nums">{formatGbp(p.amount, true)}</td>
+                <td>{p.payment_type}</td>
+                <td>
+                  {p.appg_slug && <a href={`/appg/${p.appg_slug}`}>{p.appg_name}</a>}
+                  {!p.appg_slug && "—"}
+                </td>
+                <td><PaymentFlags payment={p} /></td>
+                <td><CitationLink href={p.source_url} /></td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+        <div class="wi-grid-mount"></div>
+      </div>
     )}
   </section>
 
   <AsOfFooter />
 </BaseLayout>
 
+<script is:inline define:vars={{ payments: member.payments }}>
+  window.__WI_MEMBER_PAYMENTS = payments;
+</script>
+
 <script>
+  import { Grid } from "gridjs";
+  import "gridjs/dist/theme/mermaid.min.css";
   import { WINDOW_LABELS, DEFAULT_WINDOW, isWindow } from "@/types/window";
   import type { Window } from "@/types/window";
   import type { TotalsByWindow, WindowTotals } from "@/types/totals";
-  import { windowRange, paymentInWindow } from "@/lib/windows";
+  import { windowRange } from "@/lib/windows";
+  import {
+    appgCell,
+    categoryCell,
+    detailsCell,
+    flagsCell,
+    fmtAmount,
+    fmtDateCell,
+    payerCell,
+    paymentParticipatesInWindow,
+    sourceCell,
+    type PaymentLike,
+  } from "@/lib/client-payments";
+  import { renderSummaryChart } from "@/lib/client-chart";
 
   const GBP = new Intl.NumberFormat("en-GB", {
     style: "currency",
@@ -276,13 +285,22 @@ const categories = Object.entries(member.categories);
     return unit === "number" ? UK_NUMBER.format(value) : GBP.format(value);
   }
 
+  function cmpCurrency(a: unknown, b: unknown): number {
+    const fa = parseFloat(String(a).replace(/[^0-9.-]/g, "")) || 0;
+    const fb = parseFloat(String(b).replace(/[^0-9.-]/g, "")) || 0;
+    return fa - fb;
+  }
+
+  const asOf =
+    document.querySelector("time[datetime]")?.getAttribute("datetime") ??
+    new Date().toISOString().slice(0, 10);
+
+  // --- Totals + category swap ---
   const totalsBlock = document.querySelector<HTMLElement>("[data-totals-block]");
   const totalsByWindow = totalsBlock
     ? (JSON.parse(totalsBlock.dataset.totalsJson ?? "{}") as TotalsByWindow)
     : null;
-  const totalsFields = document.querySelectorAll<HTMLElement>(
-    "[data-totals-field]",
-  );
+  const totalsFields = document.querySelectorAll<HTMLElement>("[data-totals-field]");
 
   const categoryBlock = document.querySelector<HTMLElement>("[data-category-block]");
   const categoriesByWindow = categoryBlock
@@ -291,18 +309,9 @@ const categories = Object.entries(member.categories);
         TotalsByWindow
       >)
     : null;
-  const categoryCells = document.querySelectorAll<HTMLElement>(
-    "[data-category-totals]",
-  );
+  const categoryCells = document.querySelectorAll<HTMLElement>("[data-category-totals]");
 
   const windowLabel = document.querySelector<HTMLElement>("[data-active-window-label]");
-  const paymentsTable = document.querySelector<HTMLTableElement>(
-    "[data-payments-table]",
-  );
-
-  const asOf =
-    document.querySelector("time[datetime]")?.getAttribute("datetime") ??
-    new Date().toISOString().slice(0, 10);
 
   function applyTotals(win: Window) {
     if (!totalsByWindow) return;
@@ -312,9 +321,7 @@ const categories = Object.entries(member.categories);
       const field = el.dataset.totalsField as keyof WindowTotals;
       const unit = el.dataset.unit ?? "currency";
       const raw = bucket[field] as number | undefined;
-      if (typeof raw === "number") {
-        el.textContent = fmt(raw, unit);
-      }
+      if (typeof raw === "number") el.textContent = fmt(raw, unit);
     });
   }
 
@@ -327,31 +334,109 @@ const categories = Object.entries(member.categories);
     });
   }
 
-  function applyRows(win: Window) {
-    if (!paymentsTable) return;
-    const range = windowRange(win, asOf);
-    paymentsTable.querySelectorAll<HTMLTableRowElement>("tbody tr").forEach((row) => {
-      const payload = {
-        is_regular: row.dataset.regular === "1",
-        date: row.dataset.date || null,
-        start_date: row.dataset.start || null,
-        end_date: row.dataset.end || null,
-      };
-      const visible = paymentInWindow(payload, row.dataset.start || null, range);
-      row.style.display = visible ? "" : "none";
-    });
+  // --- Top-payers chart (per-window stacked) ---
+  const chartRoot = document.querySelector<HTMLElement>("[data-payers-chart]");
+  const chartsByWindow = chartRoot
+    ? (JSON.parse(chartRoot.dataset.payersJson ?? "{}") as Record<
+        string,
+        { id: number | null; name: string | null; monetary: number; inkind: number }[]
+      >)
+    : null;
+
+  function applyPayersChart(win: Window) {
+    if (!chartRoot || !chartsByWindow) return;
+    const rows = (chartsByWindow[win] ?? []).map((r) => ({
+      label: r.name ?? "Unknown",
+      monetary: r.monetary,
+      inkind: r.inkind,
+      href: r.id ? `/payer/${r.id}` : undefined,
+    }));
+    renderSummaryChart(chartRoot, rows);
+  }
+
+  // --- Payments Grid.js ---
+  const gridRoot = document.querySelector<HTMLElement>('[data-payments-grid="member"]');
+  let grid: Grid | null = null;
+  let paymentsData: PaymentLike[] = [];
+  let activeWindow: Window = DEFAULT_WINDOW;
+
+  if (gridRoot) {
+    paymentsData =
+      (window as unknown as { __WI_MEMBER_PAYMENTS: PaymentLike[] })
+        .__WI_MEMBER_PAYMENTS ?? [];
+    const fallback = gridRoot.querySelector<HTMLTableElement>(".wi-ssr-fallback")!;
+    const mount = gridRoot.querySelector<HTMLElement>(".wi-grid-mount")!;
+
+    function rowsForWindow(win: Window) {
+      const range = windowRange(win, asOf);
+      return paymentsData
+        .filter((p) => paymentParticipatesInWindow(p, range.since, range.end))
+        .map((p) => [
+          fmtDateCell(p.date),
+          categoryCell(p.category),
+          payerCell(p),
+          detailsCell(p),
+          fmtAmount(p.amount),
+          p.payment_type,
+          appgCell(p),
+          flagsCell(p),
+          sourceCell(p),
+        ]);
+    }
+
+    fallback.style.display = "none";
+    grid = new Grid({
+      columns: [
+        { name: "Date", width: "7.5rem" },
+        { name: "Category", width: "6.5rem" },
+        { name: "Payer", width: "16rem" },
+        { name: "Details", width: "22rem" },
+        { name: "Amount", width: "8rem", sort: { compare: cmpCurrency } },
+        { name: "Type", width: "6rem" },
+        { name: "APPG", width: "12rem" },
+        { name: "Flags", width: "10rem", sort: false },
+        { name: "Source", width: "5rem", sort: false },
+      ],
+      data: rowsForWindow(activeWindow),
+      sort: true,
+      search: true,
+      pagination: paymentsData.length > 25 ? { limit: 25 } : false,
+    }).render(mount);
   }
 
   function applyLabel(win: Window) {
     if (windowLabel) windowLabel.textContent = WINDOW_LABELS[win];
   }
 
+  let currentWin: Window = DEFAULT_WINDOW;
   document.addEventListener("window:change", (event) => {
     const detail = (event as CustomEvent).detail as { window: string };
     const win = isWindow(detail.window) ? detail.window : DEFAULT_WINDOW;
+    // Suppress the no-op initial event (WindowSelector fires on mount)
+    // to avoid re-rendering the SSR chart and double-flashing totals.
+    if (win === currentWin) return;
+    currentWin = win;
+    activeWindow = win;
     applyTotals(win);
     applyCategories(win);
-    applyRows(win);
     applyLabel(win);
+    applyPayersChart(win);
+    if (grid) {
+      const range = windowRange(win, asOf);
+      const newData = paymentsData
+        .filter((p) => paymentParticipatesInWindow(p, range.since, range.end))
+        .map((p) => [
+          fmtDateCell(p.date),
+          categoryCell(p.category),
+          payerCell(p),
+          detailsCell(p),
+          fmtAmount(p.amount),
+          p.payment_type,
+          appgCell(p),
+          flagsCell(p),
+          sourceCell(p),
+        ]);
+      grid.updateConfig({ data: newData }).forceRender();
+    }
   });
 </script>

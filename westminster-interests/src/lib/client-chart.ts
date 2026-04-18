@@ -27,6 +27,13 @@ function escapeHtml(s: string): string {
     .replace(/"/g, "&quot;");
 }
 
+const LABEL_CHAR_LIMIT = 32;
+
+function truncateLabel(s: string): string {
+  if (s.length <= LABEL_CHAR_LIMIT) return s;
+  return s.slice(0, LABEL_CHAR_LIMIT - 1) + "…";
+}
+
 export function renderSummaryChart(
   host: HTMLElement,
   rows: ChartRow[],
@@ -66,7 +73,7 @@ export function renderSummaryChart(
     const monetaryW = stacked ? (monetaryValue / peak) * trackWidth : totalW;
     const inkindW = stacked ? (inkindValue / peak) * trackWidth : 0;
 
-    const labelText = `<text x="${labelWidth - 6}" y="${y + barHeight / 2 + 4}" text-anchor="end" font-size="12" fill="currentColor">${escapeHtml(r.label)}</text>`;
+    const labelText = `<text x="${labelWidth - 6}" y="${y + barHeight / 2 + 4}" text-anchor="end" font-size="12" fill="currentColor"><title>${escapeHtml(r.label)}</title>${escapeHtml(truncateLabel(r.label))}</text>`;
     const labelNode = r.href
       ? `<a href="${escapeHtml(r.href)}">${labelText}</a>`
       : labelText;
@@ -93,7 +100,7 @@ export function renderSummaryChart(
 
   host.innerHTML = `
     <figure class="my-4">
-      <svg viewBox="0 0 ${svgWidth} ${chartHeight}" role="img" aria-label="Summary" class="w-full max-w-3xl" style="height: auto;">${parts.join("")}</svg>
+      <svg viewBox="0 0 ${svgWidth} ${chartHeight}" role="img" aria-label="Summary" class="w-full max-w-3xl" style="height: auto; font-family: var(--font-sans);">${parts.join("")}</svg>
       ${legend}
     </figure>`;
 }

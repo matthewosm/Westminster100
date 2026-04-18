@@ -151,12 +151,12 @@ const chartsByWindow = Object.fromEntries(
     fallback.style.display = "none";
     const grid = new Grid({
       columns: [
-        { name: "Name" },
-        { name: "Categories" },
-        { name: "Monetary", sort: { compare: cmpCurrency } },
-        { name: "In kind", sort: { compare: cmpCurrency } },
-        { name: "Members" },
-        { name: "Officers" },
+        { name: "Name", width: "26rem" },
+        { name: "Categories", width: "14rem" },
+        { name: "Monetary", width: "8rem", sort: { compare: cmpCurrency } },
+        { name: "In kind", width: "8rem", sort: { compare: cmpCurrency } },
+        { name: "Members", width: "6rem" },
+        { name: "Officers", width: "6rem" },
       ],
       data: buildRows(activeWindow),
       sort: true,
@@ -180,9 +180,12 @@ const chartsByWindow = Object.fromEntries(
       string,
       import("@/lib/client-chart").ChartRow[]
     >;
+    let chartWin: Window = DEFAULT_WINDOW;
     document.addEventListener("window:change", (event) => {
       const detail = (event as CustomEvent).detail as { window: string };
       const win: Window = isWindow(detail.window) ? detail.window : DEFAULT_WINDOW;
+      if (win === chartWin) return;
+      chartWin = win;
       renderSummaryChart(chartRoot, chartsByWindow[win] ?? []);
       if (chartLabel) chartLabel.textContent = WINDOW_LABELS[win];
     });

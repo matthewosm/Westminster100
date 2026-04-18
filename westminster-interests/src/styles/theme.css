@@ -112,3 +112,88 @@
     letter-spacing: 0.04em;
   }
 }
+
+/* ------------------------------------------------------------
+   Grid.js overrides — keep tables scannable: no wrap, ellipsis
+   for overflow, consistent monospace numerics, theme colours.
+   ------------------------------------------------------------ */
+
+.gridjs-wrapper {
+  border-color: var(--color-border);
+}
+
+.gridjs-table {
+  width: 100%;
+  table-layout: auto;
+}
+
+.gridjs-th,
+.gridjs-td {
+  background: var(--color-surface) !important;
+  color: var(--color-foreground) !important;
+  border-color: var(--color-border) !important;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 32rem;
+  /* Tighter vertical rhythm — default Grid.js padding is generous. */
+  padding: 0.3rem 0.6rem !important;
+  font-size: 0.85rem;
+  line-height: 1.35;
+}
+
+.gridjs-th {
+  color: var(--color-muted) !important;
+  text-transform: uppercase;
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+  white-space: nowrap;
+  padding: 0.35rem 0.6rem !important;
+}
+
+.gridjs-td a {
+  color: var(--color-link);
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
+
+/* Cells that carry a PaymentDetails excerpt should be allowed more
+   horizontal room but still ellipse rather than wrap. */
+.gridjs-td .wi-details-cell {
+  display: inline-block;
+  max-width: 22rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  vertical-align: middle;
+}
+
+/* Tabular numerics in Grid.js-rendered cells. */
+.gridjs-td[data-column-id*="amount"],
+.gridjs-td[data-column-id*="monetary"],
+.gridjs-td[data-column-id*="inkind"],
+.gridjs-td[data-column-id*="payments"],
+.gridjs-td[data-column-id*="mps"],
+.gridjs-td[data-column-id*="avg"] {
+  font-variant-numeric: tabular-nums;
+  text-align: right;
+}
+
+.gridjs-search-input,
+.gridjs-pagination,
+.gridjs-footer,
+.gridjs-head {
+  background: transparent !important;
+  color: var(--color-foreground) !important;
+  border-color: var(--color-border) !important;
+}
+
+.gridjs-search-input {
+  background: var(--color-surface) !important;
+  min-width: 18rem;
+}
+
+.gridjs-currentPage {
+  color: var(--color-foreground) !important;
+  background: var(--color-ink-100) !important;
+  border-color: var(--color-border) !important;
+}

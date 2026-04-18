@@ -58,9 +58,15 @@ const labelWidth = 220;
 const valueWidth = 140;
 const trackWidth = 360;
 const svgWidth = labelWidth + trackWidth + valueWidth + 16;
+const LABEL_CHAR_LIMIT = 32;
 
 function fmt(v: number) {
   return unit === "currency" ? formatGbp(v) : formatNumber(v);
+}
+
+function truncateLabel(s: string): string {
+  if (s.length <= LABEL_CHAR_LIMIT) return s;
+  return s.slice(0, LABEL_CHAR_LIMIT - 1) + "…";
 }
 ---
 
@@ -78,7 +84,7 @@ function fmt(v: number) {
           role="img"
           aria-label={title ?? "Summary chart"}
           class="w-full max-w-3xl"
-          style="height: auto;"
+          style="height: auto; font-family: var(--font-sans);"
         >
           {rows.map((row, i) => {
             const y = i * (barHeight + barGap);
@@ -98,7 +104,8 @@ function fmt(v: number) {
                 font-size="12"
                 fill="currentColor"
               >
-                {row.label}
+                <title>{row.label}</title>
+                {truncateLabel(row.label)}
               </text>
             );
             const labelNode = row.href ? (

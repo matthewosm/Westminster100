@@ -178,13 +178,13 @@ const tableRows = [...parties].sort(
     fallback.style.display = "none";
     const grid = new Grid({
       columns: [
-        { name: "Party" },
-        { name: "Members" },
-        { name: "Total monetary", sort: { compare: cmpCurrency } },
-        { name: "Total in kind", sort: { compare: cmpCurrency } },
-        { name: "Avg £/MP (cash)", sort: { compare: cmpCurrency } },
-        { name: "Avg £/MP (in kind)", sort: { compare: cmpCurrency } },
-        { name: "Avg £/MP (total)", sort: { compare: cmpCurrency } },
+        { name: "Party", width: "16rem" },
+        { name: "Members", width: "6rem" },
+        { name: "Total monetary", width: "9rem", sort: { compare: cmpCurrency } },
+        { name: "Total in kind", width: "9rem", sort: { compare: cmpCurrency } },
+        { name: "Avg £/MP (cash)", width: "9rem", sort: { compare: cmpCurrency } },
+        { name: "Avg £/MP (in kind)", width: "9rem", sort: { compare: cmpCurrency } },
+        { name: "Avg £/MP (total)", width: "9rem", sort: { compare: cmpCurrency } },
       ],
       data: buildRows(activeWindow),
       sort: true,
@@ -206,9 +206,12 @@ const tableRows = [...parties].sort(
       string,
       import("@/lib/client-chart").ChartRow[]
     >;
+    let chartWin: Window = DEFAULT_WINDOW;
     document.addEventListener("window:change", (event) => {
       const detail = (event as CustomEvent).detail as { window: string };
       const win: Window = isWindow(detail.window) ? detail.window : DEFAULT_WINDOW;
+      if (win === chartWin) return;
+      chartWin = win;
       renderSummaryChart(chartRoot, chartsByWindow[win] ?? []);
       if (chartLabel) chartLabel.textContent = WINDOW_LABELS[win];
     });

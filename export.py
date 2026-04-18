@@ -113,10 +113,17 @@ def _connect(db_path: Path) -> sqlite3.Connection:
 
 
 def _load_members(conn: sqlite3.Connection) -> dict[int, dict]:
+    """Return sitting MPs (house = 'Commons') only.
+
+    Lords appear in the mysociety APPG dataset but the site's Member
+    pages and /members index are MP-only. Lord identities still surface
+    on APPG officer/member lists (by name) without a linked page.
+    """
     rows = conn.execute(
         """
         SELECT mnis_id, name, party, constituency, house, gender, start_date
         FROM members
+        WHERE house = 'Commons'
         """
     ).fetchall()
     return {r["mnis_id"]: dict(r) for r in rows}
