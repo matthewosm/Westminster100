@@ -1,0 +1,148 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import WindowSelector from "@/components/WindowSelector.astro";
+import CitationLink from "@/components/CitationLink.astro";
+import AsOfFooter from "@/components/AsOfFooter.astro";
+import { CATEGORY_SHORT } from "@/consts";
+import { formatDate, formatGbp, formatNumber } from "@/lib/format";
+import { DEFAULT_WINDOW } from "@/types/window";
+import type { Payer } from "@/types/payer";
+
+import payerJson from "@/data/payers/confidential.json";
+
+const payer = payerJson as unknown as Payer;
+const activeWindow = DEFAULT_WINDOW;
+const activeTotals = payer.totals[activeWindow];
+
+const totalsCards = [
+  { field: "combined", label: "Total value", unit: "currency", display: formatGbp(activeTotals.combined) },
+  { field: "monetary", label: "Monetary", unit: "currency", display: formatGbp(activeTotals.monetary) },
+  { field: "payment_count", label: "Payments", unit: "number", display: formatNumber(activeTotals.payment_count) },
+  { field: "mp_count", label: "MPs", unit: "number", display: formatNumber(activeTotals.mp_count ?? 0) },
+];
+---
+
+<BaseLayout
+  title="Confidential payers"
+  description="Aggregated donations from payers declared as confidential under the MPs' Code of Conduct."
+>
+  <section class="py-4" data-pagefind-body>
+    <h1 class="text-3xl mb-2">Confidential payers</h1>
+    <p class="text-sm max-w-3xl" style="color: var(--color-muted);">
+      The Parliamentary register permits confidential payers in limited
+      circumstances — for example, where naming the funder could
+      endanger the MP, the donor, or a third party. Payments are
+      declared in full, but the payer identity is withheld.
+    </p>
+    <p class="text-sm max-w-3xl mt-2" style="color: var(--color-muted);">
+      These rows are aggregated here rather than surfaced on
+      individual payer pages. For context see
+      <a href="/methodology">the methodology page</a>.
+    </p>
+  </section>
+
+  <section class="py-2" data-pagefind-ignore>
+    <WindowSelector />
+  </section>
+
+  <section
+    class="py-4 grid gap-3 md:grid-cols-4"
+    data-totals-block
+    data-totals-json={JSON.stringify(payer.totals)}
+  >
+    {totalsCards.map((card) => (
+      <div class="border rounded-md p-3" style="border-color: var(--color-border); background: var(--color-surface);">
+        <div class="text-xs uppercase tracking-wide" style="color: var(--color-muted);">
+          {card.label}
+        </div>
+        <div class="text-2xl font-serif mt-1 tabular-nums" data-totals-field={card.field} data-unit={card.unit}>
+          {card.display}
+        </div>
+      </div>
+    ))}
+  </section>
+
+  <section class="py-6">
+    <h2 class="text-xl mb-3">Registered payments</h2>
+    <table class="w-full text-sm" data-payments-table>
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Category</th>
+          <th class="text-right">Amount</th>
+          <th>Type</th>
+          <th>Source</th>
+        </tr>
+      </thead>
+      <tbody>
+        {payer.payments.map((p) => (
+          <tr
+            data-date={p.date ?? ""}
+            data-regular={p.is_regular ? "1" : "0"}
+            data-start={p.start_date ?? ""}
+            data-end={p.end_date ?? ""}
+          >
+            <td class="tabular-nums">{formatDate(p.date)}</td>
+            <td>{CATEGORY_SHORT[p.category] ?? p.category}</td>
+            <td class="text-right tabular-nums">{formatGbp(p.amount, true)}</td>
+            <td>{p.payment_type}</td>
+            <td><CitationLink href={p.source_url} /></td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </section>
+
+  <AsOfFooter />
+</BaseLayout>
+
+<script>
+  import { DEFAULT_WINDOW, isWindow } from "@/types/window";
+  import type { TotalsByWindow, WindowTotals } from "@/types/totals";
+  import { windowRange, paymentInWindow } from "@/lib/windows";
+
+  const GBP = new Intl.NumberFormat("en-GB", { style: "currency", currency: "GBP", maximumFractionDigits: 0 });
+  const UK_NUMBER = new Intl.NumberFormat("en-GB");
+
+  const totalsBlock = document.querySelector<HTMLElement>("[data-totals-block]");
+  const totalsByWindow = totalsBlock
+    ? (JSON.parse(totalsBlock.dataset.totalsJson ?? "{}") as TotalsByWindow)
+    : null;
+  const totalsFields = document.querySelectorAll<HTMLElement>("[data-totals-field]");
+  const paymentsTable = document.querySelector<HTMLTableElement>("[data-payments-table]");
+  const asOf =
+    document.querySelector("time[datetime]")?.getAttribute("datetime") ??
+    new Date().toISOString().slice(0, 10);
+
+  function fmt(value: number, unit: string | null): string {
+    return unit === "number" ? UK_NUMBER.format(value) : GBP.format(value);
+  }
+
+  document.addEventListener("window:change", (event) => {
+    const detail = (event as CustomEvent).detail as { window: string };
+    const win = isWindow(detail.window) ? detail.window : DEFAULT_WINDOW;
+    if (totalsByWindow) {
+      const bucket = totalsByWindow[win] as WindowTotals | undefined;
+      if (bucket) {
+        totalsFields.forEach((el) => {
+          const field = el.dataset.totalsField as keyof WindowTotals;
+          const unit = el.dataset.unit ?? "currency";
+          const raw = bucket[field] as number | undefined;
+          if (typeof raw === "number") el.textContent = fmt(raw, unit);
+        });
+      }
+    }
+    if (paymentsTable) {
+      const range = windowRange(win, asOf);
+      paymentsTable.querySelectorAll<HTMLTableRowElement>("tbody tr").forEach((row) => {
+        const payload = {
+          is_regular: row.dataset.regular === "1",
+          date: row.dataset.date || null,
+          start_date: row.dataset.start || null,
+          end_date: row.dataset.end || null,
+        };
+        row.style.display = paymentInWindow(payload, row.dataset.start || null, range) ? "" : "none";
+      });
+    }
+  });
+</script>

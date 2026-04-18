@@ -1,0 +1,85 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import WindowSelector from "@/components/WindowSelector.astro";
+import GridIsland from "@/components/GridIsland.astro";
+import SummaryChart from "@/components/SummaryChart.astro";
+import AsOfFooter from "@/components/AsOfFooter.astro";
+import { formatGbp, formatNumber } from "@/lib/format";
+import { DEFAULT_WINDOW } from "@/types/window";
+import type { PayerIndexRow } from "@/types/payer";
+
+import payersJson from "@/data/index/payers.json";
+
+const payers = payersJson as unknown as PayerIndexRow[];
+const sorted = [...payers].sort(
+  (a, b) =>
+    b.totals[DEFAULT_WINDOW].combined - a.totals[DEFAULT_WINDOW].combined,
+);
+
+const top10 = sorted.slice(0, 10).map((p) => ({
+  label: p.name,
+  value: p.totals[DEFAULT_WINDOW].combined,
+  href: `/payer/${p.id}`,
+}));
+---
+
+<BaseLayout
+  title="Payers"
+  description="Every company, union, trust, or individual who funds an MP's declared interest."
+>
+  <section class="py-4" data-pagefind-ignore>
+    <h1 class="text-3xl mb-2">Payers</h1>
+    <p class="text-sm max-w-2xl" style="color: var(--color-muted);">
+      Every registered funder of an MP's declared interest — companies,
+      unions, trusts, and individuals. Totals for the selected window.
+      <a href="/payer/confidential">Confidential payers</a> are aggregated
+      separately.
+    </p>
+    <div class="mt-4">
+      <WindowSelector />
+    </div>
+  </section>
+
+  <section class="py-4" data-pagefind-ignore>
+    <h2 class="text-sm font-semibold uppercase tracking-wide" style="color: var(--color-muted);">
+      Top 10 payers — trailing 12 months
+    </h2>
+    <SummaryChart rows={top10} />
+  </section>
+
+  <section class="py-2">
+    <GridIsland search paginate={50}>
+      <table class="w-full" data-payers-table>
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Status</th>
+            <th class="text-right">Total (12m)</th>
+            <th class="text-right">MPs funded</th>
+            <th class="text-right">Payments</th>
+          </tr>
+        </thead>
+        <tbody>
+          {
+            sorted.map((p) => {
+              const t = p.totals[DEFAULT_WINDOW];
+              return (
+                <tr>
+                  <td>
+                    <a href={`/payer/${p.id}`}>{p.name}</a>
+                  </td>
+                  <td>{p.donor_status ?? "—"}</td>
+                  <td class="text-right tabular-nums">{formatGbp(t.combined)}</td>
+                  <td class="text-right tabular-nums">{formatNumber(t.mp_count ?? 0)}</td>
+                  <td class="text-right tabular-nums">{formatNumber(t.payment_count)}</td>
+                </tr>
+              );
+            })
+          }
+        </tbody>
+      </table>
+    </GridIsland>
+  </section>
+
+  <AsOfFooter />
+</BaseLayout>

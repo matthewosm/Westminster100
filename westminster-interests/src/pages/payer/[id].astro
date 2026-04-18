@@ -1,0 +1,204 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import WindowSelector from "@/components/WindowSelector.astro";
+import PaymentFlags from "@/components/PaymentFlags.astro";
+import CitationLink from "@/components/CitationLink.astro";
+import AsOfFooter from "@/components/AsOfFooter.astro";
+import { CATEGORY_SHORT } from "@/consts";
+import { formatDate, formatGbp, formatNumber } from "@/lib/format";
+import { DEFAULT_WINDOW } from "@/types/window";
+import { allPayers } from "@/lib/data";
+import type { Payer } from "@/types/payer";
+
+export async function getStaticPaths() {
+  return allPayers()
+    .filter((p) => !p.is_confidential && p.id !== "confidential")
+    .map((payer) => ({
+      params: { id: String(payer.id) },
+      props: { payer },
+    }));
+}
+
+interface Props {
+  payer: Payer;
+}
+
+const { payer } = Astro.props;
+const activeWindow = DEFAULT_WINDOW;
+const activeTotals = payer.totals[activeWindow];
+
+const totalsCards = [
+  { field: "combined", label: "Total value", unit: "currency", display: formatGbp(activeTotals.combined) },
+  { field: "monetary", label: "Monetary", unit: "currency", display: formatGbp(activeTotals.monetary) },
+  { field: "inkind", label: "In kind", unit: "currency", display: formatGbp(activeTotals.inkind) },
+  { field: "mp_count", label: "MPs funded", unit: "number", display: formatNumber(activeTotals.mp_count ?? 0) },
+];
+
+const categories = new Map<string, number>();
+for (const p of payer.payments) {
+  categories.set(p.category, (categories.get(p.category) ?? 0) + p.amount);
+}
+const categoryLine = [...categories.entries()].sort((a, b) => b[1] - a[1]);
+
+// Top-MPs chart: payment rows don't carry member_id (the JSON tree
+// groups payments under the payer's file). A per-window MP chart would
+// need a second pass joining against members.json — deferring to avoid
+// re-walking 1.5k members × 1.6k payers. Tables remain authoritative.
+---
+
+<BaseLayout
+  title={payer.name}
+  description={`${payer.name} — declared payments to MPs on Westminster Interests.`}
+>
+  <section class="py-4" data-pagefind-body>
+    <h1 class="text-3xl mb-1">{payer.name}</h1>
+    <div class="flex flex-wrap gap-3 text-sm" style="color: var(--color-muted);">
+      {payer.donor_status && <span>{payer.donor_status}</span>}
+      {payer.is_private_individual && <span>Private individual</span>}
+      {payer.nature_of_business && <span>· {payer.nature_of_business}</span>}
+    </div>
+    {payer.address && (
+      <p class="text-sm mt-2 whitespace-pre-line max-w-xl" style="color: var(--color-muted);">
+        {payer.address}
+      </p>
+    )}
+  </section>
+
+  <section class="py-2" data-pagefind-ignore>
+    <WindowSelector />
+  </section>
+
+  <section
+    class="py-4 grid gap-3 md:grid-cols-4"
+    data-totals-block
+    data-totals-json={JSON.stringify(payer.totals)}
+  >
+    {totalsCards.map((card) => (
+      <div
+        class="border rounded-md p-3"
+        style="border-color: var(--color-border); background: var(--color-surface);"
+      >
+        <div class="text-xs uppercase tracking-wide" style="color: var(--color-muted);">
+          {card.label}
+        </div>
+        <div
+          class="text-2xl font-serif mt-1 tabular-nums"
+          data-totals-field={card.field}
+          data-unit={card.unit}
+        >
+          {card.display}
+        </div>
+      </div>
+    ))}
+  </section>
+
+  {categoryLine.length > 0 && (
+    <section class="py-2 text-sm flex flex-wrap gap-x-4 gap-y-1" style="color: var(--color-muted);">
+      <span class="font-semibold">By category:</span>
+      {categoryLine.map(([cat, total]) => (
+        <span>
+          <span class="font-semibold">{CATEGORY_SHORT[cat] ?? cat}</span>{" "}
+          <span>{formatGbp(total)}</span>
+        </span>
+      ))}
+    </section>
+  )}
+
+  <section class="py-6">
+    <h2 class="text-xl mb-3">Registered payments</h2>
+    <table class="w-full text-sm" data-payments-table>
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Category</th>
+          <th class="text-right">Amount</th>
+          <th>Type</th>
+          <th>APPG</th>
+          <th>Flags</th>
+          <th>Source</th>
+        </tr>
+      </thead>
+      <tbody>
+        {payer.payments.map((p) => (
+          <tr
+            data-date={p.date ?? ""}
+            data-regular={p.is_regular ? "1" : "0"}
+            data-start={p.start_date ?? ""}
+            data-end={p.end_date ?? ""}
+          >
+            <td class="tabular-nums">{formatDate(p.date)}</td>
+            <td>{CATEGORY_SHORT[p.category] ?? p.category}</td>
+            <td class="text-right tabular-nums">{formatGbp(p.amount, true)}</td>
+            <td>{p.payment_type}</td>
+            <td>
+              {p.appg_slug && <a href={`/appg/${p.appg_slug}`}>{p.appg_name}</a>}
+              {!p.appg_slug && "—"}
+            </td>
+            <td><PaymentFlags payment={p} /></td>
+            <td><CitationLink href={p.source_url} /></td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </section>
+
+  <AsOfFooter />
+</BaseLayout>
+
+<script>
+  import { DEFAULT_WINDOW, isWindow } from "@/types/window";
+  import type { Window } from "@/types/window";
+  import type { TotalsByWindow, WindowTotals } from "@/types/totals";
+  import { windowRange, paymentInWindow } from "@/lib/windows";
+
+  const GBP = new Intl.NumberFormat("en-GB", { style: "currency", currency: "GBP", maximumFractionDigits: 0 });
+  const UK_NUMBER = new Intl.NumberFormat("en-GB");
+
+  function fmt(value: number, unit: string | null): string {
+    return unit === "number" ? UK_NUMBER.format(value) : GBP.format(value);
+  }
+
+  const totalsBlock = document.querySelector<HTMLElement>("[data-totals-block]");
+  const totalsByWindow = totalsBlock
+    ? (JSON.parse(totalsBlock.dataset.totalsJson ?? "{}") as TotalsByWindow)
+    : null;
+  const totalsFields = document.querySelectorAll<HTMLElement>("[data-totals-field]");
+  const paymentsTable = document.querySelector<HTMLTableElement>("[data-payments-table]");
+
+  const asOf =
+    document.querySelector("time[datetime]")?.getAttribute("datetime") ??
+    new Date().toISOString().slice(0, 10);
+
+  function applyTotals(win: Window) {
+    if (!totalsByWindow) return;
+    const bucket = totalsByWindow[win] as WindowTotals | undefined;
+    if (!bucket) return;
+    totalsFields.forEach((el) => {
+      const field = el.dataset.totalsField as keyof WindowTotals;
+      const unit = el.dataset.unit ?? "currency";
+      const raw = bucket[field] as number | undefined;
+      if (typeof raw === "number") el.textContent = fmt(raw, unit);
+    });
+  }
+
+  function applyRows(win: Window) {
+    if (!paymentsTable) return;
+    const range = windowRange(win, asOf);
+    paymentsTable.querySelectorAll<HTMLTableRowElement>("tbody tr").forEach((row) => {
+      const payload = {
+        is_regular: row.dataset.regular === "1",
+        date: row.dataset.date || null,
+        start_date: row.dataset.start || null,
+        end_date: row.dataset.end || null,
+      };
+      row.style.display = paymentInWindow(payload, row.dataset.start || null, range) ? "" : "none";
+    });
+  }
+
+  document.addEventListener("window:change", (event) => {
+    const detail = (event as CustomEvent).detail as { window: string };
+    const win = isWindow(detail.window) ? detail.window : DEFAULT_WINDOW;
+    applyTotals(win);
+    applyRows(win);
+  });
+</script>
