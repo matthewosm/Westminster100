@@ -1,0 +1,114 @@
+@import "tailwindcss";
+
+/* ------------------------------------------------------------
+   Westminster Interests — theme tokens
+
+   Neutral monochrome scale with a single civic-blue accent.
+   No party colours. Dark mode ships via `.dark` class on <html>.
+   ------------------------------------------------------------ */
+
+@theme {
+  /* Body typography — slightly serif-leaning for an authority feel. */
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Source Serif 4", ui-serif, Georgia, serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+
+  /* Neutral scale (light mode). */
+  --color-ink-50: #f7f7f7;
+  --color-ink-100: #ececec;
+  --color-ink-200: #d8d8d8;
+  --color-ink-300: #b8b8b8;
+  --color-ink-400: #888888;
+  --color-ink-500: #5a5a5a;
+  --color-ink-600: #3f3f3f;
+  --color-ink-700: #2a2a2a;
+  --color-ink-800: #1a1a1a;
+  --color-ink-900: #0f0f0f;
+
+  /* Civic blue — used for links, selected state, and chart highlights. */
+  --color-accent-50:  #edf4ff;
+  --color-accent-100: #d9e6ff;
+  --color-accent-300: #7aa6ff;
+  --color-accent-500: #2563eb;
+  --color-accent-600: #1d4ed8;
+  --color-accent-700: #1e40af;
+
+  /* Semantic aliases — referenced throughout templates. */
+  --color-background: var(--color-ink-50);
+  --color-surface: #ffffff;
+  --color-foreground: var(--color-ink-900);
+  --color-muted: var(--color-ink-500);
+  --color-border: var(--color-ink-200);
+  --color-link: var(--color-accent-600);
+  --color-link-hover: var(--color-accent-700);
+
+  /* Spacing/sizing niceties. */
+  --radius-md: 0.375rem;
+}
+
+/* Dark-mode overrides. Class-based toggle so users can flip it without
+   relying on prefers-color-scheme only. */
+.dark {
+  --color-background: var(--color-ink-900);
+  --color-surface: var(--color-ink-800);
+  --color-foreground: var(--color-ink-50);
+  --color-muted: var(--color-ink-300);
+  --color-border: var(--color-ink-700);
+  --color-link: var(--color-accent-300);
+  --color-link-hover: #a9c4ff;
+}
+
+/* ------------------------------------------------------------
+   Base rules
+   ------------------------------------------------------------ */
+
+@layer base {
+  html {
+    background: var(--color-background);
+    color: var(--color-foreground);
+    font-family: var(--font-sans);
+    font-feature-settings: "ss01", "cv11";
+    text-rendering: optimizeLegibility;
+  }
+
+  body {
+    min-height: 100vh;
+    line-height: 1.55;
+  }
+
+  a {
+    color: var(--color-link);
+    text-decoration: underline;
+    text-underline-offset: 0.2em;
+    text-decoration-thickness: 0.08em;
+  }
+
+  a:hover {
+    color: var(--color-link-hover);
+  }
+
+  h1, h2, h3, h4 {
+    font-family: var(--font-serif);
+    font-weight: 600;
+    letter-spacing: -0.01em;
+  }
+
+  table {
+    border-collapse: collapse;
+  }
+
+  th, td {
+    padding: 0.5rem 0.75rem;
+    text-align: left;
+    vertical-align: top;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  th {
+    font-weight: 600;
+    color: var(--color-muted);
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+}

@@ -1,0 +1,81 @@
+---
+import "@/styles/theme.css";
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const {
+  title,
+  description = "UK MPs' declared financial interests, as registered with Parliament.",
+} = Astro.props;
+---
+
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <title>{title} — Westminster Interests</title>
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <script is:inline>
+      // Dark-mode init (before paint to avoid flash of light theme).
+      (() => {
+        const stored = localStorage.getItem("wi-theme");
+        const prefersDark =
+          window.matchMedia &&
+          window.matchMedia("(prefers-color-scheme: dark)").matches;
+        if (stored === "dark" || (stored === null && prefersDark)) {
+          document.documentElement.classList.add("dark");
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <header class="border-b" style="border-color: var(--color-border)" data-pagefind-ignore>
+      <div class="mx-auto max-w-6xl px-4 py-4 flex items-center justify-between">
+        <a href="/" class="font-serif text-xl font-semibold no-underline" style="color: var(--color-foreground)">
+          Westminster Interests
+        </a>
+        <nav class="flex gap-4 text-sm">
+          <a href="/members">Members</a>
+          <a href="/payers">Payers</a>
+          <a href="/parties">Parties</a>
+          <a href="/appgs">APPGs</a>
+          <a href="/methodology">Methodology</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="mx-auto max-w-6xl px-4 py-8">
+      <slot />
+    </main>
+
+    <footer class="border-t mt-16 py-6 text-sm" style="border-color: var(--color-border); color: var(--color-muted)" data-pagefind-ignore>
+      <div class="mx-auto max-w-6xl px-4 flex justify-between">
+        <span>UK MPs' declared financial interests, as registered with Parliament.</span>
+        <button
+          type="button"
+          id="theme-toggle"
+          class="underline"
+          aria-label="Toggle dark mode"
+        >
+          Toggle theme
+        </button>
+      </div>
+    </footer>
+
+    <script is:inline>
+      document.getElementById("theme-toggle")?.addEventListener("click", () => {
+        const html = document.documentElement;
+        html.classList.toggle("dark");
+        localStorage.setItem(
+          "wi-theme",
+          html.classList.contains("dark") ? "dark" : "light",
+        );
+      });
+    </script>
+  </body>
+</html>
