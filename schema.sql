@@ -71,7 +71,9 @@ CREATE TABLE appg_aliases (
 
 CREATE TABLE appg_memberships (
     appg_slug     TEXT NOT NULL REFERENCES appgs(slug),
-    mnis_id       INTEGER REFERENCES members(mnis_id),
+    -- mnis_id is NOT FK'd to members(mnis_id): the mysociety dataset covers
+    -- both MPs and Lords, and our members table only holds MPs. Keep loose.
+    mnis_id       INTEGER,
     name          TEXT NOT NULL,      -- name as recorded in the mysociety extract
     canon_name    TEXT,
     officer_role  TEXT,               -- 'Chair', 'Vice-Chair', 'Registered Contact', etc; NULL when not an officer
