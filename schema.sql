@@ -44,6 +44,56 @@ CREATE TABLE payers (
 );
 
 -- ============================================================
+-- APPG REFERENCE MODEL (from mysociety dataset, UK-filtered)
+-- ============================================================
+-- appgs is seeded from Data/appg/register.csv (parliament = 'uk').
+-- appg_aliases maps free-text payments.appg strings to canonical slugs;
+-- seeded from Data/appg/appg_aliases.csv.
+-- Naming note: plan refers to "appg_id" throughout; the natural key is
+-- the slug, so tables use appg_slug. No integer surrogate needed.
+
+CREATE TABLE appgs (
+    slug                     TEXT PRIMARY KEY,
+    title                    TEXT NOT NULL,
+    purpose                  TEXT,
+    categories               TEXT,   -- pipe-delimited category names from register.csv
+    source_url               TEXT,   -- publications.parliament.uk registration page for the APPG
+    secretariat              TEXT,
+    website                  TEXT,
+    registered_contact_name  TEXT,
+    date_of_most_recent_agm  TEXT    -- ISO timestamp from the register; no native sqlite date type
+);
+
+CREATE TABLE appg_aliases (
+    raw_name   TEXT PRIMARY KEY,
+    appg_slug  TEXT NOT NULL REFERENCES appgs(slug)
+);
+
+CREATE TABLE appg_memberships (
+    appg_slug     TEXT NOT NULL REFERENCES appgs(slug),
+    mnis_id       INTEGER REFERENCES members(mnis_id),
+    name          TEXT NOT NULL,      -- name as recorded in the mysociety extract
+    canon_name    TEXT,
+    officer_role  TEXT,               -- 'Chair', 'Vice-Chair', 'Registered Contact', etc; NULL when not an officer
+    is_officer    BOOLEAN DEFAULT 0,
+    member_type   TEXT,               -- 'mp' or 'lord'
+    last_updated  DATE,
+    url_source    TEXT,
+    removed       DATE,               -- NULL = still a member; non-NULL = removed on this date
+    PRIMARY KEY (appg_slug, name)
+);
+
+CREATE INDEX idx_appg_memberships_mnis ON appg_memberships(mnis_id);
+CREATE INDEX idx_appg_memberships_current ON appg_memberships(appg_slug, removed);
+
+CREATE TABLE appg_categories (
+    appg_slug      TEXT NOT NULL REFERENCES appgs(slug),
+    category_slug  TEXT NOT NULL,
+    category_name  TEXT NOT NULL,
+    PRIMARY KEY (appg_slug, category_slug)
+);
+
+-- ============================================================
 -- PARENT EMPLOYMENT/ROLE RECORDS (Category 1)
 -- These hold the "who pays for what role" context.
 -- Child payments in Cat 1.1 / 1.2 link back here via interest_id.
@@ -108,7 +158,8 @@ CREATE TABLE payments (
     is_donated          BOOLEAN DEFAULT 0,  -- True when MP donated the payment to charity etc
     donated_to          TEXT,               -- e.g. 'Charity', 'Community organisation'
 
-    appg                TEXT,      -- All-Party Parliamentary Group association (Cat 3, 4, 5)
+    appg                TEXT,      -- All-Party Parliamentary Group association (Cat 3, 4, 5) — free text as declared
+    appg_slug           TEXT REFERENCES appgs(slug),  -- canonical slug resolved via appg_aliases at import time
     source_interest_id  INTEGER,   -- original CSV ID (differs from id for Cat 4 flattened rows)
     registered          DATE,
 
@@ -157,6 +208,9 @@ SELECT
     p.donated_to,
     p.registered,
     p.appg,
+    p.appg_slug,
+    a.title                                      AS appg_canonical_name,
+    a.source_url                                 AS appg_source_url,
     p.source_interest_id,
     i.job_title,
     i.summary AS interest_summary
@@ -164,7 +218,8 @@ FROM payments p
 JOIN members m             ON m.mnis_id = p.member_id
 LEFT JOIN interests i      ON i.id = p.interest_id
 LEFT JOIN payers py_direct ON py_direct.id = p.payer_id
-LEFT JOIN payers py_parent ON py_parent.id = i.payer_id;
+LEFT JOIN payers py_parent ON py_parent.id = i.payer_id
+LEFT JOIN appgs a          ON a.slug = p.appg_slug;
 
 -- ============================================================
 -- SAMPLE QUERIES
