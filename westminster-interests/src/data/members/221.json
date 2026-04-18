@@ -1,0 +1,142 @@
+{
+  "mnis_id": 221,
+  "name": "Dan Norris",
+  "party": "Independent",
+  "party_slug": "independent",
+  "constituency": "North East Somerset and Hanham",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/221/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 3413.97,
+      "inkind": 0.0,
+      "combined": 3413.97,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 31776.2,
+      "inkind": 0.0,
+      "combined": 31776.2,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 40442.44,
+      "inkind": 0.0,
+      "combined": 40442.44,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "since_election": {
+      "monetary": 72218.64,
+      "inkind": 0.0,
+      "combined": 72218.64,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "all_time": {
+      "monetary": 72218.64,
+      "inkind": 0.0,
+      "combined": 72218.64,
+      "payment_count": 1,
+      "donor_count": 1
+    }
+  },
+  "categories": {
+    "1.2": {
+      "12m": {
+        "monetary": 3413.97,
+        "inkind": 0.0,
+        "combined": 3413.97,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 31776.2,
+        "inkind": 0.0,
+        "combined": 31776.2,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 40442.44,
+        "inkind": 0.0,
+        "combined": 40442.44,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 72218.64,
+        "inkind": 0.0,
+        "combined": 72218.64,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 72218.64,
+        "inkind": 0.0,
+        "combined": 72218.64,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    2101,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [],
+  "payments": [
+    {
+      "id": 8086,
+      "date": "2024-07-30",
+      "category": "1.2",
+      "member_id": 221,
+      "member_name": "Dan Norris",
+      "payer_id": 1167,
+      "payer_name": "West of England Mayoral Combined Authority",
+      "amount": 7993.29,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": null,
+      "end_date": "2025-05-01",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/221/registeredinterests?categoryId=1",
+      "summary": "Agreement - £7,993.29",
+      "description": null
+    }
+  ]
+}

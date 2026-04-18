@@ -1,0 +1,99 @@
+{
+  "id": 504,
+  "name": "Harpercollins Publishers",
+  "address": "3 London Brg, London SE1 9SG",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 137.81,
+      "inkind": 0.0,
+      "combined": 137.81,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 137.81,
+      "inkind": 0.0,
+      "combined": 137.81,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 137.81,
+      "inkind": 0.0,
+      "combined": 137.81,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 137.81,
+      "inkind": 0.0,
+      "combined": 137.81,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    138,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 12356,
+      "date": "2025-04-24",
+      "category": "1.1",
+      "member_id": 3991,
+      "member_name": "Jesse Norman",
+      "payer_id": 504,
+      "payer_name": "Harpercollins Publishers",
+      "amount": 137.81,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": true,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/3991/registeredinterests?categoryId=1",
+      "summary": "Payment received on 24 April 2025 - £137.81",
+      "description": null
+    }
+  ]
+}

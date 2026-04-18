@@ -1,0 +1,311 @@
+{
+  "mnis_id": 5255,
+  "name": "Joe Robertson",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "Isle of Wight East",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5255/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 11975.39,
+      "inkind": 307.7,
+      "combined": 12283.09,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "ytd": {
+      "monetary": 2984.54,
+      "inkind": 0.0,
+      "combined": 2984.54,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 11975.39,
+      "inkind": 307.7,
+      "combined": 12283.09,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 4200.47,
+      "inkind": 0.0,
+      "combined": 4200.47,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "since_election": {
+      "monetary": 19160.4,
+      "inkind": 307.7,
+      "combined": 19468.1,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 19160.4,
+      "inkind": 307.7,
+      "combined": 19468.1,
+      "payment_count": 3,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 1888.74,
+        "inkind": 0.0,
+        "combined": 1888.74,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 1888.74,
+        "inkind": 0.0,
+        "combined": 1888.74,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 1888.74,
+        "inkind": 0.0,
+        "combined": 1888.74,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 1888.74,
+        "inkind": 0.0,
+        "combined": 1888.74,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 307.7,
+        "combined": 307.7,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 307.7,
+        "combined": 307.7,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 307.7,
+        "combined": 307.7,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 307.7,
+        "combined": 307.7,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "1.2": {
+      "12m": {
+        "monetary": 10086.65,
+        "inkind": 0.0,
+        "combined": 10086.65,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 2984.54,
+        "inkind": 0.0,
+        "combined": 2984.54,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 10086.65,
+        "inkind": 0.0,
+        "combined": 10086.65,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 4200.47,
+        "inkind": 0.0,
+        "combined": 4200.47,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 17271.66,
+        "inkind": 0.0,
+        "combined": 17271.66,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 17271.66,
+        "inkind": 0.0,
+        "combined": 17271.66,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    829,
+    829,
+    829,
+    829,
+    829,
+    1137,
+    829,
+    2718,
+    829,
+    829,
+    829,
+    829
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "dementia",
+      "appg_name": "All-Party Parliamentary Group on Dementia",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "kinship-care",
+      "appg_name": "All-Party Parliamentary Group on Kinship Care",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "modernising-employment",
+      "appg_name": "All-Party Parliamentary Group on Modernising Employment",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "pharmacy",
+      "appg_name": "All-Party Parliamentary Group on Pharmacy",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "uk-spirits",
+      "appg_name": "All-Party Parliamentary Group on UK Spirits",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14289,
+      "date": "2025-12-14",
+      "category": "2",
+      "member_id": 5255,
+      "member_name": "Joe Robertson",
+      "payer_id": 341,
+      "payer_name": "East Wight Patrons Club",
+      "amount": 1888.74,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5255/registeredinterests?categoryId=2",
+      "summary": "East Wight Patrons Club - £1,888.74",
+      "description": "MP Christmas cards 2024 and 2025, MP Office Christmas lunch 2024 and 2025, MP website annual licence fee, MP small business survey online software license"
+    },
+    {
+      "id": 13743,
+      "date": "2025-10-20",
+      "category": "3",
+      "member_id": 5255,
+      "member_name": "Joe Robertson",
+      "payer_id": 239,
+      "payer_name": "Classic FM",
+      "amount": 307.7,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5255/registeredinterests?categoryId=3",
+      "summary": "Classic FM - £307.70",
+      "description": "Two Classic FM Live Concert tickets and hospitality at the Royal Albert Hall, representing the shadow Culture, Media and Sport team"
+    },
+    {
+      "id": 7077,
+      "date": "2024-08-01",
+      "category": "1.2",
+      "member_id": 5255,
+      "member_name": "Joe Robertson",
+      "payer_id": 575,
+      "payer_name": "Isle of Wight Council",
+      "amount": 841.13,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": null,
+      "end_date": "2026-05-07",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5255/registeredinterests?categoryId=1",
+      "summary": "Agreement - £841.13",
+      "description": null
+    }
+  ]
+}

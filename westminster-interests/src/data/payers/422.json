@@ -1,0 +1,99 @@
+{
+  "id": 422,
+  "name": "The FORB Foundation (Secretariat to APPG FoRB)",
+  "address": null,
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": true,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 562.0,
+      "combined": 562.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 562.0,
+      "combined": 562.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 562.0,
+      "combined": 562.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 562.0,
+      "combined": 562.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    562,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 123971,
+      "date": "2025-05-02",
+      "category": "4",
+      "member_id": 4131,
+      "member_name": "Jim Shannon",
+      "payer_id": 422,
+      "payer_name": "The FORB Foundation (Secretariat to APPG FoRB)",
+      "amount": 562.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "international-freedom-of-religion-or-belief",
+      "appg_name": "All-Party Parliamentary Group for International Freedom of Religion or Belief",
+      "source_url": "https://members.parliament.uk/member/4131/registeredinterests?categoryId=4",
+      "summary": "International visit to Egypt between 02 May 2025 and 05 May 2025 — I was attending as member of the APPG for the Freedom of Religious Belief. The delegation to Egypt was to look at the state of FoRB in Egypt from the perspective of churches that are registered there.  Minister of Foreign affairs who is responsible for FoRB and NGOs working with faith groups on the ground.  We also looked at the registration process and how to have an even balance within faiths.",
+      "description": "Accommodation for three nights (£430), flights (£110), food (£22), all other food was included in the hotel price"
+    }
+  ]
+}

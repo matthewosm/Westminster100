@@ -1,0 +1,165 @@
+{
+  "slug": "writers",
+  "title": "All-Party Parliamentary Group for Writers",
+  "purpose": "Representing the interests of all writers, enabling Parliamentarians from across the political spectrum to keep government and opposition parties informed on specific issues such as safeguarding intellectual property and ensuring writers receive a fair level of reward for their contribution to the economy and society.",
+  "categories": [
+    "Arts, Culture, Heritage & Media",
+    "Economy, Business & Industry"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/writers.htm",
+  "secretariat": "Authors’ Licensing and Collecting Society acts as the group's secretariat.https://www.alcs.co.uk/",
+  "website": "https://allpartywritersgroup.co.uk/",
+  "registered_contact_name": "Chris Evans MP",
+  "date_of_most_recent_agm": "2026-02-11 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "writers",
+      "mnis_id": null,
+      "name": "Baroness Elliott of Whitburn Bay",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/writers.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "writers",
+      "mnis_id": 4040,
+      "name": "Chris Evans",
+      "canon_name": "Chris Evans",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/writers.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "writers",
+      "mnis_id": 1440,
+      "name": "Pete Wishart",
+      "canon_name": "Pete Wishart",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/writers.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "writers",
+      "mnis_id": 39,
+      "name": "Sir John Whittingdale",
+      "canon_name": "John Whittingdale",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/writers.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "writers",
+      "mnis_id": null,
+      "name": "Baroness Elliott of Whitburn Bay",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/writers.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "writers",
+      "mnis_id": 4040,
+      "name": "Chris Evans",
+      "canon_name": "Chris Evans",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/writers.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "writers",
+      "mnis_id": 1440,
+      "name": "Pete Wishart",
+      "canon_name": "Pete Wishart",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/writers.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "writers",
+      "mnis_id": 39,
+      "name": "Sir John Whittingdale",
+      "canon_name": "John Whittingdale",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/writers.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

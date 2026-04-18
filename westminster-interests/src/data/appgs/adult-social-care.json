@@ -1,0 +1,164 @@
+{
+  "slug": "adult-social-care",
+  "title": "Adult Social Care All-Party Parliamentary Group",
+  "purpose": "To be part of the solution for finding a sustainable social care model; build a positive cross-party vision for the future for social care; unlock Parliament to the social care sector, and open the doors of social care to local MPs; be led by lived experience and championed by parliamentarians.",
+  "categories": [
+    "Social Care, Welfare & Family Support"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/adult-social-care.htm",
+  "secretariat": "Healthcomms Consulting Ltd acts as the group's secretariat.https://www.healthcommsconsulting.co.uk/",
+  "website": "https://adultsocialcareappg.com/",
+  "registered_contact_name": "Sojan Joseph MP",
+  "date_of_most_recent_agm": "2026-01-20 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "adult-social-care",
+      "mnis_id": 5351,
+      "name": "Gregory Stafford",
+      "canon_name": "Gregory Stafford",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/adult-social-care.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "adult-social-care",
+      "mnis_id": 4598,
+      "name": "Mohammad Yasin",
+      "canon_name": "Mohammad Yasin",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/adult-social-care.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "adult-social-care",
+      "mnis_id": 5247,
+      "name": "Sojan Joseph",
+      "canon_name": "Sojan Joseph",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/adult-social-care.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "adult-social-care",
+      "mnis_id": 5032,
+      "name": "Tom Gordon",
+      "canon_name": "Tom Gordon",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/adult-social-care.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "adult-social-care",
+      "mnis_id": 5351,
+      "name": "Gregory Stafford",
+      "canon_name": "Gregory Stafford",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/adult-social-care.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "adult-social-care",
+      "mnis_id": 4598,
+      "name": "Mohammad Yasin",
+      "canon_name": "Mohammad Yasin",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/adult-social-care.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "adult-social-care",
+      "mnis_id": 5247,
+      "name": "Sojan Joseph",
+      "canon_name": "Sojan Joseph",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/adult-social-care.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "adult-social-care",
+      "mnis_id": 5032,
+      "name": "Tom Gordon",
+      "canon_name": "Tom Gordon",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/adult-social-care.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

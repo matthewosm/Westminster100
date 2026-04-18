@@ -1,0 +1,167 @@
+{
+  "mnis_id": 4277,
+  "name": "Emma Lewell",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "South Shields",
+  "house": "Commons",
+  "start_date": "2013-05-02",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4277/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 400.0,
+      "combined": 400.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 400.0,
+      "combined": 400.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 400.0,
+      "combined": 400.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 400.0,
+      "combined": 400.0,
+      "payment_count": 1,
+      "donor_count": 1
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 400.0,
+        "combined": 400.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 400.0,
+        "combined": 400.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 400.0,
+        "combined": 400.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 400.0,
+        "combined": 400.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    400,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "school-food",
+      "appg_name": "All-Party Parliamentary Group on School Food",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "women-in-defence",
+      "appg_name": "All-Party Parliamentary Group on Women in Defence",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "leamside-line",
+      "appg_name": "All-Party Parliamentary Group on the Leamside Line",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "child-of-the-north",
+      "appg_name": "Child of the North All-Party Parliamentary Group",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 13268,
+      "date": "2025-09-07",
+      "category": "3",
+      "member_id": 4277,
+      "member_name": "Emma Lewell",
+      "payer_id": 488,
+      "payer_name": "The Great Run Company /Film Nova",
+      "amount": 400.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4277/registeredinterests?categoryId=3",
+      "summary": "The Great Run Company /Film Nova - £400.00",
+      "description": "Hospitality and VIP access to event for the Member of Parliament and one guest"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "slug": "kosovo-and-albania",
+  "title": "All-Party Parliamentary Group on Kosovo and Albania",
+  "purpose": "To help bilateral relations between the UK and Kosovo and the UK and Albania, and to improve parliamentary relations between the three countries.",
+  "categories": [
+    "Country Group"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/kosovo-and-albania.htm",
+  "secretariat": "",
+  "website": "None",
+  "registered_contact_name": "Martin Vickers MP",
+  "date_of_most_recent_agm": "2026-01-14 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 602.13,
+      "combined": 602.13,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 602.13,
+      "combined": 602.13,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 602.13,
+      "combined": 602.13,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 602.13,
+      "combined": 602.13,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 1
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "kosovo-and-albania",
+      "mnis_id": 3957,
+      "name": "Martin Vickers",
+      "canon_name": "Martin Vickers",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/kosovo-and-albania.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "kosovo-and-albania",
+      "mnis_id": 5074,
+      "name": "Mr Paul Foster",
+      "canon_name": "Paul Foster",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/kosovo-and-albania.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "kosovo-and-albania",
+      "mnis_id": 4942,
+      "name": "Richard Foord",
+      "canon_name": "Richard Foord",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/kosovo-and-albania.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "kosovo-and-albania",
+      "mnis_id": 4358,
+      "name": "Wendy Morton",
+      "canon_name": "Wendy Morton",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/kosovo-and-albania.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "kosovo-and-albania",
+      "mnis_id": 3957,
+      "name": "Martin Vickers",
+      "canon_name": "Martin Vickers",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/kosovo-and-albania.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "kosovo-and-albania",
+      "mnis_id": 5074,
+      "name": "Mr Paul Foster",
+      "canon_name": "Paul Foster",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/kosovo-and-albania.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "kosovo-and-albania",
+      "mnis_id": 4942,
+      "name": "Richard Foord",
+      "canon_name": "Richard Foord",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/kosovo-and-albania.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "kosovo-and-albania",
+      "mnis_id": 4358,
+      "name": "Wendy Morton",
+      "canon_name": "Wendy Morton",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/kosovo-and-albania.htm",
+      "removed": null
+    }
+  ],
+  "payments": [
+    {
+      "id": 146601,
+      "date": "2026-02-13",
+      "category": "4",
+      "member_id": 5074,
+      "member_name": "Mr Paul Foster",
+      "payer_id": 1169,
+      "payer_name": "Westminster Foundation for Democracy",
+      "amount": 364.95,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "kosovo-and-albania",
+      "appg_name": "All-Party Parliamentary Group on Kosovo and Albania",
+      "source_url": "https://members.parliament.uk/member/5074/registeredinterests?categoryId=4",
+      "summary": "International visit to Albania between 13 February 2026 and 18 February 2026 — Mentoring new Albanian MP's on behalf of the Westminster Foundation for Democracy and then joining the cross party APPG delegation meeting members of the Kosovan Government for their Independence Day parade and celebrations.",
+      "description": "Flights (£256.91), hotel (£108.04)"
+    },
+    {
+      "id": 146602,
+      "date": "2026-02-13",
+      "category": "4",
+      "member_id": 5074,
+      "member_name": "Mr Paul Foster",
+      "payer_id": 572,
+      "payer_name": "IPSA",
+      "amount": 237.18,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "kosovo-and-albania",
+      "appg_name": "All-Party Parliamentary Group on Kosovo and Albania",
+      "source_url": "https://members.parliament.uk/member/5074/registeredinterests?categoryId=4",
+      "summary": "International visit to Albania between 13 February 2026 and 18 February 2026 — Mentoring new Albanian MP's on behalf of the Westminster Foundation for Democracy and then joining the cross party APPG delegation meeting members of the Kosovan Government for their Independence Day parade and celebrations.",
+      "description": "Hotel (£221.13), train from airport (£16.05)"
+    }
+  ]
+}

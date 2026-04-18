@@ -1,0 +1,179 @@
+{
+  "mnis_id": 4471,
+  "name": "Rachael Maskell",
+  "party": "Labour (Co-op)",
+  "party_slug": "labour-co-op",
+  "constituency": "York Central",
+  "house": "Commons",
+  "start_date": "2015-05-07",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4471/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 25187.0,
+      "inkind": 0.0,
+      "combined": 25187.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 25187.0,
+      "inkind": 0.0,
+      "combined": 25187.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 25187.0,
+      "inkind": 0.0,
+      "combined": 25187.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "all_time": {
+      "monetary": 25187.0,
+      "inkind": 0.0,
+      "combined": 25187.0,
+      "payment_count": 1,
+      "donor_count": 1
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 25187.0,
+        "inkind": 0.0,
+        "combined": 25187.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 25187.0,
+        "inkind": 0.0,
+        "combined": 25187.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 25187.0,
+        "inkind": 0.0,
+        "combined": 25187.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 25187.0,
+        "inkind": 0.0,
+        "combined": 25187.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    25187,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "archaeology",
+      "appg_name": "All-Party Parliamentary Archaeology Group",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "ageing-and-older-people",
+      "appg_name": "All-Party Parliamentary Group for Ageing and Older People",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "adoption-and-permanence",
+      "appg_name": "All-Party Parliamentary Group on Adoption and Permanence",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "dying-well",
+      "appg_name": "All-Party Parliamentary Group on Dying Well",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "child-of-the-north",
+      "appg_name": "Child of the North All-Party Parliamentary Group",
+      "officer_role": "Co-Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "drugs-alcohol-and-justice",
+      "appg_name": "Drugs, Alcohol and Justice All-Party Parliamentary Group",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14394,
+      "date": "2026-01-22",
+      "category": "2",
+      "member_id": 4471,
+      "member_name": "Rachael Maskell",
+      "payer_id": 1138,
+      "payer_name": "University and College Union",
+      "amount": 25187.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4471/registeredinterests?categoryId=2",
+      "summary": "University and College Union - £25,187.00",
+      "description": "This donation is made to Solidarity Ltd to cover the costs of its support for the work UCU Parliamentary Group, of which I am the co-chair with Baroness Blower. The money does not come to me as an MP chairing the group."
+    }
+  ]
+}

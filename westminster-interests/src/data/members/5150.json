@@ -1,0 +1,204 @@
+{
+  "mnis_id": 5150,
+  "name": "Samantha Niblett",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "South Derbyshire",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5150/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 834.6,
+      "combined": 834.6,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 3954.6,
+      "combined": 3954.6,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 3954.6,
+      "combined": 3954.6,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 3954.6,
+      "combined": 3954.6,
+      "payment_count": 2,
+      "donor_count": 2
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 834.6,
+        "combined": 834.6,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 3954.6,
+        "combined": 3954.6,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 3954.6,
+        "combined": 3954.6,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 3954.6,
+        "combined": 3954.6,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    835,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "diversity-and-inclusion-in-science-technology-engineering-and-mathematics",
+      "appg_name": "All-Party Parliamentary Group on Diversity and Inclusion in Science, Technology, Engineering and Mathematics",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "financial-technology",
+      "appg_name": "All-Party Parliamentary Group on Financial Technology",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "motor",
+      "appg_name": "All-Party Parliamentary Motor Group",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "itv",
+      "appg_name": "ITV All-Party Parliamentary Group",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "internet-communications-and-technology",
+      "appg_name": "Parliamentary Internet, Communications and Technology Forum All-Party Parliamentary Group",
+      "officer_role": "Co-Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "united-arab-emirates",
+      "appg_name": "United Arab Emirates All-Party Parliamentary Group",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 13094,
+      "date": "2025-07-19",
+      "category": "3",
+      "member_id": 5150,
+      "member_name": "Samantha Niblett",
+      "payer_id": 312,
+      "payer_name": "DHP Family Ltd",
+      "amount": 834.6,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-07-20",
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5150/registeredinterests?categoryId=3",
+      "summary": "DHP Family Ltd - £834.60",
+      "description": "Four tickets to Splendour Festival weekend"
+    },
+    {
+      "id": 11935,
+      "date": "2025-03-01",
+      "category": "3",
+      "member_id": 5150,
+      "member_name": "Samantha Niblett",
+      "payer_id": 144,
+      "payer_name": "BPI (British Recorded Music Industry) Ltd",
+      "amount": 3120.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5150/registeredinterests?categoryId=3",
+      "summary": "BPI - £3,120.00",
+      "description": "Two tickets plus hospitality to the Brit Awards. This was part of my engagement with BPI on the AI and Copyright consultation as part of their Make It FAIr campaign"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "slug": "fairtrade",
+  "title": "All-Party Parliamentary Group on Fairtrade",
+  "purpose": "To promote fairtrade within parliament; to deepen the relationship between local fairtrade organisations and parliamentarians and to further raise awareness of the importance of fairtrade.",
+  "categories": [
+    "International Affairs, Development & Trade"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fairtrade.htm",
+  "secretariat": "Fairtrade Foundation acts as the group's secretariat.http://www.fairtrade.org.uk/",
+  "website": "https://www.fairtrade.org.uk/what-is-fairtrade/policy-briefings-and-reports/fairtrade-all-party-parliamentary-group/",
+  "registered_contact_name": "Martin Rhodes MP",
+  "date_of_most_recent_agm": "2025-02-12 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "fairtrade",
+      "mnis_id": 5177,
+      "name": "Ann Davies",
+      "canon_name": "Ann Davies",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fairtrade.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "fairtrade",
+      "mnis_id": 4511,
+      "name": "Dr Rupa Huq",
+      "canon_name": "Rupa Huq",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fairtrade.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "fairtrade",
+      "mnis_id": 4608,
+      "name": "John Lamont",
+      "canon_name": "John Lamont",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fairtrade.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "fairtrade",
+      "mnis_id": 5251,
+      "name": "Martin Rhodes",
+      "canon_name": "Martin Rhodes",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fairtrade.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "fairtrade",
+      "mnis_id": 5177,
+      "name": "Ann Davies",
+      "canon_name": "Ann Davies",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fairtrade.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "fairtrade",
+      "mnis_id": 4511,
+      "name": "Dr Rupa Huq",
+      "canon_name": "Rupa Huq",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fairtrade.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "fairtrade",
+      "mnis_id": 4608,
+      "name": "John Lamont",
+      "canon_name": "John Lamont",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fairtrade.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "fairtrade",
+      "mnis_id": 5251,
+      "name": "Martin Rhodes",
+      "canon_name": "Martin Rhodes",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fairtrade.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

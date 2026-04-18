@@ -1,0 +1,243 @@
+{
+  "mnis_id": 4850,
+  "name": "Gareth Davies",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "Grantham and Bourne",
+  "house": "Commons",
+  "start_date": "2019-12-12",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4850/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 6854.14,
+      "combined": 6854.14,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 905.33,
+      "combined": 905.33,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 11573.81,
+      "combined": 11573.81,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 12479.14,
+      "combined": 12479.14,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 12479.14,
+      "combined": 12479.14,
+      "payment_count": 3,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 6854.14,
+        "combined": 6854.14,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 905.33,
+        "combined": 905.33,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 5948.81,
+        "combined": 5948.81,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 6854.14,
+        "combined": 6854.14,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 6854.14,
+        "combined": 6854.14,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 5625.0,
+        "combined": 5625.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 5625.0,
+        "combined": 5625.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 5625.0,
+        "combined": 5625.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    5949,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    905,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "private-capital",
+      "appg_name": "All-Party Parliamentary Group on Private Capital",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 144871,
+      "date": "2026-01-15",
+      "category": "4",
+      "member_id": 4850,
+      "member_name": "Gareth Davies",
+      "payer_id": 429,
+      "payer_name": "Franco-British Colloque Ltd",
+      "amount": 905.33,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4850/registeredinterests?categoryId=4",
+      "summary": "International visit to France between 15 January 2026 and 17 January 2026 — To attend the Franco-British Colloque 2026",
+      "description": "Accommodation, food and transportation"
+    },
+    {
+      "id": 125941,
+      "date": "2025-06-03",
+      "category": "4",
+      "member_id": 4850,
+      "member_name": "Gareth Davies",
+      "payer_id": 557,
+      "payer_name": "Informa Plc",
+      "amount": 5948.81,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4850/registeredinterests?categoryId=4",
+      "summary": "International visit to Germany between 03 June 2025 and 05 June 2025 — Attending an international conference to discuss how investment can be increased in the UK.",
+      "description": "Conference admission fee waived"
+    },
+    {
+      "id": 12198,
+      "date": "2025-03-19",
+      "category": "3",
+      "member_id": 4850,
+      "member_name": "Gareth Davies",
+      "payer_id": 870,
+      "payer_name": "PEI Media Ltd",
+      "amount": 5625.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4850/registeredinterests?categoryId=3",
+      "summary": "PEI Media Ltd - £5,625.00",
+      "description": "Access to news, rankings, reports and databases"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "slug": "uk-fresh-produce-network",
+  "title": "All-Party Parliamentary Group on the UK Fresh Produce Network",
+  "purpose": "To create a forum for Parliamentarians to address critical issues within the agrifood industry, particularly the fresh produce sector, and to advocate for policies that promote sustainable and innovative practices within the sector and supply chain.",
+  "categories": [
+    "Food, Agriculture & Rural Affairs"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/uk-fresh-produce-network.htm",
+  "secretariat": "UK Fresh Produce Network acts as the group's secretariat.https://www.lincs-chamber.co.uk/membership/uk-fpn-reasons/",
+  "website": "None",
+  "registered_contact_name": "Sir John Hayes MP",
+  "date_of_most_recent_agm": "2024-11-13 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "uk-fresh-produce-network",
+      "mnis_id": 5047,
+      "name": "James Naish",
+      "canon_name": "James Naish",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/250909/uk-fresh-produce-network.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "uk-fresh-produce-network",
+      "mnis_id": 5161,
+      "name": "Richard Tice",
+      "canon_name": "Richard Tice",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/250909/uk-fresh-produce-network.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "uk-fresh-produce-network",
+      "mnis_id": 350,
+      "name": "Sir John Hayes",
+      "canon_name": "John Hayes",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/250909/uk-fresh-produce-network.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "uk-fresh-produce-network",
+      "mnis_id": 5047,
+      "name": "James Naish",
+      "canon_name": "James Naish",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/250909/uk-fresh-produce-network.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "uk-fresh-produce-network",
+      "mnis_id": 5161,
+      "name": "Richard Tice",
+      "canon_name": "Richard Tice",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/250909/uk-fresh-produce-network.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "uk-fresh-produce-network",
+      "mnis_id": 350,
+      "name": "Sir John Hayes",
+      "canon_name": "John Hayes",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/250909/uk-fresh-produce-network.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

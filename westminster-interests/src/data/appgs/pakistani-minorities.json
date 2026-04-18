@@ -1,0 +1,166 @@
+{
+  "slug": "pakistani-minorities",
+  "title": "All-Party Parliamentary Group for Pakistani Minorities",
+  "purpose": "To raise awareness of and help eliminate discrimination and persecution faced by the religious minorities; and to help develop an inclusive and tolerant Pakistan.",
+  "categories": [
+    "Human Rights, Equality & Social Justice",
+    "International Affairs, Development & Trade",
+    "Religion, Faith & Belief Communities"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/pakistani-minorities.htm",
+  "secretariat": "Morris Johns acts as the group's secretariat.",
+  "website": "None",
+  "registered_contact_name": "Jim Shannon MP",
+  "date_of_most_recent_agm": "2025-10-22 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "pakistani-minorities",
+      "mnis_id": 4131,
+      "name": "Jim Shannon",
+      "canon_name": "Jim Shannon",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/pakistani-minorities.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "pakistani-minorities",
+      "mnis_id": null,
+      "name": "Lord Alton of Liverpool",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/pakistani-minorities.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "pakistani-minorities",
+      "mnis_id": 4457,
+      "name": "Ms Marie Rimmer",
+      "canon_name": "Marie Rimmer",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/pakistani-minorities.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "pakistani-minorities",
+      "mnis_id": 1572,
+      "name": "Sir Jeremy Hunt",
+      "canon_name": "Jeremy Hunt",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/pakistani-minorities.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "pakistani-minorities",
+      "mnis_id": 4131,
+      "name": "Jim Shannon",
+      "canon_name": "Jim Shannon",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/pakistani-minorities.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "pakistani-minorities",
+      "mnis_id": null,
+      "name": "Lord Alton of Liverpool",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/pakistani-minorities.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "pakistani-minorities",
+      "mnis_id": 4457,
+      "name": "Ms Marie Rimmer",
+      "canon_name": "Marie Rimmer",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/pakistani-minorities.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "pakistani-minorities",
+      "mnis_id": 1572,
+      "name": "Sir Jeremy Hunt",
+      "canon_name": "Jeremy Hunt",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/pakistani-minorities.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

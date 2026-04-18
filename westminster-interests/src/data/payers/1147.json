@@ -1,0 +1,124 @@
+{
+  "id": 1147,
+  "name": "Uğur Ibrahim Altay Mayor of Konya Metropolitan Municipality​​",
+  "address": "Konya Büyükşehir Belediyesi, Ayanbey, Konya Eğitim ve Araştırma Hst. Acil Servisi, 42090 Meram/Konya, Turkiye",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 2447.0,
+      "combined": 2447.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 1201.09,
+      "combined": 1201.09,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 1245.91,
+      "combined": 1245.91,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 2447.0,
+      "combined": 2447.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 2447.0,
+      "combined": 2447.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1246,
+    0,
+    1201,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 146621,
+      "date": "2026-02-15",
+      "category": "4",
+      "member_id": 4671,
+      "member_name": "Afzal Khan",
+      "payer_id": 1147,
+      "payer_name": "Uğur Ibrahim Altay Mayor of Konya Metropolitan Municipality​​",
+      "amount": 1201.09,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4671/registeredinterests?categoryId=4",
+      "summary": "International visit to Turkey between 15 February 2026 and 17 February 2026 — To deliver a lecture at Necmettin Erbakan University",
+      "description": "Flights (£856.27), accommodation (£203.82), subsistence (£101) and internal travel (£40)"
+    },
+    {
+      "id": 141721,
+      "date": "2025-12-15",
+      "category": "4",
+      "member_id": 4671,
+      "member_name": "Afzal Khan",
+      "payer_id": 1147,
+      "payer_name": "Uğur Ibrahim Altay Mayor of Konya Metropolitan Municipality​​",
+      "amount": 1245.91,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4671/registeredinterests?categoryId=4",
+      "summary": "International visit to Turkey between 15 December 2025 and 19 December 2025 — To attend a conference at the invitation of the Mayor of Konya.",
+      "description": "Flights (£865.35), accommodation (£280.56), subsistence (£70) and internal travel (£30)"
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "mnis_id": 5309,
+  "name": "Katrina Murray",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Cumbernauld and Kirkintilloch",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5309/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 2710.0,
+      "combined": 2710.0,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 2710.0,
+      "combined": 2710.0,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 2710.0,
+      "combined": 2710.0,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 2710.0,
+      "combined": 2710.0,
+      "payment_count": 3,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1570.0,
+        "combined": 1570.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1570.0,
+        "combined": 1570.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1570.0,
+        "combined": 1570.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1570.0,
+        "combined": 1570.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1140.0,
+        "combined": 1140.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1140.0,
+        "combined": 1140.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1140.0,
+        "combined": 1140.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1140.0,
+        "combined": 1140.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    650,
+    490,
+    0,
+    1570,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "night-time-economy",
+      "appg_name": "All-Party Parliamentary Group for the Night Time Economy",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "debt-and-financial-inclusion",
+      "appg_name": "All-Party Parliamentary Group on Debt and Financial Inclusion",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "new-towns",
+      "appg_name": "All-Party Parliamentary Group on New Towns",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "usher-syndrome",
+      "appg_name": "Usher Syndrome All-Party Parliamentary Group",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 139001,
+      "date": "2025-11-05",
+      "category": "4",
+      "member_id": 5309,
+      "member_name": "Katrina Murray",
+      "payer_id": 399,
+      "payer_name": "Federal Department of Foreign Affairs, Switzerland",
+      "amount": 1570.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5309/registeredinterests?categoryId=4",
+      "summary": "International visit to Switzerland between 05 November 2025 and 07 November 2025 — MP delegation visit with focus on Switzerland's rail/transport network and Vocational and Professional Education and Training (VPET) system.",
+      "description": "Travel (£380), Accommodation (£660), In-Country Travel (£290), Meals (£240)"
+    },
+    {
+      "id": 13441,
+      "date": "2025-09-06",
+      "category": "3",
+      "member_id": 5309,
+      "member_name": "Katrina Murray",
+      "payer_id": 15,
+      "payer_name": "A.G. Barr PLC",
+      "amount": 490.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5309/registeredinterests?categoryId=3",
+      "summary": "A.G. Barr PLC - £490.00",
+      "description": "Invitation to employee family fun day to celebrate 150th anniversary of the company including lunch and soft drink reception.  Invitation extended to constituency office team and their families.  In total 7 people attended the event.  Advice received is that the cost per individual was £70 including VAT"
+    },
+    {
+      "id": 13181,
+      "date": "2025-08-12",
+      "category": "3",
+      "member_id": 5309,
+      "member_name": "Katrina Murray",
+      "payer_id": 1154,
+      "payer_name": "Vodafone",
+      "amount": 650.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5309/registeredinterests?categoryId=3",
+      "summary": "Vodafone - £650.00",
+      "description": "Royal Gallery ticket for myself for the Edinburgh Royal Military Tattoo with hospitality prior to and during performance"
+    }
+  ]
+}

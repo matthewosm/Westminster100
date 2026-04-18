@@ -1,0 +1,99 @@
+{
+  "id": 1136,
+  "name": "United Nations Population Fund via the APPG on Global Sexual and Reproductive Health and as per its APPG Register",
+  "address": "United Nations Population Fund, 605 3rd Avenue, New York, NY 10158, USA",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 2633.74,
+      "inkind": 0.0,
+      "combined": 2633.74,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 2633.74,
+      "inkind": 0.0,
+      "combined": 2633.74,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 2633.74,
+      "inkind": 0.0,
+      "combined": 2633.74,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 123811,
+      "date": "2025-04-08",
+      "category": "4",
+      "member_id": 4824,
+      "member_name": "Kim Johnson",
+      "payer_id": 1136,
+      "payer_name": "United Nations Population Fund via the APPG on Global Sexual and Reproductive Health and as per its APPG Register",
+      "amount": 2633.74,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "global-sexual-and-reproductive-health-and-rights",
+      "appg_name": "All-Party Parliamentary Group on Global Sexual and Reproductive Health and Rights",
+      "source_url": "https://members.parliament.uk/member/4824/registeredinterests?categoryId=4",
+      "summary": "International visit to Kenya between 08 April 2025 and 19 April 2025 — To raise awareness among UK Parliamentarians about issues relating to Global SRHR/Maternal Health/Family Planning (FP)/Gender Based Violence (GBV) and International Development and assess UK Official Development Aid impact.",
+      "description": "9-13th April, Kenya\r\nFlights:  £1,547.90\r\nAccommodation: 486.41\r\nOther travel: £101.16\r\nFood & Drink: £371.13\r\nMisc: £127.14"
+    }
+  ]
+}

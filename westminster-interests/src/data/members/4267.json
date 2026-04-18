@@ -1,0 +1,348 @@
+{
+  "mnis_id": 4267,
+  "name": "Sarah Champion",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Rotherham",
+  "house": "Commons",
+  "start_date": "2012-11-29",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4267/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 16169.0,
+      "combined": 16169.0,
+      "payment_count": 5,
+      "donor_count": 5
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 23116.0,
+      "combined": 23116.0,
+      "payment_count": 6,
+      "donor_count": 6
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 23116.0,
+      "combined": 23116.0,
+      "payment_count": 6,
+      "donor_count": 6
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 23116.0,
+      "combined": 23116.0,
+      "payment_count": 6,
+      "donor_count": 6
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 14769.0,
+        "combined": 14769.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 21716.0,
+        "combined": 21716.0,
+        "payment_count": 5,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 21716.0,
+        "combined": 21716.0,
+        "payment_count": 5,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 21716.0,
+        "combined": 21716.0,
+        "payment_count": 5,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1400.0,
+        "combined": 1400.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1400.0,
+        "combined": 1400.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1400.0,
+        "combined": 1400.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1400.0,
+        "combined": 1400.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    5700,
+    0,
+    4831,
+    0,
+    0,
+    0,
+    0,
+    5638,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "zoos-and-aquariums",
+      "appg_name": "All-Party Parliamentary Group for Zoos and Aquariums",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "ocean",
+      "appg_name": "All-Party Parliamentary Group for the Ocean",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "global-sexual-and-reproductive-health-and-rights",
+      "appg_name": "All-Party Parliamentary Group on Global Sexual and Reproductive Health and Rights",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "taiwan",
+      "appg_name": "British-Taiwanese All-Party Parliamentary Group",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "cayman-islands",
+      "appg_name": "Cayman Islands All-Party Parliamentary Group",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "channel-islands",
+      "appg_name": "Channel Islands All-Party Parliamentary Group",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 141641,
+      "date": "2025-12-05",
+      "category": "4",
+      "member_id": 4267,
+      "member_name": "Sarah Champion",
+      "payer_id": 319,
+      "payer_name": "Doha Forum",
+      "amount": 5638.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4267/registeredinterests?categoryId=4",
+      "summary": "International visit to Qatar between 05 December 2025 and 08 December 2025 — To attend the Doha Forum on Diplomacy, Dialogue and Diversity and meetings with Qatari ministers to discuss Conflict Resolution.",
+      "description": "Flights (£5233) and accommodation (£405)"
+    },
+    {
+      "id": 12848,
+      "date": "2025-07-05",
+      "category": "3",
+      "member_id": 4267,
+      "member_name": "Sarah Champion",
+      "payer_id": 1004,
+      "payer_name": "Silverstone",
+      "amount": 1400.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "formula-1-and-motorsport",
+      "appg_name": "All-Party Parliamentary Group on Formula 1 and Motorsport",
+      "source_url": "https://members.parliament.uk/member/4267/registeredinterests?categoryId=3",
+      "summary": "Silverstone - £1,400.00",
+      "description": "Two tickets and hospitality for myself and my partner to the British Grand Prix Saturday qualifier"
+    },
+    {
+      "id": 128271,
+      "date": "2025-06-24",
+      "category": "4",
+      "member_id": 4267,
+      "member_name": "Sarah Champion",
+      "payer_id": 483,
+      "payer_name": "Government of Jersey",
+      "amount": 2400.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "channel-islands",
+      "appg_name": "Channel Islands All-Party Parliamentary Group",
+      "source_url": "https://members.parliament.uk/member/4267/registeredinterests?categoryId=4",
+      "summary": "International visit to Jersey between 24 June 2025 and 30 June 2025 — Orientation and research trip as Chair of APPG Channel Islands, with Senior Researcher",
+      "description": "Flights (£210), hotel (approx. £740), local transportation (approx £750) and food (approx. £700)"
+    },
+    {
+      "id": 128272,
+      "date": "2025-06-24",
+      "category": "4",
+      "member_id": 4267,
+      "member_name": "Sarah Champion",
+      "payer_id": 1043,
+      "payer_name": "States of Guernsey",
+      "amount": 1031.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "channel-islands",
+      "appg_name": "Channel Islands All-Party Parliamentary Group",
+      "source_url": "https://members.parliament.uk/member/4267/registeredinterests?categoryId=4",
+      "summary": "International visit to Jersey between 24 June 2025 and 30 June 2025 — Orientation and research trip as Chair of APPG Channel Islands, with Senior Researcher",
+      "description": "Flights (£435), local transportation (approx £480) and food (approx. £116)"
+    },
+    {
+      "id": 125581,
+      "date": "2025-05-19",
+      "category": "4",
+      "member_id": 4267,
+      "member_name": "Sarah Champion",
+      "payer_id": 759,
+      "payer_name": "Ministry of Foreign Affairs of the State of Qatar",
+      "amount": 5700.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4267/registeredinterests?categoryId=4",
+      "summary": "International visit to Qatar between 19 May 2025 and 23 May 2025 — Attending the Bloomberg Qatar Economic Forum 2025 and to meet with Ministers and associated organisations to discuss Qatar's leading role in peace negotiations and humanitarian issues globally.",
+      "description": "Flights (£3200), hotel (approx. £1400), local transportation (approx £500) and food (approx. £600)"
+    },
+    {
+      "id": 119501,
+      "date": "2025-02-15",
+      "category": "4",
+      "member_id": 4267,
+      "member_name": "Sarah Champion",
+      "payer_id": 765,
+      "payer_name": "MOFA Taiwan",
+      "amount": 6947.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "taiwan",
+      "appg_name": "British-Taiwanese All-Party Parliamentary Group",
+      "source_url": "https://members.parliament.uk/member/4267/registeredinterests?categoryId=4",
+      "summary": "International visit to Taiwan between 15 February 2025 and 22 February 2025 — To lead an APPG Taiwan cross party delegation as Co-Chair of the APPG",
+      "description": "Flights (£4,130), hotel (approx. £1,404), local transportation (approx £552) and food (approx. £861) (the costs are for me and my partner)"
+    }
+  ]
+}

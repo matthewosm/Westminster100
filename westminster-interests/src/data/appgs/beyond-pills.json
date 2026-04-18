@@ -1,0 +1,164 @@
+{
+  "slug": "beyond-pills",
+  "title": "Beyond Pills All-Party Parliamentary Group",
+  "purpose": "To move UK healthcare beyond an over-reliance on pills by combining social prescribing, lifestyle medicine, psychosocial interventions and safe deprescribing. As well as reducing unnecessary and inappropriate prescribing, this integrated approach will improve outcomes and reduce health inequalities",
+  "categories": [
+    "Health, Medicine & Public Health"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/beyond-pills.htm",
+  "secretariat": "Beyond Pills Alliance acts as the group's secretariat.https://beyondpillsalliance.org",
+  "website": "https://beyondpillsappg.org/",
+  "registered_contact_name": "Dr Simon Opher MP",
+  "date_of_most_recent_agm": "2025-11-19 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "beyond-pills",
+      "mnis_id": 5030,
+      "name": "Dr Simon Opher",
+      "canon_name": "Simon Opher",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/beyond-pills.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "beyond-pills",
+      "mnis_id": 4708,
+      "name": "Lord Bethell",
+      "canon_name": "Lord Bethell",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/beyond-pills.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "beyond-pills",
+      "mnis_id": 3783,
+      "name": "Lord Crisp",
+      "canon_name": "Lord Crisp",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/beyond-pills.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "beyond-pills",
+      "mnis_id": 5312,
+      "name": "Sadik Al-Hassan",
+      "canon_name": "Sadik Al-Hassan",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/beyond-pills.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "beyond-pills",
+      "mnis_id": 5030,
+      "name": "Dr Simon Opher",
+      "canon_name": "Simon Opher",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/beyond-pills.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "beyond-pills",
+      "mnis_id": 4708,
+      "name": "Lord Bethell",
+      "canon_name": "Lord Bethell",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/beyond-pills.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "beyond-pills",
+      "mnis_id": 3783,
+      "name": "Lord Crisp",
+      "canon_name": "Lord Crisp",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/beyond-pills.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "beyond-pills",
+      "mnis_id": 5312,
+      "name": "Sadik Al-Hassan",
+      "canon_name": "Sadik Al-Hassan",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/beyond-pills.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

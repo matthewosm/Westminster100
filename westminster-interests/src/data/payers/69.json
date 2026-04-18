@@ -1,0 +1,99 @@
+{
+  "id": 69,
+  "name": "Armed Forces Parliamentary Scheme Trust",
+  "address": "Armed Forces Parliamentary Trust, House of Commons, London, SW1A 0AA.",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 606.32,
+      "combined": 606.32,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 606.32,
+      "combined": 606.32,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 606.32,
+      "combined": 606.32,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 606.32,
+      "combined": 606.32,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    606,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 135361,
+      "date": "2025-05-02",
+      "category": "4",
+      "member_id": 5256,
+      "member_name": "Jonathan Davies",
+      "payer_id": 69,
+      "payer_name": "Armed Forces Parliamentary Scheme Trust",
+      "amount": 606.32,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5256/registeredinterests?categoryId=4",
+      "summary": "International visit to Bahrain between 02 May 2025 and 05 May 2025 — UK Maritime Component Command (UKMCC) is a Royal Navy Command located at HMS Jufair in Bahrain.",
+      "description": "Flights to Bahrain and back to London to visit the UK Maritime Component Command"
+    }
+  ]
+}

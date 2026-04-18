@@ -1,0 +1,99 @@
+{
+  "id": 169,
+  "name": "Buck's Club 1919",
+  "address": "18 Clifford Street, London W15 3RF",
+  "nature_of_business": null,
+  "donor_status": "Company",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 1625.0,
+      "combined": 1625.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 3318,
+      "date": "2002-01-01",
+      "category": "3",
+      "member_id": 152,
+      "member_name": "Sir Iain Duncan Smith",
+      "payer_id": 169,
+      "payer_name": "Buck's Club 1919",
+      "amount": 1625.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/152/registeredinterests?categoryId=3",
+      "summary": "Buck's Club 1919 - £1,625.00",
+      "description": "Honorary life membership of Buck's Club 1919 (value provided is that in 2024)"
+    }
+  ]
+}

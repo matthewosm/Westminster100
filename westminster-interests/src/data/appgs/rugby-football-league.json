@@ -1,0 +1,164 @@
+{
+  "slug": "rugby-football-league",
+  "title": "All-Party Parliamentary Group on Rugby Football League",
+  "purpose": "To foster relations and to encourage members of the parliamentary estate and associated government offices to partake in rugby football league.",
+  "categories": [
+    "Sport, Recreation & Physical Activity"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/rugby-football-league.htm",
+  "secretariat": "Rugby Football League acts as the group's secretariat.https://www.rugby-league.com/",
+  "website": "https://www.rugby-league.com/governance/campaigns/standing-up-for-rugby-league",
+  "registered_contact_name": "David Baines MP",
+  "date_of_most_recent_agm": "2025-01-15 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "rugby-football-league",
+      "mnis_id": 5025,
+      "name": "Chris Webb",
+      "canon_name": "Chris Webb",
+      "officer_role": "Secretary",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/rugby-football-league.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "rugby-football-league",
+      "mnis_id": 5092,
+      "name": "David Baines",
+      "canon_name": "David Baines",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/rugby-football-league.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "rugby-football-league",
+      "mnis_id": 4581,
+      "name": "Lord Caine",
+      "canon_name": "Lord Caine",
+      "officer_role": "Deputy Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/rugby-football-league.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "rugby-football-league",
+      "mnis_id": 4457,
+      "name": "Ms Marie Rimmer",
+      "canon_name": "Marie Rimmer",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/rugby-football-league.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "rugby-football-league",
+      "mnis_id": 5025,
+      "name": "Chris Webb",
+      "canon_name": "Chris Webb",
+      "officer_role": "Secretary",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/rugby-football-league.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "rugby-football-league",
+      "mnis_id": 5092,
+      "name": "David Baines",
+      "canon_name": "David Baines",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/rugby-football-league.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "rugby-football-league",
+      "mnis_id": 4581,
+      "name": "Lord Caine",
+      "canon_name": "Lord Caine",
+      "officer_role": "Deputy Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/rugby-football-league.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "rugby-football-league",
+      "mnis_id": 4457,
+      "name": "Ms Marie Rimmer",
+      "canon_name": "Marie Rimmer",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/rugby-football-league.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

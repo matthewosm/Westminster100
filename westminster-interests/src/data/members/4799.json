@@ -1,0 +1,267 @@
+{
+  "mnis_id": 4799,
+  "name": "Charlotte Nichols",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Warrington North",
+  "house": "Commons",
+  "start_date": "2019-12-12",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4799/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 5603.64,
+      "combined": 5603.64,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 6303.64,
+      "combined": 6303.64,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 6303.64,
+      "combined": 6303.64,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 6303.64,
+      "combined": 6303.64,
+      "payment_count": 3,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 5603.64,
+        "combined": 5603.64,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 5603.64,
+        "combined": 5603.64,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 5603.64,
+        "combined": 5603.64,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 5603.64,
+        "combined": 5603.64,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 700.0,
+        "combined": 700.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 700.0,
+        "combined": 700.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 700.0,
+        "combined": 700.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    4721,
+    0,
+    0,
+    0,
+    883,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "interfaith-dialogue",
+      "appg_name": "All-Party Parliamentary Group for Interfaith Dialogue",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "video-games-and-esports",
+      "appg_name": "All-Party Parliamentary Group for Video Games and Esports",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "british-sign-language",
+      "appg_name": "All-Party Parliamentary Group on British Sign Language",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "nuclear-energy",
+      "appg_name": "All-Party Parliamentary Group on Nuclear Energy",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "pubs",
+      "appg_name": "All-Party Parliamentary Group on Pubs",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 138801,
+      "date": "2025-10-27",
+      "category": "4",
+      "member_id": 4799,
+      "member_name": "Charlotte Nichols",
+      "payer_id": 831,
+      "payer_name": "Nuclear Industry Association",
+      "amount": 882.55,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "nuclear-energy",
+      "appg_name": "All-Party Parliamentary Group on Nuclear Energy",
+      "source_url": "https://members.parliament.uk/member/4799/registeredinterests?categoryId=4",
+      "summary": "International visit to Finland between 27 October 2025 and 29 October 2025 — To visit the Olkiluoto 3 Nuclear Power Plant, Onkalo Geological Disposal Facility and Radiation and Nuclear Safety Authority (STUK) as part of a Nuclear Energy APPG Visit",
+      "description": "Return flights to Helsinki, hotel accommodation, transport and meals"
+    },
+    {
+      "id": 130751,
+      "date": "2025-07-14",
+      "category": "4",
+      "member_id": 4799,
+      "member_name": "Charlotte Nichols",
+      "payer_id": 926,
+      "payer_name": "Ratch Group PLC",
+      "amount": 4721.09,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "nuclear-energy",
+      "appg_name": "All-Party Parliamentary Group on Nuclear Energy",
+      "source_url": "https://members.parliament.uk/member/4799/registeredinterests?categoryId=4",
+      "summary": "International visit to Thailand between 14 July 2025 and 18 July 2025 — Attending \"A Global Dialogue on Small Modular Reactor Deployment\" conference at the Queen Sikirit National Convention Centre in Bangkok, on 16 July 2025, which I was invited to attend and speak at in my capacity as Chair of the Nuclear APPG.",
+      "description": "Flights (£4,197.39), accommodation (£523.70)"
+    },
+    {
+      "id": 12269,
+      "date": "2025-04-08",
+      "category": "3",
+      "member_id": 4799,
+      "member_name": "Charlotte Nichols",
+      "payer_id": 1125,
+      "payer_name": "Ukie (UK Interactive Entertainment Association Limited)",
+      "amount": 700.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4799/registeredinterests?categoryId=3",
+      "summary": "UK Interactive Entertainment Association Limited - £700.00",
+      "description": "Hospitality at the BAFTA Game Awards 2025  in my capacity as Chair of the All Party Parliamentary Group on Video Games and ESports"
+    }
+  ]
+}

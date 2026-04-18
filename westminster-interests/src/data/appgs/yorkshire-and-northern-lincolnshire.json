@@ -1,0 +1,164 @@
+{
+  "slug": "yorkshire-and-northern-lincolnshire",
+  "title": "All-Party Parliamentary Group for Yorkshire and Northern Lincolnshire",
+  "purpose": "To bring MPs and Peers of all parties together with key leaders - those in local government, the private sector and social enterprise - to help maximise future investment in the region for the benefit of all local communities and economies.",
+  "categories": [
+    "Regions, Nations & Devolution"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/yorkshire-and-northern-lincolnshire.htm",
+  "secretariat": "The Public Affairs Company and North Star Public Affairs jointly act as the group's secretariat.https://publicaffairsco.com/",
+  "website": "None",
+  "registered_contact_name": "Mark Sewards MP",
+  "date_of_most_recent_agm": "2025-11-25 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "yorkshire-and-northern-lincolnshire",
+      "mnis_id": 5254,
+      "name": "Alison Hume",
+      "canon_name": "Alison Hume",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/yorkshire-and-northern-lincolnshire.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "yorkshire-and-northern-lincolnshire",
+      "mnis_id": null,
+      "name": "Lord Kirkhope of Harrogate",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/yorkshire-and-northern-lincolnshire.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "yorkshire-and-northern-lincolnshire",
+      "mnis_id": null,
+      "name": "Lord Mohammed of Tinsley",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/yorkshire-and-northern-lincolnshire.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "yorkshire-and-northern-lincolnshire",
+      "mnis_id": 5166,
+      "name": "Mark Sewards",
+      "canon_name": "Mark Sewards",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/yorkshire-and-northern-lincolnshire.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "yorkshire-and-northern-lincolnshire",
+      "mnis_id": 5254,
+      "name": "Alison Hume",
+      "canon_name": "Alison Hume",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/yorkshire-and-northern-lincolnshire.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "yorkshire-and-northern-lincolnshire",
+      "mnis_id": null,
+      "name": "Lord Kirkhope of Harrogate",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/yorkshire-and-northern-lincolnshire.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "yorkshire-and-northern-lincolnshire",
+      "mnis_id": null,
+      "name": "Lord Mohammed of Tinsley",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/yorkshire-and-northern-lincolnshire.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "yorkshire-and-northern-lincolnshire",
+      "mnis_id": 5166,
+      "name": "Mark Sewards",
+      "canon_name": "Mark Sewards",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/yorkshire-and-northern-lincolnshire.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

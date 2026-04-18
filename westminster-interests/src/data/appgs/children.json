@@ -1,0 +1,165 @@
+{
+  "slug": "children",
+  "title": "All-Party Parliamentary Group for Children",
+  "purpose": "To raise greater awareness in the Houses of Parliament of aspects of the well-being of the nation's children and young people, ensuring the voice and experience of children are at the heart of policy making; and to work with children, children's organisations, and politicians from all sides, to promote first-class government policy for children.",
+  "categories": [
+    "Social Care, Welfare & Family Support",
+    "Education, Skills & Youth"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/children.htm",
+  "secretariat": "National Children's Bureau acts as the group's secretariat.https://www.ncb.org.uk/",
+  "website": "https://www.ncb.org.uk/what-we-do/influencing-policy/all-party-parliamentary-group-children-appgc",
+  "registered_contact_name": "Jess Asato MP",
+  "date_of_most_recent_agm": "2025-11-19 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "children",
+      "mnis_id": null,
+      "name": "Baroness Tyler of Enfield",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/children.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "children",
+      "mnis_id": 3790,
+      "name": "Baroness Verma",
+      "canon_name": "Baroness Verma",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/children.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "children",
+      "mnis_id": 5156,
+      "name": "Jess Asato",
+      "canon_name": "Jessica Asato",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/children.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "children",
+      "mnis_id": 5324,
+      "name": "Sarah Russell",
+      "canon_name": "Sarah Russell",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/children.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "children",
+      "mnis_id": null,
+      "name": "Baroness Tyler of Enfield",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/children.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "children",
+      "mnis_id": 3790,
+      "name": "Baroness Verma",
+      "canon_name": "Baroness Verma",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/children.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "children",
+      "mnis_id": 5156,
+      "name": "Jess Asato",
+      "canon_name": "Jessica Asato",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/children.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "children",
+      "mnis_id": 5324,
+      "name": "Sarah Russell",
+      "canon_name": "Sarah Russell",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/children.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

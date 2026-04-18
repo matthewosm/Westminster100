@@ -1,0 +1,164 @@
+{
+  "slug": "jazz",
+  "title": "All-Party Parliamentary Jazz Group",
+  "purpose": "To encourage wider and deeper enjoyment of jazz, to increase parliamentarians' understanding of the jazz industry and issues surrounding it, to promote jazz as a musical form and to raise its profile inside and outside parliament.",
+  "categories": [
+    "Arts, Culture, Heritage & Media"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/jazz.htm",
+  "secretariat": "Chris Hodgkins acts as the group's secretariat.https://www.chrishodgkins.co.uk/",
+  "website": "https://appjag.org/",
+  "registered_contact_name": "Dame Chi Onwurah MP",
+  "date_of_most_recent_agm": "2025-11-20 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "jazz",
+      "mnis_id": null,
+      "name": "Baroness Nicholson of Winterbourne",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/jazz.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "jazz",
+      "mnis_id": 4124,
+      "name": "Dame Chi Onwurah",
+      "canon_name": "Chi Onwurah",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/jazz.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "jazz",
+      "mnis_id": 5105,
+      "name": "Jo White",
+      "canon_name": "Jo White",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/jazz.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "jazz",
+      "mnis_id": 1387,
+      "name": "Lord Mann",
+      "canon_name": "Lord Mann",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/jazz.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "jazz",
+      "mnis_id": null,
+      "name": "Baroness Nicholson of Winterbourne",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/jazz.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "jazz",
+      "mnis_id": 4124,
+      "name": "Dame Chi Onwurah",
+      "canon_name": "Chi Onwurah",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/jazz.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "jazz",
+      "mnis_id": 5105,
+      "name": "Jo White",
+      "canon_name": "Jo White",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/jazz.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "jazz",
+      "mnis_id": 1387,
+      "name": "Lord Mann",
+      "canon_name": "Lord Mann",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/jazz.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

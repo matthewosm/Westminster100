@@ -1,0 +1,161 @@
+{
+  "mnis_id": 249,
+  "name": "Sir Geoffrey Clifton-Brown",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "North Cotswolds",
+  "house": "Commons",
+  "start_date": "1992-04-09",
+  "photo_url": "https://members-api.parliament.uk/api/Members/249/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 14989.73,
+      "combined": 14989.73,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 4435.32,
+      "combined": 4435.32,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 14989.73,
+      "combined": 14989.73,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 15030.8,
+      "combined": 15030.8,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 26858.32,
+      "combined": 26858.32,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 164476.39,
+      "combined": 164476.39,
+      "payment_count": 1,
+      "donor_count": 1
+    }
+  },
+  "categories": {
+    "1.2": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 14989.73,
+        "combined": 14989.73,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 4435.32,
+        "combined": 4435.32,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 14989.73,
+        "combined": 14989.73,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 15030.8,
+        "combined": 15030.8,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 26858.32,
+        "combined": 26858.32,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 164476.39,
+        "combined": 164476.39,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    1232,
+    1232,
+    1232,
+    1232,
+    1232,
+    1232,
+    1232,
+    1232,
+    1232,
+    1232,
+    1232,
+    1232
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "china",
+      "appg_name": "All-Party Parliamentary China Group",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "nuclear-energy",
+      "appg_name": "All-Party Parliamentary Group on Nuclear Energy",
+      "officer_role": "Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "shooting-and-conservation",
+      "appg_name": "All-Party Parliamentary Group on Shooting and Conservation",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 4708,
+      "date": "2015-05-01",
+      "category": "1.2",
+      "member_id": 249,
+      "member_name": "Sir Geoffrey Clifton-Brown",
+      "payer_id": 337,
+      "payer_name": "East Beckham partnership",
+      "amount": 15000.0,
+      "payment_type": "In kind",
+      "is_regular": true,
+      "period": "Yearly",
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/249/registeredinterests?categoryId=1",
+      "summary": "Agreement - £15,000.00",
+      "description": "The use of a car belonging to the partnership (value as at 29 September 2025)"
+    }
+  ]
+}

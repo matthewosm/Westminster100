@@ -1,0 +1,164 @@
+{
+  "slug": "entrepreneurship",
+  "title": "All-Party Parliamentary Group for Entrepreneurship",
+  "purpose": "Entrepreneurs are vital to a dynamic, innovative economy. The APPG for Entrepreneurship exists to champion their role – encouraging, supporting, and promoting entrepreneurship across the UK. Our mission is to ensure that Parliament remains closely informed about what’s needed to foster the best possible environment for entrepreneurs to succeed.",
+  "categories": [
+    "Economy, Business & Industry"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/entrepreneurship.htm",
+  "secretariat": "The Entrepreneurs Network acts as the group's secretariat.https://www.tenentrepreneurs.org/",
+  "website": "https://appgentrepreneurship.org/",
+  "registered_contact_name": "Tristan Osborne MP",
+  "date_of_most_recent_agm": "2025-04-22 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "entrepreneurship",
+      "mnis_id": 3809,
+      "name": "Lord Bilimoria",
+      "canon_name": "Lord Bilimoria",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/entrepreneurship.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "entrepreneurship",
+      "mnis_id": null,
+      "name": "Lord Leigh of Hurley",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/entrepreneurship.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "entrepreneurship",
+      "mnis_id": 5220,
+      "name": "Tristan Osborne",
+      "canon_name": "Tristan Osborne",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/entrepreneurship.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "entrepreneurship",
+      "mnis_id": 5201,
+      "name": "Victoria Collins",
+      "canon_name": "Victoria Collins",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/entrepreneurship.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "entrepreneurship",
+      "mnis_id": 3809,
+      "name": "Lord Bilimoria",
+      "canon_name": "Lord Bilimoria",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/entrepreneurship.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "entrepreneurship",
+      "mnis_id": null,
+      "name": "Lord Leigh of Hurley",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/entrepreneurship.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "entrepreneurship",
+      "mnis_id": 5220,
+      "name": "Tristan Osborne",
+      "canon_name": "Tristan Osborne",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/entrepreneurship.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "entrepreneurship",
+      "mnis_id": 5201,
+      "name": "Victoria Collins",
+      "canon_name": "Victoria Collins",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/entrepreneurship.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

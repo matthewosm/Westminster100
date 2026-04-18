@@ -1,0 +1,211 @@
+{
+  "mnis_id": 4394,
+  "name": "Imran Hussain",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Bradford East",
+  "house": "Commons",
+  "start_date": "2015-05-07",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4394/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 14291.51,
+      "combined": 14291.51,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 2860.0,
+      "combined": 2860.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 11431.51,
+      "combined": 11431.51,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 14291.51,
+      "combined": 14291.51,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 14291.51,
+      "combined": 14291.51,
+      "payment_count": 3,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 14291.51,
+        "combined": 14291.51,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 2860.0,
+        "combined": 2860.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 11431.51,
+        "combined": 11431.51,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 14291.51,
+        "combined": 14291.51,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 14291.51,
+        "combined": 14291.51,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    11432,
+    0,
+    0,
+    0,
+    2860,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "boxing",
+      "appg_name": "All-Party Parliamentary Group on Boxing",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "kashmir",
+      "appg_name": "All-Party Parliamentary Group on Kashmir",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "turkish-republic-of-northern-cyprus",
+      "appg_name": "All-Party Parliamentary Group on the Turkish Republic of Northern Cyprus",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 146631,
+      "date": "2026-01-23",
+      "category": "4",
+      "member_id": 4394,
+      "member_name": "Imran Hussain",
+      "payer_id": 847,
+      "payer_name": "Orphans in Need",
+      "amount": 2860.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4394/registeredinterests?categoryId=4",
+      "summary": "International visit to Pakistan between 23 January 2026 and 02 February 2026 — Humanitarian trip to Pakistan to deliver aid to orphans",
+      "description": "Estimate of value: Flight (£860), accommodation (£1,500), food/ground costs (£500)"
+    },
+    {
+      "id": 138651,
+      "date": "2025-10-08",
+      "category": "4",
+      "member_id": 4394,
+      "member_name": "Imran Hussain",
+      "payer_id": 971,
+      "payer_name": "Royal Embassy of Saudi Arabia",
+      "amount": 10031.51,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "saudi-arabia",
+      "appg_name": "All-Party Parliamentary Group on Saudi Arabia",
+      "source_url": "https://members.parliament.uk/member/4394/registeredinterests?categoryId=4",
+      "summary": "International visit to Saudi Arabia between 08 October 2025 and 18 October 2025 — Delegation of MPs and Peers to meet several Saudi Ministers, royal family members and members of the Shura Council, in relation to: trade, defence, tourism (Hajj/Umrah), education and energy. A dinner was hosted at the British Embassy with the Ambassador to promote Saudi-British relations",
+      "description": "Flights (£6851.20), accommodation (£2580.31) and meals (£600)"
+    },
+    {
+      "id": 138652,
+      "date": "2025-10-08",
+      "category": "4",
+      "member_id": 4394,
+      "member_name": "Imran Hussain",
+      "payer_id": 205,
+      "payer_name": "Chamber of Commerce Istanbul Turkiye",
+      "amount": 1400.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "saudi-arabia",
+      "appg_name": "All-Party Parliamentary Group on Saudi Arabia",
+      "source_url": "https://members.parliament.uk/member/4394/registeredinterests?categoryId=4",
+      "summary": "International visit to Saudi Arabia between 08 October 2025 and 18 October 2025 — Delegation of MPs and Peers to meet several Saudi Ministers, royal family members and members of the Shura Council, in relation to: trade, defence, tourism (Hajj/Umrah), education and energy. A dinner was hosted at the British Embassy with the Ambassador to promote Saudi-British relations",
+      "description": "Accommodation: four nights in Madinah"
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "mnis_id": 4634,
+  "name": "Christine Jardine",
+  "party": "Liberal Democrat",
+  "party_slug": "liberal-democrat",
+  "constituency": "Edinburgh West",
+  "house": "Commons",
+  "start_date": "2017-06-08",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4634/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 2068.94,
+      "combined": 2068.94,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 3582.94,
+      "combined": 3582.94,
+      "payment_count": 7,
+      "donor_count": 6
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 3582.94,
+      "combined": 3582.94,
+      "payment_count": 7,
+      "donor_count": 6
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 3582.94,
+      "combined": 3582.94,
+      "payment_count": 7,
+      "donor_count": 6
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1168.0,
+        "combined": 1168.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 2682.0,
+        "combined": 2682.0,
+        "payment_count": 6,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 2682.0,
+        "combined": 2682.0,
+        "payment_count": 6,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 2682.0,
+        "combined": 2682.0,
+        "payment_count": 6,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 900.94,
+        "combined": 900.94,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 900.94,
+        "combined": 900.94,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 900.94,
+        "combined": 900.94,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 900.94,
+        "combined": 900.94,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    370,
+    0,
+    0,
+    1699,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "antisemitism",
+      "appg_name": "All-Party Parliamentary Group Against Antisemitism",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "choice-at-the-end-of-life",
+      "appg_name": "All-Party Parliamentary Group for Choice at the End of Life",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "grief-support-and-the-impact-of-death-on-society",
+      "appg_name": "All-Party Parliamentary Group on Grief Support and the Impact of Death on Society",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "portugal",
+      "appg_name": "All-Party Parliamentary Group on Portugal",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "switzerland-and-liechtenstein",
+      "appg_name": "All-Party Parliamentary Group on Switzerland and Liechtenstein",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "humanist",
+      "appg_name": "All-Party Parliamentary Humanist Group",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 13990,
+      "date": "2025-11-08",
+      "category": "3",
+      "member_id": 4634,
+      "member_name": "Christine Jardine",
+      "payer_id": 994,
+      "payer_name": "Scottish Rugby Limited",
+      "amount": 798.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4634/registeredinterests?categoryId=3",
+      "summary": "Scottish Rugby Limited - £798.00",
+      "description": "Two tickets and hospitality for the Scotland v New Zealand game as part of the Autumn International series"
+    },
+    {
+      "id": 138261,
+      "date": "2025-10-21",
+      "category": "4",
+      "member_id": 4634,
+      "member_name": "Christine Jardine",
+      "payer_id": 266,
+      "payer_name": "Consulate of San Marino",
+      "amount": 900.94,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "san-marino",
+      "appg_name": "San Marino All-Party Parliamentary Group",
+      "source_url": "https://members.parliament.uk/member/4634/registeredinterests?categoryId=4",
+      "summary": "International visit to Vatican City between 21 October 2025 and 23 October 2025 — Meetings with business people, parliamentarians and faith leaders in the Vatican City and San Marino to foster links between communities, parliaments and countries.",
+      "description": "Airfare and transfers (£534.36), accommodation (£193), subsistence (£173.38)"
+    },
+    {
+      "id": 13274,
+      "date": "2025-08-19",
+      "category": "3",
+      "member_id": 4634,
+      "member_name": "Christine Jardine",
+      "payer_id": 969,
+      "payer_name": "The Royal Edinburgh Military Tattoo",
+      "amount": 370.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4634/registeredinterests?categoryId=3",
+      "summary": "The Royal Edinburgh Military Tattoo - £370.00",
+      "description": "Ticket, drinks and hospitality package for the Edinburgh Military Tattoo at Edinburgh Castle. Value is approximate"
+    },
+    {
+      "id": 12140,
+      "date": "2025-03-22",
+      "category": "3",
+      "member_id": 4634,
+      "member_name": "Christine Jardine",
+      "payer_id": 159,
+      "payer_name": "British Broadcasting Corporation",
+      "amount": 64.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4634/registeredinterests?categoryId=3",
+      "summary": "British Broadcasting Corporation - £64.00",
+      "description": "Space at a briefing dinner at Party conference in Harrogate"
+    },
+    {
+      "id": 12054,
+      "date": "2025-02-25",
+      "category": "3",
+      "member_id": 4634,
+      "member_name": "Christine Jardine",
+      "payer_id": 609,
+      "payer_name": "Jet2 Holidays",
+      "amount": 400.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "aviation-travel-and-aerospace",
+      "appg_name": "All-Party Parliamentary Group for the Future of Aviation, Travel and Aerospace",
+      "source_url": "https://members.parliament.uk/member/4634/registeredinterests?categoryId=3",
+      "summary": "Jet2 Holidays - £400.00",
+      "description": "Ticket for the Airlines UK 2025 annual dinner (value is approximate)"
+    },
+    {
+      "id": 12055,
+      "date": "2025-02-18",
+      "category": "3",
+      "member_id": 4634,
+      "member_name": "Christine Jardine",
+      "payer_id": 347,
+      "payer_name": "Edinburgh Airport Ltd",
+      "amount": 500.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4634/registeredinterests?categoryId=3",
+      "summary": "Edinburgh Airport Ltd - £500.00",
+      "description": "Ticket to the AirportsUK Annual Dinner (value is approximate)"
+    },
+    {
+      "id": 11996,
+      "date": "2025-02-14",
+      "category": "3",
+      "member_id": 4634,
+      "member_name": "Christine Jardine",
+      "payer_id": 159,
+      "payer_name": "British Broadcasting Corporation",
+      "amount": 550.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4634/registeredinterests?categoryId=3",
+      "summary": "British Broadcasting Corporation - £550.00",
+      "description": "Travel to and from my constituency and Northallerton plus a meal relating to an appearance on BBC Radio 4's Any Questions (value is approximate)"
+    }
+  ]
+}

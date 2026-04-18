@@ -1,0 +1,165 @@
+{
+  "slug": "suicide-and-self-harm-prevention",
+  "title": "All-Party Parliamentary Group on Suicide and Self-Harm Prevention",
+  "purpose": "To build discussion, debate and support for action on suicide and self-harm prevention within Parliament.",
+  "categories": [
+    "Health, Medicine & Public Health",
+    "Social Care, Welfare & Family Support"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/suicide-and-self-harm-prevention.htm",
+  "secretariat": "Samaritans acts as the group's secretariat.https://www.samaritans.org/",
+  "website": "https://www.samaritans.org/about-samaritans/research-policy/appg/",
+  "registered_contact_name": "Liz Twist MP",
+  "date_of_most_recent_agm": "2025-11-19 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "suicide-and-self-harm-prevention",
+      "mnis_id": null,
+      "name": "Baroness Finlay of Llandaff",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/suicide-and-self-harm-prevention.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "suicide-and-self-harm-prevention",
+      "mnis_id": 4853,
+      "name": "Dr Neil Hudson",
+      "canon_name": "Neil Hudson",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/suicide-and-self-harm-prevention.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "suicide-and-self-harm-prevention",
+      "mnis_id": 5077,
+      "name": "Jacob Collier",
+      "canon_name": "Jacob Collier",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/suicide-and-self-harm-prevention.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "suicide-and-self-harm-prevention",
+      "mnis_id": 4618,
+      "name": "Liz Twist",
+      "canon_name": "Liz Twist",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/suicide-and-self-harm-prevention.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "suicide-and-self-harm-prevention",
+      "mnis_id": null,
+      "name": "Baroness Finlay of Llandaff",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/suicide-and-self-harm-prevention.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "suicide-and-self-harm-prevention",
+      "mnis_id": 4853,
+      "name": "Dr Neil Hudson",
+      "canon_name": "Neil Hudson",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/suicide-and-self-harm-prevention.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "suicide-and-self-harm-prevention",
+      "mnis_id": 5077,
+      "name": "Jacob Collier",
+      "canon_name": "Jacob Collier",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/suicide-and-self-harm-prevention.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "suicide-and-self-harm-prevention",
+      "mnis_id": 4618,
+      "name": "Liz Twist",
+      "canon_name": "Liz Twist",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/suicide-and-self-harm-prevention.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

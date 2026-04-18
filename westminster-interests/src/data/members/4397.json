@@ -1,0 +1,229 @@
+{
+  "mnis_id": 4397,
+  "name": "Peter Dowd",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Bootle",
+  "house": "Commons",
+  "start_date": "2015-05-07",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4397/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 705.57,
+      "combined": 705.57,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 705.57,
+      "combined": 705.57,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 705.57,
+      "combined": 705.57,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 705.57,
+      "combined": 705.57,
+      "payment_count": 3,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 705.57,
+        "combined": 705.57,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 705.57,
+        "combined": 705.57,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 705.57,
+        "combined": 705.57,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 705.57,
+        "combined": 705.57,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    706,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "children-who-need-palliative-care",
+      "appg_name": "All-Party Parliamentary Group for Children who Need Palliative Care",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "genetic-rare-and-undiagnosed-conditions",
+      "appg_name": "All-Party Parliamentary Group on Genetic, Rare and Undiagnosed Conditions",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "italy",
+      "appg_name": "All-Party Parliamentary Group on Italy",
+      "officer_role": "Co-Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "uk-spirits",
+      "appg_name": "All-Party Parliamentary Group on UK Spirits",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "falkland-islands",
+      "appg_name": "Falkland Islands All-Party Parliamentary Group",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "liverpool-city-region",
+      "appg_name": "Liverpool City Region All-Party Parliamentary Group",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 137451,
+      "date": "2025-10-05",
+      "category": "4",
+      "member_id": 4397,
+      "member_name": "Peter Dowd",
+      "payer_id": 579,
+      "payer_name": "Italian IPU Group",
+      "amount": 160.96,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "italy",
+      "appg_name": "All-Party Parliamentary Group on Italy",
+      "source_url": "https://members.parliament.uk/member/4397/registeredinterests?categoryId=4",
+      "summary": "International visit to Italy between 05 October 2025 and 11 October 2025 — As co-chair of the All Party Parliamentary Group for Italy, the Group received an invite from the Chair of the British Friendship Group. The visit to the Italian Parliament was organised by the Italian Inter Parliament Union. The Group met with over 40 senior Italian MPs and Senators (including Chairs of Italian Parliamentary Select Committees) in both Houses of the Italian Parliament, as well as undertaking meetings with representatives of the British expat community and at the British School at Rome.",
+      "description": "Lunch for myself (£47.76), tour of the Colosseum for myself and a guest (£113.20)"
+    },
+    {
+      "id": 137452,
+      "date": "2025-10-05",
+      "category": "4",
+      "member_id": 4397,
+      "member_name": "Peter Dowd",
+      "payer_id": 37,
+      "payer_name": "All Party Parliamentary Group for Italy",
+      "amount": 204.61,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "italy",
+      "appg_name": "All-Party Parliamentary Group on Italy",
+      "source_url": "https://members.parliament.uk/member/4397/registeredinterests?categoryId=4",
+      "summary": "International visit to Italy between 05 October 2025 and 11 October 2025 — As co-chair of the All Party Parliamentary Group for Italy, the Group received an invite from the Chair of the British Friendship Group. The visit to the Italian Parliament was organised by the Italian Inter Parliament Union. The Group met with over 40 senior Italian MPs and Senators (including Chairs of Italian Parliamentary Select Committees) in both Houses of the Italian Parliament, as well as undertaking meetings with representatives of the British expat community and at the British School at Rome.",
+      "description": "Meals for myself and a guest (£158.78), transport for myself and a guest (£45.83)"
+    },
+    {
+      "id": 137453,
+      "date": "2025-10-05",
+      "category": "4",
+      "member_id": 4397,
+      "member_name": "Peter Dowd",
+      "payer_id": 580,
+      "payer_name": "Italian Parliament",
+      "amount": 340.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "italy",
+      "appg_name": "All-Party Parliamentary Group on Italy",
+      "source_url": "https://members.parliament.uk/member/4397/registeredinterests?categoryId=4",
+      "summary": "International visit to Italy between 05 October 2025 and 11 October 2025 — As co-chair of the All Party Parliamentary Group for Italy, the Group received an invite from the Chair of the British Friendship Group. The visit to the Italian Parliament was organised by the Italian Inter Parliament Union. The Group met with over 40 senior Italian MPs and Senators (including Chairs of Italian Parliamentary Select Committees) in both Houses of the Italian Parliament, as well as undertaking meetings with representatives of the British expat community and at the British School at Rome.",
+      "description": "Presentation of symbolic, parliamentary items exchanged between me, as co Chair of the All Party Parliamentary Group for Italy, and the various senior Italian Select Committee Chairs we met (estimated value £340)"
+    }
+  ]
+}

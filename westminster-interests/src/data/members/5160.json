@@ -1,0 +1,330 @@
+{
+  "mnis_id": 5160,
+  "name": "Jenny Riddell-Carpenter",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Suffolk Coastal",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5160/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 10000.0,
+      "inkind": 33390.0,
+      "combined": 43390.0,
+      "payment_count": 6,
+      "donor_count": 3
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 16500.0,
+      "combined": 16500.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2025": {
+      "monetary": 10000.0,
+      "inkind": 16890.0,
+      "combined": 26890.0,
+      "payment_count": 4,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 10000.0,
+      "inkind": 33390.0,
+      "combined": 43390.0,
+      "payment_count": 6,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 10000.0,
+      "inkind": 33390.0,
+      "combined": 43390.0,
+      "payment_count": 6,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 10000.0,
+        "inkind": 33000.0,
+        "combined": 43000.0,
+        "payment_count": 5,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 16500.0,
+        "combined": 16500.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 10000.0,
+        "inkind": 16500.0,
+        "combined": 26500.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 10000.0,
+        "inkind": 33000.0,
+        "combined": 43000.0,
+        "payment_count": 5,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 10000.0,
+        "inkind": 33000.0,
+        "combined": 43000.0,
+        "payment_count": 5,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 390.0,
+        "combined": 390.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 390.0,
+        "combined": 390.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 390.0,
+        "combined": 390.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 390.0,
+        "combined": 390.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    10000,
+    0,
+    16500,
+    0,
+    390,
+    0,
+    0,
+    0,
+    0,
+    16500,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "volunteer-rescue-services",
+      "appg_name": "All-Party Parliamentary Group for Volunteer Rescue Services",
+      "officer_role": "Treasurer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "maritime-and-ports",
+      "appg_name": "All-Party Parliamentary Group on Maritime and Ports",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "healthy-homes-and-buildings",
+      "appg_name": "Healthy Homes and Buildings All-Party Parliamentary Group",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14773,
+      "date": "2026-02-23",
+      "category": "2",
+      "member_id": 5160,
+      "member_name": "Jenny Riddell-Carpenter",
+      "payer_id": 56,
+      "payer_name": "Anthony Trevor Langham",
+      "amount": 8250.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2026-08-22",
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5160/registeredinterests?categoryId=2",
+      "summary": "Anthony Trevor Langham - £8,250.00",
+      "description": "In-kind support provided via Lansons, covering 50% of the salary costs of a staff member supporting the Labour Rural Research Group (LRRG), of which I am the Chair"
+    },
+    {
+      "id": 14775,
+      "date": "2026-02-23",
+      "category": "2",
+      "member_id": 5160,
+      "member_name": "Jenny Riddell-Carpenter",
+      "payer_id": 1066,
+      "payer_name": "Susan Clare Parsons",
+      "amount": 8250.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2026-08-22",
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5160/registeredinterests?categoryId=2",
+      "summary": "Susan Clare Parsons - £8,250.00",
+      "description": "In-kind support provided via Lansons, covering 50% of the salary costs of a staff member supporting the Labour Rural Research Group (LRRG), of which I am the Chair"
+    },
+    {
+      "id": 13901,
+      "date": "2025-10-18",
+      "category": "3",
+      "member_id": 5160,
+      "member_name": "Jenny Riddell-Carpenter",
+      "payer_id": 56,
+      "payer_name": "Anthony Trevor Langham",
+      "amount": 390.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5160/registeredinterests?categoryId=3",
+      "summary": "Anthony Trevor Langham - £390.00",
+      "description": "two tickets with hospitality for Ascot races for Jenny Riddell-Carpenter. Each ticket value £195"
+    },
+    {
+      "id": 13171,
+      "date": "2025-08-04",
+      "category": "2",
+      "member_id": 5160,
+      "member_name": "Jenny Riddell-Carpenter",
+      "payer_id": 56,
+      "payer_name": "Anthony Trevor Langham",
+      "amount": 8250.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2026-02-03",
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5160/registeredinterests?categoryId=2",
+      "summary": "Anthony Trevor Langham - £8,250.00",
+      "description": "In-kind support provided via Lansons, covering 50% of the salary costs of a staff member supporting the Labour Rural Research Group (LRRG), of which I am the Chair"
+    },
+    {
+      "id": 13180,
+      "date": "2025-08-04",
+      "category": "2",
+      "member_id": 5160,
+      "member_name": "Jenny Riddell-Carpenter",
+      "payer_id": 1066,
+      "payer_name": "Susan Clare Parsons",
+      "amount": 8250.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2026-02-03",
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5160/registeredinterests?categoryId=2",
+      "summary": "Susan Clare Parsons - £8,250.00",
+      "description": "In-kind support provided via Lansons, covering 50% of the salary costs of a staff member supporting the Labour Rural Research Group (LRRG), of which I am the Chair"
+    },
+    {
+      "id": 12474,
+      "date": "2025-05-29",
+      "category": "2",
+      "member_id": 5160,
+      "member_name": "Jenny Riddell-Carpenter",
+      "payer_id": 608,
+      "payer_name": "Jerome Justin Watts",
+      "amount": 10000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5160/registeredinterests?categoryId=2",
+      "summary": "Jerome Justin Watts - £10,000.00",
+      "description": "to support CLP activities"
+    }
+  ]
+}

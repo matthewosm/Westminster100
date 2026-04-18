@@ -1,0 +1,298 @@
+{
+  "mnis_id": 5169,
+  "name": "Charlie Dewhirst",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "Bridlington and The Wolds",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5169/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 3374.35,
+      "combined": 3374.35,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 3794.35,
+      "combined": 3794.35,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 3794.35,
+      "combined": 3794.35,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 3794.35,
+      "combined": 3794.35,
+      "payment_count": 4,
+      "donor_count": 4
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1984.35,
+        "combined": 1984.35,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1984.35,
+        "combined": 1984.35,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1984.35,
+        "combined": 1984.35,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1984.35,
+        "combined": 1984.35,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1390.0,
+        "combined": 1390.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1810.0,
+        "combined": 1810.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1810.0,
+        "combined": 1810.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1810.0,
+        "combined": 1810.0,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    590,
+    800,
+    0,
+    1984,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "rugby-union-football-club",
+      "appg_name": "All-Party Parliamentary Commons and Lords Rugby Union Football Club Group",
+      "officer_role": "Treasurer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "fisheries",
+      "appg_name": "All-Party Parliamentary Group on Fisheries",
+      "officer_role": "Treasurer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "science-and-technology-in-agriculture",
+      "appg_name": "All-Party Parliamentary Group on Science and Technology in Agriculture",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "uk-food-security",
+      "appg_name": "All-Party Parliamentary Group on UK Food Security",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "abraham-accords",
+      "appg_name": "All-Party Parliamentary Group on the Abraham Accords",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "child-of-the-north",
+      "appg_name": "Child of the North All-Party Parliamentary Group",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 134991,
+      "date": "2025-09-14",
+      "category": "4",
+      "member_id": 5169,
+      "member_name": "Charlie Dewhirst",
+      "payer_id": 362,
+      "payer_name": "ELNET UK",
+      "amount": 1984.35,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5169/registeredinterests?categoryId=4",
+      "summary": "International visit to Israel between 14 September 2025 and 17 September 2025 — A delegation of European politicians focused on security and defence.",
+      "description": "Flights (£774), hotel (£808) and meals (£402.35)"
+    },
+    {
+      "id": 13017,
+      "date": "2025-07-04",
+      "category": "3",
+      "member_id": 5169,
+      "member_name": "Charlie Dewhirst",
+      "payer_id": 1006,
+      "payer_name": "Silverstone Circuits Limited",
+      "amount": 800.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5169/registeredinterests?categoryId=3",
+      "summary": "Silverstone Circuits Ltd - £800.00",
+      "description": "Two tickets with hospitality for myself and a family member to attend the British Grand Prix"
+    },
+    {
+      "id": 12843,
+      "date": "2025-06-19",
+      "category": "3",
+      "member_id": 5169,
+      "member_name": "Charlie Dewhirst",
+      "payer_id": 80,
+      "payer_name": "Ascot Racecourse Limited",
+      "amount": 590.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5169/registeredinterests?categoryId=3",
+      "summary": "Ascot Racecourse Limited - £590.00",
+      "description": "Two tickets and hospitality for myself and a family member to attend Ascot Races"
+    },
+    {
+      "id": 11951,
+      "date": "2025-02-26",
+      "category": "3",
+      "member_id": 5169,
+      "member_name": "Charlie Dewhirst",
+      "payer_id": 878,
+      "payer_name": "Philip Morris Limited",
+      "amount": 420.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5169/registeredinterests?categoryId=3",
+      "summary": "Philip Morris Limited - £420.00",
+      "description": "Attended the British Kebab Awards at the Park Plaza Hotel, Westminster Bridge, which included dinner and drinks, the value is for a single ticket"
+    }
+  ]
+}

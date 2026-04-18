@@ -1,0 +1,164 @@
+{
+  "slug": "local-government",
+  "title": "All-Party Parliamentary Group on Local Government",
+  "purpose": "To discuss issues of interest and concern to parliamentarians and councillors about local government.",
+  "categories": [
+    "Governance, Democracy & Political Reform"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/local-government.htm",
+  "secretariat": "The Local Government Information Unit  acts as the group's secretariat.https://lgiu.org/",
+  "website": "https://lgiu.org/news/all-party-parliamentary-group-on-local-government",
+  "registered_contact_name": "Mr Clive Betts MP",
+  "date_of_most_recent_agm": "2024-11-12 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "local-government",
+      "mnis_id": 281,
+      "name": "Baroness Golding",
+      "canon_name": "Baroness Golding",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/local-government.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "local-government",
+      "mnis_id": 394,
+      "name": "Mr Clive Betts",
+      "canon_name": "Clive Betts",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/local-government.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "local-government",
+      "mnis_id": 4938,
+      "name": "Paulette Hamilton",
+      "canon_name": "Paulette Hamilton",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/local-government.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "local-government",
+      "mnis_id": 4494,
+      "name": "Simon Hoare",
+      "canon_name": "Simon Hoare",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/local-government.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "local-government",
+      "mnis_id": 281,
+      "name": "Baroness Golding",
+      "canon_name": "Baroness Golding",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/local-government.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "local-government",
+      "mnis_id": 394,
+      "name": "Mr Clive Betts",
+      "canon_name": "Clive Betts",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/local-government.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "local-government",
+      "mnis_id": 4938,
+      "name": "Paulette Hamilton",
+      "canon_name": "Paulette Hamilton",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/local-government.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "local-government",
+      "mnis_id": 4494,
+      "name": "Simon Hoare",
+      "canon_name": "Simon Hoare",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/local-government.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

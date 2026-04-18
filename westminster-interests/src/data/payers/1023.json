@@ -1,0 +1,124 @@
+{
+  "id": 1023,
+  "name": "Somerset Council",
+  "address": "County Hall, The Crescent, Taunton TA1 4DY",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 30978.82,
+      "inkind": 0.0,
+      "combined": 30978.82,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "ytd": {
+      "monetary": 9166.34,
+      "inkind": 0.0,
+      "combined": 9166.34,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "2025": {
+      "monetary": 30978.82,
+      "inkind": 0.0,
+      "combined": 30978.82,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "2024": {
+      "monetary": 22661.21,
+      "inkind": 0.0,
+      "combined": 22661.21,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "since_election": {
+      "monetary": 54955.58,
+      "inkind": 0.0,
+      "combined": 54955.58,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "all_time": {
+      "monetary": 165969.95,
+      "inkind": 0.0,
+      "combined": 165969.95,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    }
+  },
+  "trend_12m": [
+    2546,
+    2546,
+    2546,
+    2546,
+    2546,
+    2546,
+    2546,
+    2546,
+    2546,
+    2546,
+    2546,
+    2546
+  ],
+  "payments": [
+    {
+      "id": 9520,
+      "date": "2024-08-04",
+      "category": "1.2",
+      "member_id": 4089,
+      "member_name": "Tessa Munt",
+      "payer_id": 1023,
+      "payer_name": "Somerset Council",
+      "amount": 15500.0,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Yearly",
+      "start_date": "2017-05-05",
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4089/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 05 May 2017 - £15,500.00",
+      "description": null
+    },
+    {
+      "id": 6477,
+      "date": "2024-07-16",
+      "category": "1.2",
+      "member_id": 5191,
+      "member_name": "Adam Dance",
+      "payer_id": 1023,
+      "payer_name": "Somerset Council",
+      "amount": 1291.67,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5191/registeredinterests?categoryId=1",
+      "summary": "Agreement - £1,291.67",
+      "description": null
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": 325,
+  "name": "Dr Maurizio Bragagni",
+  "address": null,
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": true,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 740.39,
+      "combined": 740.39,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 740.39,
+      "combined": 740.39,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 740.39,
+      "combined": 740.39,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 740.39,
+      "combined": 740.39,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    740,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 136553,
+      "date": "2025-10-05",
+      "category": "4",
+      "member_id": 4439,
+      "member_name": "Alberto Costa",
+      "payer_id": 325,
+      "payer_name": "Dr Maurizio Bragagni",
+      "amount": 740.39,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "italy",
+      "appg_name": "All-Party Parliamentary Group on Italy",
+      "source_url": "https://members.parliament.uk/member/4439/registeredinterests?categoryId=4",
+      "summary": "International visit to Italy between 05 October 2025 and 12 October 2025 — As Chair of the All-Party Parliamentary Group for Italy, the group received an invite from the Chair of the British Friendship Group in the Italian Parliament, as well as an additional invite to visit two factories run by an Anglo-Italian business. The visit to the Italian Parliament was organised by the Italian Interparliamentary Union. The Group met with over 40 senior Italian MPs and Senators (including chairs of Italian parliamentary select committees) in both Houses of the Italian Parliament, as well as undertaking meetings with representatives of the British expat community and at the British School at Rome. Some members of the group also visited two factories run by an Anglo-Italian business company.",
+      "description": "For myself, my staff member and one guest: Transport (£284.45), accommodation (£156.30), meals (£273.57) & other costs (£26.07)"
+    }
+  ]
+}

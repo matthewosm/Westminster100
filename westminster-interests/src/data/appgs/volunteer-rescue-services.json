@@ -1,0 +1,165 @@
+{
+  "slug": "volunteer-rescue-services",
+  "title": "All-Party Parliamentary Group for Volunteer Rescue Services",
+  "purpose": "To advocate for legislation and policies that support and strengthen the volunteer rescue sector, ensuring volunteers are equipped, protected, and empowered to carry out their lifesaving work effectively across the UK in all emergency and disaster response situations.",
+  "categories": [
+    "Justice, Law & Security",
+    "Social Care, Welfare & Family Support"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/volunteer-rescue-services.htm",
+  "secretariat": "Mountain Rescue England and Wales acts as the group's secretariat.https://www.mountain.rescue.org.uk/",
+  "website": "None",
+  "registered_contact_name": "Torcuil Crichton MP",
+  "date_of_most_recent_agm": "2025-03-18 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "volunteer-rescue-services",
+      "mnis_id": 5160,
+      "name": "Jenny Riddell-Carpenter",
+      "canon_name": "Jenny Riddell-Carpenter",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/volunteer-rescue-services.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "volunteer-rescue-services",
+      "mnis_id": 4608,
+      "name": "John Lamont",
+      "canon_name": "John Lamont",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/volunteer-rescue-services.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "volunteer-rescue-services",
+      "mnis_id": 1591,
+      "name": "Tim Farron",
+      "canon_name": "Tim Farron",
+      "officer_role": "Secretary",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/volunteer-rescue-services.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "volunteer-rescue-services",
+      "mnis_id": 5246,
+      "name": "Torcuil Crichton",
+      "canon_name": "Torcuil Crichton",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/volunteer-rescue-services.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "volunteer-rescue-services",
+      "mnis_id": 5160,
+      "name": "Jenny Riddell-Carpenter",
+      "canon_name": "Jenny Riddell-Carpenter",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/volunteer-rescue-services.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "volunteer-rescue-services",
+      "mnis_id": 4608,
+      "name": "John Lamont",
+      "canon_name": "John Lamont",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/volunteer-rescue-services.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "volunteer-rescue-services",
+      "mnis_id": 1591,
+      "name": "Tim Farron",
+      "canon_name": "Tim Farron",
+      "officer_role": "Secretary",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/volunteer-rescue-services.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "volunteer-rescue-services",
+      "mnis_id": 5246,
+      "name": "Torcuil Crichton",
+      "canon_name": "Torcuil Crichton",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/volunteer-rescue-services.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

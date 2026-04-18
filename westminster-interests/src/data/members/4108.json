@@ -1,0 +1,392 @@
+{
+  "mnis_id": 4108,
+  "name": "Sir Gavin Williamson",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "Stone, Great Wyrley and Penkridge",
+  "house": "Commons",
+  "start_date": "2010-05-06",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4108/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 89613.55,
+      "inkind": 10415.16,
+      "combined": 100028.71,
+      "payment_count": 5,
+      "donor_count": 5
+    },
+    "ytd": {
+      "monetary": 33334.29,
+      "inkind": 0.0,
+      "combined": 33334.29,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "2025": {
+      "monetary": 74020.53,
+      "inkind": 10415.16,
+      "combined": 84435.69,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "2024": {
+      "monetary": 60123.2,
+      "inkind": 0.0,
+      "combined": 60123.2,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "since_election": {
+      "monetary": 137087.89,
+      "inkind": 10415.16,
+      "combined": 147503.05,
+      "payment_count": 5,
+      "donor_count": 5
+    },
+    "all_time": {
+      "monetary": 218894.87,
+      "inkind": 11175.16,
+      "combined": 230070.03,
+      "payment_count": 6,
+      "donor_count": 6
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 1400.0,
+        "inkind": 10415.16,
+        "combined": 11815.16,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 1400.0,
+        "inkind": 0.0,
+        "combined": 1400.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 10415.16,
+        "combined": 10415.16,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 1400.0,
+        "inkind": 10415.16,
+        "combined": 11815.16,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 1400.0,
+        "inkind": 10415.16,
+        "combined": 11815.16,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    },
+    "1.2": {
+      "12m": {
+        "monetary": 88213.55,
+        "inkind": 0.0,
+        "combined": 88213.55,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 31934.29,
+        "inkind": 0.0,
+        "combined": 31934.29,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 74020.53,
+        "inkind": 0.0,
+        "combined": 74020.53,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 60123.2,
+        "inkind": 0.0,
+        "combined": 60123.2,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 135687.89,
+        "inkind": 0.0,
+        "combined": 135687.89,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 217494.87,
+        "inkind": 0.0,
+        "combined": 217494.87,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 760.0,
+        "combined": 760.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    4928,
+    4928,
+    13243,
+    7029,
+    5585,
+    8871,
+    8871,
+    8871,
+    8871,
+    8871,
+    10271,
+    8871
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "defibrillators",
+      "appg_name": "All-Party Parliamentary Group for Defibrillators",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "snooker",
+      "appg_name": "All-Party Parliamentary Group on Snooker",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "somaliland",
+      "appg_name": "All-Party Parliamentary Group on Somaliland",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "sri-lanka",
+      "appg_name": "All-Party Parliamentary Group on Sri Lanka",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "democratic-republic-of-congo",
+      "appg_name": "All-Party Parliamentary Group on the Democratic Republic of Congo",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "iraq",
+      "appg_name": "Iraq  All-Party Parliamentary Group",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 148211,
+      "date": "2026-02-24",
+      "category": "4",
+      "member_id": 4108,
+      "member_name": "Sir Gavin Williamson",
+      "payer_id": 1022,
+      "payer_name": "Somaliland Mission",
+      "amount": 1400.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4108/registeredinterests?categoryId=4",
+      "summary": "International visit to United States between 24 February 2026 and 28 February 2026 — To speak at the Hudson Institute",
+      "description": "for flights"
+    },
+    {
+      "id": 13832,
+      "date": "2025-11-14",
+      "category": "1.2",
+      "member_id": 4108,
+      "member_name": "Sir Gavin Williamson",
+      "payer_id": 834,
+      "payer_name": "Odysight AI",
+      "amount": 4000.0,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": "2025-09-15",
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4108/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 15 September 2025 - £4,000.00",
+      "description": null
+    },
+    {
+      "id": 131141,
+      "date": "2025-07-28",
+      "category": "4",
+      "member_id": 4108,
+      "member_name": "Sir Gavin Williamson",
+      "payer_id": 362,
+      "payer_name": "ELNET UK",
+      "amount": 2100.76,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4108/registeredinterests?categoryId=4",
+      "summary": "International visit to Israel between 28 July 2025 and 31 July 2025 — Visit to the October 7 sites",
+      "description": "Flights £973; accommodation £774; meals £335.32; insurance £18.44"
+    },
+    {
+      "id": 129941,
+      "date": "2025-06-28",
+      "category": "4",
+      "member_id": 4108,
+      "member_name": "Sir Gavin Williamson",
+      "payer_id": 991,
+      "payer_name": "School of Banking and Finance, National Sun Yat-sen University",
+      "amount": 8314.4,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4108/registeredinterests?categoryId=4",
+      "summary": "International visit to Taiwan between 28 June 2025 and 06 July 2025 — Keynote Speaker for Forum held on 2nd July.",
+      "description": "Accommodation (£1,550.23), flights (£6222.58), internal Travel - High Speed Rail (£62.98), airport transport (£100.76) and meals (£377.85)"
+    },
+    {
+      "id": 5018,
+      "date": "2023-03-15",
+      "category": "1.2",
+      "member_id": 4108,
+      "member_name": "Sir Gavin Williamson",
+      "payer_id": 982,
+      "payer_name": "RTC Education Ltd",
+      "amount": 60000.0,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Yearly",
+      "start_date": "2023-02-21",
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4108/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 21 February 2023 - £60,000.00",
+      "description": "paid quarterly"
+    },
+    {
+      "id": 3408,
+      "date": "2016-09-30",
+      "category": "3",
+      "member_id": 4108,
+      "member_name": "Sir Gavin Williamson",
+      "payer_id": 186,
+      "payer_name": "Carlton Club",
+      "amount": 760.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4108/registeredinterests?categoryId=3",
+      "summary": "Carlton Club - £760.00",
+      "description": "Honorary membership for life (value provided is that in 2024)"
+    }
+  ]
+}

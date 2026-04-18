@@ -1,0 +1,167 @@
+{
+  "mnis_id": 5281,
+  "name": "Anna Dixon",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Shipley",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5281/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 5466.63,
+      "combined": 5466.63,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 5466.63,
+      "combined": 5466.63,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 5466.63,
+      "combined": 5466.63,
+      "payment_count": 1,
+      "donor_count": 1
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 5466.63,
+        "combined": 5466.63,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 5466.63,
+        "combined": 5466.63,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 5466.63,
+        "combined": 5466.63,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "carers",
+      "appg_name": "All-Party Parliamentary Group on Carers",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "faith-and-society",
+      "appg_name": "All-Party Parliamentary Group on Faith and Society",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "housing-and-care-for-older-people",
+      "appg_name": "All-Party Parliamentary Group on Housing and Care for Older People",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "patient-safety",
+      "appg_name": "All-Party Parliamentary Group on Patient Safety",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 119681,
+      "date": "2025-02-14",
+      "category": "4",
+      "member_id": 5281,
+      "member_name": "Anna Dixon",
+      "payer_id": 246,
+      "payer_name": "The Coalition for Global Prosperity (CGP)",
+      "amount": 5466.63,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5281/registeredinterests?categoryId=4",
+      "summary": "International visit to Zimbabwe between 14 February 2025 and 22 February 2025 — Overseas visit to Zimbabwe to see UK Development programmes 'in-action' and meet with development experts and partners.",
+      "description": "Visa (£43.25), flights and travel (£4208.81), accommodation (£711.67), food and refreshments (£131.90), vaccinations (£189.00), malaria tablets (£52.00)"
+    }
+  ]
+}

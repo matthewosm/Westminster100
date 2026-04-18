@@ -1,0 +1,161 @@
+{
+  "mnis_id": 4822,
+  "name": "Feryal Clark",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Enfield North",
+  "house": "Commons",
+  "start_date": "2019-12-12",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4822/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 1982.51,
+      "combined": 1982.51,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 1982.51,
+      "combined": 1982.51,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 1982.51,
+      "combined": 1982.51,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 1982.51,
+      "combined": 1982.51,
+      "payment_count": 1,
+      "donor_count": 1
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1982.51,
+        "combined": 1982.51,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 1982.51,
+        "combined": 1982.51,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1982.51,
+        "combined": 1982.51,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1982.51,
+        "combined": 1982.51,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1983,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "digital-creators",
+      "appg_name": "All-Party Parliamentary Group for Digital Creators",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "british-jews",
+      "appg_name": "All-Party Parliamentary Group on British Jews",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "cyber-security-and-business-resilience",
+      "appg_name": "All-Party Parliamentary Group on Cyber Security and Business Resilience",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 147601,
+      "date": "2026-01-18",
+      "category": "4",
+      "member_id": 4822,
+      "member_name": "Feryal Clark",
+      "payer_id": 491,
+      "payer_name": "Green Catalysis Ltd",
+      "amount": 1982.51,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4822/registeredinterests?categoryId=4",
+      "summary": "International visit to United States between 18 January 2026 and 20 January 2026 — to speak at a conference about the future of AI in the UK",
+      "description": "Flights (£1,500), accommodation (£482.51)"
+    }
+  ]
+}

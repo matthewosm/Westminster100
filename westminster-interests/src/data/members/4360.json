@@ -1,0 +1,167 @@
+{
+  "mnis_id": 4360,
+  "name": "Gavin Robinson",
+  "party": "Democratic Unionist Party",
+  "party_slug": "democratic-unionist-party",
+  "constituency": "Belfast East",
+  "house": "Commons",
+  "start_date": "2015-05-07",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4360/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 1140.0,
+      "combined": 1140.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 1140.0,
+      "combined": 1140.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 1140.0,
+      "combined": 1140.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 1140.0,
+      "combined": 1140.0,
+      "payment_count": 1,
+      "donor_count": 1
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1140.0,
+        "combined": 1140.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1140.0,
+        "combined": 1140.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1140.0,
+        "combined": 1140.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1140.0,
+        "combined": 1140.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    1140,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "restorative-justice",
+      "appg_name": "All-Party Parliamentary Group for Restorative Justice",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "aviation-travel-and-aerospace",
+      "appg_name": "All-Party Parliamentary Group for the Future of Aviation, Travel and Aerospace",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "crown-dependencies-and-british-overseas-territories",
+      "appg_name": "All-Party Parliamentary Group on the Crown Dependencies and British Overseas Territories",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "isle-of-man-manx",
+      "appg_name": "Isle of Man (Manx) All-Party Parliamentary Group",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 13014,
+      "date": "2025-07-20",
+      "category": "3",
+      "member_id": 4360,
+      "member_name": "Gavin Robinson",
+      "payer_id": 115,
+      "payer_name": "Belfast City Airport",
+      "amount": 1140.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4360/registeredinterests?categoryId=3",
+      "summary": "Belfast City Airport - £1,140.00",
+      "description": "Ticket with hospitality for the final day of the British Open at Royal Portrush on 20th July 2025"
+    }
+  ]
+}

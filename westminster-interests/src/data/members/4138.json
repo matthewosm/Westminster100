@@ -1,0 +1,149 @@
+{
+  "mnis_id": 4138,
+  "name": "Rushanara Ali",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Bethnal Green and Stepney",
+  "house": "Commons",
+  "start_date": "2010-05-06",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4138/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 6060.0,
+      "combined": 6060.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 6060.0,
+      "combined": 6060.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 6060.0,
+      "combined": 6060.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 6060.0,
+      "combined": 6060.0,
+      "payment_count": 1,
+      "donor_count": 1
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 6060.0,
+        "combined": 6060.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 6060.0,
+        "combined": 6060.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 6060.0,
+        "combined": 6060.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 6060.0,
+        "combined": 6060.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    6060,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "burma",
+      "appg_name": "All-Party Parliamentary Group on Burma",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 141791,
+      "date": "2025-12-05",
+      "category": "4",
+      "member_id": 4138,
+      "member_name": "Rushanara Ali",
+      "payer_id": 319,
+      "payer_name": "Doha Forum",
+      "amount": 6060.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4138/registeredinterests?categoryId=4",
+      "summary": "International visit to Qatar between 05 December 2025 and 08 December 2025 — To participate in the Doha Forum 2025 on diplomacy, dialogue and diversity, including meetings with fellow cross-party parliamentarians, political representations of other countries and Qatari ministers to discuss Qatar's role in seeking to resolve current regional conflicts.",
+      "description": "Flights (£5,655), accommodation and hospitality (£405)"
+    }
+  ]
+}

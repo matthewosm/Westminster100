@@ -1,0 +1,164 @@
+{
+  "slug": "cyber-security-and-business-resilience",
+  "title": "All-Party Parliamentary Group on Cyber Security and Business Resilience",
+  "purpose": "To be a forum for cyber security / business resilience briefings and discussion. To address developments in these sectors and techniques affecting consumers, business and their role in defence, the UK economy/society and the CNI.  To examine security, identity, regulation and fraud. To raise awareness and understanding for non-specialists.",
+  "categories": [
+    "Science, Technology & Innovation"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cyber-security-and-business-resilience.htm",
+  "secretariat": "Wychwood Consulting Ltd acts as the group's secretariat.https://www.wychwoodconsultingltd.co.uk/",
+  "website": "http://www.appgcybersecurity.org/",
+  "registered_contact_name": "Feryal Clark MP",
+  "date_of_most_recent_agm": "2026-01-12 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "cyber-security-and-business-resilience",
+      "mnis_id": 1827,
+      "name": "Baroness Uddin",
+      "canon_name": "Baroness Uddin",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cyber-security-and-business-resilience.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "cyber-security-and-business-resilience",
+      "mnis_id": 4822,
+      "name": "Feryal Clark",
+      "canon_name": "Feryal Clark",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cyber-security-and-business-resilience.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "cyber-security-and-business-resilience",
+      "mnis_id": 4495,
+      "name": "Kit Malthouse",
+      "canon_name": "Kit Malthouse",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cyber-security-and-business-resilience.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "cyber-security-and-business-resilience",
+      "mnis_id": null,
+      "name": "Lord Sharpe of Epsom",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cyber-security-and-business-resilience.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "cyber-security-and-business-resilience",
+      "mnis_id": 1827,
+      "name": "Baroness Uddin",
+      "canon_name": "Baroness Uddin",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cyber-security-and-business-resilience.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "cyber-security-and-business-resilience",
+      "mnis_id": 4822,
+      "name": "Feryal Clark",
+      "canon_name": "Feryal Clark",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cyber-security-and-business-resilience.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "cyber-security-and-business-resilience",
+      "mnis_id": 4495,
+      "name": "Kit Malthouse",
+      "canon_name": "Kit Malthouse",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cyber-security-and-business-resilience.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "cyber-security-and-business-resilience",
+      "mnis_id": null,
+      "name": "Lord Sharpe of Epsom",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cyber-security-and-business-resilience.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

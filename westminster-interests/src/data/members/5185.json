@@ -1,0 +1,311 @@
+{
+  "mnis_id": 5185,
+  "name": "Alan Gemmell",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Central Ayrshire",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5185/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 632.32,
+      "inkind": 3217.8,
+      "combined": 3850.12,
+      "payment_count": 6,
+      "donor_count": 5
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 632.32,
+      "inkind": 3217.8,
+      "combined": 3850.12,
+      "payment_count": 6,
+      "donor_count": 5
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 632.32,
+      "inkind": 3217.8,
+      "combined": 3850.12,
+      "payment_count": 6,
+      "donor_count": 5
+    },
+    "all_time": {
+      "monetary": 632.32,
+      "inkind": 3217.8,
+      "combined": 3850.12,
+      "payment_count": 6,
+      "donor_count": 5
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 2670.0,
+        "combined": 2670.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 2670.0,
+        "combined": 2670.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 2670.0,
+        "combined": 2670.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 2670.0,
+        "combined": 2670.0,
+        "payment_count": 4,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 632.32,
+        "inkind": 547.8,
+        "combined": 1180.12,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 632.32,
+        "inkind": 547.8,
+        "combined": 1180.12,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 632.32,
+        "inkind": 547.8,
+        "combined": 1180.12,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 632.32,
+        "inkind": 547.8,
+        "combined": 1180.12,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    1180,
+    500,
+    1350,
+    0,
+    320,
+    0,
+    0,
+    500,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [],
+  "payments": [
+    {
+      "id": 14180,
+      "date": "2025-12-07",
+      "category": "3",
+      "member_id": 5185,
+      "member_name": "Alan Gemmell",
+      "payer_id": 463,
+      "payer_name": "Global Media & Entertainment Limited",
+      "amount": 500.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5185/registeredinterests?categoryId=3",
+      "summary": "Global Media & Entertainment Limited - £500.00",
+      "description": "Two tickets for the Capital Jingle Bell Ball"
+    },
+    {
+      "id": 13332,
+      "date": "2025-09-13",
+      "category": "3",
+      "member_id": 5185,
+      "member_name": "Alan Gemmell",
+      "payer_id": 313,
+      "payer_name": "Diageo PLC",
+      "amount": 320.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5185/registeredinterests?categoryId=3",
+      "summary": "Diageo PLC - £320.00",
+      "description": "Two tickets to the Last Night of the Proms"
+    },
+    {
+      "id": 13163,
+      "date": "2025-07-22",
+      "category": "3",
+      "member_id": 5185,
+      "member_name": "Alan Gemmell",
+      "payer_id": 487,
+      "payer_name": "Great Britain China Centre",
+      "amount": 1350.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5185/registeredinterests?categoryId=3",
+      "summary": "Great Britain China Centre - £1,350.00",
+      "description": "Costs of a residential course attended by a member of my staff"
+    },
+    {
+      "id": 12834,
+      "date": "2025-06-15",
+      "category": "3",
+      "member_id": 5185,
+      "member_name": "Alan Gemmell",
+      "payer_id": 463,
+      "payer_name": "Global Media & Entertainment Limited",
+      "amount": 500.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5185/registeredinterests?categoryId=3",
+      "summary": "Global Media & Entertainment Limited - £500.00",
+      "description": "Two tickets for the Capital Summertime Ball"
+    },
+    {
+      "id": 125691,
+      "date": "2025-05-09",
+      "category": "4",
+      "member_id": 5185,
+      "member_name": "Alan Gemmell",
+      "payer_id": 442,
+      "payer_name": "The Gathering",
+      "amount": 547.8,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5185/registeredinterests?categoryId=4",
+      "summary": "International visit to France between 09 May 2025 and 10 May 2025 — To attend LGBTQI summit",
+      "description": "accommodation"
+    },
+    {
+      "id": 136201,
+      "date": "2025-05-02",
+      "category": "4",
+      "member_id": 5185,
+      "member_name": "Alan Gemmell",
+      "payer_id": 70,
+      "payer_name": "Armed Forces Parliamentary Trust",
+      "amount": 632.32,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5185/registeredinterests?categoryId=4",
+      "summary": "International visit to Bahrain between 02 May 2025 and 05 May 2025 — Visit for parliamentarians as part of the Armed Forces Parliamentary Scheme and arranged by the scheme.",
+      "description": "Flights £632.32"
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "mnis_id": 5312,
+  "name": "Sadik Al-Hassan",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "North Somerset",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5312/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 799.0,
+      "combined": 799.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 799.0,
+      "combined": 799.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 799.0,
+      "combined": 799.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 799.0,
+      "combined": 799.0,
+      "payment_count": 1,
+      "donor_count": 1
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 799.0,
+        "combined": 799.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 799.0,
+        "combined": 799.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 799.0,
+        "combined": 799.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 799.0,
+        "combined": 799.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    799,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "assistive-and-accessible-technology",
+      "appg_name": "All-Party Parliamentary Group for Assistive and Accessible Technology",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "life-sciences",
+      "appg_name": "All-Party Parliamentary Group for Life Sciences",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "pharmacy",
+      "appg_name": "All-Party Parliamentary Group on Pharmacy",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "national-trust",
+      "appg_name": "All-Party Parliamentary Group on the National Trust",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "beyond-pills",
+      "appg_name": "Beyond Pills All-Party Parliamentary Group",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "iraq",
+      "appg_name": "Iraq  All-Party Parliamentary Group",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 12514,
+      "date": "2025-04-30",
+      "category": "3",
+      "member_id": 5312,
+      "member_name": "Sadik Al-Hassan",
+      "payer_id": 445,
+      "payer_name": "Genomics Ltd",
+      "amount": 799.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5312/registeredinterests?categoryId=3",
+      "summary": "Genomics Ltd - £799.00",
+      "description": "A Genomics Health Insights test provided free of charge"
+    }
+  ]
+}

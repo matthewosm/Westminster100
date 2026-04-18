@@ -1,0 +1,165 @@
+{
+  "slug": "family-hubs",
+  "title": "All-Party Parliamentary Group on Family Hubs",
+  "purpose": "To transform outcomes for children and families, especially those facing disadvantage, through Family Hubs. Furthering the development of policy and facilitating successful implementation; by gathering and sharing good practice amongst local authorities and their partners, and promoting integrated, cross-sector service delivery",
+  "categories": [
+    "Social Care, Welfare & Family Support",
+    "Education, Skills & Youth"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/family-hubs.htm",
+  "secretariat": "Spurgeons acts as the group's secretariat.https://spurgeons.org/",
+  "website": "https://spurgeons.org/about-us/advocacy-for-children-and-families/appg-spurgeons/",
+  "registered_contact_name": "Tom Collins MP",
+  "date_of_most_recent_agm": "2025-02-05 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "family-hubs",
+      "mnis_id": 5109,
+      "name": "Chris Bloore",
+      "canon_name": "Christopher Bloore",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/family-hubs.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "family-hubs",
+      "mnis_id": 4321,
+      "name": "Lord Farmer",
+      "canon_name": "Lord Farmer",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/family-hubs.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "family-hubs",
+      "mnis_id": 5297,
+      "name": "Rebecca Paul",
+      "canon_name": "Rebecca Paul",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/family-hubs.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "family-hubs",
+      "mnis_id": 5087,
+      "name": "Tom Collins",
+      "canon_name": "Tom Collins",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/family-hubs.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "family-hubs",
+      "mnis_id": 5109,
+      "name": "Chris Bloore",
+      "canon_name": "Christopher Bloore",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/family-hubs.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "family-hubs",
+      "mnis_id": 4321,
+      "name": "Lord Farmer",
+      "canon_name": "Lord Farmer",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/family-hubs.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "family-hubs",
+      "mnis_id": 5297,
+      "name": "Rebecca Paul",
+      "canon_name": "Rebecca Paul",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/family-hubs.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "family-hubs",
+      "mnis_id": 5087,
+      "name": "Tom Collins",
+      "canon_name": "Tom Collins",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/family-hubs.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

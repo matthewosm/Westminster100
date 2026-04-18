@@ -1,0 +1,142 @@
+{
+  "mnis_id": 4849,
+  "name": "Alex Davies-Jones",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Pontypridd",
+  "house": "Commons",
+  "start_date": "2019-12-12",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4849/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 390.0,
+      "combined": 390.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 390.0,
+      "combined": 390.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 390.0,
+      "combined": 390.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 390.0,
+      "combined": 390.0,
+      "payment_count": 1,
+      "donor_count": 1
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 390.0,
+        "combined": 390.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 390.0,
+        "combined": 390.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 390.0,
+        "combined": 390.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 390.0,
+        "combined": 390.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    390,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [],
+  "payments": [
+    {
+      "id": 13210,
+      "date": "2025-08-10",
+      "category": "3",
+      "member_id": 4849,
+      "member_name": "Alex Davies-Jones",
+      "payer_id": 1203,
+      "payer_name": "London Football Association",
+      "amount": 390.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4849/registeredinterests?categoryId=3",
+      "summary": "Football Association - £390.00",
+      "description": "Two tickets and hospitality for myself and one guest for the Crystal Palace vs Liverpool  FA Community Shield Final 2025"
+    }
+  ]
+}

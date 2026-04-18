@@ -1,0 +1,99 @@
+{
+  "id": 396,
+  "name": "Fanatics (International) Limited",
+  "address": "Stubbs Mill, 3 Upper Kirby Street, Manchester M4 6FN",
+  "nature_of_business": null,
+  "donor_status": "Company",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 329.5,
+      "combined": 329.5,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 329.5,
+      "combined": 329.5,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 329.5,
+      "combined": 329.5,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 329.5,
+      "combined": 329.5,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    330,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 13581,
+      "date": "2025-10-19",
+      "category": "5",
+      "member_id": 4407,
+      "member_name": "Nigel Huddleston",
+      "payer_id": 396,
+      "payer_name": "Fanatics (International) Limited",
+      "amount": 329.5,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4407/registeredinterests?categoryId=5",
+      "summary": "Fanatics (International) Limited - £329.50",
+      "description": "Two tickets for NFL game including hospitality for myself and one guest"
+    }
+  ]
+}

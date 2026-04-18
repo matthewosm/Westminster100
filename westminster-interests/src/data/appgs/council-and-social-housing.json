@@ -1,0 +1,164 @@
+{
+  "slug": "council-and-social-housing",
+  "title": "All-Party Parliamentary Group on Council and Social Housing",
+  "purpose": "The APPG brings together parliamentarians to address homelessness and housing affordability through the delivery of council and social rent homes. It provides a forum for discussion, briefings, and evidence to support informed parliamentary debate and policy change.",
+  "categories": [
+    "Housing, Planning & Built Environment"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/council-and-social-housing.htm",
+  "secretariat": "Shelter acts as the group's secretariat.https://www.shelter.org.uk/",
+  "website": "None",
+  "registered_contact_name": "Chris Hinchliff MP",
+  "date_of_most_recent_agm": "2026-01-28 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "council-and-social-housing",
+      "mnis_id": 5061,
+      "name": "Andrew Lewin",
+      "canon_name": "Andrew Lewin",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/council-and-social-housing.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "council-and-social-housing",
+      "mnis_id": 5244,
+      "name": "Chris Hinchliff",
+      "canon_name": "Chris Hinchliff",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/council-and-social-housing.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "council-and-social-housing",
+      "mnis_id": 1251,
+      "name": "Lord Naseby",
+      "canon_name": "Lord Naseby",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/council-and-social-housing.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "council-and-social-housing",
+      "mnis_id": 5314,
+      "name": "Siân Berry",
+      "canon_name": "Siân Berry",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/council-and-social-housing.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "council-and-social-housing",
+      "mnis_id": 5061,
+      "name": "Andrew Lewin",
+      "canon_name": "Andrew Lewin",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/council-and-social-housing.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "council-and-social-housing",
+      "mnis_id": 5244,
+      "name": "Chris Hinchliff",
+      "canon_name": "Chris Hinchliff",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/council-and-social-housing.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "council-and-social-housing",
+      "mnis_id": 1251,
+      "name": "Lord Naseby",
+      "canon_name": "Lord Naseby",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/council-and-social-housing.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "council-and-social-housing",
+      "mnis_id": 5314,
+      "name": "Siân Berry",
+      "canon_name": "Siân Berry",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/council-and-social-housing.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

@@ -1,0 +1,164 @@
+{
+  "slug": "kinship-care",
+  "title": "All-Party Parliamentary Group on Kinship Care",
+  "purpose": "To improve awareness, understanding and support for kinship care. To promote policy and practice which supports more children to live safely in kinship care with family and friends, when they cannot live at home. To amplify the voices and experiences of children and families.",
+  "categories": [
+    "Social Care, Welfare & Family Support"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/kinship-care.htm",
+  "secretariat": "Family Rights Group acts as the group's secretariat.https://frg.org.uk",
+  "website": "https://frg.org.uk/policy-and-campaigns/kinship-care/appg-on-kinship-care",
+  "registered_contact_name": "Melanie Onn MP",
+  "date_of_most_recent_agm": "2025-11-25 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "kinship-care",
+      "mnis_id": null,
+      "name": "Baroness Armstrong of Hill Top",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/kinship-care.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "kinship-care",
+      "mnis_id": 5255,
+      "name": "Joe Robertson",
+      "canon_name": "Joe Robertson",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/kinship-care.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "kinship-care",
+      "mnis_id": 4464,
+      "name": "Melanie Onn",
+      "canon_name": "Melanie Onn",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/kinship-care.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "kinship-care",
+      "mnis_id": 4776,
+      "name": "Munira Wilson",
+      "canon_name": "Munira Wilson",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/kinship-care.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "kinship-care",
+      "mnis_id": null,
+      "name": "Baroness Armstrong of Hill Top",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/kinship-care.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "kinship-care",
+      "mnis_id": 5255,
+      "name": "Joe Robertson",
+      "canon_name": "Joe Robertson",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/kinship-care.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "kinship-care",
+      "mnis_id": 4464,
+      "name": "Melanie Onn",
+      "canon_name": "Melanie Onn",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/kinship-care.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "kinship-care",
+      "mnis_id": 4776,
+      "name": "Munira Wilson",
+      "canon_name": "Munira Wilson",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/kinship-care.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

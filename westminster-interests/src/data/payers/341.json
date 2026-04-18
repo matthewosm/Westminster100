@@ -1,0 +1,99 @@
+{
+  "id": 341,
+  "name": "East Wight Patrons Club",
+  "address": "private",
+  "nature_of_business": null,
+  "donor_status": "Unincorporated association",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 1888.74,
+      "inkind": 0.0,
+      "combined": 1888.74,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 1888.74,
+      "inkind": 0.0,
+      "combined": 1888.74,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 1888.74,
+      "inkind": 0.0,
+      "combined": 1888.74,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 1888.74,
+      "inkind": 0.0,
+      "combined": 1888.74,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1889,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 14289,
+      "date": "2025-12-14",
+      "category": "2",
+      "member_id": 5255,
+      "member_name": "Joe Robertson",
+      "payer_id": 341,
+      "payer_name": "East Wight Patrons Club",
+      "amount": 1888.74,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5255/registeredinterests?categoryId=2",
+      "summary": "East Wight Patrons Club - £1,888.74",
+      "description": "MP Christmas cards 2024 and 2025, MP Office Christmas lunch 2024 and 2025, MP website annual licence fee, MP small business survey online software license"
+    }
+  ]
+}

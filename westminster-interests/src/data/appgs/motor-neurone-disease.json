@@ -1,0 +1,164 @@
+{
+  "slug": "motor-neurone-disease",
+  "title": "All-Party Parliamentary Group on Motor Neurone Disease",
+  "purpose": "To increase awareness and understanding of motor neurone disease (MND) amongst parliamentarians, to provide a forum for discussion of the challenges facing people living with and affected by MND and to campaign for better access to high quality services for people affected by MND..",
+  "categories": [
+    "Health, Medicine & Public Health"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/motor-neurone-disease.htm",
+  "secretariat": "Motor Neurone Disease Association acts as the group's secretariat.https://www.mndassociation.org/",
+  "website": "https://www.mndassociation.org/get-involved/campaigning/all-party-parliamentary-group-appg-on-mnd",
+  "registered_contact_name": "Ian Byrne MP",
+  "date_of_most_recent_agm": "2024-11-26 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "motor-neurone-disease",
+      "mnis_id": 5241,
+      "name": "Aphra Brandreth",
+      "canon_name": "Aphra Brandreth",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/motor-neurone-disease.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "motor-neurone-disease",
+      "mnis_id": 4831,
+      "name": "Ian Byrne",
+      "canon_name": "Ian Byrne",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/motor-neurone-disease.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "motor-neurone-disease",
+      "mnis_id": 5146,
+      "name": "Michael Payne",
+      "canon_name": "Michael Payne",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/motor-neurone-disease.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "motor-neurone-disease",
+      "mnis_id": 5318,
+      "name": "Olly Glover",
+      "canon_name": "Olly Glover",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/motor-neurone-disease.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "motor-neurone-disease",
+      "mnis_id": 5241,
+      "name": "Aphra Brandreth",
+      "canon_name": "Aphra Brandreth",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/motor-neurone-disease.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "motor-neurone-disease",
+      "mnis_id": 4831,
+      "name": "Ian Byrne",
+      "canon_name": "Ian Byrne",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/motor-neurone-disease.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "motor-neurone-disease",
+      "mnis_id": 5146,
+      "name": "Michael Payne",
+      "canon_name": "Michael Payne",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/motor-neurone-disease.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "motor-neurone-disease",
+      "mnis_id": 5318,
+      "name": "Olly Glover",
+      "canon_name": "Olly Glover",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/motor-neurone-disease.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

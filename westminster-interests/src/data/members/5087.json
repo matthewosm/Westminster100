@@ -1,0 +1,96 @@
+{
+  "mnis_id": 5087,
+  "name": "Tom Collins",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Worcester",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5087/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    }
+  },
+  "categories": {},
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "t-levels",
+      "appg_name": "All-Party Parliamentary Group for T-Levels",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "family-hubs",
+      "appg_name": "All-Party Parliamentary Group on Family Hubs",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "human-trafficking-and-modern-slavery",
+      "appg_name": "All-Party Parliamentary Group on Human Trafficking and Modern Slavery",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "hydrogen",
+      "appg_name": "All-Party Parliamentary Group on Hydrogen",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": []
+}

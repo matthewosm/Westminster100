@@ -1,0 +1,318 @@
+{
+  "mnis_id": 373,
+  "name": "David Davis",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "Goole and Pocklington",
+  "house": "Commons",
+  "start_date": "2008-07-10",
+  "photo_url": "https://members-api.parliament.uk/api/Members/373/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 283876.8,
+      "inkind": 0.0,
+      "combined": 283876.8,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 10023.82,
+      "inkind": 0.0,
+      "combined": 10023.82,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 283876.8,
+      "inkind": 7091.76,
+      "combined": 290968.56,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "2024": {
+      "monetary": 33969.61,
+      "inkind": 0.0,
+      "combined": 33969.61,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "since_election": {
+      "monetary": 310699.79,
+      "inkind": 7091.76,
+      "combined": 317791.55,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "all_time": {
+      "monetary": 466254.62,
+      "inkind": 7091.76,
+      "combined": 473346.38,
+      "payment_count": 4,
+      "donor_count": 4
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 250000.0,
+        "inkind": 0.0,
+        "combined": 250000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 250000.0,
+        "inkind": 0.0,
+        "combined": 250000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 250000.0,
+        "inkind": 0.0,
+        "combined": 250000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 250000.0,
+        "inkind": 0.0,
+        "combined": 250000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 7091.76,
+        "combined": 7091.76,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 7091.76,
+        "combined": 7091.76,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 7091.76,
+        "combined": 7091.76,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "1.2": {
+      "12m": {
+        "monetary": 33876.8,
+        "inkind": 0.0,
+        "combined": 33876.8,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 10023.82,
+        "inkind": 0.0,
+        "combined": 10023.82,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 33876.8,
+        "inkind": 0.0,
+        "combined": 33876.8,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 33969.61,
+        "inkind": 0.0,
+        "combined": 33969.61,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 60699.79,
+        "inkind": 0.0,
+        "combined": 60699.79,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 216254.62,
+        "inkind": 0.0,
+        "combined": 216254.62,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    2784,
+    252784,
+    2784,
+    2784,
+    2784,
+    2784,
+    2784,
+    2784,
+    2784,
+    2784,
+    2784,
+    2784
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "reserves-and-cadets",
+      "appg_name": "All-Party Parliamentary Group for Reserves and Cadets",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "trafficked-britons-in-syria",
+      "appg_name": "All-Party Parliamentary Group on Trafficked Britons in Syria",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 12622,
+      "date": "2025-06-13",
+      "category": "2",
+      "member_id": 373,
+      "member_name": "David Davis",
+      "payer_id": 1104,
+      "payer_name": "Trailfinders Ltd",
+      "amount": 250000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/373/registeredinterests?categoryId=2",
+      "summary": "Trailfinders Ltd - £250,000.00",
+      "description": "For campaigning activity related to the prosecution of Northern Ireland Veterans"
+    },
+    {
+      "id": 12424,
+      "date": "2025-04-15",
+      "category": "3",
+      "member_id": 373,
+      "member_name": "David Davis",
+      "payer_id": 560,
+      "payer_name": "Innovision IP Ltd",
+      "amount": 6480.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/373/registeredinterests?categoryId=3",
+      "summary": "Innovision IP Ltd - £6,480.00",
+      "description": "Medical imagery scan and associated report"
+    },
+    {
+      "id": 12236,
+      "date": "2025-04-03",
+      "category": "3",
+      "member_id": 373,
+      "member_name": "David Davis",
+      "payer_id": 480,
+      "payer_name": "Google UK Ltd",
+      "amount": 611.76,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-04-04",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/373/registeredinterests?categoryId=3",
+      "summary": "Google UK Ltd - £611.76",
+      "description": "Travel, overnight stay and hospitality at Ditchley Park as part of the AI Parliamentary Scheme by Demos, in partnership with Google"
+    },
+    {
+      "id": 4197,
+      "date": "2020-01-09",
+      "category": "1.2",
+      "member_id": 373,
+      "member_name": "David Davis",
+      "payer_id": 1086,
+      "payer_name": "THI Investments UK Ltd",
+      "amount": 33900.0,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Yearly",
+      "start_date": "2019-12-01",
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/373/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 01 December 2019 - £33,900.00",
+      "description": "paid quarterly"
+    }
+  ]
+}

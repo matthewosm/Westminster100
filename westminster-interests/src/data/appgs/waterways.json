@@ -1,0 +1,164 @@
+{
+  "slug": "waterways",
+  "title": "All-Party Parliamentary Group for the Waterways",
+  "purpose": "The APPG champions the revitalisation and restoration of the UK’s navigable waterways. Our purpose is to unlock the environmental, social, economic, and cultural potential of the UK’s rivers and canals by boosting local economies, promoting sustainability and connecting people to nature.",
+  "categories": [
+    "Environment, Climate & Sustainability"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/waterways.htm",
+  "secretariat": "Inland Waterways Association acts as the group's secretariat.https://www.waterways.org.uk/",
+  "website": "https://waterways.org.uk/about-us/all-party-parliamentary-group-for-the-waterways",
+  "registered_contact_name": "Bill Esterson MP",
+  "date_of_most_recent_agm": "2024-11-12 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "waterways",
+      "mnis_id": 4061,
+      "name": "Bill Esterson",
+      "canon_name": "Bill Esterson",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/waterways.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "waterways",
+      "mnis_id": 4163,
+      "name": "Lord German",
+      "canon_name": "Lord German",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/waterways.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "waterways",
+      "mnis_id": 5278,
+      "name": "Uma Kumaran",
+      "canon_name": "Uma Kumaran",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/waterways.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "waterways",
+      "mnis_id": 4358,
+      "name": "Wendy Morton",
+      "canon_name": "Wendy Morton",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/waterways.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "waterways",
+      "mnis_id": 4061,
+      "name": "Bill Esterson",
+      "canon_name": "Bill Esterson",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/waterways.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "waterways",
+      "mnis_id": 4163,
+      "name": "Lord German",
+      "canon_name": "Lord German",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/waterways.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "waterways",
+      "mnis_id": 5278,
+      "name": "Uma Kumaran",
+      "canon_name": "Uma Kumaran",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/waterways.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "waterways",
+      "mnis_id": 4358,
+      "name": "Wendy Morton",
+      "canon_name": "Wendy Morton",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/waterways.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

@@ -1,0 +1,268 @@
+{
+  "mnis_id": 5174,
+  "name": "Fred Thomas",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Plymouth Moor View",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5174/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 324.33,
+      "inkind": 3183.46,
+      "combined": 3507.79,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 324.33,
+      "inkind": 8279.76,
+      "combined": 8604.09,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 324.33,
+      "inkind": 8279.76,
+      "combined": 8604.09,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "all_time": {
+      "monetary": 324.33,
+      "inkind": 8279.76,
+      "combined": 8604.09,
+      "payment_count": 4,
+      "donor_count": 4
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 324.33,
+        "inkind": 1092.62,
+        "combined": 1416.95,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 324.33,
+        "inkind": 6188.92,
+        "combined": 6513.25,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 324.33,
+        "inkind": 6188.92,
+        "combined": 6513.25,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 324.33,
+        "inkind": 6188.92,
+        "combined": 6513.25,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 2090.84,
+        "combined": 2090.84,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 2090.84,
+        "combined": 2090.84,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 2090.84,
+        "combined": 2090.84,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 2090.84,
+        "combined": 2090.84,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    324,
+    2091,
+    0,
+    0,
+    0,
+    0,
+    1093,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "defence-technology",
+      "appg_name": "All-Party Parliamentary Group for Defence Technology",
+      "officer_role": "Acting Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 141371,
+      "date": "2025-11-26",
+      "category": "4",
+      "member_id": 5174,
+      "member_name": "Fred Thomas",
+      "payer_id": 365,
+      "payer_name": "Embassy of Finland",
+      "amount": 1092.62,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5174/registeredinterests?categoryId=4",
+      "summary": "International visit to Finland between 26 November 2025 and 29 November 2025 — Study trip undertaken by a member of my staff to learn about\r\ncomprehensive security, Finnish and foreign security policy, and Finland's accession into NATO.",
+      "description": "Flights (£469.53), accommodation (£422.08), meals (£149.22), Miscellaneous incl. transport (£51.79) for my Parliamentary assistant"
+    },
+    {
+      "id": 12894,
+      "date": "2025-06-27",
+      "category": "3",
+      "member_id": 5174,
+      "member_name": "Fred Thomas",
+      "payer_id": 480,
+      "payer_name": "Google UK Ltd",
+      "amount": 2090.84,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5174/registeredinterests?categoryId=3",
+      "summary": "Google UK Ltd - £2,090.84",
+      "description": "Ticket and hospitality as a guest of YouTube at Glastonbury Festival 2025"
+    },
+    {
+      "id": 126281,
+      "date": "2025-05-30",
+      "category": "4",
+      "member_id": 5174,
+      "member_name": "Fred Thomas",
+      "payer_id": 63,
+      "payer_name": "APPG for Defence Technology",
+      "amount": 324.33,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "defence-technology",
+      "appg_name": "All-Party Parliamentary Group for Defence Technology",
+      "source_url": "https://members.parliament.uk/member/5174/registeredinterests?categoryId=4",
+      "summary": "International visit to Ukraine between 30 May 2025 and 01 June 2025 — To attend the Black Sea Security Forum in Odesa.",
+      "description": "Flights reimbursed on 13 June 2025"
+    },
+    {
+      "id": 123651,
+      "date": "2025-04-06",
+      "category": "4",
+      "member_id": 5174,
+      "member_name": "Fred Thomas",
+      "payer_id": 246,
+      "payer_name": "The Coalition for Global Prosperity (CGP)",
+      "amount": 5096.3,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5174/registeredinterests?categoryId=4",
+      "summary": "International visit to United States between 06 April 2025 and 11 April 2025 — Fact-finding political delegation to strengthen transatlantic relations and to discuss joint UK-US foreign policy challenges with US politicians, policymakers and experts.",
+      "description": "flights (£2694.99), accommodation (£1222.83), transport (£544.68), and food/miscellaneous (£633.80)"
+    }
+  ]
+}

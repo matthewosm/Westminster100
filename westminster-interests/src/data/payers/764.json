@@ -1,0 +1,99 @@
+{
+  "id": 764,
+  "name": "Mo Ibrahim Foundation",
+  "address": "35 Portman Square, London W1H 6LR",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 3401.1,
+      "combined": 3401.1,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 3401.1,
+      "combined": 3401.1,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 3401.1,
+      "combined": 3401.1,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 3401.1,
+      "combined": 3401.1,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    3401,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 126321,
+      "date": "2025-05-31",
+      "category": "4",
+      "member_id": 1211,
+      "member_name": "Sir Andrew Mitchell",
+      "payer_id": 764,
+      "payer_name": "Mo Ibrahim Foundation",
+      "amount": 3401.1,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1211/registeredinterests?categoryId=4",
+      "summary": "International visit to Morocco between 31 May 2025 and 03 June 2025 — Participating in the Mo Ibrahim Foundation Conference, I was accompanied by my parliamentary adviser.",
+      "description": "Single flight for myself from Marrakech to London (£915.00),\r\nreturn flights between London and Marrakesh for my parliamentary adviser (£790.00), two rooms accommodation for myself and my adviser (£1,457.64), hospitality (£148.46) and local transport (£90)"
+    }
+  ]
+}

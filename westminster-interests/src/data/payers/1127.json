@@ -1,0 +1,99 @@
+{
+  "id": 1127,
+  "name": "UKHarvest",
+  "address": "The Bricks, Manor Farm Barns, Selsey Road, Donnington, Chichester PO20 7PL",
+  "nature_of_business": null,
+  "donor_status": "Other",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 360.0,
+      "combined": 360.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 360.0,
+      "combined": 360.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 360.0,
+      "combined": 360.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 360.0,
+      "combined": 360.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    360,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 12458,
+      "date": "2025-05-02",
+      "category": "3",
+      "member_id": 5335,
+      "member_name": "Jess Brown-Fuller",
+      "payer_id": 1127,
+      "payer_name": "UKHarvest",
+      "amount": 360.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5335/registeredinterests?categoryId=3",
+      "summary": "UKHarvest - £360.00",
+      "description": "I was invited as a guest of UKHarvest to their corporate box at Goodwood Racecourse. I attended for 90 minutes to present an award to the winning owner in the UKHarvest charity race"
+    }
+  ]
+}

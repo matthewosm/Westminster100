@@ -1,0 +1,192 @@
+{
+  "mnis_id": 4110,
+  "name": "Dame Karen Bradley",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "Staffordshire Moorlands",
+  "house": "Commons",
+  "start_date": "2010-05-06",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4110/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 6118.0,
+      "combined": 6118.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 6118.0,
+      "combined": 6118.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 6118.0,
+      "combined": 6118.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 6118.0,
+      "combined": 6118.0,
+      "payment_count": 2,
+      "donor_count": 2
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 6118.0,
+        "combined": 6118.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 6118.0,
+        "combined": 6118.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 6118.0,
+        "combined": 6118.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 6118.0,
+        "combined": 6118.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    4928,
+    0,
+    0,
+    1190,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "advertising",
+      "appg_name": "All-Party Parliamentary Group on Advertising",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "crypto-and-digital-assets",
+      "appg_name": "All-Party Parliamentary Group on Crypto and Digital Assets",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "human-trafficking-and-modern-slavery",
+      "appg_name": "All-Party Parliamentary Group on Human Trafficking and Modern Slavery",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "north-macedonia",
+      "appg_name": "All-Party Parliamentary Group on North Macedonia",
+      "officer_role": "Co-Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 13466,
+      "date": "2025-09-27",
+      "category": "3",
+      "member_id": 4110,
+      "member_name": "Dame Karen Bradley",
+      "payer_id": 42,
+      "payer_name": "Allwyn Entertainment Ltd",
+      "amount": 1190.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4110/registeredinterests?categoryId=3",
+      "summary": "Allwyn Entertainment Ltd - £1,190.00",
+      "description": "Two tickets and hospitality to Women's Rugby World Cup Final 2025 at Twickenham"
+    },
+    {
+      "id": 12865,
+      "date": "2025-07-05",
+      "category": "3",
+      "member_id": 4110,
+      "member_name": "Dame Karen Bradley",
+      "payer_id": 1006,
+      "payer_name": "Silverstone Circuits Limited",
+      "amount": 4928.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-07-06",
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4110/registeredinterests?categoryId=3",
+      "summary": "Silverstone Circuits Ltd - £4,928.00",
+      "description": "Four tickets with hospitality at the Grand Prix"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": 944,
+  "name": "RFOI Ltd",
+  "address": "Lyndon House, 7-12 Tavistock Square, London WC1H 9BQ",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 6250.0,
+      "combined": 6250.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 6250.0,
+      "combined": 6250.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 6250.0,
+      "combined": 6250.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 6250.0,
+      "combined": 6250.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    6250,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 135771,
+      "date": "2025-09-26",
+      "category": "4",
+      "member_id": 5161,
+      "member_name": "Richard Tice",
+      "payer_id": 944,
+      "payer_name": "RFOI Ltd",
+      "amount": 6250.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5161/registeredinterests?categoryId=4",
+      "summary": "International visit to Israel between 26 September 2025 and 30 September 2025 — Education and meetings with President and Foreign Minister",
+      "description": "Flights (£2500), accommodation (£2,000), transport (£1000) and hospitality (£750) for two people"
+    }
+  ]
+}

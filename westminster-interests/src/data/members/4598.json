@@ -1,0 +1,223 @@
+{
+  "mnis_id": 4598,
+  "name": "Mohammad Yasin",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Bedford",
+  "house": "Commons",
+  "start_date": "2017-06-08",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4598/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 11431.51,
+      "combined": 11431.51,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 3309.54,
+      "inkind": 11431.51,
+      "combined": 14741.05,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 3309.54,
+      "inkind": 11431.51,
+      "combined": 14741.05,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 3309.54,
+      "inkind": 11431.51,
+      "combined": 14741.05,
+      "payment_count": 3,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 11431.51,
+        "combined": 11431.51,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 3309.54,
+        "inkind": 11431.51,
+        "combined": 14741.05,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 3309.54,
+        "inkind": 11431.51,
+        "combined": 14741.05,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 3309.54,
+        "inkind": 11431.51,
+        "combined": 14741.05,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    11432,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "adult-social-care",
+      "appg_name": "Adult Social Care All-Party Parliamentary Group",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "hazaras",
+      "appg_name": "All-Party Parliamentary Group for Hazaras",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "kuwait",
+      "appg_name": "All-Party Parliamentary Group on Kuwait",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "kidney",
+      "appg_name": "All-Party Parliamentary Kidney Group",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "bahrain",
+      "appg_name": "Bahrain All-Party Parliamentary Group",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 138681,
+      "date": "2025-10-08",
+      "category": "4",
+      "member_id": 4598,
+      "member_name": "Mohammad Yasin",
+      "payer_id": 971,
+      "payer_name": "Royal Embassy of Saudi Arabia",
+      "amount": 10031.51,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "saudi-arabia",
+      "appg_name": "All-Party Parliamentary Group on Saudi Arabia",
+      "source_url": "https://members.parliament.uk/member/4598/registeredinterests?categoryId=4",
+      "summary": "International visit to Saudi Arabia between 08 October 2025 and 18 October 2025 — Part of a delegation of MPs and Peers to meet several Saudi Ministers, royal family members and members of the Shura Council, in relation to trade, defence, tourism (Hajj/Umrah), education and energy. A dinner was hosted at the British Embassy with the Ambassador to promote Saudi-British relations.",
+      "description": "Flights (£6851.20), accommodation (£2580.31) and meals (£600)"
+    },
+    {
+      "id": 138682,
+      "date": "2025-10-08",
+      "category": "4",
+      "member_id": 4598,
+      "member_name": "Mohammad Yasin",
+      "payer_id": 205,
+      "payer_name": "Chamber of Commerce Istanbul Turkiye",
+      "amount": 1400.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "saudi-arabia",
+      "appg_name": "All-Party Parliamentary Group on Saudi Arabia",
+      "source_url": "https://members.parliament.uk/member/4598/registeredinterests?categoryId=4",
+      "summary": "International visit to Saudi Arabia between 08 October 2025 and 18 October 2025 — Part of a delegation of MPs and Peers to meet several Saudi Ministers, royal family members and members of the Shura Council, in relation to trade, defence, tourism (Hajj/Umrah), education and energy. A dinner was hosted at the British Embassy with the Ambassador to promote Saudi-British relations.",
+      "description": "Four nights accommodation in Madinah"
+    },
+    {
+      "id": 120371,
+      "date": "2025-02-15",
+      "category": "4",
+      "member_id": 4598,
+      "member_name": "Mohammad Yasin",
+      "payer_id": 838,
+      "payer_name": "Omani British Lawyer's Association",
+      "amount": 3309.54,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4598/registeredinterests?categoryId=4",
+      "summary": "International visit to Oman between 15 February 2025 and 20 February 2025 — to foster relations between the legal professions in the UK and the sultanate of Oman.",
+      "description": "Flights (£2,260.19) and hotel accommodation (£1,049.28)"
+    }
+  ]
+}

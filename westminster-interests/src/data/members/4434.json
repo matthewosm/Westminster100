@@ -1,0 +1,292 @@
+{
+  "mnis_id": 4434,
+  "name": "Stephen Gethins",
+  "party": "Scottish National Party",
+  "party_slug": "scottish-national-party",
+  "constituency": "Arbroath and Broughty Ferry",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4434/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 9492.1,
+      "inkind": 492.26,
+      "combined": 9984.36,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 2808.62,
+      "inkind": 0.0,
+      "combined": 2808.62,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 12992.26,
+      "inkind": 1300.43,
+      "combined": 14292.69,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "2024": {
+      "monetary": 1560.34,
+      "inkind": 0.0,
+      "combined": 1560.34,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "since_election": {
+      "monetary": 17361.22,
+      "inkind": 1300.43,
+      "combined": 18661.65,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "all_time": {
+      "monetary": 17361.22,
+      "inkind": 1300.43,
+      "combined": 18661.65,
+      "payment_count": 4,
+      "donor_count": 4
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 492.26,
+        "combined": 492.26,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 3500.16,
+        "inkind": 1300.43,
+        "combined": 4800.59,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 3500.16,
+        "inkind": 1300.43,
+        "combined": 4800.59,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 3500.16,
+        "inkind": 1300.43,
+        "combined": 4800.59,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    },
+    "1.2": {
+      "12m": {
+        "monetary": 9492.1,
+        "inkind": 0.0,
+        "combined": 9492.1,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 2808.62,
+        "inkind": 0.0,
+        "combined": 2808.62,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 9492.1,
+        "inkind": 0.0,
+        "combined": 9492.1,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 1560.34,
+        "inkind": 0.0,
+        "combined": 1560.34,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 13861.06,
+        "inkind": 0.0,
+        "combined": 13861.06,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 13861.06,
+        "inkind": 0.0,
+        "combined": 13861.06,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    780,
+    780,
+    780,
+    780,
+    780,
+    1272,
+    780,
+    780,
+    780,
+    780,
+    780,
+    780
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "bosnia-and-herzegovina",
+      "appg_name": "All-Party Parliamentary Group for Bosnia and Herzegovina",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "sudan-and-south-sudan",
+      "appg_name": "All-Party Parliamentary Group for Sudan and South Sudan",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "russia-and-democracy",
+      "appg_name": "All-Party Parliamentary Group on Russia and Democracy",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "syria",
+      "appg_name": "All-Party Parliamentary Group on Syria",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "university",
+      "appg_name": "All-Party Parliamentary University Group",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 134761,
+      "date": "2025-09-25",
+      "category": "4",
+      "member_id": 4434,
+      "member_name": "Stephen Gethins",
+      "payer_id": 988,
+      "payer_name": "Sarajevo Security Conference",
+      "amount": 492.26,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4434/registeredinterests?categoryId=4",
+      "summary": "International visit to Bosnia and Herzegovina between 25 September 2025 and 27 September 2025 — Participate and speak in the Sarajevo Security Conference in Sarajevo",
+      "description": "Return flights from London to Sarajevo and 2 nights accommodation"
+    },
+    {
+      "id": 124311,
+      "date": "2025-04-08",
+      "category": "4",
+      "member_id": 4434,
+      "member_name": "Stephen Gethins",
+      "payer_id": 1144,
+      "payer_name": "University of St Andrews",
+      "amount": 3500.16,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4434/registeredinterests?categoryId=4",
+      "summary": "International visit to United States between 08 April 2025 and 19 April 2025 — Study and research visit as part of my role at the School of International Relations, University of St Andrews. (This visit was part funded by research funding that I was allocated prior to being elected and in a visit that was arranged previously. Other parts of the visit were funded personally.)",
+      "description": "Transport (car) (£904.93), accommodation (£1835.23), \r\nmeals, parking, travel agent fees and other costs (£750), approx"
+    },
+    {
+      "id": 120881,
+      "date": "2025-03-21",
+      "category": "4",
+      "member_id": 4434,
+      "member_name": "Stephen Gethins",
+      "payer_id": 621,
+      "payer_name": "John Smith Trust",
+      "amount": 808.17,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4434/registeredinterests?categoryId=4",
+      "summary": "International visit to Montenegro between 21 March 2025 and 23 March 2025 — Attending a conference with John Smith Trust Fellows",
+      "description": "Flights return to Podgorica (£492.86), accommodation for two nights, (£141.85), transfers (shared),£173.46"
+    },
+    {
+      "id": 11472,
+      "date": "2024-12-13",
+      "category": "1.2",
+      "member_id": 4434,
+      "member_name": "Stephen Gethins",
+      "payer_id": 992,
+      "payer_name": "School of International Relations, University of St Andrews",
+      "amount": 791.55,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": "2024-11-01",
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4434/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 01 November 2024 - £791.55",
+      "description": "This is payment is for work undertaken at the School of International Relations"
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "mnis_id": 5272,
+  "name": "Margaret Mullane",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Dagenham and Rainham",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5272/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 2850.0,
+      "combined": 2850.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 750.0,
+      "combined": 750.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 18270.31,
+      "combined": 18270.31,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 19020.31,
+      "combined": 19020.31,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 19020.31,
+      "combined": 19020.31,
+      "payment_count": 3,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 2850.0,
+        "combined": 2850.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 750.0,
+        "combined": 750.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 18270.31,
+        "combined": 18270.31,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 19020.31,
+        "combined": 19020.31,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 19020.31,
+        "combined": 19020.31,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    2100,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    750,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "tigray",
+      "appg_name": "All-Party Parliamentary Group on Tigray",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14410,
+      "date": "2026-01-23",
+      "category": "2",
+      "member_id": 5272,
+      "member_name": "Margaret Mullane",
+      "payer_id": 102,
+      "payer_name": "Barking and Dagenham College",
+      "amount": 750.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5272/registeredinterests?categoryId=2",
+      "summary": "Barking and Dagenham College - £750.00",
+      "description": "deposits waived for room hire for my constituency Surgery (£500.00 and £250.00)"
+    },
+    {
+      "id": 12816,
+      "date": "2025-07-04",
+      "category": "2",
+      "member_id": 5272,
+      "member_name": "Margaret Mullane",
+      "payer_id": 193,
+      "payer_name": "CEME",
+      "amount": 2100.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5272/registeredinterests?categoryId=2",
+      "summary": "CEME - £2,100.00",
+      "description": "CEME hosted for me, as requested by the DWP to host a Job Fair. To enable residents out of work to gain employment"
+    },
+    {
+      "id": 12028,
+      "date": "2025-03-14",
+      "category": "2",
+      "member_id": 5272,
+      "member_name": "Margaret Mullane",
+      "payer_id": 1117,
+      "payer_name": "UCL Pearl",
+      "amount": 16170.31,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5272/registeredinterests?categoryId=2",
+      "summary": "UCL Pearl - £16,170.31",
+      "description": "The venue was supplied to host the first ever youth conference in my constituency"
+    }
+  ]
+}

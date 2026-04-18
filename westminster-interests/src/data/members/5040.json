@@ -1,0 +1,149 @@
+{
+  "mnis_id": 5040,
+  "name": "Liz Jarvis",
+  "party": "Liberal Democrat",
+  "party_slug": "liberal-democrat",
+  "constituency": "Eastleigh",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5040/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 555.0,
+      "combined": 555.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 555.0,
+      "combined": 555.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 555.0,
+      "combined": 555.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 555.0,
+      "combined": 555.0,
+      "payment_count": 1,
+      "donor_count": 1
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 555.0,
+        "combined": 555.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 555.0,
+        "combined": 555.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 555.0,
+        "combined": 555.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 555.0,
+        "combined": 555.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    555,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "state-pension-inequality-for-women",
+      "appg_name": "All-Party Parliamentary Group on State Pension Inequality for Women",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14563,
+      "date": "2026-01-21",
+      "category": "3",
+      "member_id": 5040,
+      "member_name": "Liz Jarvis",
+      "payer_id": 418,
+      "payer_name": "The Football Association Premier League Ltd",
+      "amount": 555.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "football",
+      "appg_name": "Football All-Party Parliamentary Group",
+      "source_url": "https://members.parliament.uk/member/5040/registeredinterests?categoryId=3",
+      "summary": "The Football Association Premier League - £555.00",
+      "description": "Ticket and hospitality at the Champions League match between Chelsea and Pafos."
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "mnis_id": 5226,
+  "name": "Michelle Welsh",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Sherwood Forest",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5226/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 550.0,
+      "combined": 550.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 550.0,
+      "combined": 550.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 550.0,
+      "combined": 550.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 550.0,
+      "combined": 550.0,
+      "payment_count": 1,
+      "donor_count": 1
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 550.0,
+        "combined": 550.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 550.0,
+        "combined": 550.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 550.0,
+        "combined": 550.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 550.0,
+        "combined": 550.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    550,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "baby-loss",
+      "appg_name": "All-Party Parliamentary Group on Baby Loss",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "children-in-police-custody",
+      "appg_name": "All-Party Parliamentary Group on Children  in Police Custody",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "maternity",
+      "appg_name": "All-Party Parliamentary Group on Maternity",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "missing-children-and-adults",
+      "appg_name": "All-Party Parliamentary Group on Missing Children and Adults",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "polycystic-ovary-syndrome-pcos",
+      "appg_name": "All-Party Parliamentary Group on Polycystic Ovary Syndrome (PCOS)",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "single-parent-families",
+      "appg_name": "All-Party Parliamentary Group on Single-Parent Families",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 12341,
+      "date": "2025-04-27",
+      "category": "3",
+      "member_id": 5226,
+      "member_name": "Michelle Welsh",
+      "payer_id": 417,
+      "payer_name": "The Football Association Ltd",
+      "amount": 550.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5226/registeredinterests?categoryId=3",
+      "summary": "The Football Association - £550.00",
+      "description": "Two match tickets, with hospitality, for me and one other to attend the FA Cup Semi- Final"
+    }
+  ]
+}

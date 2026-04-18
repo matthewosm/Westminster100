@@ -1,0 +1,165 @@
+{
+  "slug": "wellbeing-economics",
+  "title": "All-Party Parliamentary Group on Wellbeing Economics",
+  "purpose": "To share the latest in wellbeing science with Parliamentarians and convene experts and evidence to inform policies that improve wellbeing in the UK.",
+  "categories": [
+    "Economy, Business & Industry",
+    "Health, Medicine & Public Health"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/wellbeing-economics.htm",
+  "secretariat": "The World Wellbeing Movement acts as the group's secretariat.https://worldwellbeingmovement.org/",
+  "website": "None",
+  "registered_contact_name": "Peter Lamb MP",
+  "date_of_most_recent_agm": "2025-07-15 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "wellbeing-economics",
+      "mnis_id": null,
+      "name": "Baroness Tyler of Enfield",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/wellbeing-economics.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "wellbeing-economics",
+      "mnis_id": 4255,
+      "name": "Lord O'Donnell",
+      "canon_name": "Lord O'Donnell",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/wellbeing-economics.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "wellbeing-economics",
+      "mnis_id": 5345,
+      "name": "Peter Lamb",
+      "canon_name": "Peter Lamb",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/wellbeing-economics.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "wellbeing-economics",
+      "mnis_id": 1572,
+      "name": "Sir Jeremy Hunt",
+      "canon_name": "Jeremy Hunt",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/wellbeing-economics.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "wellbeing-economics",
+      "mnis_id": null,
+      "name": "Baroness Tyler of Enfield",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/wellbeing-economics.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "wellbeing-economics",
+      "mnis_id": 4255,
+      "name": "Lord O'Donnell",
+      "canon_name": "Lord O'Donnell",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/wellbeing-economics.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "wellbeing-economics",
+      "mnis_id": 5345,
+      "name": "Peter Lamb",
+      "canon_name": "Peter Lamb",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/wellbeing-economics.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "wellbeing-economics",
+      "mnis_id": 1572,
+      "name": "Sir Jeremy Hunt",
+      "canon_name": "Jeremy Hunt",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/wellbeing-economics.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

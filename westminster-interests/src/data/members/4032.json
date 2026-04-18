@@ -1,0 +1,280 @@
+{
+  "mnis_id": 4032,
+  "name": "Stuart Andrew",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "Daventry",
+  "house": "Commons",
+  "start_date": "2010-05-06",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4032/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 5286.0,
+      "combined": 5286.0,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 10186.0,
+      "combined": 10186.0,
+      "payment_count": 6,
+      "donor_count": 6
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 10186.0,
+      "combined": 10186.0,
+      "payment_count": 6,
+      "donor_count": 6
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 10186.0,
+      "combined": 10186.0,
+      "payment_count": 6,
+      "donor_count": 6
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 5286.0,
+        "combined": 5286.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 10186.0,
+        "combined": 10186.0,
+        "payment_count": 6,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 10186.0,
+        "combined": 10186.0,
+        "payment_count": 6,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 10186.0,
+        "combined": 10186.0,
+        "payment_count": 6,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    550,
+    4736,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "interfaith-dialogue",
+      "appg_name": "All-Party Parliamentary Group for Interfaith Dialogue",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "emotional-support-for-parent-carers-of-seriously-ill-and-disabled-children",
+      "appg_name": "All-Party Parliamentary Group on Emotional Support for Parent Carers of Seriously Ill and Disabled Children",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 12917,
+      "date": "2025-07-10",
+      "category": "3",
+      "member_id": 4032,
+      "member_name": "Stuart Andrew",
+      "payer_id": 658,
+      "payer_name": "The Lawn Tennis Association",
+      "amount": 1280.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4032/registeredinterests?categoryId=3",
+      "summary": "Lawn Tennis Association - £1,280.00",
+      "description": "Two tickets with hospitality to Wimbledon 2025, attended as Shadow Secretary of State for Culture, Media and Sport with a guest"
+    },
+    {
+      "id": 12814,
+      "date": "2025-07-06",
+      "category": "3",
+      "member_id": 4032,
+      "member_name": "Stuart Andrew",
+      "payer_id": 1006,
+      "payer_name": "Silverstone Circuits Limited",
+      "amount": 2390.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4032/registeredinterests?categoryId=3",
+      "summary": "Silverstone Circuits Limited - £2,390.00",
+      "description": "Two tickets with hospitality to attend the Grand Prix at Silverstone as Shadow Secretary of State for Culture, Media and Sport"
+    },
+    {
+      "id": 12815,
+      "date": "2025-07-01",
+      "category": "3",
+      "member_id": 4032,
+      "member_name": "Stuart Andrew",
+      "payer_id": 35,
+      "payer_name": "The All England Lawn and Tennis Club (Wimbledon) Limited",
+      "amount": 1066.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4032/registeredinterests?categoryId=3",
+      "summary": "The All England Lawn and Tennis Club (Wimbledon) Limited - £1,066.00",
+      "description": "Two tickets with hospitality to attend Wimbledon as Shadow Secretary of State for Culture, Media and Sport"
+    },
+    {
+      "id": 12681,
+      "date": "2025-06-19",
+      "category": "3",
+      "member_id": 4032,
+      "member_name": "Stuart Andrew",
+      "payer_id": 80,
+      "payer_name": "Ascot Racecourse Limited",
+      "amount": 550.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4032/registeredinterests?categoryId=3",
+      "summary": "Ascot Racecourse Limited - £550.00",
+      "description": "Two tickets with hospitality to Ascot Races 2025, attended as Shadow Secretary of State for Culture, Media and Sport with a guest"
+    },
+    {
+      "id": 12195,
+      "date": "2025-03-16",
+      "category": "3",
+      "member_id": 4032,
+      "member_name": "Stuart Andrew",
+      "payer_id": 354,
+      "payer_name": "English Football League",
+      "amount": 900.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4032/registeredinterests?categoryId=3",
+      "summary": "English Football League - £900.00",
+      "description": "Two tickets for myself and one guest for the Carabao Cup Final, which I attended as Shadow Secretary of State for Culture, Media and Sport"
+    },
+    {
+      "id": 11845,
+      "date": "2025-02-16",
+      "category": "3",
+      "member_id": 4032,
+      "member_name": "Stuart Andrew",
+      "payer_id": 881,
+      "payer_name": "Pinewood Group",
+      "amount": 4000.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4032/registeredinterests?categoryId=3",
+      "summary": "Pinewood Group - £4,000.00",
+      "description": "Myself and a guest attended the 2025 EE BAFTA Film Awards as Shadow Secretary of State for Culture, Media and Sport"
+    }
+  ]
+}

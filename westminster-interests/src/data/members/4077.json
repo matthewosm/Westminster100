@@ -1,0 +1,167 @@
+{
+  "mnis_id": 4077,
+  "name": "Emma Reynolds",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Wycombe",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4077/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 890.0,
+      "combined": 890.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 890.0,
+      "combined": 890.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 890.0,
+      "combined": 890.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 890.0,
+      "combined": 890.0,
+      "payment_count": 2,
+      "donor_count": 2
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 890.0,
+        "combined": 890.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 890.0,
+        "combined": 890.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 890.0,
+        "combined": 890.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 890.0,
+        "combined": 890.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    350,
+    0,
+    0,
+    0,
+    0,
+    540,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [],
+  "payments": [
+    {
+      "id": 14298,
+      "date": "2025-12-18",
+      "category": "3",
+      "member_id": 4077,
+      "member_name": "Emma Reynolds",
+      "payer_id": 317,
+      "payer_name": "The Ditchley Foundation",
+      "amount": 540.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-12-19",
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4077/registeredinterests?categoryId=3",
+      "summary": "The Ditchley Foundation - £540.00",
+      "description": "£270 per 24 hours or part thereof for full board accommodation per person for myself and my husband to attend the Chairman's Dinner and Farewell Celebration in Honour of Jonathan, Lord Hill of Oareford"
+    },
+    {
+      "id": 12905,
+      "date": "2025-07-04",
+      "category": "3",
+      "member_id": 4077,
+      "member_name": "Emma Reynolds",
+      "payer_id": 865,
+      "payer_name": "Paul Mainds",
+      "amount": 350.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4077/registeredinterests?categoryId=3",
+      "summary": "Paul Mainds - £350.00",
+      "description": "Entry to and hospitality at Henley Royal Regatta 2025 for me and my husband. Approximate value of £175 per person"
+    }
+  ]
+}

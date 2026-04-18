@@ -1,0 +1,99 @@
+{
+  "id": 828,
+  "name": "North West Anglia NHS Foundation Trust",
+  "address": "Peterborough City Hospital, Bretton Gate, Bretton PE3 9GZ",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 26193.66,
+      "inkind": 0.0,
+      "combined": 26193.66,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 7750.45,
+      "inkind": 0.0,
+      "combined": 7750.45,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 26193.66,
+      "inkind": 0.0,
+      "combined": 26193.66,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 26265.42,
+      "inkind": 0.0,
+      "combined": 26265.42,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "since_election": {
+      "monetary": 46933.3,
+      "inkind": 0.0,
+      "combined": 46933.3,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 67170.59,
+      "inkind": 0.0,
+      "combined": 67170.59,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    2153,
+    2153,
+    2153,
+    2153,
+    2153,
+    2153,
+    2153,
+    2153,
+    2153,
+    2153,
+    2153,
+    2153
+  ],
+  "payments": [
+    {
+      "id": 4866,
+      "date": "2023-10-26",
+      "category": "1.2",
+      "member_id": 4592,
+      "member_name": "Dr Caroline Johnson",
+      "payer_id": 828,
+      "payer_name": "North West Anglia NHS Foundation Trust",
+      "amount": 26211.6,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Yearly",
+      "start_date": "2023-09-25",
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4592/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 25 September 2023 - £26,211.60",
+      "description": "Pay has increased from £25,203.60 per annum, first paid from 22 August 2025 (including pay arrears of £336)"
+    }
+  ]
+}

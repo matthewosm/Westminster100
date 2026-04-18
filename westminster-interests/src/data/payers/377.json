@@ -1,0 +1,99 @@
+{
+  "id": 377,
+  "name": "EPG Strategic Communications",
+  "address": "4th Floor, Silverstream House, 45 Fitzroy Street, Fitzrovia, London W1T 6EB",
+  "nature_of_business": null,
+  "donor_status": "Company",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 700.0,
+      "combined": 700.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 700.0,
+      "combined": 700.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 700.0,
+      "combined": 700.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 700.0,
+      "combined": 700.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    700,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 12544,
+      "date": "2025-05-30",
+      "category": "3",
+      "member_id": 5339,
+      "member_name": "Danny Beales",
+      "payer_id": 377,
+      "payer_name": "EPG Strategic Communications",
+      "amount": 700.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-05-30",
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5339/registeredinterests?categoryId=3",
+      "summary": "EPG Strategic Communications - £700.00",
+      "description": "Two tickets to India Week dinner event in collaboration with think tank Bridge India, at the Royal Lancaster Hotel"
+    }
+  ]
+}

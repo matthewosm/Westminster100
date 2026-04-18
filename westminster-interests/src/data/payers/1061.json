@@ -1,0 +1,124 @@
+{
+  "id": 1061,
+  "name": "Sunderland Association Football Club Limited",
+  "address": "The Sunderland Stadium of Light, Sunderland, Tyne and Wear SR5 1SU",
+  "nature_of_business": null,
+  "donor_status": "Company",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 1110.0,
+      "combined": 1110.0,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 1110.0,
+      "combined": 1110.0,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 1110.0,
+      "combined": 1110.0,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 1110.0,
+      "combined": 1110.0,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    750,
+    0,
+    360,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 13366,
+      "date": "2025-08-16",
+      "category": "3",
+      "member_id": 4119,
+      "member_name": "Jonathan Reynolds",
+      "payer_id": 1061,
+      "payer_name": "Sunderland Association Football Club Limited",
+      "amount": 360.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4119/registeredinterests?categoryId=3",
+      "summary": "Sunderland Association Football Club - £360.00",
+      "description": "Ticket including hospitality to the Sunderland v West Ham football match. A donation for the estimated value of this ticket has been made to the Foundation of  Light  - the official charity of Sunderland AFC"
+    },
+    {
+      "id": 12647,
+      "date": "2025-05-24",
+      "category": "3",
+      "member_id": 4119,
+      "member_name": "Jonathan Reynolds",
+      "payer_id": 1061,
+      "payer_name": "Sunderland Association Football Club Limited",
+      "amount": 750.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4119/registeredinterests?categoryId=3",
+      "summary": "Sunderland Association Football Club Limited - £750.00",
+      "description": "Ticket including hospitality to the Sunderland v Sheffield United Promotion Play-offs Final on Saturday 24 May 2025 at Wembley Stadium. It was not possible to purchase the ticket therefore a donation of £750, the estimated value of the ticket, was made to the Foundation of Light - the official charity of Sunderland AFC"
+    }
+  ]
+}

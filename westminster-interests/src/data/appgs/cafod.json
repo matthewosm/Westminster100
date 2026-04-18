@@ -1,0 +1,164 @@
+{
+  "slug": "cafod",
+  "title": "Friends of CAFOD (Catholic Agency for Overseas Development) All-Party Parliamentary Group",
+  "purpose": "To meet and discuss matters of interest to the work of CAFOD, current humanitarian crises and the role of the Catholic church in international development.",
+  "categories": [
+    "International Affairs, Development & Trade"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cafod.htm",
+  "secretariat": "CAFOD acts as the group's secretariat.https://cafod.org.uk/",
+  "website": "https://cafod.org.uk/about-us/how-we-work/friends-of-cafod-all-party-parliamentary-group",
+  "registered_contact_name": "Florence Eshalomi MP",
+  "date_of_most_recent_agm": "2026-01-14 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "cafod",
+      "mnis_id": 2005,
+      "name": "Baroness Hooper",
+      "canon_name": "Baroness Hooper",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cafod.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "cafod",
+      "mnis_id": 4870,
+      "name": "Florence Eshalomi",
+      "canon_name": "Florence Eshalomi",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cafod.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "cafod",
+      "mnis_id": 4831,
+      "name": "Ian Byrne",
+      "canon_name": "Ian Byrne",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cafod.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "cafod",
+      "mnis_id": 5299,
+      "name": "Monica Harding",
+      "canon_name": "Monica Harding",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cafod.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "cafod",
+      "mnis_id": 2005,
+      "name": "Baroness Hooper",
+      "canon_name": "Baroness Hooper",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cafod.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "cafod",
+      "mnis_id": 4870,
+      "name": "Florence Eshalomi",
+      "canon_name": "Florence Eshalomi",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cafod.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "cafod",
+      "mnis_id": 4831,
+      "name": "Ian Byrne",
+      "canon_name": "Ian Byrne",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cafod.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "cafod",
+      "mnis_id": 5299,
+      "name": "Monica Harding",
+      "canon_name": "Monica Harding",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cafod.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

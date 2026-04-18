@@ -1,0 +1,405 @@
+{
+  "mnis_id": 5327,
+  "name": "Vikki Slade",
+  "party": "Liberal Democrat",
+  "party_slug": "liberal-democrat",
+  "constituency": "Mid Dorset and North Poole",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5327/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 17554.52,
+      "inkind": 1140.0,
+      "combined": 18694.52,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "ytd": {
+      "monetary": 6775.06,
+      "inkind": 0.0,
+      "combined": 6775.06,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2025": {
+      "monetary": 15054.52,
+      "inkind": 1140.0,
+      "combined": 16194.52,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 6848.01,
+      "inkind": 1552.86,
+      "combined": 8400.87,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "since_election": {
+      "monetary": 28677.58,
+      "inkind": 2692.86,
+      "combined": 31370.44,
+      "payment_count": 5,
+      "donor_count": 4
+    },
+    "all_time": {
+      "monetary": 28677.58,
+      "inkind": 2692.86,
+      "combined": 31370.44,
+      "payment_count": 5,
+      "donor_count": 4
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 2500.0,
+        "inkind": 0.0,
+        "combined": 2500.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 2500.0,
+        "inkind": 0.0,
+        "combined": 2500.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 2500.0,
+        "inkind": 0.0,
+        "combined": 2500.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 2500.0,
+        "inkind": 0.0,
+        "combined": 2500.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1140.0,
+        "combined": 1140.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1140.0,
+        "combined": 1140.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 1552.86,
+        "combined": 1552.86,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 2692.86,
+        "combined": 2692.86,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 2692.86,
+        "combined": 2692.86,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 606.42,
+        "inkind": 0.0,
+        "combined": 606.42,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 606.42,
+        "inkind": 0.0,
+        "combined": 606.42,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 606.42,
+        "inkind": 0.0,
+        "combined": 606.42,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 606.42,
+        "inkind": 0.0,
+        "combined": 606.42,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "1.2": {
+      "12m": {
+        "monetary": 14448.1,
+        "inkind": 0.0,
+        "combined": 14448.1,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 4275.06,
+        "inkind": 0.0,
+        "combined": 4275.06,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 14448.1,
+        "inkind": 0.0,
+        "combined": 14448.1,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 6848.01,
+        "inkind": 0.0,
+        "combined": 6848.01,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 25571.16,
+        "inkind": 0.0,
+        "combined": 25571.16,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 25571.16,
+        "inkind": 0.0,
+        "combined": 25571.16,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    1794,
+    1188,
+    1188,
+    1188,
+    1188,
+    1188,
+    1188,
+    1188,
+    2328,
+    1188,
+    3688,
+    1188
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "performing-arts-education-and-training",
+      "appg_name": "All-Party Parliamentary Group for Performing Arts Education and Training",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "town-centres",
+      "appg_name": "All-Party Parliamentary Group for Town Centres",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "play",
+      "appg_name": "All-Party Parliamentary Group on Play",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "national-trust",
+      "appg_name": "All-Party Parliamentary Group on the National Trust",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "parks-and-green-spaces",
+      "appg_name": "Parks and Green Spaces All-Party Parliamentary Group",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14598,
+      "date": "2026-02-23",
+      "category": "2",
+      "member_id": 5327,
+      "member_name": "Vikki Slade",
+      "payer_id": 596,
+      "payer_name": "James Moore",
+      "amount": 2500.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5327/registeredinterests?categoryId=2",
+      "summary": "James Moore - £2,500.00",
+      "description": "For campaign costs in particular development of Social Media strategy and reach"
+    },
+    {
+      "id": 14637,
+      "date": "2025-12-23",
+      "category": "3",
+      "member_id": 5327,
+      "member_name": "Vikki Slade",
+      "payer_id": 792,
+      "payer_name": "National Liberal Club",
+      "amount": 1140.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2026-12-31",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5327/registeredinterests?categoryId=3",
+      "summary": "National Liberal Club - £1,140.00",
+      "description": "Complimentary membership of the National Liberal Club offered to Liberal Democrat parliamentarians for 2026. This is the value of a paid-for membership for a 'town' member i.e. someone based in London"
+    },
+    {
+      "id": 136191,
+      "date": "2025-05-02",
+      "category": "4",
+      "member_id": 5327,
+      "member_name": "Vikki Slade",
+      "payer_id": 70,
+      "payer_name": "Armed Forces Parliamentary Trust",
+      "amount": 606.42,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5327/registeredinterests?categoryId=4",
+      "summary": "International visit to Bahrain between 02 May 2025 and 05 May 2025 — to undertake a visit as part of the Armed Forces Parliamentary Scheme visiting our forces overseas",
+      "description": "Flights £606.42"
+    },
+    {
+      "id": 6130,
+      "date": "2024-07-11",
+      "category": "1.2",
+      "member_id": 5327,
+      "member_name": "Vikki Slade",
+      "payer_id": 110,
+      "payer_name": "BCP Council",
+      "amount": 14458.0,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Yearly",
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5327/registeredinterests?categoryId=1",
+      "summary": "Agreement - £14,458.00",
+      "description": null
+    },
+    {
+      "id": 10020,
+      "date": "2024-07-08",
+      "category": "3",
+      "member_id": 5327,
+      "member_name": "Vikki Slade",
+      "payer_id": 792,
+      "payer_name": "National Liberal Club",
+      "amount": 1552.86,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-12-31",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5327/registeredinterests?categoryId=3",
+      "summary": "National Liberal Club - £1,552.86",
+      "description": "Complimentary membership from 15 August 2024 to 31 December 2025. Usual annual fee is £663.69, based value estimate on membership starting after the committee meeting on 14 August 2024 formalises the agreement"
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "mnis_id": 5275,
+  "name": "Graeme Downie",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Dunfermline and Dollar",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5275/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 4253.62,
+      "combined": 4253.62,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 177.0,
+      "combined": 177.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 4330.79,
+      "combined": 4330.79,
+      "payment_count": 6,
+      "donor_count": 6
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 4507.79,
+      "combined": 4507.79,
+      "payment_count": 7,
+      "donor_count": 7
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 4507.79,
+      "combined": 4507.79,
+      "payment_count": 7,
+      "donor_count": 7
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 177.0,
+        "combined": 177.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 177.0,
+        "combined": 177.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 177.0,
+        "combined": 177.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 177.0,
+        "combined": 177.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 4076.62,
+        "combined": 4076.62,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 4330.79,
+        "combined": 4330.79,
+        "payment_count": 6,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 4330.79,
+        "combined": 4330.79,
+        "payment_count": 6,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 4330.79,
+        "combined": 4330.79,
+        "payment_count": 6,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    4077,
+    0,
+    177,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "space",
+      "appg_name": "All-Party Parliamentary Group for Space",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "aviation-travel-and-aerospace",
+      "appg_name": "All-Party Parliamentary Group for the Future of Aviation, Travel and Aerospace",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "estonia",
+      "appg_name": "All-Party Parliamentary Group on Estonia",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "north-macedonia",
+      "appg_name": "All-Party Parliamentary Group on North Macedonia",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "parkinsons",
+      "appg_name": "All-Party Parliamentary Group on Parkinson's",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "defence-and-security-sectors-supporting-local-communities",
+      "appg_name": "All-Party Parliamentary Group on the Defence and Security Sectors Supporting Local Communities",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14524,
+      "date": "2026-02-03",
+      "category": "3",
+      "member_id": 5275,
+      "member_name": "Graeme Downie",
+      "payer_id": 92,
+      "payer_name": "Babcock International PLC",
+      "amount": 177.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5275/registeredinterests?categoryId=3",
+      "summary": "Babcock International PLC - £177.00",
+      "description": "Burns Supper hospitality"
+    },
+    {
+      "id": 141501,
+      "date": "2025-11-30",
+      "category": "4",
+      "member_id": 5275,
+      "member_name": "Graeme Downie",
+      "payer_id": 246,
+      "payer_name": "The Coalition for Global Prosperity (CGP)",
+      "amount": 4076.62,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5275/registeredinterests?categoryId=4",
+      "summary": "International visit to United States between 30 November 2025 and 05 December 2025 — Cross-party delegation to strengthen transatlantic relations and to discuss UK-US foreign policy priorities, challenges and opportunities with members of Congress and policymakers",
+      "description": "Flights (£1,968.73), accommodation (£1,056.86), local transport (£519.47) and food/miscellaneous (£531.56)"
+    },
+    {
+      "id": 121841,
+      "date": "2025-02-21",
+      "category": "4",
+      "member_id": 5275,
+      "member_name": "Graeme Downie",
+      "payer_id": 1122,
+      "payer_name": "UK Friends of Ukraine",
+      "amount": 25.86,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5275/registeredinterests?categoryId=4",
+      "summary": "International visit to Ukraine between 21 February 2025 and 25 February 2025 — Parliamentary delegation to Ukraine",
+      "description": "Transport in Lviv (£8.62), transport in Kyiv (17.24)"
+    },
+    {
+      "id": 121842,
+      "date": "2025-02-21",
+      "category": "4",
+      "member_id": 5275,
+      "member_name": "Graeme Downie",
+      "payer_id": 173,
+      "payer_name": "Bulldog Political Consulting",
+      "amount": 86.2,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5275/registeredinterests?categoryId=4",
+      "summary": "International visit to Ukraine between 21 February 2025 and 25 February 2025 — Parliamentary delegation to Ukraine",
+      "description": "Dinner in Lviv"
+    },
+    {
+      "id": 121843,
+      "date": "2025-02-21",
+      "category": "4",
+      "member_id": 5275,
+      "member_name": "Graeme Downie",
+      "payer_id": 1202,
+      "payer_name": "Zhytomyr Administration",
+      "amount": 25.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5275/registeredinterests?categoryId=4",
+      "summary": "International visit to Ukraine between 21 February 2025 and 25 February 2025 — Parliamentary delegation to Ukraine",
+      "description": "Daytrip to Zhytomyr (approx.)"
+    },
+    {
+      "id": 121844,
+      "date": "2025-02-21",
+      "category": "4",
+      "member_id": 5275,
+      "member_name": "Graeme Downie",
+      "payer_id": 648,
+      "payer_name": "Kyivstar",
+      "amount": 25.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5275/registeredinterests?categoryId=4",
+      "summary": "International visit to Ukraine between 21 February 2025 and 25 February 2025 — Parliamentary delegation to Ukraine",
+      "description": "Dinner in Kyiv (approx.)"
+    },
+    {
+      "id": 121845,
+      "date": "2025-02-21",
+      "category": "4",
+      "member_id": 5275,
+      "member_name": "Graeme Downie",
+      "payer_id": 1194,
+      "payer_name": "YES Foundation",
+      "amount": 92.11,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5275/registeredinterests?categoryId=4",
+      "summary": "International visit to Ukraine between 21 February 2025 and 25 February 2025 — Parliamentary delegation to Ukraine",
+      "description": "YES Conference"
+    }
+  ]
+}

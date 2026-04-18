@@ -1,0 +1,165 @@
+{
+  "slug": "local-markets",
+  "title": "All-Party Parliamentary Group on Local Markets",
+  "purpose": "To provide a conduit for the markets industry to advance the case for markets and to raise issues about their welfare. It provides a forum for discussions about policy, strategy and operational issues recognising the role of markets and market trading in retail, tourism, employment, hospitality, and leisure sectors.",
+  "categories": [
+    "Economy, Business & Industry",
+    "Finance, Markets & Consumer Affairs"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/local-markets.htm",
+  "secretariat": "National Association of Market Authorities acts as the group's secretariat.https://nabma.com/",
+  "website": "https://nabma.com/all-party-parliamentary-markets-group/",
+  "registered_contact_name": "Julia Buckley MP",
+  "date_of_most_recent_agm": "2026-01-21 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "local-markets",
+      "mnis_id": 5177,
+      "name": "Ann Davies",
+      "canon_name": "Ann Davies",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/local-markets.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "local-markets",
+      "mnis_id": 5171,
+      "name": "Julia Buckley",
+      "canon_name": "Julia Buckley",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/local-markets.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "local-markets",
+      "mnis_id": null,
+      "name": "Lord Goddard of Stockport",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/local-markets.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "local-markets",
+      "mnis_id": 333,
+      "name": "Lord McLoughlin",
+      "canon_name": "Lord McLoughlin",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/local-markets.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "local-markets",
+      "mnis_id": 5177,
+      "name": "Ann Davies",
+      "canon_name": "Ann Davies",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/local-markets.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "local-markets",
+      "mnis_id": 5171,
+      "name": "Julia Buckley",
+      "canon_name": "Julia Buckley",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/local-markets.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "local-markets",
+      "mnis_id": null,
+      "name": "Lord Goddard of Stockport",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/local-markets.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "local-markets",
+      "mnis_id": 333,
+      "name": "Lord McLoughlin",
+      "canon_name": "Lord McLoughlin",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/local-markets.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

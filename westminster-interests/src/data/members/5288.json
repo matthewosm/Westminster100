@@ -1,0 +1,292 @@
+{
+  "mnis_id": 5288,
+  "name": "Dr Al Pinkerton",
+  "party": "Liberal Democrat",
+  "party_slug": "liberal-democrat",
+  "constituency": "Surrey Heath",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5288/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 4106.21,
+      "inkind": 7523.09,
+      "combined": 11629.3,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 5742.27,
+      "combined": 5742.27,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 4106.21,
+      "inkind": 1780.82,
+      "combined": 5887.03,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 4106.21,
+      "inkind": 7523.09,
+      "combined": 11629.3,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "all_time": {
+      "monetary": 4106.21,
+      "inkind": 7523.09,
+      "combined": 11629.3,
+      "payment_count": 4,
+      "donor_count": 4
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 7523.09,
+        "combined": 7523.09,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 5742.27,
+        "combined": 5742.27,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1780.82,
+        "combined": 1780.82,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 7523.09,
+        "combined": 7523.09,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 7523.09,
+        "combined": 7523.09,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    },
+    "1.1": {
+      "12m": {
+        "monetary": 4106.21,
+        "inkind": 0.0,
+        "combined": 4106.21,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 4106.21,
+        "inkind": 0.0,
+        "combined": 4106.21,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 4106.21,
+        "inkind": 0.0,
+        "combined": 4106.21,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 4106.21,
+        "inkind": 0.0,
+        "combined": 4106.21,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    800,
+    5087,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    5742,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "gibraltar",
+      "appg_name": "All-Party Parliamentary Group on Gibraltar",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "falkland-islands",
+      "appg_name": "Falkland Islands All-Party Parliamentary Group",
+      "officer_role": "Secretary",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "gaps-in-covid-19-financial-support",
+      "appg_name": "Gaps in Covid-19 Financial Support All-Party Parliamentary Group",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "isle-of-man-manx",
+      "appg_name": "Isle of Man (Manx) All-Party Parliamentary Group",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "south-western-railway",
+      "appg_name": "South Western Railway All-Party Parliamentary Group",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 146951,
+      "date": "2026-02-13",
+      "category": "4",
+      "member_id": 5288,
+      "member_name": "Dr Al Pinkerton",
+      "payer_id": 523,
+      "payer_name": "HM Government of Cayman Islands",
+      "amount": 5742.27,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5288/registeredinterests?categoryId=4",
+      "summary": "International visit to Cayman Islands between 13 February 2026 and 17 February 2026 — Fact finding visit to UK Overseas Territory, exploring natural disaster responsiveness and preparedness, financial regulation, environmental management, and governance.",
+      "description": "Flights (£2906.60), accommodation (£1919.63), transfers (£199.50), subsistence (£653.20), commemorative item (£64.34)"
+    },
+    {
+      "id": 130121,
+      "date": "2025-07-09",
+      "category": "4",
+      "member_id": 5288,
+      "member_name": "Dr Al Pinkerton",
+      "payer_id": 482,
+      "payer_name": "HM Government of Gibraltar",
+      "amount": 981.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "gibraltar",
+      "appg_name": "All-Party Parliamentary Group on Gibraltar",
+      "source_url": "https://members.parliament.uk/member/5288/registeredinterests?categoryId=4",
+      "summary": "International visit to Gibraltar between 09 July 2025 and 11 July 2025 — To meet senior HM Government of Gibraltar ministers, Parliamentary representatives and business leaders to understand the economic and social challenges faced by Gibraltar since Brexit, and to learn how these will be overcome as a consequence of the recently-announced UK-EU deal.",
+      "description": "Return flights (£435), accommodation for two nights (£346) and meals/hospitality (£200)"
+    },
+    {
+      "id": 13011,
+      "date": "2025-06-27",
+      "category": "1.1",
+      "member_id": 5288,
+      "member_name": "Dr Al Pinkerton",
+      "payer_id": 972,
+      "payer_name": "Royal Holloway University",
+      "amount": 4106.21,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5288/registeredinterests?categoryId=1",
+      "summary": "Payment received on 27 June 2025 - £4,106.21",
+      "description": "Received for delivery of lectures and seminars in capacity as Visiting Professor of Geopolitics"
+    },
+    {
+      "id": 135491,
+      "date": "2025-05-25",
+      "category": "4",
+      "member_id": 5288,
+      "member_name": "Dr Al Pinkerton",
+      "payer_id": 70,
+      "payer_name": "Armed Forces Parliamentary Trust",
+      "amount": 799.82,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5288/registeredinterests?categoryId=4",
+      "summary": "International visit to Brunei between 25 May 2025 and 29 May 2025 — To undertake a visit to British Forces Brunei as part of the Armed Forces Parliamentary Scheme",
+      "description": "Flights"
+    }
+  ]
+}

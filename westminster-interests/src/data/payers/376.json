@@ -1,0 +1,99 @@
+{
+  "id": 376,
+  "name": "English National Opera",
+  "address": "London Coliseum, St Martins Lane, London, WC2N 4ES",
+  "nature_of_business": null,
+  "donor_status": "Company",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 358.0,
+      "combined": 358.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 358.0,
+      "combined": 358.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 358.0,
+      "combined": 358.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 358.0,
+      "combined": 358.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    358,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 14551,
+      "date": "2026-02-06",
+      "category": "3",
+      "member_id": 4610,
+      "member_name": "Bambos Charalambous",
+      "payer_id": 376,
+      "payer_name": "English National Opera",
+      "amount": 358.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4610/registeredinterests?categoryId=3",
+      "summary": "English National Opera - £358.00",
+      "description": "Two tickets and hospitality for 'Cosi Fan Tutte' opera at the Coliseum on Friday 6 February 2026"
+    }
+  ]
+}

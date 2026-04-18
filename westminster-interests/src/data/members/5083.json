@@ -1,0 +1,349 @@
+{
+  "mnis_id": 5083,
+  "name": "Bobby Dean",
+  "party": "Liberal Democrat",
+  "party_slug": "liberal-democrat",
+  "constituency": "Carshalton and Wallington",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5083/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 1634.92,
+      "combined": 1634.92,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 1140.0,
+      "combined": 1140.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 1000.0,
+      "inkind": 494.92,
+      "combined": 1494.92,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 1475.85,
+      "combined": 1475.85,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "since_election": {
+      "monetary": 1000.0,
+      "inkind": 3110.77,
+      "combined": 4110.77,
+      "payment_count": 5,
+      "donor_count": 5
+    },
+    "all_time": {
+      "monetary": 1000.0,
+      "inkind": 3110.77,
+      "combined": 4110.77,
+      "payment_count": 5,
+      "donor_count": 5
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1140.0,
+        "combined": 1140.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 1140.0,
+        "combined": 1140.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 1475.85,
+        "combined": 1475.85,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 2615.85,
+        "combined": 2615.85,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 2615.85,
+        "combined": 2615.85,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 494.92,
+        "combined": 494.92,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 494.92,
+        "combined": 494.92,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 494.92,
+        "combined": 494.92,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 494.92,
+        "combined": 494.92,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "2": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 1000.0,
+        "inkind": 0.0,
+        "combined": 1000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 1000.0,
+        "inkind": 0.0,
+        "combined": 1000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 1000.0,
+        "inkind": 0.0,
+        "combined": 1000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    495,
+    0,
+    0,
+    0,
+    1140,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "tamils",
+      "appg_name": "All-Party Parliamentary Group for Tamils",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "anti-corruption-and-responsible-tax",
+      "appg_name": "All-Party Parliamentary Group on Anti-Corruption and Responsible Tax",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "hong-kong",
+      "appg_name": "All-Party Parliamentary Group on Hong Kong",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14362,
+      "date": "2026-01-01",
+      "category": "3",
+      "member_id": 5083,
+      "member_name": "Bobby Dean",
+      "payer_id": 792,
+      "payer_name": "National Liberal Club",
+      "amount": 1140.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2026-12-31",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5083/registeredinterests?categoryId=3",
+      "summary": "National Liberal Club - £1,140.00",
+      "description": "Annual membership"
+    },
+    {
+      "id": 136901,
+      "date": "2025-09-17",
+      "category": "4",
+      "member_id": 5083,
+      "member_name": "Bobby Dean",
+      "payer_id": 305,
+      "payer_name": "Deluxshana Kuganesan",
+      "amount": 291.44,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "tamils",
+      "appg_name": "All-Party Parliamentary Group for Tamils",
+      "source_url": "https://members.parliament.uk/member/5083/registeredinterests?categoryId=4",
+      "summary": "International visit to Switzerland between 17 September 2025 and 18 September 2025 — Speaking on behalf of Tamil interests in the UK",
+      "description": "Flight to Geneva for visit to the UN"
+    },
+    {
+      "id": 136902,
+      "date": "2025-09-17",
+      "category": "4",
+      "member_id": 5083,
+      "member_name": "Bobby Dean",
+      "payer_id": 1058,
+      "payer_name": "Subramaniam Kuhanathan",
+      "amount": 203.48,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "tamils",
+      "appg_name": "All-Party Parliamentary Group for Tamils",
+      "source_url": "https://members.parliament.uk/member/5083/registeredinterests?categoryId=4",
+      "summary": "International visit to Switzerland between 17 September 2025 and 18 September 2025 — Speaking on behalf of Tamil interests in the UK",
+      "description": "One night's hotel stay (£173.48) and dinner (£30)"
+    },
+    {
+      "id": 11975,
+      "date": "2025-03-10",
+      "category": "2",
+      "member_id": 5083,
+      "member_name": "Bobby Dean",
+      "payer_id": 625,
+      "payer_name": "The Joseph Rowntree Reform Trust",
+      "amount": 1000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5083/registeredinterests?categoryId=2",
+      "summary": "The Joseph Rowntree Reform Trust - £1,000.00",
+      "description": null
+    },
+    {
+      "id": 10651,
+      "date": "2024-08-15",
+      "category": "3",
+      "member_id": 5083,
+      "member_name": "Bobby Dean",
+      "payer_id": 793,
+      "payer_name": "National Liberal Club Ltd",
+      "amount": 1475.85,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-12-31",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5083/registeredinterests?categoryId=3",
+      "summary": "National Liberal Club Ltd - £1,475.85",
+      "description": "Honorary membership of private members club (National Liberal Club) for 18 months"
+    }
+  ]
+}

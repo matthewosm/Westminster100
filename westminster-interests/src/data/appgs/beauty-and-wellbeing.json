@@ -1,0 +1,164 @@
+{
+  "slug": "beauty-and-wellbeing",
+  "title": "All-Party Parliamentary Group Beauty and Wellbeing",
+  "purpose": "The group seeks to spotlight and raise the reputation of the beauty industry by investigating and exploring key issues that impact the sectors within it. By highlighting these issues, the group aims to underscore the importance of tackling misinformation, and the economic and social benefits to the UK.",
+  "categories": [
+    "Economy, Business & Industry"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/beauty-and-wellbeing.htm",
+  "secretariat": "British Beauty Council acts as the group's secretariat.https://britishbeautycouncil.com/",
+  "website": "https://www.baw-appg.co.uk/",
+  "registered_contact_name": "Carolyn Harris MP",
+  "date_of_most_recent_agm": "2025-04-02 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "beauty-and-wellbeing",
+      "mnis_id": 5203,
+      "name": "Alison Griffiths",
+      "canon_name": "Alison Griffiths",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/beauty-and-wellbeing.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "beauty-and-wellbeing",
+      "mnis_id": 4036,
+      "name": "Baroness Berger",
+      "canon_name": "Baroness Berger",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/beauty-and-wellbeing.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "beauty-and-wellbeing",
+      "mnis_id": 4480,
+      "name": "Carolyn Harris",
+      "canon_name": "Carolyn Harris",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/beauty-and-wellbeing.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "beauty-and-wellbeing",
+      "mnis_id": 1521,
+      "name": "Mrs Sharon Hodgson",
+      "canon_name": "Sharon Hodgson",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/beauty-and-wellbeing.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "beauty-and-wellbeing",
+      "mnis_id": 5203,
+      "name": "Alison Griffiths",
+      "canon_name": "Alison Griffiths",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/beauty-and-wellbeing.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "beauty-and-wellbeing",
+      "mnis_id": 4036,
+      "name": "Baroness Berger",
+      "canon_name": "Baroness Berger",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/beauty-and-wellbeing.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "beauty-and-wellbeing",
+      "mnis_id": 4480,
+      "name": "Carolyn Harris",
+      "canon_name": "Carolyn Harris",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/beauty-and-wellbeing.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "beauty-and-wellbeing",
+      "mnis_id": 1521,
+      "name": "Mrs Sharon Hodgson",
+      "canon_name": "Sharon Hodgson",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/beauty-and-wellbeing.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

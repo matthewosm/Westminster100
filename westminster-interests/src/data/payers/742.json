@@ -1,0 +1,99 @@
+{
+  "id": 742,
+  "name": "Merton Council",
+  "address": "Merton Civic Centre, London Road, Morden SM4 5DX",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 12005.82,
+      "inkind": 0.0,
+      "combined": 12005.82,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 3552.41,
+      "inkind": 0.0,
+      "combined": 3552.41,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 12005.82,
+      "inkind": 0.0,
+      "combined": 12005.82,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 4933.9,
+      "inkind": 0.0,
+      "combined": 4933.9,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "since_election": {
+      "monetary": 20492.12,
+      "inkind": 0.0,
+      "combined": 20492.12,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 20492.12,
+      "inkind": 0.0,
+      "combined": 20492.12,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    987,
+    987,
+    987,
+    987,
+    987,
+    987,
+    987,
+    987,
+    987,
+    987,
+    987,
+    987
+  ],
+  "payments": [
+    {
+      "id": 8794,
+      "date": "2024-08-03",
+      "category": "1.2",
+      "member_id": 5321,
+      "member_name": "Mr Paul Kohler",
+      "payer_id": 742,
+      "payer_name": "Merton Council",
+      "amount": 1001.17,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5321/registeredinterests?categoryId=1",
+      "summary": "Agreement - £1,001.17",
+      "description": null
+    }
+  ]
+}

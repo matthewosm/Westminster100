@@ -1,0 +1,224 @@
+{
+  "mnis_id": 5031,
+  "name": "Mark Ferguson",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Gateshead Central and Whickham",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5031/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 22000.0,
+      "inkind": 2950.0,
+      "combined": 24950.0,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "ytd": {
+      "monetary": 2000.0,
+      "inkind": 0.0,
+      "combined": 2000.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 20000.0,
+      "inkind": 2950.0,
+      "combined": 22950.0,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 22000.0,
+      "inkind": 2950.0,
+      "combined": 24950.0,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "all_time": {
+      "monetary": 22000.0,
+      "inkind": 2950.0,
+      "combined": 24950.0,
+      "payment_count": 4,
+      "donor_count": 4
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 22000.0,
+        "inkind": 2950.0,
+        "combined": 24950.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 2000.0,
+        "inkind": 0.0,
+        "combined": 2000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 20000.0,
+        "inkind": 2950.0,
+        "combined": 22950.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 22000.0,
+        "inkind": 2950.0,
+        "combined": 24950.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 22000.0,
+        "inkind": 2950.0,
+        "combined": 24950.0,
+        "payment_count": 4,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    2050,
+    0,
+    900,
+    0,
+    20000,
+    0,
+    2000,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "usher-syndrome",
+      "appg_name": "Usher Syndrome All-Party Parliamentary Group",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14383,
+      "date": "2026-01-22",
+      "category": "2",
+      "member_id": 5031,
+      "member_name": "Mark Ferguson",
+      "payer_id": 1131,
+      "payer_name": "UNISON",
+      "amount": 2000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5031/registeredinterests?categoryId=2",
+      "summary": "UNISON - £2,000.00",
+      "description": "Donation to support my campaigning"
+    },
+    {
+      "id": 14037,
+      "date": "2025-12-01",
+      "category": "2",
+      "member_id": 5031,
+      "member_name": "Mark Ferguson",
+      "payer_id": 691,
+      "payer_name": "Lord (David) Sainsbury",
+      "amount": 20000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5031/registeredinterests?categoryId=2",
+      "summary": "Lord (David) Sainsbury - £20,000.00",
+      "description": null
+    },
+    {
+      "id": 13593,
+      "date": "2025-09-29",
+      "category": "2",
+      "member_id": 5031,
+      "member_name": "Mark Ferguson",
+      "payer_id": 1131,
+      "payer_name": "UNISON",
+      "amount": 900.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-09-30",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5031/registeredinterests?categoryId=2",
+      "summary": "UNISON - £900.00",
+      "description": "Accommodation at 2025 Labour Party Conference"
+    },
+    {
+      "id": 13134,
+      "date": "2025-08-15",
+      "category": "2",
+      "member_id": 5031,
+      "member_name": "Mark Ferguson",
+      "payer_id": 1131,
+      "payer_name": "UNISON",
+      "amount": 2050.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5031/registeredinterests?categoryId=2",
+      "summary": "UNISON - £2,050.00",
+      "description": "Payment for leaflet printing"
+    }
+  ]
+}

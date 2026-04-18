@@ -1,0 +1,280 @@
+{
+  "mnis_id": 4359,
+  "name": "Stephen Kinnock",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Aberafan Maesteg",
+  "house": "Commons",
+  "start_date": "2015-05-07",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4359/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 16487.02,
+      "combined": 16487.02,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 2877.6,
+      "combined": 2877.6,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 13609.42,
+      "combined": 13609.42,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 16487.02,
+      "combined": 16487.02,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 16487.02,
+      "combined": 16487.02,
+      "payment_count": 3,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "5": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 2877.6,
+        "combined": 2877.6,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 2877.6,
+        "combined": 2877.6,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 2877.6,
+        "combined": 2877.6,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 2877.6,
+        "combined": 2877.6,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 12873.52,
+        "combined": 12873.52,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 12873.52,
+        "combined": 12873.52,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 12873.52,
+        "combined": 12873.52,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 12873.52,
+        "combined": 12873.52,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 735.9,
+        "combined": 735.9,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 735.9,
+        "combined": 735.9,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 735.9,
+        "combined": 735.9,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 735.9,
+        "combined": 735.9,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    736,
+    0,
+    0,
+    12874,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2878,
+    0,
+    0
+  ],
+  "appg_memberships": [],
+  "payments": [
+    {
+      "id": 14459,
+      "date": "2026-02-07",
+      "category": "5",
+      "member_id": 4359,
+      "member_name": "Stephen Kinnock",
+      "payer_id": 1021,
+      "payer_name": "Solix ApS",
+      "amount": 2877.6,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4359/registeredinterests?categoryId=5",
+      "summary": "Solix ApS - £2,877.60",
+      "description": "My wife is on the Board of companies that are owned by Solix Group, and I accompanied her to this England vs Wales rugby match. The cost of tickets, food and hospitality were covered by Solix Group. Cost per person - £1,438.80."
+    },
+    {
+      "id": 131531,
+      "date": "2025-08-13",
+      "category": "4",
+      "member_id": 4359,
+      "member_name": "Stephen Kinnock",
+      "payer_id": 857,
+      "payer_name": "Palo Alto Network",
+      "amount": 12873.52,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4359/registeredinterests?categoryId=4",
+      "summary": "International visit to United States between 13 August 2025 and 17 August 2025 — Palo Alto Networks covered the costs for me to accompany my wife on a team-building trip to Napa Valley, organised for board members and their spouses/partners.",
+      "description": "Hotel room for me and my wife (£4473.00 approximately), food (£906.00 approximately), flights (£6395.02 inc. immigration and customs fee) and airport transfers (£1099.50 - return journey was shared with my wife)"
+    },
+    {
+      "id": 12509,
+      "date": "2025-05-23",
+      "category": "3",
+      "member_id": 4359,
+      "member_name": "Stephen Kinnock",
+      "payer_id": 552,
+      "payer_name": "In It Together Festival Ltd",
+      "amount": 735.9,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4359/registeredinterests?categoryId=3",
+      "summary": "In It Together Festival Ltd - £735.90",
+      "description": "3 VIP tickets for In It Together Festival in Margam on Friday 23 May and parking. Only two tickets were used"
+    }
+  ]
+}

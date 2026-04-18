@@ -1,0 +1,99 @@
+{
+  "id": 493,
+  "name": "Greenbelt Festivals",
+  "address": "The Nest, Church House, 86 Tavistock Place, London WC1H 9RT",
+  "nature_of_business": null,
+  "donor_status": "Company",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 980.92,
+      "combined": 980.92,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 980.92,
+      "combined": 980.92,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 980.92,
+      "combined": 980.92,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 980.92,
+      "combined": 980.92,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    981,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 13306,
+      "date": "2025-08-21",
+      "category": "3",
+      "member_id": 5102,
+      "member_name": "Carla Denyer",
+      "payer_id": 493,
+      "payer_name": "Greenbelt Festivals",
+      "amount": 980.92,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-08-24",
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5102/registeredinterests?categoryId=3",
+      "summary": "Greenbelt Festivals - £980.92",
+      "description": "Two glamping tickets at Greenbelt Festival 2025, at which I was a guest speaker, plus one return train ticket and one meal"
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "slug": "smoking-and-health",
+  "title": "All-Party Parliamentary Group on Smoking and Health",
+  "purpose": "To monitor and discuss the health and social effects of smoking; to review potential changes in existing legislation to reduce levels of smoking; to assess the latest medical techniques to assist in smoking cessation; and to act as a resource for the group’s members on all issues relating to smoking and public health.",
+  "categories": [
+    "Health, Medicine & Public Health",
+    "Social Care, Welfare & Family Support"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/smoking-and-health.htm",
+  "secretariat": "Action on Smoking and Health (ASH) acts as the group's secretariat.https://ash.org.uk/",
+  "website": "https://ash.org.uk/about/who-we-work-with/appg",
+  "registered_contact_name": "Bob Blackman MP",
+  "date_of_most_recent_agm": "2025-11-05 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "smoking-and-health",
+      "mnis_id": 4005,
+      "name": "Bob Blackman",
+      "canon_name": "Bob Blackman",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/smoking-and-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "smoking-and-health",
+      "mnis_id": 5223,
+      "name": "Jim Dickson",
+      "canon_name": "Jim Dickson",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/smoking-and-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "smoking-and-health",
+      "mnis_id": 153,
+      "name": "John Griffiths",
+      "canon_name": "John Griffiths",
+      "officer_role": "Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=796",
+      "removed": null
+    },
+    {
+      "appg_slug": "smoking-and-health",
+      "mnis_id": 2484,
+      "name": "Lord Rennard",
+      "canon_name": "Lord Rennard",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/smoking-and-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "smoking-and-health",
+      "mnis_id": 4753,
+      "name": "Mary Kelly Foy",
+      "canon_name": "Mary Foy",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/smoking-and-health.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "smoking-and-health",
+      "mnis_id": 4005,
+      "name": "Bob Blackman",
+      "canon_name": "Bob Blackman",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/smoking-and-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "smoking-and-health",
+      "mnis_id": 5223,
+      "name": "Jim Dickson",
+      "canon_name": "Jim Dickson",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/smoking-and-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "smoking-and-health",
+      "mnis_id": 153,
+      "name": "John Griffiths",
+      "canon_name": "John Griffiths",
+      "officer_role": "Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=796",
+      "removed": null
+    },
+    {
+      "appg_slug": "smoking-and-health",
+      "mnis_id": 2484,
+      "name": "Lord Rennard",
+      "canon_name": "Lord Rennard",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/smoking-and-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "smoking-and-health",
+      "mnis_id": 4753,
+      "name": "Mary Kelly Foy",
+      "canon_name": "Mary Foy",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/smoking-and-health.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

@@ -1,0 +1,164 @@
+{
+  "slug": "political-and-media-literacy",
+  "title": "All-Party Parliamentary Group on Political and Media Literacy",
+  "purpose": "This APPG aims to highlight the importance of political and media literacy education in promoting youth participation in democratic life and cultivating discerning consumers of media resilient to misinformation. Ultimately, we hope all young people will be politically and media literate by the time they finish their secondary education.",
+  "categories": [
+    "Education, Skills & Youth"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/political-and-media-literacy.htm",
+  "secretariat": "Shout Out UK acts as the group's secretariat.https://www.shoutoutuk.org/",
+  "website": "https://www.shoutoutuk.org/appg",
+  "registered_contact_name": "Kirsty Blackman MP",
+  "date_of_most_recent_agm": "2024-10-29 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "political-and-media-literacy",
+      "mnis_id": 3969,
+      "name": "Damian Hinds",
+      "canon_name": "Damian Hinds",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/political-and-media-literacy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "political-and-media-literacy",
+      "mnis_id": 4357,
+      "name": "Kirsty Blackman",
+      "canon_name": "Kirsty Blackman",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/political-and-media-literacy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "political-and-media-literacy",
+      "mnis_id": null,
+      "name": "Lord McNicol of West Kilbride",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/political-and-media-literacy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "political-and-media-literacy",
+      "mnis_id": 2484,
+      "name": "Lord Rennard",
+      "canon_name": "Lord Rennard",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/political-and-media-literacy.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "political-and-media-literacy",
+      "mnis_id": 3969,
+      "name": "Damian Hinds",
+      "canon_name": "Damian Hinds",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/political-and-media-literacy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "political-and-media-literacy",
+      "mnis_id": 4357,
+      "name": "Kirsty Blackman",
+      "canon_name": "Kirsty Blackman",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/political-and-media-literacy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "political-and-media-literacy",
+      "mnis_id": null,
+      "name": "Lord McNicol of West Kilbride",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/political-and-media-literacy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "political-and-media-literacy",
+      "mnis_id": 2484,
+      "name": "Lord Rennard",
+      "canon_name": "Lord Rennard",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/political-and-media-literacy.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

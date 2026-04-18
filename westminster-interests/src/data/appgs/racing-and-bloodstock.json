@@ -1,0 +1,215 @@
+{
+  "slug": "racing-and-bloodstock",
+  "title": "All-Party Parliamentary Group on Racing and Bloodstock",
+  "purpose": "To keep parliamentarians and the government up to date with issues in horseracing and bloodstock; to foster good relations with the various parts of horseracing, and between them; and for connected purposes.",
+  "categories": [
+    "Sport, Recreation & Physical Activity"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/racing-and-bloodstock.htm",
+  "secretariat": "British Horseracing Authority acts as the group's secretariat.https://www.britishhorseracing.com/",
+  "website": "None",
+  "registered_contact_name": "Dan Carden MP",
+  "date_of_most_recent_agm": "2025-12-03 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 1310.0,
+      "combined": 1310.0,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 560.0,
+      "combined": 560.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 750.0,
+      "combined": 750.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 1310.0,
+      "combined": 1310.0,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 1310.0,
+      "combined": 1310.0,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "racing-and-bloodstock",
+      "mnis_id": null,
+      "name": "Baroness McIntosh of Pickering",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/racing-and-bloodstock.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "racing-and-bloodstock",
+      "mnis_id": 4651,
+      "name": "Dan Carden",
+      "canon_name": "Dan Carden",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/racing-and-bloodstock.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "racing-and-bloodstock",
+      "mnis_id": 3973,
+      "name": "Grahame Morris",
+      "canon_name": "Grahame Morris",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/racing-and-bloodstock.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "racing-and-bloodstock",
+      "mnis_id": 5062,
+      "name": "Nick Timothy",
+      "canon_name": "Nick Timothy",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/racing-and-bloodstock.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "racing-and-bloodstock",
+      "mnis_id": null,
+      "name": "Baroness McIntosh of Pickering",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/racing-and-bloodstock.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "racing-and-bloodstock",
+      "mnis_id": 4651,
+      "name": "Dan Carden",
+      "canon_name": "Dan Carden",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/racing-and-bloodstock.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "racing-and-bloodstock",
+      "mnis_id": 3973,
+      "name": "Grahame Morris",
+      "canon_name": "Grahame Morris",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/racing-and-bloodstock.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "racing-and-bloodstock",
+      "mnis_id": 5062,
+      "name": "Nick Timothy",
+      "canon_name": "Nick Timothy",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/racing-and-bloodstock.htm",
+      "removed": null
+    }
+  ],
+  "payments": [
+    {
+      "id": 14763,
+      "date": "2026-03-13",
+      "category": "3",
+      "member_id": 5330,
+      "member_name": "Mr Peter Bedford",
+      "payer_id": 612,
+      "payer_name": "The Jockey Club",
+      "amount": 560.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "racing-and-bloodstock",
+      "appg_name": "All-Party Parliamentary Group on Racing and Bloodstock",
+      "source_url": "https://members.parliament.uk/member/5330/registeredinterests?categoryId=3",
+      "summary": "The Jockey Club - £560.00",
+      "description": "two tickets with hospitality at the Cheltenham Festival"
+    },
+    {
+      "id": 13189,
+      "date": "2025-07-29",
+      "category": "3",
+      "member_id": 4651,
+      "member_name": "Dan Carden",
+      "payer_id": 329,
+      "payer_name": "The Duchess of Richmond",
+      "amount": 750.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "racing-and-bloodstock",
+      "appg_name": "All-Party Parliamentary Group on Racing and Bloodstock",
+      "source_url": "https://members.parliament.uk/member/4651/registeredinterests?categoryId=3",
+      "summary": "The Duchess of Richmond - £750.00",
+      "description": "to attend Goodwood on 29th July 2025 in their Grace's Box and including hospitality"
+    }
+  ]
+}

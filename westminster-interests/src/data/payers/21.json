@@ -1,0 +1,124 @@
+{
+  "id": 21,
+  "name": "Ailsa Roell",
+  "address": null,
+  "nature_of_business": null,
+  "donor_status": "Individual",
+  "is_private_individual": true,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 14000.0,
+      "combined": 14000.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 14000.0,
+      "combined": 14000.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 42000.0,
+      "combined": 42000.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 56000.0,
+      "combined": 56000.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 56000.0,
+      "combined": 56000.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    14000,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 13284,
+      "date": "2025-07-09",
+      "category": "5",
+      "member_id": 5325,
+      "member_name": "Charlie Maynard",
+      "payer_id": 21,
+      "payer_name": "Ailsa Roell",
+      "amount": 14000.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-10-31",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5325/registeredinterests?categoryId=5",
+      "summary": "Ailsa Roell - £14,000.00",
+      "description": "Free accommodation in a family member's flat since my election. The estimated rental value is £3,500 per month"
+    },
+    {
+      "id": 12556,
+      "date": "2024-07-08",
+      "category": "5",
+      "member_id": 5325,
+      "member_name": "Charlie Maynard",
+      "payer_id": 21,
+      "payer_name": "Ailsa Roell",
+      "amount": 42000.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-07-08",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5325/registeredinterests?categoryId=5",
+      "summary": "Ailsa Roell - £42,000.00",
+      "description": "Free accommodation in a family member's flat since my election. The estimated rental value is £3,500 per month"
+    }
+  ]
+}

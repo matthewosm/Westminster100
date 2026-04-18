@@ -1,0 +1,99 @@
+{
+  "id": 436,
+  "name": "Fulham FC",
+  "address": "Fulham Football Club, Training Ground, Motspur Park, New Malden, Surrey KT3 6PT",
+  "nature_of_business": null,
+  "donor_status": "Company",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 1792.8,
+      "combined": 1792.8,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 1792.8,
+      "combined": 1792.8,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 1792.8,
+      "combined": 1792.8,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 12128,
+      "date": "2025-03-29",
+      "category": "3",
+      "member_id": 5321,
+      "member_name": "Mr Paul Kohler",
+      "payer_id": 436,
+      "payer_name": "Fulham FC",
+      "amount": 1792.8,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5321/registeredinterests?categoryId=3",
+      "summary": "Fulham FC - £1,792.80",
+      "description": "Tickets for FA Cup match included hospitality, Fulham vs Crystal Palace, for myself and my family (total of six). Value provided by supplier"
+    }
+  ]
+}

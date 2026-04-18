@@ -1,0 +1,99 @@
+{
+  "id": 1026,
+  "name": "South Cambridgeshire District Council",
+  "address": "South Cambridgeshire Hall Cambourne Business Park Cambourne, Cambridge CB23 6EA",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 571.37,
+      "inkind": 0.0,
+      "combined": 571.37,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "since_election": {
+      "monetary": 571.37,
+      "inkind": 0.0,
+      "combined": 571.37,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 571.37,
+      "inkind": 0.0,
+      "combined": 571.37,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 9930,
+      "date": "2024-08-03",
+      "category": "1.2",
+      "member_id": 5078,
+      "member_name": "Pippa Heylings",
+      "payer_id": 1026,
+      "payer_name": "South Cambridgeshire District Council",
+      "amount": 527.0,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": null,
+      "end_date": "2024-09-05",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5078/registeredinterests?categoryId=1",
+      "summary": "Agreement - £527.00",
+      "description": null
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "mnis_id": 5047,
+  "name": "James Naish",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Rushcliffe",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5047/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 6737.27,
+      "combined": 6737.27,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 1216.46,
+      "combined": 1216.46,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 7039.76,
+      "combined": 7039.76,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 2104.17,
+      "combined": 2104.17,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 10360.39,
+      "combined": 10360.39,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 10360.39,
+      "combined": 10360.39,
+      "payment_count": 4,
+      "donor_count": 4
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 640.0,
+        "combined": 640.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 640.0,
+        "combined": 640.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 640.0,
+        "combined": 640.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 640.0,
+        "combined": 640.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "2": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1678.0,
+        "combined": 1678.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1678.0,
+        "combined": 1678.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1678.0,
+        "combined": 1678.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1678.0,
+        "combined": 1678.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "1.2": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 4419.27,
+        "combined": 4419.27,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 1216.46,
+        "combined": 1216.46,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 4721.76,
+        "combined": 4721.76,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 2104.17,
+        "combined": 2104.17,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 8042.39,
+        "combined": 8042.39,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 8042.39,
+        "combined": 8042.39,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    422,
+    422,
+    422,
+    380,
+    338,
+    338,
+    338,
+    2656,
+    338,
+    338,
+    338,
+    338
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "moldova",
+      "appg_name": "All-Party Parliamentary Group for Moldova",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "east-midlands",
+      "appg_name": "All-Party Parliamentary Group for the East Midlands",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "fusion-energy",
+      "appg_name": "All-Party Parliamentary Group on Fusion Energy",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "hydrogen",
+      "appg_name": "All-Party Parliamentary Group on Hydrogen",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "uk-fresh-produce-network",
+      "appg_name": "All-Party Parliamentary Group on the UK Fresh Produce Network",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14068,
+      "date": "2025-11-27",
+      "category": "3",
+      "member_id": 5047,
+      "member_name": "James Naish",
+      "payer_id": 830,
+      "payer_name": "Nottingham Forest Football Club Limited",
+      "amount": 640.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5047/registeredinterests?categoryId=3",
+      "summary": "Nottingham Forest Football Club Limited - £640.00",
+      "description": "A ticket to the Nottingham Forrest vs Malmö football match, with hospitality"
+    },
+    {
+      "id": 14125,
+      "date": "2025-11-24",
+      "category": "2",
+      "member_id": 5047,
+      "member_name": "James Naish",
+      "payer_id": 437,
+      "payer_name": "The Fusion Cluster",
+      "amount": 1678.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-12-03",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5047/registeredinterests?categoryId=2",
+      "summary": "The Fusion Cluster - £1,678.00",
+      "description": "Benefits in kind provided by The Fusion Cluster as secretariat to the Fusion Energy APPG"
+    },
+    {
+      "id": 10437,
+      "date": "2024-08-13",
+      "category": "1.2",
+      "member_id": 5047,
+      "member_name": "James Naish",
+      "payer_id": 844,
+      "payer_name": "Open Door Property Ltd",
+      "amount": 1023.0,
+      "payment_type": "In kind",
+      "is_regular": true,
+      "period": "Yearly",
+      "start_date": null,
+      "end_date": "2025-08-06",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5047/registeredinterests?categoryId=1",
+      "summary": "Agreement - £1,023.00",
+      "description": "Company vehicle"
+    },
+    {
+      "id": 9010,
+      "date": "2024-08-01",
+      "category": "1.2",
+      "member_id": 5047,
+      "member_name": "James Naish",
+      "payer_id": 843,
+      "payer_name": "Open Door Property Holidays Ltd",
+      "amount": 4114.0,
+      "payment_type": "In kind",
+      "is_regular": true,
+      "period": "Yearly",
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5047/registeredinterests?categoryId=1",
+      "summary": "Agreement - £4,114.00",
+      "description": "My family and I use a company vehicle and stay in a property owned by the company for up to 14 days per year. This is the \"Class 1a NICs due\" figure from my 2024/25 P11D"
+    }
+  ]
+}

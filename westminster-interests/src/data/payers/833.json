@@ -1,0 +1,99 @@
+{
+  "id": 833,
+  "name": "Observer Research Foundation Middle East",
+  "address": "12.03 Convention Tower, Dubai World Trade Centre, Dubai, United Arab Emirates",
+  "nature_of_business": "Think tank",
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 7761.04,
+      "inkind": 0.0,
+      "combined": 7761.04,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 7761.04,
+      "inkind": 0.0,
+      "combined": 7761.04,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 7761.04,
+      "inkind": 0.0,
+      "combined": 7761.04,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 7761.04,
+      "inkind": 0.0,
+      "combined": 7761.04,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1713,
+    3024,
+    3024
+  ],
+  "payments": [
+    {
+      "id": 14508,
+      "date": "2026-02-06",
+      "category": "1.2",
+      "member_id": 4462,
+      "member_name": "Tom Tugendhat",
+      "payer_id": 833,
+      "payer_name": "Observer Research Foundation Middle East",
+      "amount": 3067.88,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": "2026-01-31",
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4462/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 31 January 2026 - £3,067.88",
+      "description": "Payment of $50,000 annually, paid monthly. The value is calculated based on the exchange rate at 06/02/2026"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": 254,
+  "name": "Communication Workers Union",
+  "address": "150 The Broadway, Wimbledon, London SW19 1RX",
+  "nature_of_business": null,
+  "donor_status": "Trade Union",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 2000.04,
+      "inkind": 0.0,
+      "combined": 2000.04,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 2000.04,
+      "inkind": 0.0,
+      "combined": 2000.04,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 2000.04,
+      "inkind": 0.0,
+      "combined": 2000.04,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 4000.04,
+      "inkind": 0.0,
+      "combined": 4000.04,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    2000,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 13213,
+      "date": "2025-09-02",
+      "category": "2",
+      "member_id": 4082,
+      "member_name": "Lisa Nandy",
+      "payer_id": 254,
+      "payer_name": "Communication Workers Union",
+      "amount": 2000.04,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4082/registeredinterests?categoryId=2",
+      "summary": "Communication Workers Union - £2,000.04",
+      "description": null
+    },
+    {
+      "id": 495,
+      "date": "2023-04-19",
+      "category": "2",
+      "member_id": 410,
+      "member_name": "Jon Trickett",
+      "payer_id": 254,
+      "payer_name": "Communication Workers Union",
+      "amount": 2000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/410/registeredinterests?categoryId=2",
+      "summary": "Communications Workers' Union - £2,000.00",
+      "description": "in monthly instalments of £166.67 from 1 April 2024 until March 2025"
+    }
+  ]
+}

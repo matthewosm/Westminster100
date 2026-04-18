@@ -1,0 +1,261 @@
+{
+  "mnis_id": 4823,
+  "name": "John Finucane",
+  "party": "Sinn Féin",
+  "party_slug": "sinn-f-in",
+  "constituency": "Belfast North",
+  "house": "Commons",
+  "start_date": "2019-12-12",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4823/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 56025.63,
+      "inkind": 4427.99,
+      "combined": 60453.62,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "ytd": {
+      "monetary": 16577.45,
+      "inkind": 0.0,
+      "combined": 16577.45,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 56025.63,
+      "inkind": 4427.99,
+      "combined": 60453.62,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "2024": {
+      "monetary": 56179.12,
+      "inkind": 0.0,
+      "combined": 56179.12,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "since_election": {
+      "monetary": 100385.64,
+      "inkind": 4427.99,
+      "combined": 104813.63,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "all_time": {
+      "monetary": 352884.7,
+      "inkind": 4427.99,
+      "combined": 357312.69,
+      "payment_count": 4,
+      "donor_count": 4
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 4427.99,
+        "combined": 4427.99,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 4427.99,
+        "combined": 4427.99,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 4427.99,
+        "combined": 4427.99,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 4427.99,
+        "combined": 4427.99,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    },
+    "1.2": {
+      "12m": {
+        "monetary": 56025.63,
+        "inkind": 0.0,
+        "combined": 56025.63,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 16577.45,
+        "inkind": 0.0,
+        "combined": 16577.45,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 56025.63,
+        "inkind": 0.0,
+        "combined": 56025.63,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 56179.12,
+        "inkind": 0.0,
+        "combined": 56179.12,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 100385.64,
+        "inkind": 0.0,
+        "combined": 100385.64,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 352884.7,
+        "inkind": 0.0,
+        "combined": 352884.7,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    4605,
+    4605,
+    4605,
+    4605,
+    8565,
+    4605,
+    5073,
+    4605,
+    4605,
+    4605,
+    4605,
+    4605
+  ],
+  "appg_memberships": [],
+  "payments": [
+    {
+      "id": 140341,
+      "date": "2025-11-06",
+      "category": "4",
+      "member_id": 4823,
+      "member_name": "John Finucane",
+      "payer_id": 787,
+      "payer_name": "Nafarroako Torturatuen Sarea Elkartea (Association of Torture Victims of Navarre)",
+      "amount": 468.19,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4823/registeredinterests?categoryId=4",
+      "summary": "International visit to Spain between 06 November 2025 and 07 November 2025 — Panellist at the the International Conference of the Association, titled: TORTURE. Impunity: guarantees for reparation and non-repetition",
+      "description": "Flights (£275.61), accommodation (£119.43) and meals (£73.15)"
+    },
+    {
+      "id": 133631,
+      "date": "2025-09-16",
+      "category": "4",
+      "member_id": 4823,
+      "member_name": "John Finucane",
+      "payer_id": 434,
+      "payer_name": "Friends of Sinn Féin USA",
+      "amount": 3085.35,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4823/registeredinterests?categoryId=4",
+      "summary": "International visit to United States between 16 September 2025 and 21 September 2025 — The trip was to brief Irish citizens and the wider diaspora on political developments and the potential for Irish Unity.",
+      "description": "Flights (£1,651.70) and accommodation in San Francisco (£1,433.65)"
+    },
+    {
+      "id": 133632,
+      "date": "2025-09-16",
+      "category": "4",
+      "member_id": 4823,
+      "member_name": "John Finucane",
+      "payer_id": 433,
+      "payer_name": "Friends of Sinn Féin Canada",
+      "amount": 874.45,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4823/registeredinterests?categoryId=4",
+      "summary": "International visit to United States between 16 September 2025 and 21 September 2025 — The trip was to brief Irish citizens and the wider diaspora on political developments and the potential for Irish Unity.",
+      "description": "Flights (£235.43) and accommodation in Vancouver (£639.02)"
+    },
+    {
+      "id": 4743,
+      "date": "2020-01-07",
+      "category": "1.2",
+      "member_id": 4823,
+      "member_name": "John Finucane",
+      "payer_id": 409,
+      "payer_name": "Finucane Toner Ltd",
+      "amount": 4672.0,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": "2020-01-01",
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4823/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 01 January 2020 - £4,672.00",
+      "description": null
+    }
+  ]
+}

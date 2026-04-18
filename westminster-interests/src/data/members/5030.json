@@ -1,0 +1,392 @@
+{
+  "mnis_id": 5030,
+  "name": "Dr Simon Opher",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Stroud",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5030/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 2550.0,
+      "inkind": 2350.0,
+      "combined": 4900.0,
+      "payment_count": 4,
+      "donor_count": 3
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 3450.0,
+      "inkind": 2350.0,
+      "combined": 5800.0,
+      "payment_count": 6,
+      "donor_count": 4
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 3450.0,
+      "inkind": 2350.0,
+      "combined": 5800.0,
+      "payment_count": 6,
+      "donor_count": 4
+    },
+    "all_time": {
+      "monetary": 3450.0,
+      "inkind": 2350.0,
+      "combined": 5800.0,
+      "payment_count": 6,
+      "donor_count": 4
+    }
+  },
+  "categories": {
+    "1.1": {
+      "12m": {
+        "monetary": 2550.0,
+        "inkind": 0.0,
+        "combined": 2550.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 3450.0,
+        "inkind": 0.0,
+        "combined": 3450.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 3450.0,
+        "inkind": 0.0,
+        "combined": 3450.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 3450.0,
+        "inkind": 0.0,
+        "combined": 3450.0,
+        "payment_count": 4,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1050.0,
+        "combined": 1050.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1050.0,
+        "combined": 1050.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1050.0,
+        "combined": 1050.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1050.0,
+        "combined": 1050.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1300.0,
+        "combined": 1300.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1300.0,
+        "combined": 1300.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1300.0,
+        "combined": 1300.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1300.0,
+        "combined": 1300.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    1050,
+    1300,
+    0,
+    0,
+    1050,
+    1500,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "archaeology",
+      "appg_name": "All-Party Parliamentary Archaeology Group",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "creative-health",
+      "appg_name": "All-Party Parliamentary Group on Creative Health",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "health",
+      "appg_name": "All-Party Parliamentary Health Group",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "beyond-pills",
+      "appg_name": "Beyond Pills All-Party Parliamentary Group",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "net-zero",
+      "appg_name": "Net Zero All-Party Parliamentary Group",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "opera",
+      "appg_name": "Opera All-Party Parliamentary Group",
+      "officer_role": "Secretary",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 13569,
+      "date": "2025-10-16",
+      "category": "1.1",
+      "member_id": 5030,
+      "member_name": "Dr Simon Opher",
+      "payer_id": 816,
+      "payer_name": "NHS",
+      "amount": 1500.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5030/registeredinterests?categoryId=1",
+      "summary": "Payment received on 16 October 2025 - £1,500.00",
+      "description": "Payment for work as a locum at three GP surgeries"
+    },
+    {
+      "id": 133331,
+      "date": "2025-09-14",
+      "category": "4",
+      "member_id": 5030,
+      "member_name": "Dr Simon Opher",
+      "payer_id": 179,
+      "payer_name": "Caabu (Council for Arab-British Understanding)",
+      "amount": 1050.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5030/registeredinterests?categoryId=4",
+      "summary": "International visit to Palestine between 14 September 2025 and 16 September 2025 — Fact finding visit organised by the Council for Arab-British Understanding",
+      "description": "Flights, accommodation and food"
+    },
+    {
+      "id": 12781,
+      "date": "2025-06-12",
+      "category": "3",
+      "member_id": 5030,
+      "member_name": "Dr Simon Opher",
+      "payer_id": 1069,
+      "payer_name": "SXSW London",
+      "amount": 1300.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5030/registeredinterests?categoryId=3",
+      "summary": "SXSW London - £1,300.00",
+      "description": "I received a complementary platinum pass for SXSW London conference where I was a speaker"
+    },
+    {
+      "id": 12407,
+      "date": "2025-04-30",
+      "category": "1.1",
+      "member_id": 5030,
+      "member_name": "Dr Simon Opher",
+      "payer_id": 816,
+      "payer_name": "NHS",
+      "amount": 1050.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5030/registeredinterests?categoryId=1",
+      "summary": "Payment received on 30 April 2025 - £1,050.00",
+      "description": "Payment for work as a locum for three full GP surgeries"
+    },
+    {
+      "id": 12181,
+      "date": "2025-03-20",
+      "category": "1.1",
+      "member_id": 5030,
+      "member_name": "Dr Simon Opher",
+      "payer_id": 712,
+      "payer_name": "Mail on Sunday",
+      "amount": 500.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": true,
+      "donated_to": "Other",
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5030/registeredinterests?categoryId=1",
+      "summary": "Payment received on 20 March 2025 - £500.00",
+      "description": null
+    },
+    {
+      "id": 11976,
+      "date": "2025-02-10",
+      "category": "1.1",
+      "member_id": 5030,
+      "member_name": "Dr Simon Opher",
+      "payer_id": 816,
+      "payer_name": "NHS",
+      "amount": 400.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5030/registeredinterests?categoryId=1",
+      "summary": "Payment received on 10 February 2025 - £400.00",
+      "description": "Payment for work as a locum for two GP surgeries"
+    }
+  ]
+}

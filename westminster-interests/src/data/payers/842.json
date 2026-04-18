@@ -1,0 +1,99 @@
+{
+  "id": 842,
+  "name": "Open Banking Limited",
+  "address": "8th Floor, 100 Bishopsgate, London EC2N 4AG United Kingdom",
+  "nature_of_business": "Open Banking Limited (OBL) – the Implementation Entity described in the CMA Order – built the UK's world-leading Open Banking Standard and industry guidelines to drive competition, innovation and transparency in UK retail banking.",
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 134045.17,
+      "inkind": 0.0,
+      "combined": 134045.17,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 134045.17,
+      "inkind": 0.0,
+      "combined": 134045.17,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 134045.17,
+      "inkind": 0.0,
+      "combined": 134045.17,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 134045.17,
+      "inkind": 0.0,
+      "combined": 134045.17,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    15770,
+    59138,
+    59138
+  ],
+  "payments": [
+    {
+      "id": 14520,
+      "date": "2026-02-09",
+      "category": "1.2",
+      "member_id": 4051,
+      "member_name": "John Glen",
+      "payer_id": 842,
+      "payer_name": "Open Banking Limited",
+      "amount": 60000.0,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": "2026-02-09",
+      "end_date": "2027-02-08",
+      "is_sole_beneficiary": true,
+      "is_donated": true,
+      "donated_to": "Community organisation",
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4051/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 09 February 2026 - £60,000.00",
+      "description": null
+    }
+  ]
+}

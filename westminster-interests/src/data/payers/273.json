@@ -1,0 +1,99 @@
+{
+  "id": 273,
+  "name": "County Asset Finance Limited",
+  "address": "Midland Court, Central Park, Lutterworth LE17 4PN",
+  "nature_of_business": "Finance company",
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 19917.86,
+      "inkind": 0.0,
+      "combined": 19917.86,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 7392.2,
+      "inkind": 0.0,
+      "combined": 7392.2,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 12525.67,
+      "inkind": 0.0,
+      "combined": 12525.67,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 19917.86,
+      "inkind": 0.0,
+      "combined": 19917.86,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 19917.86,
+      "inkind": 0.0,
+      "combined": 19917.86,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    1437,
+    2053,
+    2053,
+    2053,
+    2053,
+    2053,
+    2053,
+    2053,
+    2053,
+    2053
+  ],
+  "payments": [
+    {
+      "id": 13098,
+      "date": "2025-08-12",
+      "category": "1.2",
+      "member_id": 4495,
+      "member_name": "Kit Malthouse",
+      "payer_id": 273,
+      "payer_name": "County Asset Finance Limited",
+      "amount": 25000.0,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Yearly",
+      "start_date": "2025-07-01",
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4495/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 01 July 2025 - £25,000.00",
+      "description": null
+    }
+  ]
+}

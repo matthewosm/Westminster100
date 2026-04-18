@@ -1,0 +1,166 @@
+{
+  "slug": "hadrians-wall",
+  "title": "All-Party Parliamentary Group on Hadrian's Wall",
+  "purpose": "To promote the 150-mile-long UNESCO World Heritage Site and to explore ways of increasing the potential of Hadrian’s Wall as an economic and cultural asset for communities across the North East, Cumbria, and the whole of the UK.",
+  "categories": [
+    "Arts, Culture, Heritage & Media",
+    "Economy, Business & Industry",
+    "Regions, Nations & Devolution"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/hadrians-wall.htm",
+  "secretariat": "",
+  "website": "None",
+  "registered_contact_name": "Mary Glindon MP",
+  "date_of_most_recent_agm": "2025-03-12 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "hadrians-wall",
+      "mnis_id": 4921,
+      "name": "Lord Altrincham",
+      "canon_name": "Lord Altrincham",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/hadrians-wall.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "hadrians-wall",
+      "mnis_id": 5112,
+      "name": "Luke Akehurst",
+      "canon_name": "Luke Akehurst",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/hadrians-wall.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "hadrians-wall",
+      "mnis_id": 5124,
+      "name": "Markus Campbell-Savours",
+      "canon_name": "Markus Campbell-Savours",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/hadrians-wall.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "hadrians-wall",
+      "mnis_id": 4126,
+      "name": "Mary Glindon",
+      "canon_name": "Mary Glindon",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/hadrians-wall.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "hadrians-wall",
+      "mnis_id": 4921,
+      "name": "Lord Altrincham",
+      "canon_name": "Lord Altrincham",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/hadrians-wall.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "hadrians-wall",
+      "mnis_id": 5112,
+      "name": "Luke Akehurst",
+      "canon_name": "Luke Akehurst",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/hadrians-wall.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "hadrians-wall",
+      "mnis_id": 5124,
+      "name": "Markus Campbell-Savours",
+      "canon_name": "Markus Campbell-Savours",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/hadrians-wall.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "hadrians-wall",
+      "mnis_id": 4126,
+      "name": "Mary Glindon",
+      "canon_name": "Mary Glindon",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/hadrians-wall.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

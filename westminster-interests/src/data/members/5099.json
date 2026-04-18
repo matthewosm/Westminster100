@@ -1,0 +1,142 @@
+{
+  "mnis_id": 5099,
+  "name": "Miatta Fahnbulleh",
+  "party": "Labour (Co-op)",
+  "party_slug": "labour-co-op",
+  "constituency": "Peckham",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5099/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 28500.0,
+      "inkind": 0.0,
+      "combined": 28500.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 28500.0,
+      "inkind": 0.0,
+      "combined": 28500.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 28500.0,
+      "inkind": 0.0,
+      "combined": 28500.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "all_time": {
+      "monetary": 28500.0,
+      "inkind": 0.0,
+      "combined": 28500.0,
+      "payment_count": 1,
+      "donor_count": 1
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 28500.0,
+        "inkind": 0.0,
+        "combined": 28500.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 28500.0,
+        "inkind": 0.0,
+        "combined": 28500.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 28500.0,
+        "inkind": 0.0,
+        "combined": 28500.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 28500.0,
+        "inkind": 0.0,
+        "combined": 28500.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    28500,
+    0,
+    0
+  ],
+  "appg_memberships": [],
+  "payments": [
+    {
+      "id": 14572,
+      "date": "2026-01-30",
+      "category": "2",
+      "member_id": 5099,
+      "member_name": "Miatta Fahnbulleh",
+      "payer_id": 441,
+      "payer_name": "Gary Lubner",
+      "amount": 28500.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5099/registeredinterests?categoryId=2",
+      "summary": "Gary Lubner - £28,500.00",
+      "description": "Supporting the work of my office."
+    }
+  ]
+}

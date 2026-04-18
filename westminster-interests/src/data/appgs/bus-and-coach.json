@@ -1,0 +1,164 @@
+{
+  "slug": "bus-and-coach",
+  "title": "All-Party Parliamentary Group for Bus and Coach",
+  "purpose": "To provide a forum for parliamentarians and industry stakeholders, generate debate, disseminate knowledge, drive new initiatives and campaigns relating to the industry, its growth and survival.",
+  "categories": [
+    "Infrastructure, Transport & Mobility"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bus-and-coach.htm",
+  "secretariat": "Dawson Group acts as the group's secretariat.https://dawsongroupbusandcoach.co.uk",
+  "website": "None",
+  "registered_contact_name": "Mike Wood MP",
+  "date_of_most_recent_agm": "2025-11-18 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "bus-and-coach",
+      "mnis_id": 5141,
+      "name": "Alex Mayer",
+      "canon_name": "Alex Mayer",
+      "officer_role": "Secretary",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bus-and-coach.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "bus-and-coach",
+      "mnis_id": 319,
+      "name": "Lord Snape",
+      "canon_name": "Lord Snape",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bus-and-coach.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "bus-and-coach",
+      "mnis_id": 4384,
+      "name": "Mike Wood",
+      "canon_name": "Mike Wood",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bus-and-coach.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "bus-and-coach",
+      "mnis_id": 5001,
+      "name": "Sarah Edwards",
+      "canon_name": "Sarah Edwards",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bus-and-coach.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "bus-and-coach",
+      "mnis_id": 5141,
+      "name": "Alex Mayer",
+      "canon_name": "Alex Mayer",
+      "officer_role": "Secretary",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bus-and-coach.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "bus-and-coach",
+      "mnis_id": 319,
+      "name": "Lord Snape",
+      "canon_name": "Lord Snape",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bus-and-coach.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "bus-and-coach",
+      "mnis_id": 4384,
+      "name": "Mike Wood",
+      "canon_name": "Mike Wood",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bus-and-coach.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "bus-and-coach",
+      "mnis_id": 5001,
+      "name": "Sarah Edwards",
+      "canon_name": "Sarah Edwards",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bus-and-coach.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

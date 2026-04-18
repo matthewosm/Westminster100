@@ -1,0 +1,212 @@
+{
+  "slug": "europe",
+  "title": "All-Party Parliamentary Group on Europe",
+  "purpose": "To promote informed debate and dialogue among parliamentarians on the UK’s evolving relationship with Europe, including the European Union institutions and its Member States, and to develop constructive recommendations that strengthen cooperation in areas of mutual interest and benefit.",
+  "categories": [
+    "Country Group"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/europe.htm",
+  "secretariat": "The European Movement UK acts as the group's secretariat.https://www.europeanmovement.co.uk/",
+  "website": "None",
+  "registered_contact_name": "Dr Rosena Allin-Khan MP",
+  "date_of_most_recent_agm": "2024-10-22 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "europe",
+      "mnis_id": 5249,
+      "name": "Dr Ellie Chowns",
+      "canon_name": "Ellie Chowns",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/europe.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "europe",
+      "mnis_id": 4573,
+      "name": "Dr Rosena Allin-Khan",
+      "canon_name": "Rosena Allin-Khan",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/europe.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "europe",
+      "mnis_id": 1590,
+      "name": "Katy Clark",
+      "canon_name": "Baroness Clark",
+      "officer_role": "Co-Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "europe",
+      "mnis_id": null,
+      "name": "Lord Kirkhope of Harrogate",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/europe.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "europe",
+      "mnis_id": null,
+      "name": "Patrick Harvie",
+      "canon_name": "Patrick Harvie",
+      "officer_role": "Co-Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "europe",
+      "mnis_id": 4602,
+      "name": "Wera Hobhouse",
+      "canon_name": "Wera Hobhouse",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/europe.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "europe",
+      "mnis_id": 5249,
+      "name": "Dr Ellie Chowns",
+      "canon_name": "Ellie Chowns",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/europe.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "europe",
+      "mnis_id": 4573,
+      "name": "Dr Rosena Allin-Khan",
+      "canon_name": "Rosena Allin-Khan",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/europe.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "europe",
+      "mnis_id": 1590,
+      "name": "Katy Clark",
+      "canon_name": "Baroness Clark",
+      "officer_role": "Co-Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "europe",
+      "mnis_id": null,
+      "name": "Lord Kirkhope of Harrogate",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/europe.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "europe",
+      "mnis_id": null,
+      "name": "Patrick Harvie",
+      "canon_name": "Patrick Harvie",
+      "officer_role": "Co-Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "europe",
+      "mnis_id": 4602,
+      "name": "Wera Hobhouse",
+      "canon_name": "Wera Hobhouse",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/europe.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

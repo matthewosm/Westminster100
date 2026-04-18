@@ -1,0 +1,164 @@
+{
+  "slug": "bahrain",
+  "title": "Bahrain All-Party Parliamentary Group",
+  "purpose": "To foster good relationships between the UK and Bahrain and to assist in raising awareness amongst parliamentarians and the public of the developments that have been taking place in Bahrain.",
+  "categories": [
+    "Country Group"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bahrain.htm",
+  "secretariat": "",
+  "website": "None",
+  "registered_contact_name": "Afzal Khan MP",
+  "date_of_most_recent_agm": "2025-04-29 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "bahrain",
+      "mnis_id": 4671,
+      "name": "Afzal Khan",
+      "canon_name": "Afzal Khan",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bahrain.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "bahrain",
+      "mnis_id": 4221,
+      "name": "Lord Hussain",
+      "canon_name": "Lord Hussain",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bahrain.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "bahrain",
+      "mnis_id": 4898,
+      "name": "Lord Udny-Lister",
+      "canon_name": "Lord Udny-Lister",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bahrain.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "bahrain",
+      "mnis_id": 4598,
+      "name": "Mohammad Yasin",
+      "canon_name": "Mohammad Yasin",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bahrain.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "bahrain",
+      "mnis_id": 4671,
+      "name": "Afzal Khan",
+      "canon_name": "Afzal Khan",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bahrain.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "bahrain",
+      "mnis_id": 4221,
+      "name": "Lord Hussain",
+      "canon_name": "Lord Hussain",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bahrain.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "bahrain",
+      "mnis_id": 4898,
+      "name": "Lord Udny-Lister",
+      "canon_name": "Lord Udny-Lister",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bahrain.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "bahrain",
+      "mnis_id": 4598,
+      "name": "Mohammad Yasin",
+      "canon_name": "Mohammad Yasin",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bahrain.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

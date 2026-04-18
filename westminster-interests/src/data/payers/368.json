@@ -1,0 +1,99 @@
+{
+  "id": 368,
+  "name": "Embassy of the State of Qatar",
+  "address": "1 South Audley Street , London W1K 1NB",
+  "nature_of_business": null,
+  "donor_status": "Other",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 1200.0,
+      "combined": 1200.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 1200.0,
+      "combined": 1200.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 1200.0,
+      "combined": 1200.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 1200.0,
+      "combined": 1200.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    1200,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 13070,
+      "date": "2025-07-31",
+      "category": "5",
+      "member_id": 39,
+      "member_name": "Sir John Whittingdale",
+      "payer_id": 368,
+      "payer_name": "Embassy of the State of Qatar",
+      "amount": 1200.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/39/registeredinterests?categoryId=5",
+      "summary": "Embassy of the State of Qatar - £1,200.00",
+      "description": "Two tickets to the Qatar Goodwood Festival 2025 and to the Goodwood Regency Ball including hospitality and accommodation for one night"
+    }
+  ]
+}

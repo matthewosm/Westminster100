@@ -1,0 +1,212 @@
+{
+  "slug": "life-sciences",
+  "title": "All-Party Parliamentary Group for Life Sciences",
+  "purpose": "To raise awareness and understanding of the valuable contribution the life sciences sector provides to the health and wealth of the nation and the important role of charities, industry, and academies in supporting and funding medical research and commercialisation to the benefit of patients across the UK.",
+  "categories": [
+    "Science, Technology & Innovation"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/life-sciences.htm",
+  "secretariat": "UK BioIndustry Association, Association of Medical Research Charities, British Heart Foundation, Association of the British Pharmaceutical Industry, British In Vitro Diagnostic Association, Academy of Medical Sciences, Cancer Research UK and Arthritis UK jointly act as the group's secretariat.https://www.bioindustry.org/andhttps://www.amrc.org.uk/andhttps://www.bhf.org.uk/andhttps://www.abpi.org.uk/andhttps://www.bivda.org.uk/andhttps://acmedsci.ac.uk/andhttps://www.cancerresearchuk.org/andhttps://www.arthritis-uk.org/",
+  "website": "https://www.bioindustry.org/policy/appg.html",
+  "registered_contact_name": "Kit Malthouse MP",
+  "date_of_most_recent_agm": "2025-12-10 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "life-sciences",
+      "mnis_id": null,
+      "name": "Baroness Morgan of Drefelin",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/life-sciences.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "life-sciences",
+      "mnis_id": null,
+      "name": "Graham Simpson",
+      "canon_name": "Graham Simpson",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "life-sciences",
+      "mnis_id": null,
+      "name": "Kenneth Gibson",
+      "canon_name": "Kenneth Gibson",
+      "officer_role": "Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "life-sciences",
+      "mnis_id": 4495,
+      "name": "Kit Malthouse",
+      "canon_name": "Kit Malthouse",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/life-sciences.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "life-sciences",
+      "mnis_id": 5078,
+      "name": "Pippa Heylings",
+      "canon_name": "Pippa Heylings",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/life-sciences.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "life-sciences",
+      "mnis_id": 5312,
+      "name": "Sadik Al-Hassan",
+      "canon_name": "Sadik Al-Hassan",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/life-sciences.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "life-sciences",
+      "mnis_id": null,
+      "name": "Baroness Morgan of Drefelin",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/life-sciences.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "life-sciences",
+      "mnis_id": null,
+      "name": "Graham Simpson",
+      "canon_name": "Graham Simpson",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "life-sciences",
+      "mnis_id": null,
+      "name": "Kenneth Gibson",
+      "canon_name": "Kenneth Gibson",
+      "officer_role": "Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "life-sciences",
+      "mnis_id": 4495,
+      "name": "Kit Malthouse",
+      "canon_name": "Kit Malthouse",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/life-sciences.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "life-sciences",
+      "mnis_id": 5078,
+      "name": "Pippa Heylings",
+      "canon_name": "Pippa Heylings",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/life-sciences.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "life-sciences",
+      "mnis_id": 5312,
+      "name": "Sadik Al-Hassan",
+      "canon_name": "Sadik Al-Hassan",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/life-sciences.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

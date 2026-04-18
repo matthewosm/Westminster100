@@ -1,0 +1,124 @@
+{
+  "id": 902,
+  "name": "Progressive International",
+  "address": "71-75 Shelton Street, London, WC2H 9JQ",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 1784.53,
+      "combined": 1784.53,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 1473.84,
+      "combined": 1473.84,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 310.69,
+      "combined": 310.69,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 1784.53,
+      "combined": 1784.53,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 1784.53,
+      "combined": 1784.53,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    311,
+    0,
+    0,
+    0,
+    1474,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 145251,
+      "date": "2026-01-22",
+      "category": "4",
+      "member_id": 4786,
+      "member_name": "Zarah Sultana",
+      "payer_id": 902,
+      "payer_name": "Progressive International",
+      "amount": 1473.84,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4786/registeredinterests?categoryId=4",
+      "summary": "International visit to Colombia between 22 January 2026 and 29 January 2026 — International guest speaker at the 'Nuestra América' emergency conference organised by Progressive International in Bogotá.",
+      "description": "Costs associated with being an international guest speaker at the 'Nuestra América' emergency conference in Bogotá. Flights (£1,280.84) and accommodation for three nights (£193) for me and one other person."
+    },
+    {
+      "id": 136613,
+      "date": "2025-09-26",
+      "category": "4",
+      "member_id": 185,
+      "member_name": "Jeremy Corbyn",
+      "payer_id": 902,
+      "payer_name": "Progressive International",
+      "amount": 310.69,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/185/registeredinterests?categoryId=4",
+      "summary": "International visit to South Africa between 26 September 2025 and 04 October 2025 — Raise awareness & fundraising for the crisis in Gaza",
+      "description": "Flight (£213.05) and hotel (£97.64)"
+    }
+  ]
+}

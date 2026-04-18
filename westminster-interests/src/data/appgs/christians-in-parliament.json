@@ -1,0 +1,165 @@
+{
+  "slug": "christians-in-parliament",
+  "title": "Christians in Parliament All-Party Parliamentary Group",
+  "purpose": "To support Christians of all denominations and parties in their work in politics.",
+  "categories": [
+    "Religion, Faith & Belief Communities",
+    "Governance, Democracy & Political Reform"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/christians-in-parliament.htm",
+  "secretariat": "The Parliamentary Christian Trust and the Bible Society (https://www.biblesociety.org.uk/)jointly act as the group's secretariat.",
+  "website": "http://www.christiansinparliament.org.uk/",
+  "registered_contact_name": "Tim Farron MP",
+  "date_of_most_recent_agm": "2025-12-15 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "christians-in-parliament",
+      "mnis_id": null,
+      "name": "Lord Curry of Kirkharle",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/christians-in-parliament.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "christians-in-parliament",
+      "mnis_id": 4676,
+      "name": "Marsha De Cordova",
+      "canon_name": "Marsha de Cordova",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/christians-in-parliament.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "christians-in-parliament",
+      "mnis_id": 5301,
+      "name": "Rebecca Smith",
+      "canon_name": "Rebecca Smith",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/christians-in-parliament.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "christians-in-parliament",
+      "mnis_id": 1591,
+      "name": "Tim Farron",
+      "canon_name": "Tim Farron",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/christians-in-parliament.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "christians-in-parliament",
+      "mnis_id": null,
+      "name": "Lord Curry of Kirkharle",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/christians-in-parliament.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "christians-in-parliament",
+      "mnis_id": 4676,
+      "name": "Marsha De Cordova",
+      "canon_name": "Marsha de Cordova",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/christians-in-parliament.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "christians-in-parliament",
+      "mnis_id": 5301,
+      "name": "Rebecca Smith",
+      "canon_name": "Rebecca Smith",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/christians-in-parliament.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "christians-in-parliament",
+      "mnis_id": 1591,
+      "name": "Tim Farron",
+      "canon_name": "Tim Farron",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/christians-in-parliament.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

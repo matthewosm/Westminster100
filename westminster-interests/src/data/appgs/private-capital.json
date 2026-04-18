@@ -1,0 +1,164 @@
+{
+  "slug": "private-capital",
+  "title": "All-Party Parliamentary Group on Private Capital",
+  "purpose": "To provide parliamentarians with a forum to discuss, better understand, and engage with the private capital sector - including private equity and venture capital firms.",
+  "categories": [
+    "Finance, Markets & Consumer Affairs"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/private-capital.htm",
+  "secretariat": "",
+  "website": "None",
+  "registered_contact_name": "Gareth Davies MP",
+  "date_of_most_recent_agm": "2024-12-16 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "private-capital",
+      "mnis_id": 4798,
+      "name": "Gareth Bacon",
+      "canon_name": "Gareth Bacon",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/private-capital.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "private-capital",
+      "mnis_id": 4850,
+      "name": "Gareth Davies",
+      "canon_name": "Gareth Davies",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/private-capital.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "private-capital",
+      "mnis_id": null,
+      "name": "Lord Sharpe of Epsom",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/private-capital.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "private-capital",
+      "mnis_id": 5302,
+      "name": "Noah Law",
+      "canon_name": "Noah Law",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/private-capital.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "private-capital",
+      "mnis_id": 4798,
+      "name": "Gareth Bacon",
+      "canon_name": "Gareth Bacon",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/private-capital.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "private-capital",
+      "mnis_id": 4850,
+      "name": "Gareth Davies",
+      "canon_name": "Gareth Davies",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/private-capital.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "private-capital",
+      "mnis_id": null,
+      "name": "Lord Sharpe of Epsom",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/private-capital.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "private-capital",
+      "mnis_id": 5302,
+      "name": "Noah Law",
+      "canon_name": "Noah Law",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/private-capital.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

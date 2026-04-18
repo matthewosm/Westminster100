@@ -1,0 +1,165 @@
+{
+  "slug": "charities-and-volunteering",
+  "title": "All-Party Parliamentary Group on Charities and Volunteering",
+  "purpose": "The APPG brings together MPs and Peers interested in the UK voluntary sector to learn more about how charities and volunteers strengthen and support our communities and wider society.",
+  "categories": [
+    "Social Care, Welfare & Family Support",
+    "Human Rights, Equality & Social Justice"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/charities-and-volunteering.htm",
+  "secretariat": "National Council for Voluntary Organisations acts as the group's secretariat.https://www.ncvo.org.uk/",
+  "website": "https://www.ncvo.org.uk/get-involved/all-party-parliamentary-group-on-charities-and-volunteering-appg/",
+  "registered_contact_name": "Mary Kelly Foy MP",
+  "date_of_most_recent_agm": "2024-11-20 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "charities-and-volunteering",
+      "mnis_id": 3179,
+      "name": "Baroness Pitkeathley",
+      "canon_name": "Baroness Pitkeathley",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/charities-and-volunteering.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "charities-and-volunteering",
+      "mnis_id": 4700,
+      "name": "Baroness Sater",
+      "canon_name": "Baroness Sater",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/charities-and-volunteering.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "charities-and-volunteering",
+      "mnis_id": 5138,
+      "name": "Ian Roome",
+      "canon_name": "Ian Roome",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/charities-and-volunteering.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "charities-and-volunteering",
+      "mnis_id": 4753,
+      "name": "Mary Kelly Foy",
+      "canon_name": "Mary Foy",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/charities-and-volunteering.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "charities-and-volunteering",
+      "mnis_id": 3179,
+      "name": "Baroness Pitkeathley",
+      "canon_name": "Baroness Pitkeathley",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/charities-and-volunteering.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "charities-and-volunteering",
+      "mnis_id": 4700,
+      "name": "Baroness Sater",
+      "canon_name": "Baroness Sater",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/charities-and-volunteering.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "charities-and-volunteering",
+      "mnis_id": 5138,
+      "name": "Ian Roome",
+      "canon_name": "Ian Roome",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/charities-and-volunteering.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "charities-and-volunteering",
+      "mnis_id": 4753,
+      "name": "Mary Kelly Foy",
+      "canon_name": "Mary Foy",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/charities-and-volunteering.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

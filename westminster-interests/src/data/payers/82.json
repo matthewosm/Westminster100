@@ -1,0 +1,99 @@
+{
+  "id": 82,
+  "name": "The Aspen Institute, France",
+  "address": "9 Avenue Franklin D. Roosevelt, Paris 8th",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 423.0,
+      "inkind": 0.0,
+      "combined": 423.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 423.0,
+      "inkind": 0.0,
+      "combined": 423.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 423.0,
+      "inkind": 0.0,
+      "combined": 423.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 121771,
+      "date": "2025-03-27",
+      "category": "4",
+      "member_id": 4462,
+      "member_name": "Tom Tugendhat",
+      "payer_id": 82,
+      "payer_name": "The Aspen Institute, France",
+      "amount": 423.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4462/registeredinterests?categoryId=4",
+      "summary": "International visit to France on 27 March 2025 — To speak at a geopolitical lunch hosted by The Aspen Institute",
+      "description": "Return train fare of 27 March 2025, received on 2 April 2025"
+    }
+  ]
+}

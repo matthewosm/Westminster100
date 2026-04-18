@@ -1,0 +1,124 @@
+{
+  "id": 209,
+  "name": "Channel Four Television Company Limited",
+  "address": "124 Horseferry Road, London SW1P 2TX",
+  "nature_of_business": null,
+  "donor_status": "Company",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 1500.0,
+      "combined": 1500.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 1500.0,
+      "combined": 1500.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 1500.0,
+      "combined": 1500.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 1500.0,
+      "combined": 1500.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 2
+    }
+  },
+  "trend_12m": [
+    1500,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 12459,
+      "date": "2025-05-11",
+      "category": "3",
+      "member_id": 4511,
+      "member_name": "Dr Rupa Huq",
+      "payer_id": 209,
+      "payer_name": "Channel Four Television Company Limited",
+      "amount": 750.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4511/registeredinterests?categoryId=3",
+      "summary": "Channel Four Television Company Limited - £750.00",
+      "description": "one ticket to the BAFTA Television Awards, including drinks reception and dinner"
+    },
+    {
+      "id": 12362,
+      "date": "2025-04-29",
+      "category": "3",
+      "member_id": 5156,
+      "member_name": "Jess Asato",
+      "payer_id": 209,
+      "payer_name": "Channel Four Television Company Limited",
+      "amount": 750.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-05-11",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5156/registeredinterests?categoryId=3",
+      "summary": "Channel Four Television Company Limited - £750.00",
+      "description": "Ticket to the BAFTA Television Award with drinks reception, red carpet experience and awards dinner"
+    }
+  ]
+}

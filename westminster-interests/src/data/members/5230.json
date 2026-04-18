@@ -1,0 +1,242 @@
+{
+  "mnis_id": 5230,
+  "name": "Warinder Juss",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Wolverhampton West",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5230/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 1627.0,
+      "combined": 1627.0,
+      "payment_count": 4,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 2327.0,
+      "combined": 2327.0,
+      "payment_count": 5,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 2327.0,
+      "combined": 2327.0,
+      "payment_count": 5,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 2327.0,
+      "combined": 2327.0,
+      "payment_count": 5,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1627.0,
+        "combined": 1627.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 2327.0,
+        "combined": 2327.0,
+        "payment_count": 5,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 2327.0,
+        "combined": 2327.0,
+        "payment_count": 5,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 2327.0,
+        "combined": 2327.0,
+        "payment_count": 5,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    600,
+    0,
+    0,
+    885,
+    120,
+    22,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [],
+  "payments": [
+    {
+      "id": 13471,
+      "date": "2025-10-03",
+      "category": "3",
+      "member_id": 5230,
+      "member_name": "Warinder Juss",
+      "payer_id": 1180,
+      "payer_name": "Wolverhampton Wanderers (Wolves) Foundation",
+      "amount": 22.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5230/registeredinterests?categoryId=3",
+      "summary": "Wolverhampton Wanderers (Wolves) Foundation - £22.00",
+      "description": "I attended a \"Real Choices, Real Consequences, Choose a Better Tomorrow\" education event at Molineux, where lunch costing £11.00 each was provided to me and to my communications manager"
+    },
+    {
+      "id": 13236,
+      "date": "2025-08-30",
+      "category": "3",
+      "member_id": 5230,
+      "member_name": "Warinder Juss",
+      "payer_id": 1180,
+      "payer_name": "Wolverhampton Wanderers (Wolves) Foundation",
+      "amount": 120.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5230/registeredinterests?categoryId=3",
+      "summary": "Wolverhampton Wanderers (Wolves) Foundation - £120.00",
+      "description": "Wolves Foundation donated two match tickets for the Wolverhampton Wanderers v Everton game on 30 August 2025 as a raffle prize for the Wolverhampton Labour Party Summer Social Event"
+    },
+    {
+      "id": 13240,
+      "date": "2025-08-14",
+      "category": "3",
+      "member_id": 5230,
+      "member_name": "Warinder Juss",
+      "payer_id": 1180,
+      "payer_name": "Wolverhampton Wanderers (Wolves) Foundation",
+      "amount": 885.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5230/registeredinterests?categoryId=3",
+      "summary": "Wolverhampton Wanderers (Wolves) Foundation - £885.00",
+      "description": "Wolverhampton and Black Country South Asian Heritage Month Panel Event, sponsored by the Wolverhampton Wanderers (Wolves) Foundation. Value of event includes room hire (inc VAT) and a fee paid for a radio and television presenter who compered the event"
+    },
+    {
+      "id": 12982,
+      "date": "2025-05-10",
+      "category": "3",
+      "member_id": 5230,
+      "member_name": "Warinder Juss",
+      "payer_id": 895,
+      "payer_name": "Premier League",
+      "amount": 600.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5230/registeredinterests?categoryId=3",
+      "summary": "Premier League - £600.00",
+      "description": "Two hospitality tickets by the Premier League to attend the Wolves v Brighton match at Molineux, Wolverhampton on 10 May 2025 as part of the Premier League's Inside Matters campaign on mental health"
+    },
+    {
+      "id": 13049,
+      "date": "2025-02-01",
+      "category": "3",
+      "member_id": 5230,
+      "member_name": "Warinder Juss",
+      "payer_id": 895,
+      "payer_name": "Premier League",
+      "amount": 700.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5230/registeredinterests?categoryId=3",
+      "summary": "Premier League - £700.00",
+      "description": "Two hospitality tickets to attend the Wolves v Aston Villa match on 1 February 2025 as part of the Premier League's \"More than a game\" initiative, where there was also a presentation of the award for the winner of the Premier League Community Captain award, in the presence of the West Midlands Mayor, Leader of the Council and another MP"
+    }
+  ]
+}

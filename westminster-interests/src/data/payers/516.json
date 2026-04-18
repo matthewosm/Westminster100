@@ -1,0 +1,124 @@
+{
+  "id": 516,
+  "name": "Hestview Limited",
+  "address": "4 Wellington Place, Leeds, West Yorkshire LS1 4AP",
+  "nature_of_business": null,
+  "donor_status": "Company",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 350.0,
+      "combined": 350.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 350.0,
+      "combined": 350.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 700.0,
+      "combined": 700.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 1050.0,
+      "combined": 1050.0,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 1050.0,
+      "combined": 1050.0,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    350,
+    0
+  ],
+  "payments": [
+    {
+      "id": 14759,
+      "date": "2026-03-10",
+      "category": "3",
+      "member_id": 5038,
+      "member_name": "Anneliese Midgley",
+      "payer_id": 516,
+      "payer_name": "Hestview Limited",
+      "amount": 350.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5038/registeredinterests?categoryId=3",
+      "summary": "Hestview Ltd - £350.00",
+      "description": "Ticket and hospitality at Cheltenham Festival 2026"
+    },
+    {
+      "id": 12014,
+      "date": "2025-03-12",
+      "category": "3",
+      "member_id": 5330,
+      "member_name": "Mr Peter Bedford",
+      "payer_id": 516,
+      "payer_name": "Hestview Limited",
+      "amount": 700.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5330/registeredinterests?categoryId=3",
+      "summary": "Hestview Limited - £700.00",
+      "description": "Two tickets, including hospitality, at Day 2 (Wednesday) of the Cheltenham Festival 2025.\r\nNotional monetary value: £350 per ticket (including hospitality)"
+    }
+  ]
+}

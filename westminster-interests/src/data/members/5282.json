@@ -1,0 +1,305 @@
+{
+  "mnis_id": 5282,
+  "name": "Dan Tomlinson",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Chipping Barnet",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5282/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 5500.0,
+      "inkind": 1251.45,
+      "combined": 6751.45,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "ytd": {
+      "monetary": 5500.0,
+      "inkind": 0.0,
+      "combined": 5500.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 1251.45,
+      "combined": 1251.45,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 5500.0,
+      "inkind": 1251.45,
+      "combined": 6751.45,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "all_time": {
+      "monetary": 5500.0,
+      "inkind": 1251.45,
+      "combined": 6751.45,
+      "payment_count": 4,
+      "donor_count": 4
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 5500.0,
+        "inkind": 0.0,
+        "combined": 5500.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 5500.0,
+        "inkind": 0.0,
+        "combined": 5500.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 5500.0,
+        "inkind": 0.0,
+        "combined": 5500.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 5500.0,
+        "inkind": 0.0,
+        "combined": 5500.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "5": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 369.0,
+        "combined": 369.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 369.0,
+        "combined": 369.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 369.0,
+        "combined": 369.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 369.0,
+        "combined": 369.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 882.45,
+        "combined": 882.45,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 882.45,
+        "combined": 882.45,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 882.45,
+        "combined": 882.45,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 882.45,
+        "combined": 882.45,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    1251,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3000,
+    0,
+    2500,
+    0
+  ],
+  "appg_memberships": [],
+  "payments": [
+    {
+      "id": 14607,
+      "date": "2026-03-03",
+      "category": "2",
+      "member_id": 5282,
+      "member_name": "Dan Tomlinson",
+      "payer_id": 120,
+      "payer_name": "Betterworld Limited",
+      "amount": 2500.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5282/registeredinterests?categoryId=2",
+      "summary": "Betterworld Ltd - £2,500.00",
+      "description": null
+    },
+    {
+      "id": 14344,
+      "date": "2026-01-18",
+      "category": "2",
+      "member_id": 5282,
+      "member_name": "Dan Tomlinson",
+      "payer_id": 775,
+      "payer_name": "Mr George McGowan",
+      "amount": 3000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5282/registeredinterests?categoryId=2",
+      "summary": "Mr George McGowan - £3,000.00",
+      "description": null
+    },
+    {
+      "id": 12866,
+      "date": "2025-06-19",
+      "category": "5",
+      "member_id": 5282,
+      "member_name": "Dan Tomlinson",
+      "payer_id": 1055,
+      "payer_name": "Stripe Matter, Inc",
+      "amount": 369.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-06-20",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5282/registeredinterests?categoryId=5",
+      "summary": "Stripe Matter, Inc - £369.00",
+      "description": "Attendance at conference in the UK, including one night hotel accommodation and food and drink while in attendance"
+    },
+    {
+      "id": 126611,
+      "date": "2025-05-26",
+      "category": "4",
+      "member_id": 5282,
+      "member_name": "Dan Tomlinson",
+      "payer_id": 529,
+      "payer_name": "House of Representatives of the Republic of Cyprus",
+      "amount": 882.45,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "cyprus",
+      "appg_name": "All-Party Parliamentary Group for Cyprus",
+      "source_url": "https://members.parliament.uk/member/5282/registeredinterests?categoryId=4",
+      "summary": "International visit to Cyprus between 26 May 2025 and 29 May 2025 — To meet the Speaker, Members of the House of Representatives of the Republic of Cyrpus, NGOs and members of civil society for an update on peace talks and Cyrpus' relations with the UK and other countries.",
+      "description": "Transport (£327.46), accommodation (£471.03) and meals (£83.96)"
+    }
+  ]
+}

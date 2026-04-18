@@ -1,0 +1,84 @@
+{
+  "mnis_id": 5319,
+  "name": "Robin Swann",
+  "party": "Ulster Unionist Party",
+  "party_slug": "ulster-unionist-party",
+  "constituency": "South Antrim",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5319/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    }
+  },
+  "categories": {},
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "healthcare-workers",
+      "appg_name": "All-Party Parliamentary Group for Healthcare Workers",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "liver-disease-and-liver-cancer",
+      "appg_name": "All-Party Parliamentary Group on Liver Disease and Liver Cancer",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": []
+}

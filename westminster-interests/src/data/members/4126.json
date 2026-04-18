@@ -1,0 +1,108 @@
+{
+  "mnis_id": 4126,
+  "name": "Mary Glindon",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Newcastle upon Tyne East and Wallsend",
+  "house": "Commons",
+  "start_date": "2010-05-06",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4126/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    }
+  },
+  "categories": {},
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "grid-networks",
+      "appg_name": "All-Party Parliamentary Group for Grid Networks",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "british-offshore-energy-industry",
+      "appg_name": "All-Party Parliamentary Group for the British Offshore Energy Industry",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "hadrians-wall",
+      "appg_name": "All-Party Parliamentary Group on Hadrian's Wall",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "obesity",
+      "appg_name": "All-Party Parliamentary Group on Obesity",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "north-east",
+      "appg_name": "North East All-Party Parliamentary Group",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "responsible-vaping",
+      "appg_name": "Responsible Vaping All-Party Parliamentary Group",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": []
+}

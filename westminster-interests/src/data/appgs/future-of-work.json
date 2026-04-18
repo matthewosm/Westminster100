@@ -1,0 +1,164 @@
+{
+  "slug": "future-of-work",
+  "title": "All-Party Parliamentary Group on the Future of Work",
+  "purpose": "To advance (i) understanding and discussion about the impacts of technology on work and society (ii) dialogue and collaboration between government, business, unions, academics and civil society and (iii) practical solutions in response to key challenges and opportunities aimed at shaping a future of better work across the UK.",
+  "categories": [
+    "Science, Technology & Innovation"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/future-of-work.htm",
+  "secretariat": "Institute for the Future of Work acts as the group's secretariat.https://www.ifow.org/",
+  "website": "https://www.futureworkappg.org.uk/",
+  "registered_contact_name": "Andrew Pakes MP",
+  "date_of_most_recent_agm": "2024-10-29 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "future-of-work",
+      "mnis_id": 5243,
+      "name": "Andrew Pakes",
+      "canon_name": "Andrew Pakes",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/future-of-work.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "future-of-work",
+      "mnis_id": 4357,
+      "name": "Kirsty Blackman",
+      "canon_name": "Kirsty Blackman",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/future-of-work.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "future-of-work",
+      "mnis_id": null,
+      "name": "Lord Johnson of Marylebone",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/future-of-work.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "future-of-work",
+      "mnis_id": null,
+      "name": "Lord Knight of Weymouth",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/future-of-work.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "future-of-work",
+      "mnis_id": 5243,
+      "name": "Andrew Pakes",
+      "canon_name": "Andrew Pakes",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/future-of-work.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "future-of-work",
+      "mnis_id": 4357,
+      "name": "Kirsty Blackman",
+      "canon_name": "Kirsty Blackman",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/future-of-work.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "future-of-work",
+      "mnis_id": null,
+      "name": "Lord Johnson of Marylebone",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/future-of-work.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "future-of-work",
+      "mnis_id": null,
+      "name": "Lord Knight of Weymouth",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/future-of-work.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

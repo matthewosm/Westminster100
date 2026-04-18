@@ -1,0 +1,99 @@
+{
+  "id": 843,
+  "name": "Open Door Property Holidays Ltd",
+  "address": "Office 5 Rec 2, Retford Enterprise Centre, Randall Way, Retford, DN22 7GR",
+  "nature_of_business": "Property management",
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 4111.18,
+      "combined": 4111.18,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 1216.46,
+      "combined": 1216.46,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 4111.18,
+      "combined": 4111.18,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 1712.05,
+      "combined": 1712.05,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 7039.7,
+      "combined": 7039.7,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 7039.7,
+      "combined": 7039.7,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    338,
+    338,
+    338,
+    338,
+    338,
+    338,
+    338,
+    338,
+    338,
+    338,
+    338,
+    338
+  ],
+  "payments": [
+    {
+      "id": 9010,
+      "date": "2024-08-01",
+      "category": "1.2",
+      "member_id": 5047,
+      "member_name": "James Naish",
+      "payer_id": 843,
+      "payer_name": "Open Door Property Holidays Ltd",
+      "amount": 4114.0,
+      "payment_type": "In kind",
+      "is_regular": true,
+      "period": "Yearly",
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5047/registeredinterests?categoryId=1",
+      "summary": "Agreement - £4,114.00",
+      "description": "My family and I use a company vehicle and stay in a property owned by the company for up to 14 days per year. This is the \"Class 1a NICs due\" figure from my 2024/25 P11D"
+    }
+  ]
+}

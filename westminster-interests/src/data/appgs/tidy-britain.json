@@ -1,0 +1,164 @@
+{
+  "slug": "tidy-britain",
+  "title": "Tidy Britain All-Party Parliamentary Group",
+  "purpose": "To highlight issues related to local environmental quality, including littering, pollution and fly­tipping, and their detrimental impact on communities; to raise these issues on the parliamentary agenda; to provide a forum for parliamentarians and advocates of local environmental quality; and to highlight the work of volunteer litter-picking groups and individuals.",
+  "categories": [
+    "Environment, Climate & Sustainability"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/tidy-britain.htm",
+  "secretariat": "Keep Britain Tidy acts as the group's secretariat.http://www.keepbritaintidy.org/",
+  "website": "https://www.keepbritaintidy.org/tidy-britain-appg",
+  "registered_contact_name": "James Asser MP",
+  "date_of_most_recent_agm": "2024-11-20 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "tidy-britain",
+      "mnis_id": 5140,
+      "name": "Claire Young",
+      "canon_name": "Claire Young",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/tidy-britain.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "tidy-britain",
+      "mnis_id": 5211,
+      "name": "James Asser",
+      "canon_name": "James Asser",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/tidy-britain.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "tidy-britain",
+      "mnis_id": 5233,
+      "name": "Lee Pitcher",
+      "canon_name": "Lee Pitcher",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/tidy-britain.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "tidy-britain",
+      "mnis_id": 1879,
+      "name": "Lord Lucas",
+      "canon_name": "Lord Lucas",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/tidy-britain.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "tidy-britain",
+      "mnis_id": 5140,
+      "name": "Claire Young",
+      "canon_name": "Claire Young",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/tidy-britain.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "tidy-britain",
+      "mnis_id": 5211,
+      "name": "James Asser",
+      "canon_name": "James Asser",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/tidy-britain.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "tidy-britain",
+      "mnis_id": 5233,
+      "name": "Lee Pitcher",
+      "canon_name": "Lee Pitcher",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/tidy-britain.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "tidy-britain",
+      "mnis_id": 1879,
+      "name": "Lord Lucas",
+      "canon_name": "Lord Lucas",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/tidy-britain.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

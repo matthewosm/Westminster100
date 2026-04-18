@@ -1,0 +1,260 @@
+{
+  "slug": "long-covid",
+  "title": "All-Party Parliamentary Group on Long Covid",
+  "purpose": "To work with like-minded MPs and organisations to research the prevalence of Long Covid; assess and request scientific research and medical inquiries; raise awareness of the profound impacts on millions of people worldwide; and outlining our asks to government.",
+  "categories": [
+    "Health, Medicine & Public Health"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/long-covid.htm",
+  "secretariat": "Long Covid Support acts as the group's secretariat.https://www.longcovid.org/",
+  "website": "https://www.longcovid.org/impact/appg-on-long-covid",
+  "registered_contact_name": "Jo Platt MP",
+  "date_of_most_recent_agm": "2024-12-09 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "long-covid",
+      "mnis_id": null,
+      "name": "Alex Cole-Hamilton",
+      "canon_name": "Alex Cole-Hamilton",
+      "officer_role": "Co-Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "long-covid",
+      "mnis_id": null,
+      "name": "Jackie Baillie",
+      "canon_name": "Jackie Baillie",
+      "officer_role": "Co-Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "long-covid",
+      "mnis_id": 4673,
+      "name": "Jo Platt",
+      "canon_name": "Jo Platt",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/long-covid.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "long-covid",
+      "mnis_id": 5036,
+      "name": "Jodie Gosling",
+      "canon_name": "Jodie Gosling",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/long-covid.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "long-covid",
+      "mnis_id": 4708,
+      "name": "Lord Bethell",
+      "canon_name": "Lord Bethell",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/long-covid.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "long-covid",
+      "mnis_id": 4204,
+      "name": "Lord Strasburger",
+      "canon_name": "Lord Strasburger",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/long-covid.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "long-covid",
+      "mnis_id": 2717,
+      "name": "Rhun ap Iorwerth",
+      "canon_name": "Rhun ap Iorwerth",
+      "officer_role": "Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=732",
+      "removed": null
+    },
+    {
+      "appg_slug": "long-covid",
+      "mnis_id": null,
+      "name": "Sandesh Gulhane",
+      "canon_name": "Sandesh Gulhane",
+      "officer_role": "Co-Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "long-covid",
+      "mnis_id": null,
+      "name": "Alex Cole-Hamilton",
+      "canon_name": "Alex Cole-Hamilton",
+      "officer_role": "Co-Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "long-covid",
+      "mnis_id": null,
+      "name": "Jackie Baillie",
+      "canon_name": "Jackie Baillie",
+      "officer_role": "Co-Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "long-covid",
+      "mnis_id": 4673,
+      "name": "Jo Platt",
+      "canon_name": "Jo Platt",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/long-covid.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "long-covid",
+      "mnis_id": 5036,
+      "name": "Jodie Gosling",
+      "canon_name": "Jodie Gosling",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/long-covid.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "long-covid",
+      "mnis_id": 4708,
+      "name": "Lord Bethell",
+      "canon_name": "Lord Bethell",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/long-covid.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "long-covid",
+      "mnis_id": 4204,
+      "name": "Lord Strasburger",
+      "canon_name": "Lord Strasburger",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/long-covid.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "long-covid",
+      "mnis_id": 2717,
+      "name": "Rhun ap Iorwerth",
+      "canon_name": "Rhun ap Iorwerth",
+      "officer_role": "Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=732",
+      "removed": null
+    },
+    {
+      "appg_slug": "long-covid",
+      "mnis_id": null,
+      "name": "Sandesh Gulhane",
+      "canon_name": "Sandesh Gulhane",
+      "officer_role": "Co-Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

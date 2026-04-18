@@ -1,0 +1,224 @@
+{
+  "mnis_id": 4788,
+  "name": "Fleur Anderson",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Putney",
+  "house": "Commons",
+  "start_date": "2019-12-12",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4788/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 2748.4,
+      "combined": 2748.4,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 1860.0,
+      "combined": 1860.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 888.4,
+      "combined": 888.4,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 2748.4,
+      "combined": 2748.4,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 2748.4,
+      "combined": 2748.4,
+      "payment_count": 2,
+      "donor_count": 2
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1860.0,
+        "combined": 1860.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 1860.0,
+        "combined": 1860.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1860.0,
+        "combined": 1860.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1860.0,
+        "combined": 1860.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 888.4,
+        "combined": 888.4,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 888.4,
+        "combined": 888.4,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 888.4,
+        "combined": 888.4,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 888.4,
+        "combined": 888.4,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    888,
+    0,
+    0,
+    1860,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "environment",
+      "appg_name": "All-Party Parliamentary Group for the Environment",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "explosive-weapons-and-their-impact",
+      "appg_name": "All-Party Parliamentary Group on Explosive Weapons and their Impact",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14483,
+      "date": "2026-01-19",
+      "category": "2",
+      "member_id": 4788,
+      "member_name": "Fleur Anderson",
+      "payer_id": 20,
+      "payer_name": "Aid Alliance",
+      "amount": 1860.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2026-04-30",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4788/registeredinterests?categoryId=2",
+      "summary": "Aid Alliance - £1,860.00",
+      "description": "The services of an Adviser for 1 day per week from 19 January 2026 to 30 April 2026"
+    },
+    {
+      "id": 137141,
+      "date": "2025-10-23",
+      "category": "4",
+      "member_id": 4788,
+      "member_name": "Fleur Anderson",
+      "payer_id": 860,
+      "payer_name": "Parliamentary Renewable & Sustainable Energy Group (PRASEG) Secretariat for the APPG for Renewable & Sustainable Energy",
+      "amount": 888.4,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "renewable-and-sustainable-energy",
+      "appg_name": "All-Party Parliamentary Group for Renewable and Sustainable Energy",
+      "source_url": "https://members.parliament.uk/member/4788/registeredinterests?categoryId=4",
+      "summary": "International visit to Denmark between 23 October 2025 and 24 October 2025 — APPG visit to high-level meetings and site visits in Copenhagen cross-channel cooperation for decarbonising heat and energy.",
+      "description": "Accommodation, return flights and subsistence"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": 1092,
+  "name": "Ticketmaster UK Limited",
+  "address": "30 St. John Street, London EC1M 4AY",
+  "nature_of_business": null,
+  "donor_status": "Company",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 663.9,
+      "combined": 663.9,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 663.9,
+      "combined": 663.9,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 663.9,
+      "combined": 663.9,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 663.9,
+      "combined": 663.9,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    664,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 13750,
+      "date": "2025-10-08",
+      "category": "3",
+      "member_id": 5222,
+      "member_name": "Tom Rutland",
+      "payer_id": 1092,
+      "payer_name": "Ticketmaster UK Limited",
+      "amount": 663.9,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5222/registeredinterests?categoryId=3",
+      "summary": "Ticketmaster UK Limited - £663.90",
+      "description": "Two tickets to concert and tour of Co-op Live venue, including hospitality (£169 per ticket £338 total), one train ticket (£114.00) and one hotel room (£211.90)"
+    }
+  ]
+}

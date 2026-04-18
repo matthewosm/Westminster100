@@ -1,0 +1,236 @@
+{
+  "mnis_id": 5136,
+  "name": "Imogen Walker",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Hamilton and Clyde Valley",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5136/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 2000.0,
+      "inkind": 1500.0,
+      "combined": 3500.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 2000.0,
+      "inkind": 1500.0,
+      "combined": 3500.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 6800.0,
+      "inkind": 0.0,
+      "combined": 6800.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "since_election": {
+      "monetary": 8800.0,
+      "inkind": 1500.0,
+      "combined": 10300.0,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 8800.0,
+      "inkind": 1500.0,
+      "combined": 10300.0,
+      "payment_count": 3,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 2000.0,
+        "inkind": 1500.0,
+        "combined": 3500.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 2000.0,
+        "inkind": 1500.0,
+        "combined": 3500.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 2000.0,
+        "inkind": 1500.0,
+        "combined": 3500.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 2000.0,
+        "inkind": 1500.0,
+        "combined": 3500.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "1.1": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 6800.0,
+        "inkind": 0.0,
+        "combined": 6800.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 6800.0,
+        "inkind": 0.0,
+        "combined": 6800.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 6800.0,
+        "inkind": 0.0,
+        "combined": 6800.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    1500,
+    2000,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [],
+  "payments": [
+    {
+      "id": 12978,
+      "date": "2025-07-23",
+      "category": "2",
+      "member_id": 5136,
+      "member_name": "Imogen Walker",
+      "payer_id": 1052,
+      "payer_name": "Strand Partners",
+      "amount": 2000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5136/registeredinterests?categoryId=2",
+      "summary": "Strand Partners - £2,000.00",
+      "description": "Support for a ticketed social and networking event  including 8 tickets at market value, totalling £800.00. This was shared with another MP."
+    },
+    {
+      "id": 12977,
+      "date": "2025-06-23",
+      "category": "2",
+      "member_id": 5136,
+      "member_name": "Imogen Walker",
+      "payer_id": 1018,
+      "payer_name": "SME4Labour Ltd",
+      "amount": 1500.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5136/registeredinterests?categoryId=2",
+      "summary": "SME4Labour Ltd - £1,500.00",
+      "description": "Event space, wine and canapes. Shared with Gregor Poynton"
+    },
+    {
+      "id": 10825,
+      "date": "2024-08-27",
+      "category": "1.1",
+      "member_id": 5136,
+      "member_name": "Imogen Walker",
+      "payer_id": 987,
+      "payer_name": "Sandwell Metropolitan Borough Council",
+      "amount": 6800.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5136/registeredinterests?categoryId=1",
+      "summary": "Payment received on 27 August 2024 - £6,800.00",
+      "description": "Final payment for work undertaken before the election"
+    }
+  ]
+}

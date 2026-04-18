@@ -1,0 +1,198 @@
+{
+  "mnis_id": 5208,
+  "name": "Perran Moon",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Camborne and Redruth",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5208/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 128.22,
+      "inkind": 550.0,
+      "combined": 678.22,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 128.22,
+      "inkind": 550.0,
+      "combined": 678.22,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 128.22,
+      "inkind": 550.0,
+      "combined": 678.22,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "all_time": {
+      "monetary": 128.22,
+      "inkind": 550.0,
+      "combined": 678.22,
+      "payment_count": 2,
+      "donor_count": 2
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 128.22,
+        "inkind": 550.0,
+        "combined": 678.22,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 128.22,
+        "inkind": 550.0,
+        "combined": 678.22,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 128.22,
+        "inkind": 550.0,
+        "combined": 678.22,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 128.22,
+        "inkind": 550.0,
+        "combined": 678.22,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    550,
+    128,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "british-sign-language",
+      "appg_name": "All-Party Parliamentary Group on British Sign Language",
+      "officer_role": "Secretary",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "critical-minerals",
+      "appg_name": "All-Party Parliamentary Group on Critical Minerals",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "down-syndrome",
+      "appg_name": "All-Party Parliamentary Group on Down Syndrome",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "primodos",
+      "appg_name": "All-Party Parliamentary Group on Primodos",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "electric-vehicle",
+      "appg_name": "Electric Vehicle All-Party Parliamentary Group",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 12644,
+      "date": "2025-05-27",
+      "category": "3",
+      "member_id": 5208,
+      "member_name": "Perran Moon",
+      "payer_id": 1128,
+      "payer_name": "UKREiiF & Built Environment Networking Ltd",
+      "amount": 128.22,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5208/registeredinterests?categoryId=3",
+      "summary": "UKREiiF & Built Environment Networking Ltd - £128.22",
+      "description": "Reimbursement for my train ticket to attend the UK Real Estate Investment & Infrastructure Forum in Leeds"
+    },
+    {
+      "id": 12641,
+      "date": "2025-05-19",
+      "category": "3",
+      "member_id": 5208,
+      "member_name": "Perran Moon",
+      "payer_id": 1128,
+      "payer_name": "UKREiiF & Built Environment Networking Ltd",
+      "amount": 550.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-05-21",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5208/registeredinterests?categoryId=3",
+      "summary": "UKREiiF & Built Environment Networking Ltd - £550.00",
+      "description": "Hotel room for two nights so I could attend the UK Real Estate Investment & Infrastructure Forum in Leeds City Centre"
+    }
+  ]
+}

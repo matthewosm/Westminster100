@@ -1,0 +1,164 @@
+{
+  "slug": "itv",
+  "title": "ITV All-Party Parliamentary Group",
+  "purpose": "To provide a forum for parliamentarians to consider and discuss the role and contribution of ITV as a broadcaster and streamer to the UK's creative industries, to the UK's public service broadcasting ecology and discuss relevant regulatory issues.",
+  "categories": [
+    "Arts, Culture, Heritage & Media"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/itv.htm",
+  "secretariat": "ITV acts as the group's secretariat.https://www.itvplc.com/",
+  "website": "None",
+  "registered_contact_name": "Tonia Antoniazzi MP",
+  "date_of_most_recent_agm": "2024-11-13 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "itv",
+      "mnis_id": null,
+      "name": "Baroness Bonham-Carter of Yarnbury",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/itv.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "itv",
+      "mnis_id": null,
+      "name": "Lord Black of Brentwood",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/itv.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "itv",
+      "mnis_id": 5150,
+      "name": "Samantha Niblett",
+      "canon_name": "Samantha Niblett",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/itv.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "itv",
+      "mnis_id": 4623,
+      "name": "Tonia Antoniazzi",
+      "canon_name": "Tonia Antoniazzi",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/itv.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "itv",
+      "mnis_id": null,
+      "name": "Baroness Bonham-Carter of Yarnbury",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/itv.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "itv",
+      "mnis_id": null,
+      "name": "Lord Black of Brentwood",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/itv.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "itv",
+      "mnis_id": 5150,
+      "name": "Samantha Niblett",
+      "canon_name": "Samantha Niblett",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/itv.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "itv",
+      "mnis_id": 4623,
+      "name": "Tonia Antoniazzi",
+      "canon_name": "Tonia Antoniazzi",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/itv.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

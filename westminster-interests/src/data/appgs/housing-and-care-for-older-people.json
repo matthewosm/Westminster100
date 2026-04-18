@@ -1,0 +1,164 @@
+{
+  "slug": "housing-and-care-for-older-people",
+  "title": "All-Party Parliamentary Group on Housing and Care for Older People",
+  "purpose": "To promote discussion and set the agenda for developing better, more joined up housing care for older people, promising greater choices in later life.",
+  "categories": [
+    "Housing, Planning & Built Environment"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/housing-and-care-for-older-people.htm",
+  "secretariat": "Bruno Dunda, in the Office of Lord Best, acts as the group's secretariat.",
+  "website": "https://www.housing21.org.uk/about-us/appg-on-housing-and-care-for-older-people",
+  "registered_contact_name": "Anna Dixon MP",
+  "date_of_most_recent_agm": "2025-12-03 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "housing-and-care-for-older-people",
+      "mnis_id": 5281,
+      "name": "Anna Dixon",
+      "canon_name": "Anna Dixon",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/housing-and-care-for-older-people.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "housing-and-care-for-older-people",
+      "mnis_id": 3605,
+      "name": "Lord Best",
+      "canon_name": "Lord Best",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/housing-and-care-for-older-people.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "housing-and-care-for-older-people",
+      "mnis_id": null,
+      "name": "Lord Young of Cookham",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/housing-and-care-for-older-people.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "housing-and-care-for-older-people",
+      "mnis_id": 4368,
+      "name": "Neil Coyle",
+      "canon_name": "Neil Coyle",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/housing-and-care-for-older-people.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "housing-and-care-for-older-people",
+      "mnis_id": 5281,
+      "name": "Anna Dixon",
+      "canon_name": "Anna Dixon",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/housing-and-care-for-older-people.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "housing-and-care-for-older-people",
+      "mnis_id": 3605,
+      "name": "Lord Best",
+      "canon_name": "Lord Best",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/housing-and-care-for-older-people.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "housing-and-care-for-older-people",
+      "mnis_id": null,
+      "name": "Lord Young of Cookham",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/housing-and-care-for-older-people.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "housing-and-care-for-older-people",
+      "mnis_id": 4368,
+      "name": "Neil Coyle",
+      "canon_name": "Neil Coyle",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/housing-and-care-for-older-people.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

@@ -1,0 +1,286 @@
+{
+  "mnis_id": 3957,
+  "name": "Martin Vickers",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "Brigg and Immingham",
+  "house": "Commons",
+  "start_date": "2010-05-06",
+  "photo_url": "https://members-api.parliament.uk/api/Members/3957/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 1510.41,
+      "inkind": 4934.69,
+      "combined": 6445.1,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "ytd": {
+      "monetary": 1510.41,
+      "inkind": 0.0,
+      "combined": 1510.41,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 4934.69,
+      "combined": 4934.69,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 1510.41,
+      "inkind": 4934.69,
+      "combined": 6445.1,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "all_time": {
+      "monetary": 1510.41,
+      "inkind": 4934.69,
+      "combined": 6445.1,
+      "payment_count": 4,
+      "donor_count": 4
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 1510.41,
+        "inkind": 0.0,
+        "combined": 1510.41,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 1510.41,
+        "inkind": 0.0,
+        "combined": 1510.41,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 1510.41,
+        "inkind": 0.0,
+        "combined": 1510.41,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 1510.41,
+        "inkind": 0.0,
+        "combined": 1510.41,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 4934.69,
+        "combined": 4934.69,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 4934.69,
+        "combined": 4934.69,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 4934.69,
+        "combined": 4934.69,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 4934.69,
+        "combined": 4934.69,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    882,
+    0,
+    0,
+    1350,
+    0,
+    2702,
+    0,
+    1510,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "gibraltar",
+      "appg_name": "All-Party Parliamentary Group on Gibraltar",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "kosovo-and-albania",
+      "appg_name": "All-Party Parliamentary Group on Kosovo and Albania",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "rail",
+      "appg_name": "All-Party Parliamentary Group on Rail",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "channel-islands",
+      "appg_name": "Channel Islands All-Party Parliamentary Group",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14427,
+      "date": "2026-01-06",
+      "category": "2",
+      "member_id": 3957,
+      "member_name": "Martin Vickers",
+      "payer_id": 381,
+      "payer_name": "Estates UK",
+      "amount": 1510.41,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/3957/registeredinterests?categoryId=2",
+      "summary": "Estates UK - £1,510.41",
+      "description": null
+    },
+    {
+      "id": 139271,
+      "date": "2025-10-21",
+      "category": "4",
+      "member_id": 3957,
+      "member_name": "Martin Vickers",
+      "payer_id": 1106,
+      "payer_name": "Tratos UK Limited",
+      "amount": 2702.24,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "san-marino",
+      "appg_name": "San Marino All-Party Parliamentary Group",
+      "source_url": "https://members.parliament.uk/member/3957/registeredinterests?categoryId=4",
+      "summary": "International visit to Vatican City between 21 October 2025 and 26 October 2025 — Attended an audience with His Holiness the Pope, and in San Marino meetings with the Heads of State, ministers, parliamentarians and business representatives in San Marino.",
+      "description": "Flights(£996.64) , accommodation (£879.60), subsistence (£826.00)"
+    },
+    {
+      "id": 134841,
+      "date": "2025-09-07",
+      "category": "4",
+      "member_id": 3957,
+      "member_name": "Martin Vickers",
+      "payer_id": 482,
+      "payer_name": "HM Government of Gibraltar",
+      "amount": 1350.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "gibraltar",
+      "appg_name": "All-Party Parliamentary Group on Gibraltar",
+      "source_url": "https://members.parliament.uk/member/3957/registeredinterests?categoryId=4",
+      "summary": "International visit to Gibraltar between 07 September 2025 and 11 September 2025 — Meet with ministers, parliamentarians, business leaders and others, also attend events to mark National Day.",
+      "description": "Flights (£600), hotel (£400 (£100 per night per person)) and hospitality (£350) estimated"
+    },
+    {
+      "id": 126911,
+      "date": "2025-05-26",
+      "category": "4",
+      "member_id": 3957,
+      "member_name": "Martin Vickers",
+      "payer_id": 528,
+      "payer_name": "House of Representatives of Cyprus",
+      "amount": 882.45,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "cyprus",
+      "appg_name": "All-Party Parliamentary Group for Cyprus",
+      "source_url": "https://members.parliament.uk/member/3957/registeredinterests?categoryId=4",
+      "summary": "International visit to Cyprus between 26 May 2025 and 29 May 2025 — With the APPG for Cyprus at the invitation of the House of Representatives for meetings with the President of the Republic of Cyprus, The President of the National Assembly, The Foreign Minister, Members of the House of Representatives and The Mayors of Morphou and Famagusta.",
+      "description": "Transport £327.46, accommodation £471.03, meals £83.96"
+    }
+  ]
+}

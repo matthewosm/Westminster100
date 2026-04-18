@@ -1,0 +1,273 @@
+{
+  "mnis_id": 350,
+  "name": "Sir John Hayes",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "South Holland and The Deepings",
+  "house": "Commons",
+  "start_date": "1997-05-01",
+  "photo_url": "https://members-api.parliament.uk/api/Members/350/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 94043.33,
+      "inkind": 0.0,
+      "combined": 94043.33,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "ytd": {
+      "monetary": 27118.6,
+      "inkind": 0.0,
+      "combined": 27118.6,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2025": {
+      "monetary": 94043.33,
+      "inkind": 0.0,
+      "combined": 94043.33,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 91901.92,
+      "inkind": 0.0,
+      "combined": 91901.92,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "since_election": {
+      "monetary": 166610.69,
+      "inkind": 0.0,
+      "combined": 166610.69,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 635941.11,
+      "inkind": 0.0,
+      "combined": 635941.11,
+      "payment_count": 3,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "1.1": {
+      "12m": {
+        "monetary": 2392.5,
+        "inkind": 0.0,
+        "combined": 2392.5,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 2392.5,
+        "inkind": 0.0,
+        "combined": 2392.5,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 2392.5,
+        "inkind": 0.0,
+        "combined": 2392.5,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 2392.5,
+        "inkind": 0.0,
+        "combined": 2392.5,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "1.2": {
+      "12m": {
+        "monetary": 91650.83,
+        "inkind": 0.0,
+        "combined": 91650.83,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 27118.6,
+        "inkind": 0.0,
+        "combined": 27118.6,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 91650.83,
+        "inkind": 0.0,
+        "combined": 91650.83,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 91901.92,
+        "inkind": 0.0,
+        "combined": 91901.92,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 164218.19,
+        "inkind": 0.0,
+        "combined": 164218.19,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 633548.61,
+        "inkind": 0.0,
+        "combined": 633548.61,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    7533,
+    7533,
+    9925,
+    7533,
+    7533,
+    7533,
+    7533,
+    7533,
+    7533,
+    7533,
+    7533,
+    7533
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "acquired-brain-injury",
+      "appg_name": "All-Party Parliamentary Group for Acquired Brain Injury",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "craft",
+      "appg_name": "All-Party Parliamentary Group for Craft",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "lebanon",
+      "appg_name": "All-Party Parliamentary Group for Lebanon",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "skills-careers-and-employment",
+      "appg_name": "All-Party Parliamentary Group for Skills, Careers and Employment",
+      "officer_role": "Co-Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "genetic-haemochromatosis",
+      "appg_name": "All-Party Parliamentary Group on Genetic Haemochromatosis",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "uk-fresh-produce-network",
+      "appg_name": "All-Party Parliamentary Group on the UK Fresh Produce Network",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 12851,
+      "date": "2025-06-25",
+      "category": "1.1",
+      "member_id": 350,
+      "member_name": "Sir John Hayes",
+      "payer_id": 954,
+      "payer_name": "Richmond American University London",
+      "amount": 2392.5,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/350/registeredinterests?categoryId=1",
+      "summary": "Payment received on 25 June 2025 - £2,392.50",
+      "description": null
+    },
+    {
+      "id": 4856,
+      "date": "2020-04-29",
+      "category": "1.2",
+      "member_id": 350,
+      "member_name": "Sir John Hayes",
+      "payer_id": 1141,
+      "payer_name": "University of Greater Manchester",
+      "amount": 41713.6,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Yearly",
+      "start_date": "2020-04-01",
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/350/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 01 April 2020 - £41,713.60",
+      "description": "paid monthly"
+    },
+    {
+      "id": 4850,
+      "date": "2018-09-28",
+      "category": "1.2",
+      "member_id": 350,
+      "member_name": "Sir John Hayes",
+      "payer_id": 108,
+      "payer_name": "BB Energy Trading Ltd",
+      "amount": 50000.0,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Yearly",
+      "start_date": "2018-09-01",
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/350/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 01 September 2018 - £50,000.00",
+      "description": null
+    }
+  ]
+}

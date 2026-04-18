@@ -1,0 +1,99 @@
+{
+  "id": 844,
+  "name": "Open Door Property Ltd",
+  "address": "Office 5 Rec 2, Retford Enterprise Centre, Randall Way, Retford, DN22 7GR",
+  "nature_of_business": "Property sales and consulting",
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 308.09,
+      "combined": 308.09,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 610.58,
+      "combined": 610.58,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 392.11,
+      "combined": 392.11,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 1002.69,
+      "combined": 1002.69,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 1002.69,
+      "combined": 1002.69,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    84,
+    84,
+    84,
+    42,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 10437,
+      "date": "2024-08-13",
+      "category": "1.2",
+      "member_id": 5047,
+      "member_name": "James Naish",
+      "payer_id": 844,
+      "payer_name": "Open Door Property Ltd",
+      "amount": 1023.0,
+      "payment_type": "In kind",
+      "is_regular": true,
+      "period": "Yearly",
+      "start_date": null,
+      "end_date": "2025-08-06",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5047/registeredinterests?categoryId=1",
+      "summary": "Agreement - £1,023.00",
+      "description": "Company vehicle"
+    }
+  ]
+}

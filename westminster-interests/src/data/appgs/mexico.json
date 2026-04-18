@@ -1,0 +1,164 @@
+{
+  "slug": "mexico",
+  "title": "All-Party Parliamentary Group on Mexico",
+  "purpose": "To keep Mexico on the political agenda of the UK parliament, and to strengthen bilateral relations.",
+  "categories": [
+    "Country Group"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/mexico.htm",
+  "secretariat": "",
+  "website": "None",
+  "registered_contact_name": "Catherine Atkinson MP",
+  "date_of_most_recent_agm": "2024-09-04 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "mexico",
+      "mnis_id": null,
+      "name": "Baroness Bonham-Carter of Yarnbury",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/mexico.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "mexico",
+      "mnis_id": 2005,
+      "name": "Baroness Hooper",
+      "canon_name": "Baroness Hooper",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/mexico.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "mexico",
+      "mnis_id": 5143,
+      "name": "Catherine Atkinson",
+      "canon_name": "Catherine Atkinson",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/mexico.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "mexico",
+      "mnis_id": 1482,
+      "name": "Graham Stuart",
+      "canon_name": "Graham Stuart",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/mexico.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "mexico",
+      "mnis_id": null,
+      "name": "Baroness Bonham-Carter of Yarnbury",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/mexico.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "mexico",
+      "mnis_id": 2005,
+      "name": "Baroness Hooper",
+      "canon_name": "Baroness Hooper",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/mexico.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "mexico",
+      "mnis_id": 5143,
+      "name": "Catherine Atkinson",
+      "canon_name": "Catherine Atkinson",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/mexico.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "mexico",
+      "mnis_id": 1482,
+      "name": "Graham Stuart",
+      "canon_name": "Graham Stuart",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/mexico.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

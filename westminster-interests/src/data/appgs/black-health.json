@@ -1,0 +1,165 @@
+{
+  "slug": "black-health",
+  "title": "All-Party Parliamentary Group on Black Health",
+  "purpose": "To create a forum to raise political awareness of stark health inequalities disproportionately impacting Black Caribbean and African people in the UK, and to advocate for actions to reduce health inequalities. To stimulate dialogue, drive evidence-based research, policy development, and promote equitable healthcare access and outcomes through influencing policy and practice.",
+  "categories": [
+    "Health, Medicine & Public Health",
+    "Human Rights, Equality & Social Justice"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/black-health.htm",
+  "secretariat": "Caribbean & African Health Network acts as the group's secretariat.https://www.cahn.org.uk/",
+  "website": "http://www.appgblackhealth.uk/",
+  "registered_contact_name": "Paulette Hamilton MP",
+  "date_of_most_recent_agm": "2025-01-22 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "black-health",
+      "mnis_id": null,
+      "name": "Baroness Nicholson of Winterbourne",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/black-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "black-health",
+      "mnis_id": 5344,
+      "name": "Ben Coleman",
+      "canon_name": "Ben Coleman",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/black-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "black-health",
+      "mnis_id": 147,
+      "name": "Lord Boateng",
+      "canon_name": "Lord Boateng",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/black-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "black-health",
+      "mnis_id": 4938,
+      "name": "Paulette Hamilton",
+      "canon_name": "Paulette Hamilton",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/black-health.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "black-health",
+      "mnis_id": null,
+      "name": "Baroness Nicholson of Winterbourne",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/black-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "black-health",
+      "mnis_id": 5344,
+      "name": "Ben Coleman",
+      "canon_name": "Ben Coleman",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/black-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "black-health",
+      "mnis_id": 147,
+      "name": "Lord Boateng",
+      "canon_name": "Lord Boateng",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/black-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "black-health",
+      "mnis_id": 4938,
+      "name": "Paulette Hamilton",
+      "canon_name": "Paulette Hamilton",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/black-health.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

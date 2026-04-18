@@ -1,0 +1,164 @@
+{
+  "slug": "kidney",
+  "title": "All-Party Parliamentary Kidney Group",
+  "purpose": "The APPG enhances parliamentary understanding of kidney disease and advocates for improved health services for those with renal disease. It unites parliamentarians dedicated to advancing kidney health policy and ensuring patient needs remain central to healthcare decisions.",
+  "categories": [
+    "Health, Medicine & Public Health"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/kidney.htm",
+  "secretariat": "National Kidney Federation acts as the group's secretariat.https://www.kidney.org.uk/",
+  "website": "https://www.kidney.org.uk/all-party-parliamentary-group",
+  "registered_contact_name": "Jo White MP",
+  "date_of_most_recent_agm": "2025-09-10 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "kidney",
+      "mnis_id": 5105,
+      "name": "Jo White",
+      "canon_name": "Jo White",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/kidney.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "kidney",
+      "mnis_id": 489,
+      "name": "Lord Watts",
+      "canon_name": "Lord Watts",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/kidney.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "kidney",
+      "mnis_id": 4598,
+      "name": "Mohammad Yasin",
+      "canon_name": "Mohammad Yasin",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/kidney.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "kidney",
+      "mnis_id": 55,
+      "name": "Sir Desmond Swayne",
+      "canon_name": "Desmond Swayne",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/kidney.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "kidney",
+      "mnis_id": 5105,
+      "name": "Jo White",
+      "canon_name": "Jo White",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/kidney.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "kidney",
+      "mnis_id": 489,
+      "name": "Lord Watts",
+      "canon_name": "Lord Watts",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/kidney.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "kidney",
+      "mnis_id": 4598,
+      "name": "Mohammad Yasin",
+      "canon_name": "Mohammad Yasin",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/kidney.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "kidney",
+      "mnis_id": 55,
+      "name": "Sir Desmond Swayne",
+      "canon_name": "Desmond Swayne",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/kidney.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

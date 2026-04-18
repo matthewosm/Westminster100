@@ -1,0 +1,164 @@
+{
+  "slug": "parkinsons",
+  "title": "All-Party Parliamentary Group on Parkinson's",
+  "purpose": "The APPG aims to keep Parkinson's on the political agenda to ensure government initiatives and policies meet the needs of people with the condition and the wider Parkinson’s community.",
+  "categories": [
+    "Health, Medicine & Public Health"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/parkinsons.htm",
+  "secretariat": "Parkinson's UK acts as the group's secretariat.https://www.parkinsons.org.uk/",
+  "website": "https://www.parkinsons.org.uk/get-involved/parkinsons-uk-parliament",
+  "registered_contact_name": "Graeme Downie MP",
+  "date_of_most_recent_agm": "2025-11-18 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "parkinsons",
+      "mnis_id": 236,
+      "name": "Baroness Browning",
+      "canon_name": "Baroness Browning",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/parkinsons.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "parkinsons",
+      "mnis_id": 5106,
+      "name": "David Burton-Sampson",
+      "canon_name": "David Burton-Sampson",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/parkinsons.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "parkinsons",
+      "mnis_id": 5275,
+      "name": "Graeme Downie",
+      "canon_name": "Graeme Downie",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/parkinsons.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "parkinsons",
+      "mnis_id": 5164,
+      "name": "Steff Aquarone",
+      "canon_name": "Steffan Aquarone",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/parkinsons.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "parkinsons",
+      "mnis_id": 236,
+      "name": "Baroness Browning",
+      "canon_name": "Baroness Browning",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/parkinsons.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "parkinsons",
+      "mnis_id": 5106,
+      "name": "David Burton-Sampson",
+      "canon_name": "David Burton-Sampson",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/parkinsons.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "parkinsons",
+      "mnis_id": 5275,
+      "name": "Graeme Downie",
+      "canon_name": "Graeme Downie",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/parkinsons.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "parkinsons",
+      "mnis_id": 5164,
+      "name": "Steff Aquarone",
+      "canon_name": "Steffan Aquarone",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/parkinsons.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

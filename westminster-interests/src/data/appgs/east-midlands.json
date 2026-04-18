@@ -1,0 +1,165 @@
+{
+  "slug": "east-midlands",
+  "title": "All-Party Parliamentary Group for the East Midlands",
+  "purpose": "Taking advantage of the benefits of the devolution agenda, the East Midlands APPG intends to support a cross-party approach by MPs and Peers, to promote common priorities. and address challenges of growth, infrastructure, flood mitigation and investment.",
+  "categories": [
+    "Regions, Nations & Devolution",
+    "Infrastructure, Transport & Mobility"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/east-midlands.htm",
+  "secretariat": "East Midlands Councils and East Midlands Chamber of Commerce: jointly act as the group's secretariat.https://www.emcouncils.gov.uk/andhttps://www.emc-dnl.co.uk/",
+  "website": "https://www.emcouncils.gov.uk/about/our-boards/east-midlands-appg/",
+  "registered_contact_name": "James Naish MP",
+  "date_of_most_recent_agm": "2024-11-27 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "east-midlands",
+      "mnis_id": 5047,
+      "name": "James Naish",
+      "canon_name": "James Naish",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/east-midlands.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "east-midlands",
+      "mnis_id": 5256,
+      "name": "Jonathan Davies",
+      "canon_name": "Jonathan Davies",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/east-midlands.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "east-midlands",
+      "mnis_id": 333,
+      "name": "Lord McLoughlin",
+      "canon_name": "Lord McLoughlin",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/east-midlands.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "east-midlands",
+      "mnis_id": 5331,
+      "name": "Rosie Wrighting",
+      "canon_name": "Rosie Wrighting",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/east-midlands.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "east-midlands",
+      "mnis_id": 5047,
+      "name": "James Naish",
+      "canon_name": "James Naish",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/east-midlands.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "east-midlands",
+      "mnis_id": 5256,
+      "name": "Jonathan Davies",
+      "canon_name": "Jonathan Davies",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/east-midlands.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "east-midlands",
+      "mnis_id": 333,
+      "name": "Lord McLoughlin",
+      "canon_name": "Lord McLoughlin",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/east-midlands.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "east-midlands",
+      "mnis_id": 5331,
+      "name": "Rosie Wrighting",
+      "canon_name": "Rosie Wrighting",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/east-midlands.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

@@ -1,0 +1,99 @@
+{
+  "id": 858,
+  "name": "Parliamentarians for Diabetes Global Network (PDGN Limited - Company No. 10339168)",
+  "address": "44 Howard Road, New Malden, Surrey KT3 4EA",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 770.37,
+      "combined": 770.37,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 770.37,
+      "combined": 770.37,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 770.37,
+      "combined": 770.37,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 770.37,
+      "combined": 770.37,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    770,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 140291,
+      "date": "2025-11-14",
+      "category": "4",
+      "member_id": 5355,
+      "member_name": "Sarah Bool",
+      "payer_id": 858,
+      "payer_name": "Parliamentarians for Diabetes Global Network (PDGN Limited - Company No. 10339168)",
+      "amount": 770.37,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5355/registeredinterests?categoryId=4",
+      "summary": "International visit to Malta between 14 November 2025 and 16 November 2025 — To attend the Global Parliamentary Advocacy Forum organised by Parliamentarians for Diabetes Global Network (PDGN)",
+      "description": "Flights (£359.95), accommodation (£266.89), half day meal, coffee and beverages package (£93.49) and airport transfers (£50.04)"
+    }
+  ]
+}

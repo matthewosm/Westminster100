@@ -1,0 +1,164 @@
+{
+  "slug": "british-council-and-soft-power",
+  "title": "All-Party Parliamentary Group for the British Council and Soft Power",
+  "purpose": "To help parliamentarians learn more about the British Council and its work, at home and abroad, to promote English alongside British education, culture and values; to promote the impact of this soft power; and to support the British Council, offering advice and encouragement in both its everyday and long-term work.",
+  "categories": [
+    "International Affairs, Development & Trade"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-council-and-soft-power.htm",
+  "secretariat": "British Council acts as the group's secretariat.https://www.britishcouncil.org/",
+  "website": "https://appg.britishcouncil.org/",
+  "registered_contact_name": "Fabian Hamilton MP",
+  "date_of_most_recent_agm": "2026-01-20 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "british-council-and-soft-power",
+      "mnis_id": 5025,
+      "name": "Chris Webb",
+      "canon_name": "Chris Webb",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-council-and-soft-power.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "british-council-and-soft-power",
+      "mnis_id": 415,
+      "name": "Fabian Hamilton",
+      "canon_name": "Fabian Hamilton",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-council-and-soft-power.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "british-council-and-soft-power",
+      "mnis_id": null,
+      "name": "Lord Randall of Uxbridge",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-council-and-soft-power.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "british-council-and-soft-power",
+      "mnis_id": 5299,
+      "name": "Monica Harding",
+      "canon_name": "Monica Harding",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-council-and-soft-power.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "british-council-and-soft-power",
+      "mnis_id": 5025,
+      "name": "Chris Webb",
+      "canon_name": "Chris Webb",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-council-and-soft-power.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "british-council-and-soft-power",
+      "mnis_id": 415,
+      "name": "Fabian Hamilton",
+      "canon_name": "Fabian Hamilton",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-council-and-soft-power.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "british-council-and-soft-power",
+      "mnis_id": null,
+      "name": "Lord Randall of Uxbridge",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-council-and-soft-power.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "british-council-and-soft-power",
+      "mnis_id": 5299,
+      "name": "Monica Harding",
+      "canon_name": "Monica Harding",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-council-and-soft-power.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

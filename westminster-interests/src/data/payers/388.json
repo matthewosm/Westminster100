@@ -1,0 +1,99 @@
+{
+  "id": 388,
+  "name": "European Space Policy Institute (ESPI)",
+  "address": "Schwarzenbergplatz 16, TOP 1, 1010 Vienna, Austria",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 518.0,
+      "combined": 518.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 518.0,
+      "combined": 518.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 518.0,
+      "combined": 518.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 518.0,
+      "combined": 518.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    518,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 138041,
+      "date": "2025-10-28",
+      "category": "4",
+      "member_id": 4020,
+      "member_name": "George Freeman",
+      "payer_id": 388,
+      "payer_name": "European Space Policy Institute (ESPI)",
+      "amount": 518.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4020/registeredinterests?categoryId=4",
+      "summary": "International visit to Austria between 28 October 2025 and 29 October 2025 — Participation as a speaker at the ESPI Conference in Vienna.",
+      "description": "Return flights (£285.00), hotel (£112.00) and transfers (£121.00). I was accompanied by a staff member from my office, who covered all of their own travel expenses"
+    }
+  ]
+}

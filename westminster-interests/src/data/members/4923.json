@@ -1,0 +1,243 @@
+{
+  "mnis_id": 4923,
+  "name": "Kim Leadbeater",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Spen Valley",
+  "house": "Commons",
+  "start_date": "2021-07-01",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4923/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 630.0,
+      "combined": 630.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 1374.36,
+      "combined": 1374.36,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 1374.36,
+      "combined": 1374.36,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 1724.36,
+      "combined": 1724.36,
+      "payment_count": 3,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 630.0,
+        "combined": 630.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 630.0,
+        "combined": 630.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 630.0,
+        "combined": 630.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 980.0,
+        "combined": 980.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "2": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 744.36,
+        "combined": 744.36,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 744.36,
+        "combined": 744.36,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 744.36,
+        "combined": 744.36,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    630,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "compassion-in-politics",
+      "appg_name": "All-Party Parliamentary Group for Compassion in Politics",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 12784,
+      "date": "2025-07-02",
+      "category": "3",
+      "member_id": 4923,
+      "member_name": "Kim Leadbeater",
+      "payer_id": 658,
+      "payer_name": "The Lawn Tennis Association",
+      "amount": 630.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4923/registeredinterests?categoryId=3",
+      "summary": "Lawn Tennis Association - £630.00",
+      "description": "Two tickets for the Men's Final at Wimbledon for myself and a guest"
+    },
+    {
+      "id": 12187,
+      "date": "2025-03-31",
+      "category": "2",
+      "member_id": 4923,
+      "member_name": "Kim Leadbeater",
+      "payer_id": 314,
+      "payer_name": "Dignity in Dying",
+      "amount": 744.36,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4923/registeredinterests?categoryId=2",
+      "summary": "Dignity in Dying - £744.36",
+      "description": "Printing materials for my private members' bill"
+    },
+    {
+      "id": 3444,
+      "date": "2021-07-01",
+      "category": "3",
+      "member_id": 4923,
+      "member_name": "Kim Leadbeater",
+      "payer_id": 682,
+      "payer_name": "LNER",
+      "amount": 350.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4923/registeredinterests?categoryId=3",
+      "summary": "LNER - £350.00",
+      "description": "Following the murder of my sister, Jo Cox MP, in 2016, Virgin Trains and later LNER have provided myself and my family with a travel permit for use on personal rail journeys. It is not possible to provide an accurate value for this benefit, but it is expected to be worth over the threshold for this category (value is estimated)"
+    }
+  ]
+}

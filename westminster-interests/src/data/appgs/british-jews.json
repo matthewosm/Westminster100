@@ -1,0 +1,164 @@
+{
+  "slug": "british-jews",
+  "title": "All-Party Parliamentary Group on British Jews",
+  "purpose": "To promote understanding of the aspirations and challenges of the UK's Jewish community, with topics including religious freedom, faith based education, welfare and social justice. To celebrate the culture, contribution and achievements of the UK's Jewish community.",
+  "categories": [
+    "Religion, Faith & Belief Communities"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-jews.htm",
+  "secretariat": "Board of Deputies of British Jews acts as the group's secretariat.https://www.bod.org.uk/",
+  "website": "https://bod.org.uk/appg-british-jews/",
+  "registered_contact_name": "David Simmonds MP",
+  "date_of_most_recent_agm": "2025-11-24 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "british-jews",
+      "mnis_id": 4872,
+      "name": "David Simmonds",
+      "canon_name": "David Simmonds",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-jews.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "british-jews",
+      "mnis_id": 4822,
+      "name": "Feryal Clark",
+      "canon_name": "Feryal Clark",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-jews.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "british-jews",
+      "mnis_id": null,
+      "name": "Lord Palmer of Childs Hill",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-jews.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "british-jews",
+      "mnis_id": 5163,
+      "name": "Peter Prinsley",
+      "canon_name": "Peter Prinsley",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-jews.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "british-jews",
+      "mnis_id": 4872,
+      "name": "David Simmonds",
+      "canon_name": "David Simmonds",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-jews.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "british-jews",
+      "mnis_id": 4822,
+      "name": "Feryal Clark",
+      "canon_name": "Feryal Clark",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-jews.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "british-jews",
+      "mnis_id": null,
+      "name": "Lord Palmer of Childs Hill",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-jews.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "british-jews",
+      "mnis_id": 5163,
+      "name": "Peter Prinsley",
+      "canon_name": "Peter Prinsley",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-jews.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

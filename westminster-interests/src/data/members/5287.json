@@ -1,0 +1,305 @@
+{
+  "mnis_id": 5287,
+  "name": "Tim Roca",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Macclesfield",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5287/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 20000.0,
+      "inkind": 5668.3,
+      "combined": 25668.3,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 25000.0,
+      "inkind": 5668.3,
+      "combined": 30668.3,
+      "payment_count": 5,
+      "donor_count": 5
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 25000.0,
+      "inkind": 5668.3,
+      "combined": 30668.3,
+      "payment_count": 5,
+      "donor_count": 5
+    },
+    "all_time": {
+      "monetary": 25000.0,
+      "inkind": 5668.3,
+      "combined": 30668.3,
+      "payment_count": 5,
+      "donor_count": 5
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 5668.3,
+        "combined": 5668.3,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 5668.3,
+        "combined": 5668.3,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 5668.3,
+        "combined": 5668.3,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 5668.3,
+        "combined": 5668.3,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    },
+    "2": {
+      "12m": {
+        "monetary": 20000.0,
+        "inkind": 0.0,
+        "combined": 20000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 25000.0,
+        "inkind": 0.0,
+        "combined": 25000.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 25000.0,
+        "inkind": 0.0,
+        "combined": 25000.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 25000.0,
+        "inkind": 0.0,
+        "combined": 25000.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    1031,
+    4085,
+    20000,
+    0,
+    0,
+    552,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "arbitrary-detention-and-hostage-affairs",
+      "appg_name": "All-Party Parliamentary Group on Arbitrary Detention and Hostage Affairs",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "aviation",
+      "appg_name": "All-Party Parliamentary Group on Aviation",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "spain",
+      "appg_name": "All-Party Parliamentary Group on Spain",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 140151,
+      "date": "2025-11-02",
+      "category": "4",
+      "member_id": 5287,
+      "member_name": "Tim Roca",
+      "payer_id": 384,
+      "payer_name": "European Jewish Association",
+      "amount": 552.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5287/registeredinterests?categoryId=4",
+      "summary": "International visit to Poland between 02 November 2025 and 04 November 2025 — Invited to commemoration of Kristallnacht at Auschwitz-Birkenau and Krakow.",
+      "description": "Flights (£211), accommodation (£166), food and local transport (£175)"
+    },
+    {
+      "id": 13269,
+      "date": "2025-08-20",
+      "category": "2",
+      "member_id": 5287,
+      "member_name": "Tim Roca",
+      "payer_id": 502,
+      "payer_name": "Harish Sodha",
+      "amount": 20000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5287/registeredinterests?categoryId=2",
+      "summary": "Harish Sodha - £20,000.00",
+      "description": null
+    },
+    {
+      "id": 130871,
+      "date": "2025-07-22",
+      "category": "4",
+      "member_id": 5287,
+      "member_name": "Tim Roca",
+      "payer_id": 460,
+      "payer_name": "Global Fund to Fight AIDS, TB and Malaria",
+      "amount": 4085.3,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5287/registeredinterests?categoryId=4",
+      "summary": "International visit to Kenya between 22 July 2025 and 25 July 2025 — Delegation to Kenya hosted by Global Fund to Fight AIDS, TB and Malaria.",
+      "description": "Flights\t£3,553.46\r\nAccommodation\t£352.89\r\nMeals\t£130.00\r\nTransportation\t£48.95"
+    },
+    {
+      "id": 126881,
+      "date": "2025-06-04",
+      "category": "4",
+      "member_id": 5287,
+      "member_name": "Tim Roca",
+      "payer_id": 482,
+      "payer_name": "HM Government of Gibraltar",
+      "amount": 1031.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5287/registeredinterests?categoryId=4",
+      "summary": "International visit to Gibraltar between 04 June 2025 and 06 June 2025 — Invited by the Gibraltar Government for familiarisation and briefing visit.",
+      "description": "Flights (£485 return), accommodation for 2 nights (£346) and meals/hospitality (£200)"
+    },
+    {
+      "id": 12144,
+      "date": "2025-03-17",
+      "category": "2",
+      "member_id": 5287,
+      "member_name": "Tim Roca",
+      "payer_id": 776,
+      "payer_name": "Mr Harish Sodha",
+      "amount": 5000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5287/registeredinterests?categoryId=2",
+      "summary": "Mr Harish Sodha - £5,000.00",
+      "description": null
+    }
+  ]
+}

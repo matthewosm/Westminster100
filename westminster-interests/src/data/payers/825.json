@@ -1,0 +1,99 @@
+{
+  "id": 825,
+  "name": "Nodenza Venture Partners",
+  "address": "228 Park Avenue South, PMB 67135, New York, NY, 10003-1502, United States",
+  "nature_of_business": "Nodenza Venture Partners is a venture capital firm specialising in biotechnology and medical device investments.",
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 17987.68,
+      "inkind": 0.0,
+      "combined": 17987.68,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 5322.38,
+      "inkind": 0.0,
+      "combined": 5322.38,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 17987.68,
+      "inkind": 0.0,
+      "combined": 17987.68,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 7490.76,
+      "inkind": 0.0,
+      "combined": 7490.76,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "since_election": {
+      "monetary": 30800.82,
+      "inkind": 0.0,
+      "combined": 30800.82,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 30800.82,
+      "inkind": 0.0,
+      "combined": 30800.82,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    1478,
+    1478,
+    1478,
+    1478,
+    1478,
+    1478,
+    1478,
+    1478,
+    1478,
+    1478,
+    1478,
+    1478
+  ],
+  "payments": [
+    {
+      "id": 7604,
+      "date": "2024-07-26",
+      "category": "1.2",
+      "member_id": 4020,
+      "member_name": "George Freeman",
+      "payer_id": 825,
+      "payer_name": "Nodenza Venture Partners",
+      "amount": 1500.0,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": "2024-08-01",
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4020/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 01 August 2024 - £1,500.00",
+      "description": "Nodenza Venture Partners will meet the cost of any travel and other expenses arising from this role."
+    }
+  ]
+}

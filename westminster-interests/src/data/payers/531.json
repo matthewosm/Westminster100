@@ -1,0 +1,99 @@
+{
+  "id": 531,
+  "name": "The HPower Group Ltd",
+  "address": "Stable House, St. Albans Close, Windsor, Berkshire SL4 1UT",
+  "nature_of_business": null,
+  "donor_status": "Company",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 500.0,
+      "combined": 500.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 500.0,
+      "combined": 500.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 500.0,
+      "combined": 500.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 500.0,
+      "combined": 500.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    500,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 12465,
+      "date": "2025-05-15",
+      "category": "3",
+      "member_id": 5340,
+      "member_name": "Jack Rankin",
+      "payer_id": 531,
+      "payer_name": "The HPower Group Ltd",
+      "amount": 500.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5340/registeredinterests?categoryId=3",
+      "summary": "The HPower Group Ltd - £500.00",
+      "description": "My wife and I were the guests of the committee of the Royal Windsor Horse Show for the day, including champagne reception and lunch in the Royal Box with TRH The Duke and Duchess of Edinburgh.  The HPower Group Ltd is the legal entity and management company behind the show.  No retail value. Notional value estimated following advice"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": 38,
+  "name": "Allen Overy Shearman Sterling LLP",
+  "address": "1 Bishops Square, London E1 6AD",
+  "nature_of_business": "Multinational Law Firm",
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 8500.0,
+      "inkind": 0.0,
+      "combined": 8500.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 8500.0,
+      "inkind": 0.0,
+      "combined": 8500.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 8500.0,
+      "inkind": 0.0,
+      "combined": 8500.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 8500.0,
+      "inkind": 0.0,
+      "combined": 8500.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    8500,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 12988,
+      "date": "2025-07-17",
+      "category": "1.1",
+      "member_id": 4366,
+      "member_name": "Sir James Cleverly",
+      "payer_id": 38,
+      "payer_name": "Allen Overy Shearman Sterling LLP",
+      "amount": 8500.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": true,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4366/registeredinterests?categoryId=1",
+      "summary": "Payment received on 17 July 2025 - £8,500.00",
+      "description": null
+    }
+  ]
+}

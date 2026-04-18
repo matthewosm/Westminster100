@@ -1,0 +1,166 @@
+{
+  "slug": "celtic-sea",
+  "title": "All-Party Parliamentary Group for the Celtic Sea",
+  "purpose": "To promote the development and delivery of Floating Offshore Wind in the Celtic Sea maximising the economic opportunities and Net Zero benefits to Wales and the South West of England.",
+  "categories": [
+    "Environment, Climate & Sustainability",
+    "Energy & Utilities",
+    "Economy, Business & Industry"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/celtic-sea.htm",
+  "secretariat": "Invicta Public Affairs acts as the group's secretariat.https://www.invictapa.co.uk/",
+  "website": "None",
+  "registered_contact_name": "Jayne Kirkham MP",
+  "date_of_most_recent_agm": "2026-01-20 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "celtic-sea",
+      "mnis_id": 5121,
+      "name": "Henry Tufnell",
+      "canon_name": "Henry Tufnell",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/celtic-sea.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "celtic-sea",
+      "mnis_id": 5138,
+      "name": "Ian Roome",
+      "canon_name": "Ian Roome",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/celtic-sea.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "celtic-sea",
+      "mnis_id": 5279,
+      "name": "Jayne Kirkham",
+      "canon_name": "Jayne Kirkham",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/celtic-sea.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "celtic-sea",
+      "mnis_id": 5301,
+      "name": "Rebecca Smith",
+      "canon_name": "Rebecca Smith",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/celtic-sea.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "celtic-sea",
+      "mnis_id": 5121,
+      "name": "Henry Tufnell",
+      "canon_name": "Henry Tufnell",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/celtic-sea.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "celtic-sea",
+      "mnis_id": 5138,
+      "name": "Ian Roome",
+      "canon_name": "Ian Roome",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/celtic-sea.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "celtic-sea",
+      "mnis_id": 5279,
+      "name": "Jayne Kirkham",
+      "canon_name": "Jayne Kirkham",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/celtic-sea.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "celtic-sea",
+      "mnis_id": 5301,
+      "name": "Rebecca Smith",
+      "canon_name": "Rebecca Smith",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/celtic-sea.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

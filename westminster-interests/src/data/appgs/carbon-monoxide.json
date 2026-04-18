@@ -1,0 +1,165 @@
+{
+  "slug": "carbon-monoxide",
+  "title": "All-Party Parliamentary Carbon Monoxide Group",
+  "purpose": "To convene parliamentarians and stakeholders to discuss and promote ways of tackling carbon monoxide poisoning, and to raise awareness of the issue in Parliament and the public.",
+  "categories": [
+    "Health, Medicine & Public Health",
+    "Environment, Climate & Sustainability"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/carbon-monoxide.htm",
+  "secretariat": "Palace Yard Events Limited acts as the group's secretariat.https://palaceyard.co.uk/",
+  "website": "https://www.policyconnect.org.uk/appcog/",
+  "registered_contact_name": "Paul Davies MP",
+  "date_of_most_recent_agm": "2026-02-03 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "carbon-monoxide",
+      "mnis_id": null,
+      "name": "Baroness Finlay of Llandaff",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/carbon-monoxide.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "carbon-monoxide",
+      "mnis_id": null,
+      "name": "Baroness Ritchie of Downpatrick",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/carbon-monoxide.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "carbon-monoxide",
+      "mnis_id": 5311,
+      "name": "Harriet Cross",
+      "canon_name": "Harriet Cross",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/carbon-monoxide.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "carbon-monoxide",
+      "mnis_id": 5317,
+      "name": "Paul Davies",
+      "canon_name": "Paul Davies",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/carbon-monoxide.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "carbon-monoxide",
+      "mnis_id": null,
+      "name": "Baroness Finlay of Llandaff",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/carbon-monoxide.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "carbon-monoxide",
+      "mnis_id": null,
+      "name": "Baroness Ritchie of Downpatrick",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/carbon-monoxide.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "carbon-monoxide",
+      "mnis_id": 5311,
+      "name": "Harriet Cross",
+      "canon_name": "Harriet Cross",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/carbon-monoxide.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "carbon-monoxide",
+      "mnis_id": 5317,
+      "name": "Paul Davies",
+      "canon_name": "Paul Davies",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/carbon-monoxide.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

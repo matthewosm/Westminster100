@@ -1,0 +1,165 @@
+{
+  "slug": "war-crimes",
+  "title": "All-Party Parliamentary Group on War Crimes",
+  "purpose": "To look into matters relating to the presence of alleged Rwandan war criminals in the UK and the prosecution of those who participated in the Rwandan genocide against the Tutsis in 1994.",
+  "categories": [
+    "Justice, Law & Security",
+    "International Affairs, Development & Trade"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/war-crimes.htm",
+  "secretariat": "",
+  "website": "None",
+  "registered_contact_name": "David Mundell MP",
+  "date_of_most_recent_agm": "2025-11-11 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "war-crimes",
+      "mnis_id": 1512,
+      "name": "David Mundell",
+      "canon_name": "David Mundell",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/war-crimes.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "war-crimes",
+      "mnis_id": 4286,
+      "name": "Lord Mendelsohn",
+      "canon_name": "Lord Mendelsohn",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/war-crimes.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "war-crimes",
+      "mnis_id": 4547,
+      "name": "Lord Polak",
+      "canon_name": "Lord Polak",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/war-crimes.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "war-crimes",
+      "mnis_id": 1211,
+      "name": "Sir Andrew Mitchell",
+      "canon_name": "Andrew Mitchell",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/war-crimes.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "war-crimes",
+      "mnis_id": 1512,
+      "name": "David Mundell",
+      "canon_name": "David Mundell",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/war-crimes.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "war-crimes",
+      "mnis_id": 4286,
+      "name": "Lord Mendelsohn",
+      "canon_name": "Lord Mendelsohn",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/war-crimes.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "war-crimes",
+      "mnis_id": 4547,
+      "name": "Lord Polak",
+      "canon_name": "Lord Polak",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/war-crimes.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "war-crimes",
+      "mnis_id": 1211,
+      "name": "Sir Andrew Mitchell",
+      "canon_name": "Andrew Mitchell",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/war-crimes.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

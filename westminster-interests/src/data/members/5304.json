@@ -1,0 +1,261 @@
+{
+  "mnis_id": 5304,
+  "name": "Dr Danny Chambers",
+  "party": "Liberal Democrat",
+  "party_slug": "liberal-democrat",
+  "constituency": "Winchester",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5304/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 3362.22,
+      "combined": 3362.22,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 1140.0,
+      "combined": 1140.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 2222.22,
+      "combined": 2222.22,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 1475.85,
+      "combined": 1475.85,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 4838.07,
+      "combined": 4838.07,
+      "payment_count": 3,
+      "donor_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 4838.07,
+      "combined": 4838.07,
+      "payment_count": 3,
+      "donor_count": 2
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1140.0,
+        "combined": 1140.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 1140.0,
+        "combined": 1140.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 1475.85,
+        "combined": 1475.85,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 2615.85,
+        "combined": 2615.85,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 2615.85,
+        "combined": 2615.85,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "2": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 2222.22,
+        "combined": 2222.22,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 2222.22,
+        "combined": 2222.22,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 2222.22,
+        "combined": 2222.22,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 2222.22,
+        "combined": 2222.22,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    2222,
+    0,
+    0,
+    1140,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "dog-advisory-welfare",
+      "appg_name": "All-Party Parliamentary Dog Advisory Welfare Group",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "animal-welfare",
+      "appg_name": "All-Party Parliamentary Group for Animal Welfare",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "antimicrobial-resistance",
+      "appg_name": "All-Party Parliamentary Group on Antimicrobial Resistance",
+      "officer_role": "Secretary",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "maternity",
+      "appg_name": "All-Party Parliamentary Group on Maternity",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14359,
+      "date": "2026-01-01",
+      "category": "3",
+      "member_id": 5304,
+      "member_name": "Dr Danny Chambers",
+      "payer_id": 792,
+      "payer_name": "National Liberal Club",
+      "amount": 1140.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2026-12-31",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5304/registeredinterests?categoryId=3",
+      "summary": "National Liberal Club - £1,140.00",
+      "description": "Membership of the National Liberal Club for 12 months"
+    },
+    {
+      "id": 14378,
+      "date": "2025-10-06",
+      "category": "2",
+      "member_id": 5304,
+      "member_name": "Dr Danny Chambers",
+      "payer_id": 167,
+      "payer_name": "The British Society for Antimicrobial Chemotherapy",
+      "amount": 2222.22,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2026-03-31",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5304/registeredinterests?categoryId=2",
+      "summary": "The British Society for Antimicrobial Chemotherapy - £2,222.22",
+      "description": "Salary paid to an intern for one day a week. 7 hours per day at the Living Wage of £12.21 per hour, (value is estimated)"
+    },
+    {
+      "id": 10846,
+      "date": "2024-07-09",
+      "category": "3",
+      "member_id": 5304,
+      "member_name": "Dr Danny Chambers",
+      "payer_id": 792,
+      "payer_name": "National Liberal Club",
+      "amount": 1475.85,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-12-31",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5304/registeredinterests?categoryId=3",
+      "summary": "National Liberal Club - £1,475.85",
+      "description": "Membership of the National Liberal Club for 18 months"
+    }
+  ]
+}

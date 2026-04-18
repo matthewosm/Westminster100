@@ -1,0 +1,165 @@
+{
+  "slug": "council-tax-reform",
+  "title": "All-Party Parliamentary Group on Council Tax Reform",
+  "purpose": "To investigate policy changes around council tax, land value taxes, property taxes and local government finances in the round.",
+  "categories": [
+    "Governance, Democracy & Political Reform",
+    "Finance, Markets & Consumer Affairs"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/council-tax-reform.htm",
+  "secretariat": "",
+  "website": "None",
+  "registered_contact_name": "Mr Jonathan Brash MP",
+  "date_of_most_recent_agm": "2025-12-10 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "council-tax-reform",
+      "mnis_id": 5017,
+      "name": "Lord Fuller",
+      "canon_name": "Lord Fuller",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/council-tax-reform.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "council-tax-reform",
+      "mnis_id": null,
+      "name": "Lord Wharton of Yarm",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/council-tax-reform.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "council-tax-reform",
+      "mnis_id": 5147,
+      "name": "Luke Myer",
+      "canon_name": "Luke Myer",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/council-tax-reform.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "council-tax-reform",
+      "mnis_id": 5045,
+      "name": "Mr Jonathan Brash",
+      "canon_name": "Jonathan Brash",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/council-tax-reform.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "council-tax-reform",
+      "mnis_id": 5017,
+      "name": "Lord Fuller",
+      "canon_name": "Lord Fuller",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/council-tax-reform.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "council-tax-reform",
+      "mnis_id": null,
+      "name": "Lord Wharton of Yarm",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/council-tax-reform.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "council-tax-reform",
+      "mnis_id": 5147,
+      "name": "Luke Myer",
+      "canon_name": "Luke Myer",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/council-tax-reform.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "council-tax-reform",
+      "mnis_id": 5045,
+      "name": "Mr Jonathan Brash",
+      "canon_name": "Jonathan Brash",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/council-tax-reform.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

@@ -1,0 +1,173 @@
+{
+  "mnis_id": 5025,
+  "name": "Chris Webb",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Blackpool South",
+  "house": "Commons",
+  "start_date": "2024-05-02",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5025/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 1000.0,
+      "combined": 1000.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 1000.0,
+      "combined": 1000.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 1000.0,
+      "combined": 1000.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 1000.0,
+      "combined": 1000.0,
+      "payment_count": 1,
+      "donor_count": 1
+    }
+  },
+  "categories": {
+    "5": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1000.0,
+        "combined": 1000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1000.0,
+        "combined": 1000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1000.0,
+        "combined": 1000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1000.0,
+        "combined": 1000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1000,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "hospitality-and-tourism",
+      "appg_name": "All-Party Parliamentary Group for Hospitality and Tourism",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "british-council-and-soft-power",
+      "appg_name": "All-Party Parliamentary Group for the British Council and Soft Power",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "boxing",
+      "appg_name": "All-Party Parliamentary Group on Boxing",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "mental-health",
+      "appg_name": "All-Party Parliamentary Group on Mental Health",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "rugby-football-league",
+      "appg_name": "All-Party Parliamentary Group on Rugby Football League",
+      "officer_role": "Secretary",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14043,
+      "date": "2025-11-15",
+      "category": "5",
+      "member_id": 5025,
+      "member_name": "Chris Webb",
+      "payer_id": 956,
+      "payer_name": "Riyadh Season",
+      "amount": 1000.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5025/registeredinterests?categoryId=5",
+      "summary": "Riyadh Season - £1,000.00",
+      "description": "One ticket including hospitality to a boxing show at Tottenham Stadium, in my capacity as Vice Chair of the All-Party Parliamentary Group for Boxing"
+    }
+  ]
+}

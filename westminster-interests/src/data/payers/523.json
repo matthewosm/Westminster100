@@ -1,0 +1,124 @@
+{
+  "id": 523,
+  "name": "HM Government of Cayman Islands",
+  "address": "133 Elgin Avenue, George Town, Grand Cayman KY1-9000, Cayman Islands",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 11415.67,
+      "combined": 11415.67,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 11415.67,
+      "combined": 11415.67,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 2
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 11415.67,
+      "combined": 11415.67,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 11415.67,
+      "combined": 11415.67,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 2
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    11416,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 146951,
+      "date": "2026-02-13",
+      "category": "4",
+      "member_id": 5288,
+      "member_name": "Dr Al Pinkerton",
+      "payer_id": 523,
+      "payer_name": "HM Government of Cayman Islands",
+      "amount": 5742.27,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5288/registeredinterests?categoryId=4",
+      "summary": "International visit to Cayman Islands between 13 February 2026 and 17 February 2026 — Fact finding visit to UK Overseas Territory, exploring natural disaster responsiveness and preparedness, financial regulation, environmental management, and governance.",
+      "description": "Flights (£2906.60), accommodation (£1919.63), transfers (£199.50), subsistence (£653.20), commemorative item (£64.34)"
+    },
+    {
+      "id": 147381,
+      "date": "2026-02-13",
+      "category": "4",
+      "member_id": 5326,
+      "member_name": "Edward Morello",
+      "payer_id": 523,
+      "payer_name": "HM Government of Cayman Islands",
+      "amount": 5673.4,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5326/registeredinterests?categoryId=4",
+      "summary": "International visit to Cayman Islands between 13 February 2026 and 17 February 2026 — Fact finding visit to UK Overseas Territory, exploring natural disaster responsiveness and preparedness, financial regulation, environmental management, and governance.",
+      "description": "Flights (£2905.60), accommodation (£1919.63), transfers (£206.00), subsistence (£577.83), commemorative item (£64.34)"
+    }
+  ]
+}

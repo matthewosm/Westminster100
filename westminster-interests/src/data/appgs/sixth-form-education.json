@@ -1,0 +1,164 @@
+{
+  "slug": "sixth-form-education",
+  "title": "All-Party Parliamentary Group on Sixth Form Education",
+  "purpose": "To promote and support the interests of institutions that deliver sixth form education, and to advise government on the challenges facing 16 to18 education.",
+  "categories": [
+    "Education, Skills & Youth"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sixth-form-education.htm",
+  "secretariat": "Sixth Form Colleges Association acts as the group's secretariat.https://www.sixthformcolleges.org/",
+  "website": "None",
+  "registered_contact_name": "Gareth Snell MP",
+  "date_of_most_recent_agm": "2025-04-30 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "sixth-form-education",
+      "mnis_id": 5283,
+      "name": "Alison Bennett",
+      "canon_name": "Alison Bennett",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sixth-form-education.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "sixth-form-education",
+      "mnis_id": 4595,
+      "name": "Gareth Snell",
+      "canon_name": "Gareth Snell",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sixth-form-education.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "sixth-form-education",
+      "mnis_id": 3991,
+      "name": "Jesse Norman",
+      "canon_name": "Jesse Norman",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sixth-form-education.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "sixth-form-education",
+      "mnis_id": 395,
+      "name": "Lord Blunkett",
+      "canon_name": "Lord Blunkett",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sixth-form-education.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "sixth-form-education",
+      "mnis_id": 5283,
+      "name": "Alison Bennett",
+      "canon_name": "Alison Bennett",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sixth-form-education.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "sixth-form-education",
+      "mnis_id": 4595,
+      "name": "Gareth Snell",
+      "canon_name": "Gareth Snell",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sixth-form-education.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "sixth-form-education",
+      "mnis_id": 3991,
+      "name": "Jesse Norman",
+      "canon_name": "Jesse Norman",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sixth-form-education.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "sixth-form-education",
+      "mnis_id": 395,
+      "name": "Lord Blunkett",
+      "canon_name": "Lord Blunkett",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sixth-form-education.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

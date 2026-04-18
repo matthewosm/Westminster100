@@ -1,0 +1,165 @@
+{
+  "slug": "shakespeare",
+  "title": "All-Party Parliamentary Group for Shakespeare",
+  "purpose": "To promote Shakespeare’s work in the community, including to explore the teaching and learning of Shakespeare in educational settings; to embed accessibility in Shakespeare’s works as staged, translated, adapted and performed, including BSL (British Sign Language); to explore Shakespeare’s literary, cultural and performance body of work, including translations and adaptations, as intangible world heritage.",
+  "categories": [
+    "Arts, Culture, Heritage & Media",
+    "Education, Skills & Youth"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/shakespeare.htm",
+  "secretariat": "The Shakespeare Institute, University of Birmingham acts as the group's secretariat.https://www.birmingham.ac.uk/schools/edacs/departments/shakespeare",
+  "website": "https://www.birmingham.ac.uk/about/college-of-arts-and-law/shakespeare-institute/international-collaborations/the-all-party-parliamentary-group-on-shakespeare",
+  "registered_contact_name": "Manuela Perteghella MP",
+  "date_of_most_recent_agm": "2026-01-14 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "shakespeare",
+      "mnis_id": null,
+      "name": "Baroness Bonham-Carter of Yarnbury",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/shakespeare.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "shakespeare",
+      "mnis_id": 4787,
+      "name": "James Wild",
+      "canon_name": "James Wild",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/shakespeare.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "shakespeare",
+      "mnis_id": 5122,
+      "name": "Manuela Perteghella",
+      "canon_name": "Manuela Perteghella",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/shakespeare.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "shakespeare",
+      "mnis_id": 4368,
+      "name": "Neil Coyle",
+      "canon_name": "Neil Coyle",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/shakespeare.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "shakespeare",
+      "mnis_id": null,
+      "name": "Baroness Bonham-Carter of Yarnbury",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/shakespeare.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "shakespeare",
+      "mnis_id": 4787,
+      "name": "James Wild",
+      "canon_name": "James Wild",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/shakespeare.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "shakespeare",
+      "mnis_id": 5122,
+      "name": "Manuela Perteghella",
+      "canon_name": "Manuela Perteghella",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/shakespeare.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "shakespeare",
+      "mnis_id": 4368,
+      "name": "Neil Coyle",
+      "canon_name": "Neil Coyle",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/shakespeare.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

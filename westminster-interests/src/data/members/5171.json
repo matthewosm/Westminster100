@@ -1,0 +1,102 @@
+{
+  "mnis_id": 5171,
+  "name": "Julia Buckley",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Shrewsbury",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5171/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    }
+  },
+  "categories": {},
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "british-buses",
+      "appg_name": "All-Party Parliamentary Group for British Buses",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "flooding-and-flooded-communities",
+      "appg_name": "All-Party Parliamentary Group on Flooding and Flooded Communities",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "local-markets",
+      "appg_name": "All-Party Parliamentary Group on Local Markets",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "water",
+      "appg_name": "All-Party Parliamentary Water Group",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "future-homes-skills-and-innovation",
+      "appg_name": "Future Homes, Skills and Innovation All-Party Parliamentary Group",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": []
+}

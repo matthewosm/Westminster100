@@ -1,0 +1,99 @@
+{
+  "id": 1103,
+  "name": "Trafford Council",
+  "address": "Trafford Town Hall, Manchester M32 0TH",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 1186.56,
+      "inkind": 0.0,
+      "combined": 1186.56,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 1186.56,
+      "inkind": 0.0,
+      "combined": 1186.56,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 1186.56,
+      "inkind": 0.0,
+      "combined": 1186.56,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 1186.56,
+      "inkind": 0.0,
+      "combined": 1186.56,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    38,
+    1148
+  ],
+  "payments": [
+    {
+      "id": 14785,
+      "date": "2026-03-18",
+      "category": "1.2",
+      "member_id": 5447,
+      "member_name": "Hannah Spencer",
+      "payer_id": 1103,
+      "payer_name": "Trafford Council",
+      "amount": 1165.03,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5447/registeredinterests?categoryId=1",
+      "summary": "Agreement - £1,165.03",
+      "description": null
+    }
+  ]
+}

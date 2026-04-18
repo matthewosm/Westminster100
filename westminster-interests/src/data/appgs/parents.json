@@ -1,0 +1,164 @@
+{
+  "slug": "parents",
+  "title": "All-Party Parliamentary Group for Parents",
+  "purpose": "To promote the role of parents.",
+  "categories": [
+    "Social Care, Welfare & Family Support"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/parents.htm",
+  "secretariat": "Parentkind acts as the group's secretariat.https://www.parentkind.org.uk/",
+  "website": "https://www.parentkind.org.uk/research-and-policy/education-policy/policy-in-england/all-party-parliamentary-group-for-england",
+  "registered_contact_name": "Mark Sewards MP",
+  "date_of_most_recent_agm": "2025-12-01 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "parents",
+      "mnis_id": 4174,
+      "name": "Baroness Stedman-Scott",
+      "canon_name": "Baroness Stedman-Scott",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/parents.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "parents",
+      "mnis_id": null,
+      "name": "Lord Knight of Weymouth",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/parents.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "parents",
+      "mnis_id": 5166,
+      "name": "Mark Sewards",
+      "canon_name": "Mark Sewards",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/parents.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "parents",
+      "mnis_id": 1521,
+      "name": "Mrs Sharon Hodgson",
+      "canon_name": "Sharon Hodgson",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/parents.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "parents",
+      "mnis_id": 4174,
+      "name": "Baroness Stedman-Scott",
+      "canon_name": "Baroness Stedman-Scott",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/parents.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "parents",
+      "mnis_id": null,
+      "name": "Lord Knight of Weymouth",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/parents.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "parents",
+      "mnis_id": 5166,
+      "name": "Mark Sewards",
+      "canon_name": "Mark Sewards",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/parents.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "parents",
+      "mnis_id": 1521,
+      "name": "Mrs Sharon Hodgson",
+      "canon_name": "Sharon Hodgson",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/parents.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

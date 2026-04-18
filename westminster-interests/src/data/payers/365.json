@@ -1,0 +1,124 @@
+{
+  "id": 365,
+  "name": "Embassy of Finland",
+  "address": "38 Chesham Place, London, SW1X 8HW",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 2176.62,
+      "combined": 2176.62,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 2176.62,
+      "combined": 2176.62,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 2176.62,
+      "combined": 2176.62,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 2176.62,
+      "combined": 2176.62,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2177,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 141371,
+      "date": "2025-11-26",
+      "category": "4",
+      "member_id": 5174,
+      "member_name": "Fred Thomas",
+      "payer_id": 365,
+      "payer_name": "Embassy of Finland",
+      "amount": 1092.62,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5174/registeredinterests?categoryId=4",
+      "summary": "International visit to Finland between 26 November 2025 and 29 November 2025 — Study trip undertaken by a member of my staff to learn about\r\ncomprehensive security, Finnish and foreign security policy, and Finland's accession into NATO.",
+      "description": "Flights (£469.53), accommodation (£422.08), meals (£149.22), Miscellaneous incl. transport (£51.79) for my Parliamentary assistant"
+    },
+    {
+      "id": 141301,
+      "date": "2025-11-25",
+      "category": "4",
+      "member_id": 4805,
+      "member_name": "Alicia Kearns",
+      "payer_id": 365,
+      "payer_name": "Embassy of Finland",
+      "amount": 1084.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4805/registeredinterests?categoryId=4",
+      "summary": "International visit to Finland between 25 November 2025 and 28 November 2025 — This study trip to Finland provided an opportunity to discover insights into the Finnish Society and the concept of comprehensive security, comprised of societal resilience, national defence and internal security.",
+      "description": "My Parliamentary Assistant attended this trip, following an invitation to do so by the Finnish Embassy. Flights, accommodation, sustenance, and transport"
+    }
+  ]
+}

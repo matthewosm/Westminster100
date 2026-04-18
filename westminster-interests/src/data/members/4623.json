@@ -1,0 +1,398 @@
+{
+  "mnis_id": 4623,
+  "name": "Tonia Antoniazzi",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Gower",
+  "house": "Commons",
+  "start_date": "2017-06-08",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4623/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 7430.46,
+      "combined": 7430.46,
+      "payment_count": 7,
+      "donor_count": 7
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 7430.46,
+      "combined": 7430.46,
+      "payment_count": 7,
+      "donor_count": 7
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 638.0,
+      "combined": 638.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 8068.46,
+      "combined": 8068.46,
+      "payment_count": 8,
+      "donor_count": 8
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 8068.46,
+      "combined": 8068.46,
+      "payment_count": 8,
+      "donor_count": 8
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1723.06,
+        "combined": 1723.06,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1723.06,
+        "combined": 1723.06,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1723.06,
+        "combined": 1723.06,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1723.06,
+        "combined": 1723.06,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 5707.4,
+        "combined": 5707.4,
+        "payment_count": 6,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 5707.4,
+        "combined": 5707.4,
+        "payment_count": 6,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 638.0,
+        "combined": 638.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 6345.4,
+        "combined": 6345.4,
+        "payment_count": 7,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 6345.4,
+        "combined": 6345.4,
+        "payment_count": 7,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    1440,
+    2400,
+    0,
+    1190,
+    677,
+    1723,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "beer",
+      "appg_name": "All-Party Parliamentary Beer Group",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "rugby-union-football-club",
+      "appg_name": "All-Party Parliamentary Commons and Lords Rugby Union Football Club Group",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "medical-cannabis-under-prescription",
+      "appg_name": "All-Party Parliamentary Group for Medical Cannabis Under Prescription",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "commercial-sexual-exploitation",
+      "appg_name": "All-Party Parliamentary Group on Commercial Sexual Exploitation",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "modern-languages",
+      "appg_name": "All-Party Parliamentary Group on Modern Languages",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "itv",
+      "appg_name": "ITV All-Party Parliamentary Group",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 142641,
+      "date": "2025-12-11",
+      "category": "4",
+      "member_id": 4623,
+      "member_name": "Tonia Antoniazzi",
+      "payer_id": 142,
+      "payer_name": "Boston College",
+      "amount": 1723.06,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4623/registeredinterests?categoryId=4",
+      "summary": "International visit to United States between 11 December 2025 and 17 December 2025 — Visit relating to my role as Chair of Northern Ireland Affairs Committee",
+      "description": "Flights, accommodation and meals"
+    },
+    {
+      "id": 13944,
+      "date": "2025-11-15",
+      "category": "3",
+      "member_id": 4623,
+      "member_name": "Tonia Antoniazzi",
+      "payer_id": 983,
+      "payer_name": "Rugby Football Union",
+      "amount": 369.6,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "rugby-union-football-club",
+      "appg_name": "All-Party Parliamentary Commons and Lords Rugby Union Football Club Group",
+      "source_url": "https://members.parliament.uk/member/4623/registeredinterests?categoryId=3",
+      "summary": "Rugby Football Union - £369.60",
+      "description": "Rugby ticket England v New Zealand and hospitality"
+    },
+    {
+      "id": 13877,
+      "date": "2025-11-03",
+      "category": "3",
+      "member_id": 4623,
+      "member_name": "Tonia Antoniazzi",
+      "payer_id": 1124,
+      "payer_name": "UK Hospitality Industries",
+      "amount": 307.8,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "beer",
+      "appg_name": "All-Party Parliamentary Beer Group",
+      "source_url": "https://members.parliament.uk/member/4623/registeredinterests?categoryId=3",
+      "summary": "UK Hospitality Industries - £307.80",
+      "description": "The Restaurant Association Gala Dinner and Awards"
+    },
+    {
+      "id": 13517,
+      "date": "2025-09-27",
+      "category": "3",
+      "member_id": 4623,
+      "member_name": "Tonia Antoniazzi",
+      "payer_id": 42,
+      "payer_name": "Allwyn Entertainment Ltd",
+      "amount": 1190.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "rugby-union-football-club",
+      "appg_name": "All-Party Parliamentary Commons and Lords Rugby Union Football Club Group",
+      "source_url": "https://members.parliament.uk/member/4623/registeredinterests?categoryId=3",
+      "summary": "Allwyn Entertainment Ltd - £1,190.00",
+      "description": "Two tickets and hospitality for the Women's Rugby World Cup"
+    },
+    {
+      "id": 13073,
+      "date": "2025-07-30",
+      "category": "3",
+      "member_id": 4623,
+      "member_name": "Tonia Antoniazzi",
+      "payer_id": 121,
+      "payer_name": "The Betting & Gaming Council",
+      "amount": 2400.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4623/registeredinterests?categoryId=3",
+      "summary": "The Betting & Gaming Council - £2,400.00",
+      "description": "Two tickets and hospitality for Oasis"
+    },
+    {
+      "id": 13065,
+      "date": "2025-07-19",
+      "category": "3",
+      "member_id": 4623,
+      "member_name": "Tonia Antoniazzi",
+      "payer_id": 918,
+      "payer_name": "R & A Championships Limited",
+      "amount": 900.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4623/registeredinterests?categoryId=3",
+      "summary": "R & A Chamionships Limited - £900.00",
+      "description": "Two tickets and hospitality to The 153rd Open"
+    },
+    {
+      "id": 12913,
+      "date": "2025-07-10",
+      "category": "3",
+      "member_id": 4623,
+      "member_name": "Tonia Antoniazzi",
+      "payer_id": 794,
+      "payer_name": "The National Tennis Company",
+      "amount": 540.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-07-10",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "tennis",
+      "appg_name": "All-Party Parliamentary Group on Tennis",
+      "source_url": "https://members.parliament.uk/member/4623/registeredinterests?categoryId=3",
+      "summary": "The National Tennis Company - £540.00",
+      "description": "Tickets to Wimbledon"
+    },
+    {
+      "id": 10877,
+      "date": "2024-09-14",
+      "category": "3",
+      "member_id": 4623,
+      "member_name": "Tonia Antoniazzi",
+      "payer_id": 983,
+      "payer_name": "Rugby Football Union",
+      "amount": 638.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4623/registeredinterests?categoryId=3",
+      "summary": "Rugby Football Union - £638.00",
+      "description": "Two tickets, with hospitality, to a Women's Rugby match"
+    }
+  ]
+}

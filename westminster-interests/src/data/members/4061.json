@@ -1,0 +1,186 @@
+{
+  "mnis_id": 4061,
+  "name": "Bill Esterson",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Sefton Central",
+  "house": "Commons",
+  "start_date": "2010-05-06",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4061/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 2067.55,
+      "combined": 2067.55,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 2067.55,
+      "combined": 2067.55,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 2067.55,
+      "combined": 2067.55,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 2067.55,
+      "combined": 2067.55,
+      "payment_count": 2,
+      "donor_count": 2
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 2067.55,
+        "combined": 2067.55,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 2067.55,
+        "combined": 2067.55,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 2067.55,
+        "combined": 2067.55,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 2067.55,
+        "combined": 2067.55,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2068,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "waterways",
+      "appg_name": "All-Party Parliamentary Group for the Waterways",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "adoption-and-permanence",
+      "appg_name": "All-Party Parliamentary Group on Adoption and Permanence",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "manufacturing",
+      "appg_name": "All-Party Parliamentary Manufacturing Group",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 139191,
+      "date": "2025-10-26",
+      "category": "4",
+      "member_id": 4061,
+      "member_name": "Bill Esterson",
+      "payer_id": 831,
+      "payer_name": "Nuclear Industry Association",
+      "amount": 882.55,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "nuclear-energy",
+      "appg_name": "All-Party Parliamentary Group on Nuclear Energy",
+      "source_url": "https://members.parliament.uk/member/4061/registeredinterests?categoryId=4",
+      "summary": "International visit to Finland between 26 October 2025 and 28 October 2025 — To visit the Olkiluoto 3 Nuclear Power Plant, Onkalo Geological Disposal Facility and Radiation and Nuclear Safety Authority (STUK)",
+      "description": "Return flights to Helsinki, hotel accommodation, transport and meals"
+    },
+    {
+      "id": 138611,
+      "date": "2025-10-22",
+      "category": "4",
+      "member_id": 4061,
+      "member_name": "Bill Esterson",
+      "payer_id": 859,
+      "payer_name": "Parliamentary Renewable & Sustainable Energy Group (PRASEG)",
+      "amount": 1185.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "renewable-and-sustainable-energy",
+      "appg_name": "All-Party Parliamentary Group for Renewable and Sustainable Energy",
+      "source_url": "https://members.parliament.uk/member/4061/registeredinterests?categoryId=4",
+      "summary": "International visit to Denmark between 22 October 2025 and 24 October 2025 — APPG visit to high-level meetings and site visits in Copenhagen cross-channel cooperation for decarbonising heat and energy.",
+      "description": "Accommodation, return flights, subsistence, ground transport"
+    }
+  ]
+}

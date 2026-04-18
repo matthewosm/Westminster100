@@ -1,0 +1,173 @@
+{
+  "mnis_id": 5351,
+  "name": "Gregory Stafford",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "Farnham and Bordon",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5351/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 445.1,
+      "combined": 445.1,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 445.1,
+      "combined": 445.1,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 445.1,
+      "combined": 445.1,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 445.1,
+      "combined": 445.1,
+      "payment_count": 1,
+      "donor_count": 1
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 445.1,
+        "combined": 445.1,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 445.1,
+        "combined": 445.1,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 445.1,
+        "combined": 445.1,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 445.1,
+        "combined": 445.1,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    445,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "adult-social-care",
+      "appg_name": "Adult Social Care All-Party Parliamentary Group",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "special-educational-needs-and-disabilities",
+      "appg_name": "All-Party Parliamentary Group for Special Educational Needs and Disabilities",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "ahmadiyya-muslim-community",
+      "appg_name": "All-Party Parliamentary Group for the Ahmadiyya Muslim Community",
+      "officer_role": "Secretary",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "cancer-in-children-and-young-people",
+      "appg_name": "All-Party Parliamentary Group on Cancer in Children and Young People",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "slovenia",
+      "appg_name": "All-Party Parliamentary Group on Slovenia",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 13510,
+      "date": "2025-10-02",
+      "category": "3",
+      "member_id": 5351,
+      "member_name": "Gregory Stafford",
+      "payer_id": 981,
+      "payer_name": "The Rt Hon. The Lord Banner KC",
+      "amount": 445.1,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5351/registeredinterests?categoryId=3",
+      "summary": "The Rt Hon. The Lord Banner KC - £445.10",
+      "description": "Tickets for my wife and I at the O2 Arena for a concert on 2 October 2025, including seats, food, and refreshments. Cost is estimated"
+    }
+  ]
+}

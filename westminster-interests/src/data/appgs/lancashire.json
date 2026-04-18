@@ -1,0 +1,164 @@
+{
+  "slug": "lancashire",
+  "title": "All-Party Parliamentary Group on Lancashire",
+  "purpose": "The APPG will provide a forum to champion the county’s interests, drive investment and create growth opportunities that benefit local people and businesses. The APPG will explore the long-term success of existing committed investments into Lancashire and look to tell the story of Lancashire in Parliament and to the world.",
+  "categories": [
+    "Regions, Nations & Devolution"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/lancashire.htm",
+  "secretariat": "",
+  "website": "None",
+  "registered_contact_name": "Maya Ellis MP",
+  "date_of_most_recent_agm": "2026-01-21 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "lancashire",
+      "mnis_id": null,
+      "name": "Lord Khan of Burnley",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/lancashire.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "lancashire",
+      "mnis_id": 5228,
+      "name": "Maya Ellis",
+      "canon_name": "Maya Ellis",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/lancashire.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "lancashire",
+      "mnis_id": 5072,
+      "name": "Mr Andrew Snowden",
+      "canon_name": "Andrew Snowden",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/lancashire.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "lancashire",
+      "mnis_id": 5135,
+      "name": "Oliver Ryan",
+      "canon_name": "Oliver Ryan",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/lancashire.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "lancashire",
+      "mnis_id": null,
+      "name": "Lord Khan of Burnley",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/lancashire.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "lancashire",
+      "mnis_id": 5228,
+      "name": "Maya Ellis",
+      "canon_name": "Maya Ellis",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/lancashire.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "lancashire",
+      "mnis_id": 5072,
+      "name": "Mr Andrew Snowden",
+      "canon_name": "Andrew Snowden",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/lancashire.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "lancashire",
+      "mnis_id": 5135,
+      "name": "Oliver Ryan",
+      "canon_name": "Oliver Ryan",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/lancashire.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

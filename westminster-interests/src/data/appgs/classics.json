@@ -1,0 +1,165 @@
+{
+  "slug": "classics",
+  "title": "All-Party Parliamentary Group for Classics",
+  "purpose": "To provide a forum for parliamentarians to discuss, with others, issues of strategic national importance affecting the teaching and learning of classics in schools, colleges, universities, museums and communities.",
+  "categories": [
+    "Education, Skills & Youth",
+    "Arts, Culture, Heritage & Media"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/classics.htm",
+  "secretariat": "The Classical Association acts as the group's secretariat.https://classicalassociation.org",
+  "website": "https://classicalassociation.org/all-party-parliamentary-group-for-classics/",
+  "registered_contact_name": "Peter Swallow MP",
+  "date_of_most_recent_agm": "2026-02-10 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "classics",
+      "mnis_id": null,
+      "name": "Baroness Young of Old Scone",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/classics.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "classics",
+      "mnis_id": 5182,
+      "name": "Charlotte Cane",
+      "canon_name": "Charlotte Cane",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/classics.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "classics",
+      "mnis_id": 5285,
+      "name": "Katie Lam",
+      "canon_name": "Katie Lam",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/classics.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "classics",
+      "mnis_id": 5165,
+      "name": "Peter Swallow",
+      "canon_name": "Peter Swallow",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/classics.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "classics",
+      "mnis_id": null,
+      "name": "Baroness Young of Old Scone",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/classics.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "classics",
+      "mnis_id": 5182,
+      "name": "Charlotte Cane",
+      "canon_name": "Charlotte Cane",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/classics.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "classics",
+      "mnis_id": 5285,
+      "name": "Katie Lam",
+      "canon_name": "Katie Lam",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/classics.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "classics",
+      "mnis_id": 5165,
+      "name": "Peter Swallow",
+      "canon_name": "Peter Swallow",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/classics.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

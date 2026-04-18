@@ -1,0 +1,141 @@
+{
+  "slug": "speech-and-language-difficulties",
+  "title": "All-Party Parliamentary Group on Speech and Language Difficulties",
+  "purpose": "To make parliament aware that the ability to communicate is a crucial life skill for all; to increase awareness about the impact communication difficulties have on other people's lives; to highlight the importance of early identification and intervention; and to press for increased provision of speech and language therapy.",
+  "categories": [
+    "Health, Medicine & Public Health",
+    "Education, Skills & Youth"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/speech-and-language-difficulties.htm",
+  "secretariat": "Royal College of Speech and Language Therapists acts as the group's secretariat.http://www.rcslt.org/",
+  "website": "None",
+  "registered_contact_name": "None",
+  "date_of_most_recent_agm": "2025-03-12 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "speech-and-language-difficulties",
+      "mnis_id": 2510,
+      "name": "Baroness Whitaker",
+      "canon_name": "Baroness Whitaker",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/speech-and-language-difficulties.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "speech-and-language-difficulties",
+      "mnis_id": 4557,
+      "name": "Lord Shinkwin",
+      "canon_name": "Lord Shinkwin",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/speech-and-language-difficulties.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "speech-and-language-difficulties",
+      "mnis_id": 4384,
+      "name": "Mike Wood",
+      "canon_name": "Mike Wood",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/speech-and-language-difficulties.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "speech-and-language-difficulties",
+      "mnis_id": 2510,
+      "name": "Baroness Whitaker",
+      "canon_name": "Baroness Whitaker",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/speech-and-language-difficulties.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "speech-and-language-difficulties",
+      "mnis_id": 4557,
+      "name": "Lord Shinkwin",
+      "canon_name": "Lord Shinkwin",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/speech-and-language-difficulties.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "speech-and-language-difficulties",
+      "mnis_id": 4384,
+      "name": "Mike Wood",
+      "canon_name": "Mike Wood",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/speech-and-language-difficulties.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

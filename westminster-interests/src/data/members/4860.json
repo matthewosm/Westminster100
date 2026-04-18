@@ -1,0 +1,108 @@
+{
+  "mnis_id": 4860,
+  "name": "Dr Kieran Mullan",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "Bexhill and Battle",
+  "house": "Commons",
+  "start_date": "2019-12-12",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4860/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    }
+  },
+  "categories": {},
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "babies-pregnancy-to-age-2",
+      "appg_name": "All-Party Parliamentary Group on Babies (Pregnancy to Age 2)",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "deep-geothermal",
+      "appg_name": "All-Party Parliamentary Group on Deep Geothermal",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "rural-services",
+      "appg_name": "All-Party Parliamentary Group on Rural Services",
+      "officer_role": "Secretary",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "south-africa",
+      "appg_name": "All-Party Parliamentary Group on South Africa",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "sport-and-physical-activity-in-the-criminal-justice-system",
+      "appg_name": "All-Party Parliamentary Group on Sport and Physical Activity in the Criminal Justice System",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "humanist",
+      "appg_name": "All-Party Parliamentary Humanist Group",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": []
+}

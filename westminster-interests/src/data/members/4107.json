@@ -1,0 +1,455 @@
+{
+  "mnis_id": 4107,
+  "name": "Dame Harriett Baldwin",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "West Worcestershire",
+  "house": "Commons",
+  "start_date": "2010-05-06",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4107/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 760.0,
+      "inkind": 2779.64,
+      "combined": 3539.64,
+      "payment_count": 6,
+      "donor_count": 6
+    },
+    "ytd": {
+      "monetary": 760.0,
+      "inkind": 0.0,
+      "combined": 760.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 3129.64,
+      "combined": 3129.64,
+      "payment_count": 6,
+      "donor_count": 6
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 760.0,
+      "inkind": 3129.64,
+      "combined": 3889.64,
+      "payment_count": 7,
+      "donor_count": 7
+    },
+    "all_time": {
+      "monetary": 760.0,
+      "inkind": 3129.64,
+      "combined": 3889.64,
+      "payment_count": 7,
+      "donor_count": 7
+    }
+  },
+  "categories": {
+    "1.1": {
+      "12m": {
+        "monetary": 760.0,
+        "inkind": 0.0,
+        "combined": 760.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 760.0,
+        "inkind": 0.0,
+        "combined": 760.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 760.0,
+        "inkind": 0.0,
+        "combined": 760.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 760.0,
+        "inkind": 0.0,
+        "combined": 760.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 575.0,
+        "combined": 575.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 575.0,
+        "combined": 575.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 575.0,
+        "combined": 575.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 575.0,
+        "combined": 575.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1014.85,
+        "combined": 1014.85,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1364.85,
+        "combined": 1364.85,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1364.85,
+        "combined": 1364.85,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1364.85,
+        "combined": 1364.85,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    },
+    "5": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1189.79,
+        "combined": 1189.79,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1189.79,
+        "combined": 1189.79,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1189.79,
+        "combined": 1189.79,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1189.79,
+        "combined": 1189.79,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    1408,
+    0,
+    0,
+    0,
+    0,
+    387,
+    985,
+    0,
+    760,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "africa",
+      "appg_name": "All-Party Parliamentary Group for Africa",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "responsible-business",
+      "appg_name": "All-Party Parliamentary Group for Responsible Business",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "central-asia",
+      "appg_name": "All-Party Parliamentary Group on Central Asia",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "nigeria",
+      "appg_name": "All-Party Parliamentary Group on Nigeria",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "eating-disorders",
+      "appg_name": "Eating Disorders All-Party Parliamentary Group",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14343,
+      "date": "2026-01-15",
+      "category": "1.1",
+      "member_id": 4107,
+      "member_name": "Dame Harriett Baldwin",
+      "payer_id": 744,
+      "payer_name": "MHP Group",
+      "amount": 760.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": true,
+      "donated_to": "Charity",
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4107/registeredinterests?categoryId=1",
+      "summary": "Payment received on 15 January 2026 - £760.00",
+      "description": "The whole payment was donated to a charity in my constituency"
+    },
+    {
+      "id": 138911,
+      "date": "2025-11-13",
+      "category": "4",
+      "member_id": 4107,
+      "member_name": "Dame Harriett Baldwin",
+      "payer_id": 1083,
+      "payer_name": "Tertulias Limited",
+      "amount": 575.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4107/registeredinterests?categoryId=4",
+      "summary": "International visit to Spain between 13 November 2025 and 15 November 2025 — Attendance at the annual Tertulias, alongside other MPs, fostering relationships between our two countries at the highest level. My role was to work together with people from the worlds of business, industry, academia, politics and the public sector in both countries to discuss issues of common interest and common concern.",
+      "description": "Travel and accommodation (my husband joined me on the trip but paid for his own travel)"
+    },
+    {
+      "id": 13819,
+      "date": "2025-11-04",
+      "category": "3",
+      "member_id": 4107,
+      "member_name": "Dame Harriett Baldwin",
+      "payer_id": 640,
+      "payer_name": "KKCG UK Advisory Ltd",
+      "amount": 410.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4107/registeredinterests?categoryId=3",
+      "summary": "KKCG UK Advisory Ltd - £410.00",
+      "description": "Two tickets to an opera performance for a family member and me"
+    },
+    {
+      "id": 13649,
+      "date": "2025-10-16",
+      "category": "5",
+      "member_id": 4107,
+      "member_name": "Dame Harriett Baldwin",
+      "payer_id": 166,
+      "payer_name": "The British School of Brussels",
+      "amount": 386.79,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-10-17",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4107/registeredinterests?categoryId=5",
+      "summary": "The British School of Brussels - £386.79",
+      "description": "Annual Trustee meeting of the British School in Brussels. Hospitality included a standard Eurostar return ticket and one night accommodation in order to be able to attend the meeting. Hotel (£214),travel (£172.79)"
+    },
+    {
+      "id": 12464,
+      "date": "2025-05-19",
+      "category": "3",
+      "member_id": 4107,
+      "member_name": "Dame Harriett Baldwin",
+      "payer_id": 681,
+      "payer_name": "Lloyds Banking Group",
+      "amount": 604.85,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4107/registeredinterests?categoryId=3",
+      "summary": "Lloyds Banking Group - £604.85",
+      "description": "tickets with hospitality for me and my spouse to the RHS Chelsea Flower Show"
+    },
+    {
+      "id": 12551,
+      "date": "2025-05-09",
+      "category": "5",
+      "member_id": 4107,
+      "member_name": "Dame Harriett Baldwin",
+      "payer_id": 86,
+      "payer_name": "Association of Marshall Scholars",
+      "amount": 803.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-05-11",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4107/registeredinterests?categoryId=5",
+      "summary": "Association of Marshall Scholars - £803.00",
+      "description": "Associated with taking part in the US-UK legislative exchange in Cambridge, hospitality and accommodation"
+    },
+    {
+      "id": 11960,
+      "date": "2025-02-25",
+      "category": "3",
+      "member_id": 4107,
+      "member_name": "Dame Harriett Baldwin",
+      "payer_id": 406,
+      "payer_name": "Finance & Leasing Association",
+      "amount": 350.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4107/registeredinterests?categoryId=3",
+      "summary": "Finance & Leasing Association - £350.00",
+      "description": "Invited to be a guest at the Annual FLA Dinner"
+    }
+  ]
+}

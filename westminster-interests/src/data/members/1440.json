@@ -1,0 +1,298 @@
+{
+  "mnis_id": 1440,
+  "name": "Pete Wishart",
+  "party": "Scottish National Party",
+  "party_slug": "scottish-national-party",
+  "constituency": "Perth and Kinross-shire",
+  "house": "Commons",
+  "start_date": "2001-06-07",
+  "photo_url": "https://members-api.parliament.uk/api/Members/1440/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 2150.07,
+      "inkind": 1899.9,
+      "combined": 4049.97,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 2150.07,
+      "inkind": 1899.9,
+      "combined": 4049.97,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 2150.07,
+      "inkind": 1899.9,
+      "combined": 4049.97,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "all_time": {
+      "monetary": 2150.07,
+      "inkind": 1899.9,
+      "combined": 4049.97,
+      "payment_count": 4,
+      "donor_count": 4
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1899.9,
+        "combined": 1899.9,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1899.9,
+        "combined": 1899.9,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1899.9,
+        "combined": 1899.9,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1899.9,
+        "combined": 1899.9,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    },
+    "1.1": {
+      "12m": {
+        "monetary": 2150.07,
+        "inkind": 0.0,
+        "combined": 2150.07,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 2150.07,
+        "inkind": 0.0,
+        "combined": 2150.07,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 2150.07,
+        "inkind": 0.0,
+        "combined": 2150.07,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 2150.07,
+        "inkind": 0.0,
+        "combined": 2150.07,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    2858,
+    0,
+    740,
+    452,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "beer",
+      "appg_name": "All-Party Parliamentary Beer Group",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "air-ambulances",
+      "appg_name": "All-Party Parliamentary Group for Air Ambulances",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "writers",
+      "appg_name": "All-Party Parliamentary Group for Writers",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "haemophilia-and-contaminated-blood",
+      "appg_name": "All-Party Parliamentary Group on Haemophilia and Contaminated Blood",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "intellectual-property",
+      "appg_name": "All-Party Parliamentary Group on Intellectual Property",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "music",
+      "appg_name": "All-Party Parliamentary Group on Music",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 13329,
+      "date": "2025-08-20",
+      "category": "3",
+      "member_id": 1440,
+      "member_name": "Pete Wishart",
+      "payer_id": 969,
+      "payer_name": "The Royal Edinburgh Military Tattoo",
+      "amount": 452.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1440/registeredinterests?categoryId=3",
+      "summary": "The Royal Edinburgh Military Tattoo - £452.00",
+      "description": "An invite to the Royal Military Tattoo"
+    },
+    {
+      "id": 13020,
+      "date": "2025-07-11",
+      "category": "3",
+      "member_id": 1440,
+      "member_name": "Pete Wishart",
+      "payer_id": 1126,
+      "payer_name": "UK Music",
+      "amount": 739.9,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1440/registeredinterests?categoryId=3",
+      "summary": "UK Music - £739.90",
+      "description": "Two tickets for Neil Young at BST concerts at Hyde Park. Shared with one other person"
+    },
+    {
+      "id": 12472,
+      "date": "2025-05-05",
+      "category": "1.1",
+      "member_id": 1440,
+      "member_name": "Pete Wishart",
+      "payer_id": 370,
+      "payer_name": "EMI",
+      "amount": 2150.07,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1440/registeredinterests?categoryId=1",
+      "summary": "Payment received on 05 May 2025 - £2,150.07",
+      "description": null
+    },
+    {
+      "id": 12471,
+      "date": "2025-04-24",
+      "category": "3",
+      "member_id": 1440,
+      "member_name": "Pete Wishart",
+      "payer_id": 1126,
+      "payer_name": "UK Music",
+      "amount": 708.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1440/registeredinterests?categoryId=3",
+      "summary": "UK MUsic - £708.00",
+      "description": "Two tickets and hospitality for myself and a staff member to the Music Producers Guild Awards 2025"
+    }
+  ]
+}

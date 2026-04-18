@@ -1,0 +1,96 @@
+{
+  "mnis_id": 4617,
+  "name": "Matt Western",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Warwick and Leamington",
+  "house": "Commons",
+  "start_date": "2017-06-08",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4617/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    }
+  },
+  "categories": {},
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "international-students",
+      "appg_name": "All-Party Parliamentary Group for International Students",
+      "officer_role": "Treasurer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "video-games-and-esports",
+      "appg_name": "All-Party Parliamentary Group for Video Games and Esports",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "canada",
+      "appg_name": "All-Party Parliamentary Group on Canada",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "electric-vehicle",
+      "appg_name": "Electric Vehicle All-Party Parliamentary Group",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": []
+}

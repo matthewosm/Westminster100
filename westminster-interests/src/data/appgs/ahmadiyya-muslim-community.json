@@ -1,0 +1,165 @@
+{
+  "slug": "ahmadiyya-muslim-community",
+  "title": "All-Party Parliamentary Group for the Ahmadiyya Muslim Community",
+  "purpose": "The APPG brings together parliamentarians who are keen to support the work of the Ahmadiyya Muslim Community, one of Britain’s oldest established Muslim communities. It seeks to make parliamentarians and others aware of the extensive positive work of the community and to speak up on issues of persecution and extremism that Ahmadi Muslims face.",
+  "categories": [
+    "Religion, Faith & Belief Communities",
+    "Human Rights, Equality & Social Justice"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/ahmadiyya-muslim-community.htm",
+  "secretariat": "Ahmadiyya Muslim Community UK acts as the group's secretariat.https://ahmadiyyauk.org/",
+  "website": "https://appg-ahmadiyyamuslim.org.uk/",
+  "registered_contact_name": "Dame Siobhain McDonagh MP",
+  "date_of_most_recent_agm": "2025-12-15 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "ahmadiyya-muslim-community",
+      "mnis_id": 193,
+      "name": "Dame Siobhain McDonagh",
+      "canon_name": "Siobhain McDonagh",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/ahmadiyya-muslim-community.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "ahmadiyya-muslim-community",
+      "mnis_id": 188,
+      "name": "Ed Davey",
+      "canon_name": "Edward Davey",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/ahmadiyya-muslim-community.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "ahmadiyya-muslim-community",
+      "mnis_id": 5351,
+      "name": "Gregory Stafford",
+      "canon_name": "Gregory Stafford",
+      "officer_role": "Secretary",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/ahmadiyya-muslim-community.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "ahmadiyya-muslim-community",
+      "mnis_id": 5103,
+      "name": "Luke Taylor",
+      "canon_name": "Luke Taylor",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/ahmadiyya-muslim-community.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "ahmadiyya-muslim-community",
+      "mnis_id": 193,
+      "name": "Dame Siobhain McDonagh",
+      "canon_name": "Siobhain McDonagh",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/ahmadiyya-muslim-community.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "ahmadiyya-muslim-community",
+      "mnis_id": 188,
+      "name": "Ed Davey",
+      "canon_name": "Edward Davey",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/ahmadiyya-muslim-community.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "ahmadiyya-muslim-community",
+      "mnis_id": 5351,
+      "name": "Gregory Stafford",
+      "canon_name": "Gregory Stafford",
+      "officer_role": "Secretary",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/ahmadiyya-muslim-community.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "ahmadiyya-muslim-community",
+      "mnis_id": 5103,
+      "name": "Luke Taylor",
+      "canon_name": "Luke Taylor",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/ahmadiyya-muslim-community.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

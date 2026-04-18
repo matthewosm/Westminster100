@@ -1,0 +1,99 @@
+{
+  "id": 992,
+  "name": "School of International Relations, University of St Andrews",
+  "address": "The Arts Faculty Building, the Scores, St Andrews, KY16 9AX",
+  "nature_of_business": "Some limited teaching and research activities as part of the School's overall work.",
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 9492.1,
+      "inkind": 0.0,
+      "combined": 9492.1,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 2808.62,
+      "inkind": 0.0,
+      "combined": 2808.62,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 9492.1,
+      "inkind": 0.0,
+      "combined": 9492.1,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 1560.34,
+      "inkind": 0.0,
+      "combined": 1560.34,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "since_election": {
+      "monetary": 13861.06,
+      "inkind": 0.0,
+      "combined": 13861.06,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 13861.06,
+      "inkind": 0.0,
+      "combined": 13861.06,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    780,
+    780,
+    780,
+    780,
+    780,
+    780,
+    780,
+    780,
+    780,
+    780,
+    780,
+    780
+  ],
+  "payments": [
+    {
+      "id": 11472,
+      "date": "2024-12-13",
+      "category": "1.2",
+      "member_id": 4434,
+      "member_name": "Stephen Gethins",
+      "payer_id": 992,
+      "payer_name": "School of International Relations, University of St Andrews",
+      "amount": 791.55,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": "2024-11-01",
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4434/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 01 November 2024 - £791.55",
+      "description": "This is payment is for work undertaken at the School of International Relations"
+    }
+  ]
+}

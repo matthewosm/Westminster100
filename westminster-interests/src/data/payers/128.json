@@ -1,0 +1,99 @@
+{
+  "id": 128,
+  "name": "Blavatnik School of Government, Oxford University",
+  "address": "Radcliffe Observatory Quarter, Woodstock Road, Oxford OX2 6GG",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 6120.0,
+      "inkind": 0.0,
+      "combined": 6120.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 6120.0,
+      "inkind": 0.0,
+      "combined": 6120.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 6120.0,
+      "inkind": 0.0,
+      "combined": 6120.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 6120.0,
+      "inkind": 0.0,
+      "combined": 6120.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    6120,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 13052,
+      "date": "2025-06-30",
+      "category": "1.1",
+      "member_id": 5346,
+      "member_name": "Calum Miller",
+      "payer_id": 128,
+      "payer_name": "Blavatnik School of Government, Oxford University",
+      "amount": 6120.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5346/registeredinterests?categoryId=1",
+      "summary": "Payment received on 30 June 2025 - £6,120.00",
+      "description": "Provision of one day's teaching, and associated preparation, on a course delivered by the Blavatnik School"
+    }
+  ]
+}

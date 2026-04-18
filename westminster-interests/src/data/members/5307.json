@@ -1,0 +1,298 @@
+{
+  "mnis_id": 5307,
+  "name": "Dr Beccy Cooper",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Worthing West",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5307/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 15205.81,
+      "combined": 15205.81,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 1860.0,
+      "combined": 1860.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 13345.81,
+      "combined": 13345.81,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 15205.81,
+      "combined": 15205.81,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 15205.81,
+      "combined": 15205.81,
+      "payment_count": 4,
+      "donor_count": 4
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 12018.72,
+        "combined": 12018.72,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 1860.0,
+        "combined": 1860.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 10158.72,
+        "combined": 10158.72,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 12018.72,
+        "combined": 12018.72,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 12018.72,
+        "combined": 12018.72,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 3187.09,
+        "combined": 3187.09,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 3187.09,
+        "combined": 3187.09,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 3187.09,
+        "combined": 3187.09,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 3187.09,
+        "combined": 3187.09,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    13346,
+    0,
+    0,
+    0,
+    1860,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "antimicrobial-resistance",
+      "appg_name": "All-Party Parliamentary Group on Antimicrobial Resistance",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "gambling-reform",
+      "appg_name": "All-Party Parliamentary Group on Gambling Reform",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "global-health-and-security",
+      "appg_name": "All-Party Parliamentary Group on Global Health and Security",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "healthy-places",
+      "appg_name": "All-Party Parliamentary Group on Healthy Places",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "liver-disease-and-liver-cancer",
+      "appg_name": "All-Party Parliamentary Group on Liver Disease and Liver Cancer",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "slovenia",
+      "appg_name": "All-Party Parliamentary Group on Slovenia",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14477,
+      "date": "2026-01-19",
+      "category": "2",
+      "member_id": 5307,
+      "member_name": "Dr Beccy Cooper",
+      "payer_id": 20,
+      "payer_name": "Aid Alliance",
+      "amount": 1860.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2026-04-30",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5307/registeredinterests?categoryId=2",
+      "summary": "Aid Alliance - £1,860.00",
+      "description": "The services of a paid intern for one day per week to support my work on global health"
+    },
+    {
+      "id": 139621,
+      "date": "2025-10-12",
+      "category": "4",
+      "member_id": 5307,
+      "member_name": "Dr Beccy Cooper",
+      "payer_id": 461,
+      "payer_name": "Global Health Partnerships",
+      "amount": 2337.32,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "global-health-and-security",
+      "appg_name": "All-Party Parliamentary Group on Global Health and Security",
+      "source_url": "https://members.parliament.uk/member/5307/registeredinterests?categoryId=4",
+      "summary": "International visit to Kenya between 12 October 2025 and 17 October 2025 — To participate in Commonwealth Partnerships for Antimicrobial Stewardship (CwPAMS) Regional Conference, multi-stakeholder dialogues, site visits and related high-level meetings.",
+      "description": "Flights (£1,319.32), accommodation (£603.00), food, visa, taxis (£410.00)"
+    },
+    {
+      "id": 139641,
+      "date": "2025-10-08",
+      "category": "4",
+      "member_id": 5307,
+      "member_name": "Dr Beccy Cooper",
+      "payer_id": 943,
+      "payer_name": "Results UK",
+      "amount": 849.77,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "global-health-and-security",
+      "appg_name": "All-Party Parliamentary Group on Global Health and Security",
+      "source_url": "https://members.parliament.uk/member/5307/registeredinterests?categoryId=4",
+      "summary": "International visit to Switzerland between 08 October 2025 and 09 October 2025 — Delegation of APPG Chairs to Geneva: Advancing UK Leadership in Global Health, Vaccines and Tuberculosis",
+      "description": "Estimate of probable value: Flights, hotel, travel to and from airport and meetings and subsistence"
+    },
+    {
+      "id": 14160,
+      "date": "2025-10-06",
+      "category": "2",
+      "member_id": 5307,
+      "member_name": "Dr Beccy Cooper",
+      "payer_id": 167,
+      "payer_name": "The British Society for Antimicrobial Chemotherapy",
+      "amount": 10158.72,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2026-10-05",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5307/registeredinterests?categoryId=2",
+      "summary": "The British Society for Antimicrobial Chemotherapy - £10,158.72",
+      "description": "Salary paid to two interns for one day a week. 8 hours per day at the Living Wage of £12.21 per hour"
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "slug": "animal-welfare",
+  "title": "All-Party Parliamentary Group for Animal Welfare",
+  "purpose": "To advocate for improvements to animal welfare through policy, legislation and best practice.",
+  "categories": [
+    "Animals & Animal Welfare"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/animal-welfare.htm",
+  "secretariat": "RSPCA acts as the group's secretariat.https://www.rspca.org.uk/",
+  "website": "https://apgaw.org/",
+  "registered_contact_name": "Dr Neil Hudson MP",
+  "date_of_most_recent_agm": "2026-01-28 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "animal-welfare",
+      "mnis_id": 5143,
+      "name": "Carolyn Thomas",
+      "canon_name": "Carolyn Thomas",
+      "officer_role": "Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=858",
+      "removed": null
+    },
+    {
+      "appg_slug": "animal-welfare",
+      "mnis_id": null,
+      "name": "Christine Grahame",
+      "canon_name": "Christine Grahame",
+      "officer_role": "Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "animal-welfare",
+      "mnis_id": 5304,
+      "name": "Dr Danny Chambers",
+      "canon_name": "Danny Chambers",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/animal-welfare.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "animal-welfare",
+      "mnis_id": 4853,
+      "name": "Dr Neil Hudson",
+      "canon_name": "Neil Hudson",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/animal-welfare.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "animal-welfare",
+      "mnis_id": null,
+      "name": "Emma Harper",
+      "canon_name": "Emma Harper",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "animal-welfare",
+      "mnis_id": 5145,
+      "name": "Irene Campbell",
+      "canon_name": "Irene Campbell",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/animal-welfare.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "animal-welfare",
+      "mnis_id": 4260,
+      "name": "Lord Trees",
+      "canon_name": "Lord Trees",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/animal-welfare.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "animal-welfare",
+      "mnis_id": null,
+      "name": "Maggie Chapman",
+      "canon_name": "Maggie Chapman",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "animal-welfare",
+      "mnis_id": null,
+      "name": "Maurice Golden",
+      "canon_name": "Maurice Golden",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "animal-welfare",
+      "mnis_id": 6166,
+      "name": "Mr John Blair",
+      "canon_name": "John Blair",
+      "officer_role": "Chairperson",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=1782",
+      "removed": null
+    },
+    {
+      "appg_slug": "animal-welfare",
+      "mnis_id": 5808,
+      "name": "Mr Robbie Butler",
+      "canon_name": "Robbie Butler",
+      "officer_role": "Vice-Chairperson",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=1782",
+      "removed": null
+    },
+    {
+      "appg_slug": "animal-welfare",
+      "mnis_id": 6464,
+      "name": "Ms Cara Hunter",
+      "canon_name": "Cara Hunter",
+      "officer_role": "Secretary",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=1782",
+      "removed": null
+    },
+    {
+      "appg_slug": "animal-welfare",
+      "mnis_id": 4145,
+      "name": "Ms Claire Sugden",
+      "canon_name": "Claire Sugden",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=1782",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "animal-welfare",
+      "mnis_id": 5143,
+      "name": "Carolyn Thomas",
+      "canon_name": "Carolyn Thomas",
+      "officer_role": "Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=858",
+      "removed": null
+    },
+    {
+      "appg_slug": "animal-welfare",
+      "mnis_id": null,
+      "name": "Christine Grahame",
+      "canon_name": "Christine Grahame",
+      "officer_role": "Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "animal-welfare",
+      "mnis_id": 5304,
+      "name": "Dr Danny Chambers",
+      "canon_name": "Danny Chambers",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/animal-welfare.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "animal-welfare",
+      "mnis_id": 4853,
+      "name": "Dr Neil Hudson",
+      "canon_name": "Neil Hudson",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/animal-welfare.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "animal-welfare",
+      "mnis_id": null,
+      "name": "Emma Harper",
+      "canon_name": "Emma Harper",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "animal-welfare",
+      "mnis_id": 5145,
+      "name": "Irene Campbell",
+      "canon_name": "Irene Campbell",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/animal-welfare.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "animal-welfare",
+      "mnis_id": 4260,
+      "name": "Lord Trees",
+      "canon_name": "Lord Trees",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/animal-welfare.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "animal-welfare",
+      "mnis_id": null,
+      "name": "Maggie Chapman",
+      "canon_name": "Maggie Chapman",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "animal-welfare",
+      "mnis_id": null,
+      "name": "Maurice Golden",
+      "canon_name": "Maurice Golden",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "animal-welfare",
+      "mnis_id": 6166,
+      "name": "Mr John Blair",
+      "canon_name": "John Blair",
+      "officer_role": "Chairperson",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=1782",
+      "removed": null
+    },
+    {
+      "appg_slug": "animal-welfare",
+      "mnis_id": 5808,
+      "name": "Mr Robbie Butler",
+      "canon_name": "Robbie Butler",
+      "officer_role": "Vice-Chairperson",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=1782",
+      "removed": null
+    },
+    {
+      "appg_slug": "animal-welfare",
+      "mnis_id": 6464,
+      "name": "Ms Cara Hunter",
+      "canon_name": "Cara Hunter",
+      "officer_role": "Secretary",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=1782",
+      "removed": null
+    },
+    {
+      "appg_slug": "animal-welfare",
+      "mnis_id": 4145,
+      "name": "Ms Claire Sugden",
+      "canon_name": "Claire Sugden",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=1782",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

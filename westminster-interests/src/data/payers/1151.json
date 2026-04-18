@@ -1,0 +1,124 @@
+{
+  "id": 1151,
+  "name": "Viking Penguin",
+  "address": "20 Vauxhall Bridge Road, London SW1V 2SA.",
+  "nature_of_business": "Publisher",
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 18450.0,
+      "inkind": 0.0,
+      "combined": 18450.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 22500.0,
+      "inkind": 0.0,
+      "combined": 22500.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "since_election": {
+      "monetary": 40950.0,
+      "inkind": 0.0,
+      "combined": 40950.0,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 40950.0,
+      "inkind": 0.0,
+      "combined": 40950.0,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 13091,
+      "date": "2025-03-12",
+      "category": "1.1",
+      "member_id": 172,
+      "member_name": "Ms Diane Abbott",
+      "payer_id": 1151,
+      "payer_name": "Viking Penguin",
+      "amount": 18450.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": true,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/172/registeredinterests?categoryId=1",
+      "summary": "Payment received on 12 March 2025 - £18,450.00",
+      "description": "Payment for autobiography sales"
+    },
+    {
+      "id": 11318,
+      "date": "2024-09-24",
+      "category": "1.1",
+      "member_id": 172,
+      "member_name": "Ms Diane Abbott",
+      "payer_id": 1151,
+      "payer_name": "Viking Penguin",
+      "amount": 22500.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": true,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/172/registeredinterests?categoryId=1",
+      "summary": "Payment received on 24 September 2024 - £22,500.00",
+      "description": null
+    }
+  ]
+}

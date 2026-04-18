@@ -1,0 +1,124 @@
+{
+  "id": 383,
+  "name": "European Innovation Ltd",
+  "address": "The Quad, Station Quarter, Telford TF3 4NT",
+  "nature_of_business": null,
+  "donor_status": "Company",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 2450.0,
+      "inkind": 0.0,
+      "combined": 2450.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 2450.0,
+      "inkind": 0.0,
+      "combined": 2450.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 2450.0,
+      "inkind": 0.0,
+      "combined": 2450.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 2450.0,
+      "inkind": 0.0,
+      "combined": 2450.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2450,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 14285,
+      "date": "2026-01-07",
+      "category": "2",
+      "member_id": 5041,
+      "member_name": "Shaun Davies",
+      "payer_id": 383,
+      "payer_name": "European Innovation Ltd",
+      "amount": 1500.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5041/registeredinterests?categoryId=2",
+      "summary": "European Innovation Ltd - £1,500.00",
+      "description": "To support the Member's charity fundraising Christmas card to constituents, with surplus donated to Lingen Davies cancer charity in Shropshire"
+    },
+    {
+      "id": 14286,
+      "date": "2026-01-07",
+      "category": "2",
+      "member_id": 5041,
+      "member_name": "Shaun Davies",
+      "payer_id": 383,
+      "payer_name": "European Innovation Ltd",
+      "amount": 950.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5041/registeredinterests?categoryId=2",
+      "summary": "European Innovation Ltd - £950.00",
+      "description": "Sponsoring a fundraising event for Member"
+    }
+  ]
+}

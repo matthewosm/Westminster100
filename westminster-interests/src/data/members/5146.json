@@ -1,0 +1,261 @@
+{
+  "mnis_id": 5146,
+  "name": "Michael Payne",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Gedling",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5146/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 5362.3,
+      "combined": 5362.3,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 5362.3,
+      "combined": 5362.3,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 5362.3,
+      "combined": 5362.3,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 5362.3,
+      "combined": 5362.3,
+      "payment_count": 3,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 4812.3,
+        "combined": 4812.3,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 4812.3,
+        "combined": 4812.3,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 4812.3,
+        "combined": 4812.3,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 4812.3,
+        "combined": 4812.3,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 550.0,
+        "combined": 550.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 550.0,
+        "combined": 550.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 550.0,
+        "combined": 550.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 550.0,
+        "combined": 550.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    550,
+    0,
+    4085,
+    0,
+    0,
+    0,
+    727,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "dementia-in-sport",
+      "appg_name": "All-Partly Parliamentary Group on Dementia in Sport",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "haiti",
+      "appg_name": "All-Party Parliamentary Group for Haiti",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "hiv-aids-and-sexual-health",
+      "appg_name": "All-Party Parliamentary Group on HIV, AIDS and Sexual Health",
+      "officer_role": "Co-Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "motor-neurone-disease",
+      "appg_name": "All-Party Parliamentary Group on Motor Neurone Disease",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 140141,
+      "date": "2025-11-02",
+      "category": "4",
+      "member_id": 5146,
+      "member_name": "Michael Payne",
+      "payer_id": 384,
+      "payer_name": "European Jewish Association",
+      "amount": 727.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5146/registeredinterests?categoryId=4",
+      "summary": "International visit to Poland between 02 November 2025 and 04 November 2025 — Invited to commemoration of Kristallnacht at Auschwitz-Birkenau and Krakow.",
+      "description": "Flights (£211), accommodation (£166), food and local transport (£175). Person accompanying me received food and local transport only (to the value £175)"
+    },
+    {
+      "id": 131001,
+      "date": "2025-07-22",
+      "category": "4",
+      "member_id": 5146,
+      "member_name": "Michael Payne",
+      "payer_id": 460,
+      "payer_name": "Global Fund to Fight AIDS, TB and Malaria",
+      "amount": 4085.3,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5146/registeredinterests?categoryId=4",
+      "summary": "International visit to Kenya between 22 July 2025 and 25 July 2025 — Visiting healthcare facilities and meeting senior Government of Kenya representatives, also beneficiaries of healthcare initiatives and charity partners of projects funded by the Global Fund to fight AIDS, TB and Malaria.",
+      "description": "Flights (£3,553.46), accommodation (£352.89), meals (£130.00) and transportation (£48.95)"
+    },
+    {
+      "id": 12493,
+      "date": "2025-04-27",
+      "category": "3",
+      "member_id": 5146,
+      "member_name": "Michael Payne",
+      "payer_id": 417,
+      "payer_name": "The Football Association Ltd",
+      "amount": 550.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5146/registeredinterests?categoryId=3",
+      "summary": "The Football Association - £550.00",
+      "description": "Two match tickets, with hospitality, for me and one other to attend the FA Cup Semi-Final"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "slug": "pandemic-response-and-recovery",
+  "title": "All-Party Parliamentary Group on Pandemic Response and Recovery",
+  "purpose": "To provide a forum for open debate on pandemic management, to prevent avoidable suffering and loss in the future and ensure public health measures are proportional to the risk. To scrutinise the safety and regulatory approval of Covid-19 vaccines and review financial arrangements for anyoneharmed or bereaved by them.",
+  "categories": [
+    "Health, Medicine & Public Health",
+    "Social Care, Welfare & Family Support"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/pandemic-response-and-recovery.htm",
+  "secretariat": "",
+  "website": "https://appgpandemic.org/",
+  "registered_contact_name": "Esther McVey MP",
+  "date_of_most_recent_agm": "2024-10-14 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "pandemic-response-and-recovery",
+      "mnis_id": 4084,
+      "name": "Esther McVey",
+      "canon_name": "Esther McVey",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/pandemic-response-and-recovery.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "pandemic-response-and-recovery",
+      "mnis_id": 449,
+      "name": "Graham Stringer",
+      "canon_name": "Graham Stringer",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/pandemic-response-and-recovery.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "pandemic-response-and-recovery",
+      "mnis_id": 1593,
+      "name": "Sammy Wilson",
+      "canon_name": "Sammy Wilson",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/pandemic-response-and-recovery.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "pandemic-response-and-recovery",
+      "mnis_id": 242,
+      "name": "Sir Christopher Chope",
+      "canon_name": "Christopher Chope",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/pandemic-response-and-recovery.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "pandemic-response-and-recovery",
+      "mnis_id": 4084,
+      "name": "Esther McVey",
+      "canon_name": "Esther McVey",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/pandemic-response-and-recovery.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "pandemic-response-and-recovery",
+      "mnis_id": 449,
+      "name": "Graham Stringer",
+      "canon_name": "Graham Stringer",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/pandemic-response-and-recovery.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "pandemic-response-and-recovery",
+      "mnis_id": 1593,
+      "name": "Sammy Wilson",
+      "canon_name": "Sammy Wilson",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/pandemic-response-and-recovery.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "pandemic-response-and-recovery",
+      "mnis_id": 242,
+      "name": "Sir Christopher Chope",
+      "canon_name": "Christopher Chope",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/pandemic-response-and-recovery.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

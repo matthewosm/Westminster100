@@ -1,0 +1,238 @@
+{
+  "slug": "tibet",
+  "title": "All-Party Parliamentary Group on Tibet",
+  "purpose": "To put pressure on His Majesty's Government to encourage negotiations between the Chinese Government and representatives of the Tibetan Government in exile, whilst recognising that Tibet is an occupied country which had independent ties with Britain.",
+  "categories": [
+    "Country Group"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/tibet.htm",
+  "secretariat": "Free Tibet acts as the group's secretariat.https://freetibet.org/",
+  "website": "None",
+  "registered_contact_name": "Chris Law MP",
+  "date_of_most_recent_agm": "2025-06-23 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 2541.22,
+      "combined": 2541.22,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 2541.22,
+      "combined": 2541.22,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 2541.22,
+      "combined": 2541.22,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 2541.22,
+      "combined": 2541.22,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "tibet",
+      "mnis_id": 4403,
+      "name": "Chris Law",
+      "canon_name": "Chris Law",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/tibet.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "tibet",
+      "mnis_id": null,
+      "name": "Collette Stevenson",
+      "canon_name": "Collette Stevenson",
+      "officer_role": "Co-Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "tibet",
+      "mnis_id": null,
+      "name": "Lord Alton of Liverpool",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/tibet.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "tibet",
+      "mnis_id": null,
+      "name": "Lord McInnes of Kilwinning",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/tibet.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "tibet",
+      "mnis_id": 5112,
+      "name": "Luke Akehurst",
+      "canon_name": "Luke Akehurst",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/tibet.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "tibet",
+      "mnis_id": null,
+      "name": "Ross Greer",
+      "canon_name": "Ross Greer",
+      "officer_role": "Co-Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "tibet",
+      "mnis_id": 4403,
+      "name": "Chris Law",
+      "canon_name": "Chris Law",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/tibet.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "tibet",
+      "mnis_id": null,
+      "name": "Collette Stevenson",
+      "canon_name": "Collette Stevenson",
+      "officer_role": "Co-Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "tibet",
+      "mnis_id": null,
+      "name": "Lord Alton of Liverpool",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/tibet.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "tibet",
+      "mnis_id": null,
+      "name": "Lord McInnes of Kilwinning",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/tibet.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "tibet",
+      "mnis_id": 5112,
+      "name": "Luke Akehurst",
+      "canon_name": "Luke Akehurst",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/tibet.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "tibet",
+      "mnis_id": null,
+      "name": "Ross Greer",
+      "canon_name": "Ross Greer",
+      "officer_role": "Co-Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    }
+  ],
+  "payments": [
+    {
+      "id": 127071,
+      "date": "2025-05-27",
+      "category": "4",
+      "member_id": 4403,
+      "member_name": "Chris Law",
+      "payer_id": 1091,
+      "payer_name": "Tibetan Parliament-in-Exile",
+      "amount": 2541.22,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "tibet",
+      "appg_name": "All-Party Parliamentary Group on Tibet",
+      "source_url": "https://members.parliament.uk/member/4403/registeredinterests?categoryId=4",
+      "summary": "International visit to Japan between 27 May 2025 and 05 June 2025 — To attend the World Parliamentary Convention on Tibet from 2 to 4 of June, to advance global solidarity for Tibet, counter Chinese influence, and advance coordinated legislative efforts amongst parliamentarians from across the world.",
+      "description": "Flights: (£1710.52), accommodation, (£576.88), meals,(£185.37) and local transportation (£68.45). My wife stayed with me in the hotel and I paid for the supplementary cost"
+    }
+  ]
+}

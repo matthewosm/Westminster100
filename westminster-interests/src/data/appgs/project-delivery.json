@@ -1,0 +1,164 @@
+{
+  "slug": "project-delivery",
+  "title": "All-Party Parliamentary Group for Project Delivery",
+  "purpose": "To provide a forum where parliamentarians can support the delivery of national projects, and promote the uptake of best practices for project management from around the world. To ensure the country has the skills, policies and people to deliver major projects that drive economic growth, spread innovation, and build infrastructure.",
+  "categories": [
+    "Infrastructure, Transport & Mobility"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/project-delivery.htm",
+  "secretariat": "Tendo Consulting acts as the group's secretariat.https://tendoconsulting.co.uk/",
+  "website": "https://www.appgprojectdelivery.org/",
+  "registered_contact_name": "Henry Tufnell MP",
+  "date_of_most_recent_agm": "2025-02-11 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "project-delivery",
+      "mnis_id": 5121,
+      "name": "Henry Tufnell",
+      "canon_name": "Henry Tufnell",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/project-delivery.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "project-delivery",
+      "mnis_id": 5085,
+      "name": "Llinos Medi",
+      "canon_name": "Llinos Medi",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/project-delivery.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "project-delivery",
+      "mnis_id": null,
+      "name": "Lord Goddard of Stockport",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/project-delivery.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "project-delivery",
+      "mnis_id": 68,
+      "name": "Lord Lilley",
+      "canon_name": "Lord Lilley",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/project-delivery.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "project-delivery",
+      "mnis_id": 5121,
+      "name": "Henry Tufnell",
+      "canon_name": "Henry Tufnell",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/project-delivery.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "project-delivery",
+      "mnis_id": 5085,
+      "name": "Llinos Medi",
+      "canon_name": "Llinos Medi",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/project-delivery.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "project-delivery",
+      "mnis_id": null,
+      "name": "Lord Goddard of Stockport",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/project-delivery.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "project-delivery",
+      "mnis_id": 68,
+      "name": "Lord Lilley",
+      "canon_name": "Lord Lilley",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/project-delivery.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

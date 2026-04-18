@@ -1,0 +1,299 @@
+{
+  "mnis_id": 5201,
+  "name": "Victoria Collins",
+  "party": "Liberal Democrat",
+  "party_slug": "liberal-democrat",
+  "constituency": "Harpenden and Berkhamsted",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5201/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 15000.0,
+      "inkind": 5785.6,
+      "combined": 20785.6,
+      "payment_count": 5,
+      "donor_count": 5
+    },
+    "ytd": {
+      "monetary": 5000.0,
+      "inkind": 1773.6,
+      "combined": 6773.6,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2025": {
+      "monetary": 10000.0,
+      "inkind": 4012.0,
+      "combined": 14012.0,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 15000.0,
+      "inkind": 5785.6,
+      "combined": 20785.6,
+      "payment_count": 5,
+      "donor_count": 5
+    },
+    "all_time": {
+      "monetary": 15000.0,
+      "inkind": 5785.6,
+      "combined": 20785.6,
+      "payment_count": 5,
+      "donor_count": 5
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 15000.0,
+        "inkind": 1773.6,
+        "combined": 16773.6,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 5000.0,
+        "inkind": 1773.6,
+        "combined": 6773.6,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 10000.0,
+        "inkind": 0.0,
+        "combined": 10000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 15000.0,
+        "inkind": 1773.6,
+        "combined": 16773.6,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 15000.0,
+        "inkind": 1773.6,
+        "combined": 16773.6,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 4012.0,
+        "combined": 4012.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 4012.0,
+        "combined": 4012.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 4012.0,
+        "combined": 4012.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 4012.0,
+        "combined": 4012.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    10000,
+    0,
+    2872,
+    0,
+    0,
+    0,
+    0,
+    0,
+    7914,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "entrepreneurship",
+      "appg_name": "All-Party Parliamentary Group for Entrepreneurship",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "women-and-enterprise",
+      "appg_name": "All-Party Parliamentary Group for Women and Enterprise",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14302,
+      "date": "2026-01-12",
+      "category": "2",
+      "member_id": 5201,
+      "member_name": "Victoria Collins",
+      "payer_id": 40,
+      "payer_name": "Allison Wren",
+      "amount": 5000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5201/registeredinterests?categoryId=2",
+      "summary": "Allison Wren - £5,000.00",
+      "description": "Support via Harpenden & Berkhamsted local party, funding for local election campaigns."
+    },
+    {
+      "id": 14304,
+      "date": "2026-01-12",
+      "category": "2",
+      "member_id": 5201,
+      "member_name": "Victoria Collins",
+      "payer_id": 152,
+      "payer_name": "Bridget Fox",
+      "amount": 1773.6,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5201/registeredinterests?categoryId=2",
+      "summary": "Bridget Fox - £1,773.60",
+      "description": "Paid for fundraising dinner for Harpenden & Berkhamsted Liberal Democrat local party"
+    },
+    {
+      "id": 14284,
+      "date": "2025-12-23",
+      "category": "3",
+      "member_id": 5201,
+      "member_name": "Victoria Collins",
+      "payer_id": 792,
+      "payer_name": "National Liberal Club",
+      "amount": 1140.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2026-12-31",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5201/registeredinterests?categoryId=3",
+      "summary": "National Liberal Club - £1,140.00",
+      "description": "Honorary membership of the National Liberal Club as recently elected MP"
+    },
+    {
+      "id": 12975,
+      "date": "2025-06-26",
+      "category": "3",
+      "member_id": 5201,
+      "member_name": "Victoria Collins",
+      "payer_id": 906,
+      "payer_name": "PRS for Music",
+      "amount": 2872.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-06-28",
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5201/registeredinterests?categoryId=3",
+      "summary": "PRS for Music - £2,872.00",
+      "description": "Glastonbury event tickets, accommodation, food and transport for two people sponsored by PRS for Music"
+    },
+    {
+      "id": 12284,
+      "date": "2025-04-24",
+      "category": "2",
+      "member_id": 5201,
+      "member_name": "Victoria Collins",
+      "payer_id": 616,
+      "payer_name": "John Cooper",
+      "amount": 10000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5201/registeredinterests?categoryId=2",
+      "summary": "John Cooper - £10,000.00",
+      "description": null
+    }
+  ]
+}

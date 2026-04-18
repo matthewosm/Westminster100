@@ -1,0 +1,230 @@
+{
+  "mnis_id": 3952,
+  "name": "Mr Toby Perkins",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Chesterfield",
+  "house": "Commons",
+  "start_date": "2010-05-06",
+  "photo_url": "https://members-api.parliament.uk/api/Members/3952/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 2254.59,
+      "combined": 2254.59,
+      "payment_count": 4,
+      "donor_count": 3
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 2254.59,
+      "combined": 2254.59,
+      "payment_count": 4,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 2254.59,
+      "combined": 2254.59,
+      "payment_count": 4,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 2254.59,
+      "combined": 2254.59,
+      "payment_count": 4,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 2254.59,
+        "combined": 2254.59,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 2254.59,
+        "combined": 2254.59,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 2254.59,
+        "combined": 2254.59,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 2254.59,
+        "combined": 2254.59,
+        "payment_count": 4,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    1415,
+    840,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "apprenticeships",
+      "appg_name": "All-Party Parliamentary Group on Apprenticeships",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "tennis",
+      "appg_name": "All-Party Parliamentary Group on Tennis",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 13059,
+      "date": "2025-07-05",
+      "category": "3",
+      "member_id": 3952,
+      "member_name": "Mr Toby Perkins",
+      "payer_id": 658,
+      "payer_name": "The Lawn Tennis Association",
+      "amount": 320.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-07-05",
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/3952/registeredinterests?categoryId=3",
+      "summary": "Lawn Tennis Association - £320.00",
+      "description": "Two tickets to watch Wimbledon Tennis championships"
+    },
+    {
+      "id": 13060,
+      "date": "2025-07-04",
+      "category": "3",
+      "member_id": 3952,
+      "member_name": "Mr Toby Perkins",
+      "payer_id": 36,
+      "payer_name": "The All England Lawn Tennis Club (Championships) Limited",
+      "amount": 520.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-07-04",
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/3952/registeredinterests?categoryId=3",
+      "summary": "All England Lawn Tennis Club (Championships)  Ltd - £520.00",
+      "description": "Two tickets plus hospitality at Wimbledon Tennis championships"
+    },
+    {
+      "id": 12770,
+      "date": "2025-06-22",
+      "category": "3",
+      "member_id": 3952,
+      "member_name": "Mr Toby Perkins",
+      "payer_id": 658,
+      "payer_name": "The Lawn Tennis Association",
+      "amount": 1015.12,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-06-22",
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "tennis",
+      "appg_name": "All-Party Parliamentary Group on Tennis",
+      "source_url": "https://members.parliament.uk/member/3952/registeredinterests?categoryId=3",
+      "summary": "Lawn Tennis Association - £1,015.12",
+      "description": "Two tickets (with hospitality) to watch HSBC championships at Queens"
+    },
+    {
+      "id": 12769,
+      "date": "2025-06-12",
+      "category": "3",
+      "member_id": 3952,
+      "member_name": "Mr Toby Perkins",
+      "payer_id": 658,
+      "payer_name": "The Lawn Tennis Association",
+      "amount": 399.47,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-06-12",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "tennis",
+      "appg_name": "All-Party Parliamentary Group on Tennis",
+      "source_url": "https://members.parliament.uk/member/3952/registeredinterests?categoryId=3",
+      "summary": "Lawn Tennis Association - £399.47",
+      "description": "Ticket (including hospitality) to the HSBC Championships at Queens"
+    }
+  ]
+}

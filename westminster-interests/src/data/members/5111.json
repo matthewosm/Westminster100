@@ -1,0 +1,249 @@
+{
+  "mnis_id": 5111,
+  "name": "Martin Wrigley",
+  "party": "Liberal Democrat",
+  "party_slug": "liberal-democrat",
+  "constituency": "Newton Abbot",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5111/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 7034.91,
+      "inkind": 0.0,
+      "combined": 7034.91,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 1886.07,
+      "inkind": 0.0,
+      "combined": 1886.07,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 11494.46,
+      "inkind": 0.0,
+      "combined": 11494.46,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 8913.42,
+      "inkind": 1029.62,
+      "combined": 9943.04,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "since_election": {
+      "monetary": 22293.96,
+      "inkind": 1029.62,
+      "combined": 23323.58,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 22293.96,
+      "inkind": 1029.62,
+      "combined": 23323.58,
+      "payment_count": 3,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 1029.62,
+        "combined": 1029.62,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1029.62,
+        "combined": 1029.62,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1029.62,
+        "combined": 1029.62,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "1.2": {
+      "12m": {
+        "monetary": 7034.91,
+        "inkind": 0.0,
+        "combined": 7034.91,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 1886.07,
+        "inkind": 0.0,
+        "combined": 1886.07,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 11494.46,
+        "inkind": 0.0,
+        "combined": 11494.46,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 8913.42,
+        "inkind": 0.0,
+        "combined": 8913.42,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 22293.96,
+        "inkind": 0.0,
+        "combined": 22293.96,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 22293.96,
+        "inkind": 0.0,
+        "combined": 22293.96,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    978,
+    524,
+    524,
+    524,
+    524,
+    524,
+    524,
+    524,
+    524,
+    524,
+    524,
+    524
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "quantum-technologies",
+      "appg_name": "All-Party Parliamentary Group on Quantum Technologies",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "local-growth",
+      "appg_name": "Local Growth All-Party Parliamentary Group",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 10847,
+      "date": "2024-09-12",
+      "category": "3",
+      "member_id": 5111,
+      "member_name": "Martin Wrigley",
+      "payer_id": 792,
+      "payer_name": "National Liberal Club",
+      "amount": 1029.62,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-12-31",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5111/registeredinterests?categoryId=3",
+      "summary": "National Liberal Club - £1,029.62",
+      "description": "Complimentary membership of the NLC"
+    },
+    {
+      "id": 10594,
+      "date": "2024-08-29",
+      "category": "1.2",
+      "member_id": 5111,
+      "member_name": "Martin Wrigley",
+      "payer_id": 311,
+      "payer_name": "Devon County Council",
+      "amount": 1256.83,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": "2024-08-01",
+      "end_date": "2025-05-04",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5111/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 01 August 2024 - £1,256.83",
+      "description": null
+    },
+    {
+      "id": 11390,
+      "date": "2024-08-02",
+      "category": "1.2",
+      "member_id": 5111,
+      "member_name": "Martin Wrigley",
+      "payer_id": 1078,
+      "payer_name": "Teignbridge district council",
+      "amount": 531.55,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5111/registeredinterests?categoryId=1",
+      "summary": "Agreement - £531.55",
+      "description": "Allowance"
+    }
+  ]
+}

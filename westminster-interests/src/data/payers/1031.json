@@ -1,0 +1,99 @@
+{
+  "id": 1031,
+  "name": "Space 4 Earth VC Fund",
+  "address": "4 Cavendish Square, London, W1G 0PG",
+  "nature_of_business": "S4E VC Fund is being set up as a new Fund focused on investing in space related technologies which promote: efficient and sustainable production of food, clean water for everyone, decarbonisation, and the end to deforestation. The Fund does not have a relationship with the government. The fund will be a standard GP/LP fund structure, with the investment advisor and the advisory board based in the UK. The General Partner could be located in the Channel Islands depending on requirements by investors, however the core of the Fund and its Fund Manager and advisory board will be in the UK.",
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 11991.79,
+      "inkind": 0.0,
+      "combined": 11991.79,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 3548.25,
+      "inkind": 0.0,
+      "combined": 3548.25,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 11991.79,
+      "inkind": 0.0,
+      "combined": 11991.79,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 985.63,
+      "inkind": 0.0,
+      "combined": 985.63,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "since_election": {
+      "monetary": 16525.67,
+      "inkind": 0.0,
+      "combined": 16525.67,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 16525.67,
+      "inkind": 0.0,
+      "combined": 16525.67,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    986,
+    986,
+    986,
+    986,
+    986,
+    986,
+    986,
+    986,
+    986,
+    986,
+    986,
+    986
+  ],
+  "payments": [
+    {
+      "id": 11423,
+      "date": "2024-12-03",
+      "category": "1.2",
+      "member_id": 4020,
+      "member_name": "George Freeman",
+      "payer_id": 1031,
+      "payer_name": "Space 4 Earth VC Fund",
+      "amount": 1000.0,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": "2024-12-01",
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4020/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 01 December 2024 - £1,000.00",
+      "description": "Payments have yet to start."
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "mnis_id": 227,
+  "name": "Andrew George",
+  "party": "Liberal Democrat",
+  "party_slug": "liberal-democrat",
+  "constituency": "St Ives",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/227/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 653.75,
+      "inkind": 0.0,
+      "combined": 653.75,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 6084.92,
+      "inkind": 2177.99,
+      "combined": 8262.91,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 7493.01,
+      "inkind": 0.0,
+      "combined": 7493.01,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "since_election": {
+      "monetary": 13577.93,
+      "inkind": 2177.99,
+      "combined": 15755.92,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "all_time": {
+      "monetary": 13577.93,
+      "inkind": 2177.99,
+      "combined": 15755.92,
+      "payment_count": 2,
+      "donor_count": 2
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 2177.99,
+        "combined": 2177.99,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 2177.99,
+        "combined": 2177.99,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 2177.99,
+        "combined": 2177.99,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "1.2": {
+      "12m": {
+        "monetary": 653.75,
+        "inkind": 0.0,
+        "combined": 653.75,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 6084.92,
+        "inkind": 0.0,
+        "combined": 6084.92,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 7493.01,
+        "inkind": 0.0,
+        "combined": 7493.01,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 13577.93,
+        "inkind": 0.0,
+        "combined": 13577.93,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 13577.93,
+        "inkind": 0.0,
+        "combined": 13577.93,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    402,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "international-law-justice-and-accountability",
+      "appg_name": "All-Party Parliamentary Group on International Law, Justice and Accountability",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 123431,
+      "date": "2025-04-13",
+      "category": "4",
+      "member_id": 227,
+      "member_name": "Andrew George",
+      "payer_id": 565,
+      "payer_name": "International Centre of Justice for Palestinians (ICJP)",
+      "amount": 2177.99,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/227/registeredinterests?categoryId=4",
+      "summary": "International visit to Israel between 13 April 2025 and 18 April 2025 — Delegation to the occupied West Bank including East Jerusalem, and Israel, to meet with Palestinian communities and Palestinian and Israeli politicians, journalists, and civil society organisations.",
+      "description": "Flights, accommodation, transfers, subsistence"
+    },
+    {
+      "id": 8717,
+      "date": "2024-08-04",
+      "category": "1.2",
+      "member_id": 227,
+      "member_name": "Andrew George",
+      "payer_id": 271,
+      "payer_name": "Cornwall Council",
+      "amount": 1530.66,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": null,
+      "end_date": "2025-05-01",
+      "is_sole_beneficiary": true,
+      "is_donated": true,
+      "donated_to": "Community organisation",
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/227/registeredinterests?categoryId=1",
+      "summary": "Agreement - £1,530.66",
+      "description": null
+    }
+  ]
+}

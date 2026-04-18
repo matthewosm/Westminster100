@@ -1,0 +1,355 @@
+{
+  "mnis_id": 4119,
+  "name": "Jonathan Reynolds",
+  "party": "Labour (Co-op)",
+  "party_slug": "labour-co-op",
+  "constituency": "Stalybridge and Hyde",
+  "house": "Commons",
+  "start_date": "2010-05-06",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4119/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 3330.0,
+      "combined": 3330.0,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 3000.0,
+      "inkind": 3670.0,
+      "combined": 6670.0,
+      "payment_count": 6,
+      "donor_count": 6
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 3000.0,
+      "inkind": 3670.0,
+      "combined": 6670.0,
+      "payment_count": 6,
+      "donor_count": 6
+    },
+    "all_time": {
+      "monetary": 3000.0,
+      "inkind": 3670.0,
+      "combined": 6670.0,
+      "payment_count": 6,
+      "donor_count": 6
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 3330.0,
+        "combined": 3330.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 3330.0,
+        "combined": 3330.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 3330.0,
+        "combined": 3330.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 3330.0,
+        "combined": 3330.0,
+        "payment_count": 4,
+        "donor_count": 0
+      }
+    },
+    "5": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 340.0,
+        "combined": 340.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 340.0,
+        "combined": 340.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 340.0,
+        "combined": 340.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "2": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 3000.0,
+        "inkind": 0.0,
+        "combined": 3000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 3000.0,
+        "inkind": 0.0,
+        "combined": 3000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 3000.0,
+        "inkind": 0.0,
+        "combined": 3000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    750,
+    0,
+    360,
+    0,
+    2220,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [],
+  "payments": [
+    {
+      "id": 13788,
+      "date": "2025-10-18",
+      "category": "3",
+      "member_id": 4119,
+      "member_name": "Jonathan Reynolds",
+      "payer_id": 1001,
+      "payer_name": "Show Racism The Red Card",
+      "amount": 720.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4119/registeredinterests?categoryId=3",
+      "summary": "Show Racism The Red Card - £720.00",
+      "description": "Tickets and hospitality for me and a guest at Show Racism The Red Card's 'Wear Red Day' at the Stadium of Light, Sunderland, to watch Sunderland v Wolves. The approximate value of this ticket is £360 per person. I made a donation of £360 to the charity to cover the cost of my ticket"
+    },
+    {
+      "id": 13509,
+      "date": "2025-10-04",
+      "category": "3",
+      "member_id": 4119,
+      "member_name": "Jonathan Reynolds",
+      "payer_id": 719,
+      "payer_name": "Manchester United Football Club Limited",
+      "amount": 1500.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4119/registeredinterests?categoryId=3",
+      "summary": "Manchester United Football Club Limited - £1,500.00",
+      "description": "Three tickets including hospitality to the Manchester United v Sunderland football match at Old Trafford on Saturday 4 October 2025 for myself and two children. The estimated value of the tickets are £500 each. (I made a donation of £500 to the Manchester United Foundation to cover the cost of my ticket.)"
+    },
+    {
+      "id": 13366,
+      "date": "2025-08-16",
+      "category": "3",
+      "member_id": 4119,
+      "member_name": "Jonathan Reynolds",
+      "payer_id": 1061,
+      "payer_name": "Sunderland Association Football Club Limited",
+      "amount": 360.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4119/registeredinterests?categoryId=3",
+      "summary": "Sunderland Association Football Club - £360.00",
+      "description": "Ticket including hospitality to the Sunderland v West Ham football match. A donation for the estimated value of this ticket has been made to the Foundation of  Light  - the official charity of Sunderland AFC"
+    },
+    {
+      "id": 12647,
+      "date": "2025-05-24",
+      "category": "3",
+      "member_id": 4119,
+      "member_name": "Jonathan Reynolds",
+      "payer_id": 1061,
+      "payer_name": "Sunderland Association Football Club Limited",
+      "amount": 750.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4119/registeredinterests?categoryId=3",
+      "summary": "Sunderland Association Football Club Limited - £750.00",
+      "description": "Ticket including hospitality to the Sunderland v Sheffield United Promotion Play-offs Final on Saturday 24 May 2025 at Wembley Stadium. It was not possible to purchase the ticket therefore a donation of £750, the estimated value of the ticket, was made to the Foundation of Light - the official charity of Sunderland AFC"
+    },
+    {
+      "id": 12324,
+      "date": "2025-04-05",
+      "category": "5",
+      "member_id": 4119,
+      "member_name": "Jonathan Reynolds",
+      "payer_id": 933,
+      "payer_name": "Real Madrid CF",
+      "amount": 340.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4119/registeredinterests?categoryId=5",
+      "summary": "Real Madrid CF - £340.00",
+      "description": "Two tickets to the Real Madrid v Valencia football match on Saturday 5 April 2025. It was not possible to purchase the tickets therefore a donation of 500 euros, a higher value than the tickets,  was made to the Real Madrid Foundation"
+    },
+    {
+      "id": 11987,
+      "date": "2025-03-14",
+      "category": "2",
+      "member_id": 4119,
+      "member_name": "Jonathan Reynolds",
+      "payer_id": 732,
+      "payer_name": "Martin Littler",
+      "amount": 3000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4119/registeredinterests?categoryId=2",
+      "summary": "Martin Littler - £3,000.00",
+      "description": "For local campaigning"
+    }
+  ]
+}

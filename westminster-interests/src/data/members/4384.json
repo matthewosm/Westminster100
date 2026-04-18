@@ -1,0 +1,108 @@
+{
+  "mnis_id": 4384,
+  "name": "Mike Wood",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "Kingswinford and South Staffordshire",
+  "house": "Commons",
+  "start_date": "2015-05-07",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4384/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    }
+  },
+  "categories": {},
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "bus-and-coach",
+      "appg_name": "All-Party Parliamentary Group for Bus and Coach",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "cyprus",
+      "appg_name": "All-Party Parliamentary Group for Cyprus",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "ethnicity-transplantation-and-transfusion",
+      "appg_name": "All-Party Parliamentary Group on Ethnicity Transplantation and Transfusion",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "global-education",
+      "appg_name": "All-Party Parliamentary Group on Global Education",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "sepsis",
+      "appg_name": "All-Party Parliamentary Group on Sepsis",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "speech-and-language-difficulties",
+      "appg_name": "All-Party Parliamentary Group on Speech and Language Difficulties",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": []
+}

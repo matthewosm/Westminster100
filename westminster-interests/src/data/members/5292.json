@@ -1,0 +1,167 @@
+{
+  "mnis_id": 5292,
+  "name": "Dáire Hughes",
+  "party": "Sinn Féin",
+  "party_slug": "sinn-f-in",
+  "constituency": "Newry and Armagh",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5292/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 1800.09,
+      "combined": 1800.09,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 1800.09,
+      "combined": 1800.09,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 1800.09,
+      "combined": 1800.09,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 1800.09,
+      "combined": 1800.09,
+      "payment_count": 2,
+      "donor_count": 2
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1800.09,
+        "combined": 1800.09,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1800.09,
+        "combined": 1800.09,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1800.09,
+        "combined": 1800.09,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1800.09,
+        "combined": 1800.09,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    775,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [],
+  "payments": [
+    {
+      "id": 129031,
+      "date": "2025-06-12",
+      "category": "4",
+      "member_id": 5292,
+      "member_name": "Dáire Hughes",
+      "payer_id": 386,
+      "payer_name": "European Left Alliance",
+      "amount": 775.3,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5292/registeredinterests?categoryId=4",
+      "summary": "International visit to Portugal between 12 June 2025 and 15 June 2025 — To attend and speak at the 1st Congress of the European Left Alliance",
+      "description": "Flights (£494.20)\r\nAccommodation (£281.10)"
+    },
+    {
+      "id": 123321,
+      "date": "2025-04-19",
+      "category": "4",
+      "member_id": 5292,
+      "member_name": "Dáire Hughes",
+      "payer_id": 433,
+      "payer_name": "Friends of Sinn Féin Canada",
+      "amount": 1024.79,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5292/registeredinterests?categoryId=4",
+      "summary": "International visit to Canada between 19 April 2025 and 21 April 2025 — To meet diaspora and trade union representatives, and to speak at a Friends of Sinn Féin Canada event.",
+      "description": "Flights (£844.52), Accommodation (£126.04), Meals (£54.22)"
+    }
+  ]
+}

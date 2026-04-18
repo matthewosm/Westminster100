@@ -1,0 +1,165 @@
+{
+  "slug": "swimming",
+  "title": "All-Party Parliamentary Group for Swimming",
+  "purpose": "To promote swimming and other aquatic disciplines and to highlight the importance of swimming and water safety in schools.",
+  "categories": [
+    "Sport, Recreation & Physical Activity",
+    "Education, Skills & Youth"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/swimming.htm",
+  "secretariat": "Swim England acts as the group's secretariat.http://www.swimming.org/",
+  "website": "None",
+  "registered_contact_name": "Mr Jonathan Brash MP",
+  "date_of_most_recent_agm": "2026-01-20 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "swimming",
+      "mnis_id": 4523,
+      "name": "Catherine West",
+      "canon_name": "Catherine West",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/swimming.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "swimming",
+      "mnis_id": 4708,
+      "name": "Lord Bethell",
+      "canon_name": "Lord Bethell",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/swimming.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "swimming",
+      "mnis_id": 181,
+      "name": "Lord Cryer",
+      "canon_name": "Lord Cryer",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/swimming.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "swimming",
+      "mnis_id": 5045,
+      "name": "Mr Jonathan Brash",
+      "canon_name": "Jonathan Brash",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/swimming.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "swimming",
+      "mnis_id": 4523,
+      "name": "Catherine West",
+      "canon_name": "Catherine West",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/swimming.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "swimming",
+      "mnis_id": 4708,
+      "name": "Lord Bethell",
+      "canon_name": "Lord Bethell",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/swimming.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "swimming",
+      "mnis_id": 181,
+      "name": "Lord Cryer",
+      "canon_name": "Lord Cryer",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/swimming.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "swimming",
+      "mnis_id": 5045,
+      "name": "Mr Jonathan Brash",
+      "canon_name": "Jonathan Brash",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/swimming.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

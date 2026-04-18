@@ -1,0 +1,243 @@
+{
+  "mnis_id": 5199,
+  "name": "Mr Luke Charters",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "York Outer",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5199/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 3144.27,
+      "combined": 3144.27,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 3144.27,
+      "combined": 3144.27,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 3144.27,
+      "combined": 3144.27,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 3144.27,
+      "combined": 3144.27,
+      "payment_count": 3,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 2822.27,
+        "combined": 2822.27,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 2822.27,
+        "combined": 2822.27,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 2822.27,
+        "combined": 2822.27,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 2822.27,
+        "combined": 2822.27,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 322.0,
+        "combined": 322.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 322.0,
+        "combined": 322.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 322.0,
+        "combined": 322.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 322.0,
+        "combined": 322.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    1252,
+    0,
+    0,
+    322,
+    0,
+    1570,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "open-banking-and-payments",
+      "appg_name": "All-Party Parliamentary Group on Open Banking and Payments",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 138751,
+      "date": "2025-11-06",
+      "category": "4",
+      "member_id": 5199,
+      "member_name": "Mr Luke Charters",
+      "payer_id": 399,
+      "payer_name": "Federal Department of Foreign Affairs, Switzerland",
+      "amount": 1570.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5199/registeredinterests?categoryId=4",
+      "summary": "International visit to Switzerland between 06 November 2025 and 08 November 2025 — MP delegation visit with a focus on Switzerland's rail and transport network, and the Vocational and Professional Education and Training (VPET) system.",
+      "description": "Travel (£380), accommodation (£660), in-country travel (£290) and meals (£240)"
+    },
+    {
+      "id": 13198,
+      "date": "2025-08-31",
+      "category": "3",
+      "member_id": 5199,
+      "member_name": "Mr Luke Charters",
+      "payer_id": 235,
+      "payer_name": "City of York Council",
+      "amount": 322.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5199/registeredinterests?categoryId=3",
+      "summary": "City of York Council - £322.00",
+      "description": "Two tickets to attend the Women's Rugby World Cup Italy vs South Africa match at LNER Community stadium, including food & drink for myself and a staff member"
+    },
+    {
+      "id": 125931,
+      "date": "2025-06-03",
+      "category": "4",
+      "member_id": 5199,
+      "member_name": "Mr Luke Charters",
+      "payer_id": 556,
+      "payer_name": "Informa Group Ltd",
+      "amount": 1252.27,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5199/registeredinterests?categoryId=4",
+      "summary": "International visit to Netherlands between 03 June 2025 and 04 June 2025 — Speaker at Money 20/20 Europe Conference 2025",
+      "description": "Myself, flights (£436.58) and accommodation (£256.42), \r\nStaff member accompanying me, flights (£302.85) \r\n and accommodation (£256.42)"
+    }
+  ]
+}

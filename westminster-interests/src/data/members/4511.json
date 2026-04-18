@@ -1,0 +1,373 @@
+{
+  "mnis_id": 4511,
+  "name": "Dr Rupa Huq",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Ealing Central and Acton",
+  "house": "Commons",
+  "start_date": "2015-05-07",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4511/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 5894.44,
+      "combined": 5894.44,
+      "payment_count": 6,
+      "donor_count": 6
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 2367.59,
+      "inkind": 5894.44,
+      "combined": 8262.03,
+      "payment_count": 7,
+      "donor_count": 7
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 2367.59,
+      "inkind": 5894.44,
+      "combined": 8262.03,
+      "payment_count": 7,
+      "donor_count": 7
+    },
+    "all_time": {
+      "monetary": 2367.59,
+      "inkind": 5894.44,
+      "combined": 8262.03,
+      "payment_count": 7,
+      "donor_count": 7
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 4234.44,
+        "combined": 4234.44,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 2367.59,
+        "inkind": 4234.44,
+        "combined": 6602.03,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 2367.59,
+        "inkind": 4234.44,
+        "combined": 6602.03,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 2367.59,
+        "inkind": 4234.44,
+        "combined": 6602.03,
+        "payment_count": 4,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1660.0,
+        "combined": 1660.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1660.0,
+        "combined": 1660.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1660.0,
+        "combined": 1660.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1660.0,
+        "combined": 1660.0,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    2222,
+    1121,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2551,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "ethnic-minority-business-owners",
+      "appg_name": "All-Party Parliamentary Group for Ethnic Minority Business Owners",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "fairtrade",
+      "appg_name": "All-Party Parliamentary Group on Fairtrade",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "poland",
+      "appg_name": "All-Party Parliamentary Group on Poland",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "sexual-and-reproductive-health-in-the-uk",
+      "appg_name": "All-Party Parliamentary Group on Sexual and Reproductive Health in the UK",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "single-parent-families",
+      "appg_name": "All-Party Parliamentary Group on Single-Parent Families",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "water-sanitation-and-hygiene",
+      "appg_name": "Water, Sanitation and Hygiene All-Party Parliamentary Group",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 141841,
+      "date": "2025-12-05",
+      "category": "4",
+      "member_id": 4511,
+      "member_name": "Dr Rupa Huq",
+      "payer_id": 319,
+      "payer_name": "Doha Forum",
+      "amount": 2551.44,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4511/registeredinterests?categoryId=4",
+      "summary": "International visit to Qatar between 05 December 2025 and 09 December 2025 — To participate in the Doha Forum 2025 with a focus on constructive engagement and strengthening international cooperation to deliver actionable policies and impactful recommendations on a global scale alongside international counterparts.",
+      "description": "Flights (£2014.08), accommodation food and beverages (£537.36)"
+    },
+    {
+      "id": 126451,
+      "date": "2025-05-25",
+      "category": "4",
+      "member_id": 4511,
+      "member_name": "Dr Rupa Huq",
+      "payer_id": 758,
+      "payer_name": "Ministry of Foreign Affairs of The Republic of Armenia",
+      "amount": 1121.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4511/registeredinterests?categoryId=4",
+      "summary": "International visit to Armenia between 25 May 2025 and 28 May 2025 — To participate in the Yerevan Dialogue, an international affairs conference.",
+      "description": "Flights (£637), Accommodation (£484)"
+    },
+    {
+      "id": 12498,
+      "date": "2025-05-14",
+      "category": "3",
+      "member_id": 4511,
+      "member_name": "Dr Rupa Huq",
+      "payer_id": 335,
+      "payer_name": "Ealing Picturehouse",
+      "amount": 600.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4511/registeredinterests?categoryId=3",
+      "summary": "Ealing Picturehouse - £600.00",
+      "description": "Ealing Picturehouse provided an event space for the 10th anniversary celebration of my election as an MP"
+    },
+    {
+      "id": 12510,
+      "date": "2025-05-14",
+      "category": "3",
+      "member_id": 4511,
+      "member_name": "Dr Rupa Huq",
+      "payer_id": 652,
+      "payer_name": "Labour Asians Society Ltd",
+      "amount": 310.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4511/registeredinterests?categoryId=3",
+      "summary": "Labour Asians Society Ltd - £310.00",
+      "description": "Labour Asians Society hosted the 10th anniversary celebration of my election as an MP. Labour Asians Society is a non-profit Ltd community company"
+    },
+    {
+      "id": 12459,
+      "date": "2025-05-11",
+      "category": "3",
+      "member_id": 4511,
+      "member_name": "Dr Rupa Huq",
+      "payer_id": 209,
+      "payer_name": "Channel Four Television Company Limited",
+      "amount": 750.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4511/registeredinterests?categoryId=3",
+      "summary": "Channel Four Television Company Limited - £750.00",
+      "description": "one ticket to the BAFTA Television Awards, including drinks reception and dinner"
+    },
+    {
+      "id": 124481,
+      "date": "2025-05-02",
+      "category": "4",
+      "member_id": 4511,
+      "member_name": "Dr Rupa Huq",
+      "payer_id": 421,
+      "payer_name": "THE FORB FOUNDATION, Matthew Jones, Secretariat to APPG FoRB",
+      "amount": 562.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "international-freedom-of-religion-or-belief",
+      "appg_name": "All-Party Parliamentary Group for International Freedom of Religion or Belief",
+      "source_url": "https://members.parliament.uk/member/4511/registeredinterests?categoryId=4",
+      "summary": "International visit to Egypt between 02 May 2025 and 05 May 2025 — I was attending as member of the APPG for the Freedom of Religious Belief. The delegation to Egypt was to look at the state of FoRB in Egypt from the perspective of churches that are registered there.  Minister of Foreign affairs who is responsible for FoRB and NGOs working with faith groups on the ground.  We also looked at the registration process and how to have an even balance within faiths.",
+      "description": "Accommodation (£430), flights (£110), food (£22), all other food was included in the hotel price"
+    },
+    {
+      "id": 124351,
+      "date": "2025-04-08",
+      "category": "4",
+      "member_id": 4511,
+      "member_name": "Dr Rupa Huq",
+      "payer_id": 1135,
+      "payer_name": "United Nations Population Fund",
+      "amount": 2367.59,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "global-sexual-and-reproductive-health-and-rights",
+      "appg_name": "All-Party Parliamentary Group on Global Sexual and Reproductive Health and Rights",
+      "source_url": "https://members.parliament.uk/member/4511/registeredinterests?categoryId=4",
+      "summary": "International visit to Kenya between 08 April 2025 and 13 April 2025 — Study tour on Sexual and Reproductive Health and Rights (SRHR) and International Development to raise awareness among UK Parliamentarians about issues relating to Global SRHR.",
+      "description": "Flights & visa (£1,317.63), accommodation (£486.41), other travel (£65.28), food & drink (£371.13), per diem & misc (£127.14)"
+    }
+  ]
+}

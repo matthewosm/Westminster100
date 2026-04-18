@@ -1,0 +1,236 @@
+{
+  "slug": "india",
+  "title": "India All-Party Parliamentary Group",
+  "purpose": "To promote the strengthening of the bilateral relationship between the UK and India, focusing on trade and investment, education, sustainable development, culture, health, science and innovation, defence and security, and enhancing the relationship between both countries’ parliaments on a national and regional level, and promoting people-to-people links.",
+  "categories": [
+    "Country Group"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/india.htm",
+  "secretariat": "The 1928 Institute acts as the group's secretariat.https://www.1928institute.org/",
+  "website": "https://www.appgindia.org/",
+  "registered_contact_name": "Baggy Shanker MP",
+  "date_of_most_recent_agm": "2025-11-11 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "india",
+      "mnis_id": 5176,
+      "name": "Baggy Shanker",
+      "canon_name": "Baggy Shanker",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/india.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "india",
+      "mnis_id": 3790,
+      "name": "Baroness Verma",
+      "canon_name": "Baroness Verma",
+      "officer_role": "President",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/india.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "india",
+      "mnis_id": 3809,
+      "name": "Lord Bilimoria",
+      "canon_name": "Lord Bilimoria",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/india.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "india",
+      "mnis_id": 1576,
+      "name": "Mark Pritchard",
+      "canon_name": "Mark Pritchard",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/india.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "india",
+      "mnis_id": 4422,
+      "name": "Michelle Thomson",
+      "canon_name": "Michelle Thomson",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "india",
+      "mnis_id": null,
+      "name": "Pam Gosal",
+      "canon_name": "Pam Gosal",
+      "officer_role": "Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "india",
+      "mnis_id": null,
+      "name": "Paul O'Kane",
+      "canon_name": "Paul O'Kane",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "india",
+      "mnis_id": 5176,
+      "name": "Baggy Shanker",
+      "canon_name": "Baggy Shanker",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/india.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "india",
+      "mnis_id": 3790,
+      "name": "Baroness Verma",
+      "canon_name": "Baroness Verma",
+      "officer_role": "President",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/india.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "india",
+      "mnis_id": 3809,
+      "name": "Lord Bilimoria",
+      "canon_name": "Lord Bilimoria",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/india.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "india",
+      "mnis_id": 1576,
+      "name": "Mark Pritchard",
+      "canon_name": "Mark Pritchard",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/india.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "india",
+      "mnis_id": 4422,
+      "name": "Michelle Thomson",
+      "canon_name": "Michelle Thomson",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "india",
+      "mnis_id": null,
+      "name": "Pam Gosal",
+      "canon_name": "Pam Gosal",
+      "officer_role": "Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "india",
+      "mnis_id": null,
+      "name": "Paul O'Kane",
+      "canon_name": "Paul O'Kane",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

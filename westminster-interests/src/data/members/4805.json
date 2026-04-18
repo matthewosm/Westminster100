@@ -1,0 +1,330 @@
+{
+  "mnis_id": 4805,
+  "name": "Alicia Kearns",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "Rutland and Stamford",
+  "house": "Commons",
+  "start_date": "2019-12-12",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4805/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 16353.2,
+      "combined": 16353.2,
+      "payment_count": 6,
+      "donor_count": 5
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 16353.2,
+      "combined": 16353.2,
+      "payment_count": 6,
+      "donor_count": 5
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 16353.2,
+      "combined": 16353.2,
+      "payment_count": 6,
+      "donor_count": 5
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 16353.2,
+      "combined": 16353.2,
+      "payment_count": 6,
+      "donor_count": 5
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 13903.2,
+        "combined": 13903.2,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 13903.2,
+        "combined": 13903.2,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 13903.2,
+        "combined": 13903.2,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 13903.2,
+        "combined": 13903.2,
+        "payment_count": 4,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 2450.0,
+        "combined": 2450.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 2450.0,
+        "combined": 2450.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 2450.0,
+        "combined": 2450.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 2450.0,
+        "combined": 2450.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    5489,
+    1350,
+    0,
+    850,
+    1100,
+    7564,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "bosnia-and-herzegovina",
+      "appg_name": "All-Party Parliamentary Group for Bosnia and Herzegovina",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "arbitrary-detention-and-hostage-affairs",
+      "appg_name": "All-Party Parliamentary Group on Arbitrary Detention and Hostage Affairs",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "women-peace-and-security",
+      "appg_name": "All-Party Parliamentary Group on Women, Peace and Security",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 141291,
+      "date": "2025-12-04",
+      "category": "4",
+      "member_id": 4805,
+      "member_name": "Alicia Kearns",
+      "payer_id": 319,
+      "payer_name": "Doha Forum",
+      "amount": 6480.3,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4805/registeredinterests?categoryId=4",
+      "summary": "International visit to Qatar between 04 December 2025 and 08 December 2025 — To attend the Doha Forum 2025, primarily focused on arbitrary detention and bilaterals with Ministers from other countries.",
+      "description": "Flights for me and my child (£6,077.14)\r\nAccommodation, food and beverages (£403.16)\r\nForum entry: Free of charge (My family attended to care for our six-month old baby while I attended the Forum.)"
+    },
+    {
+      "id": 141301,
+      "date": "2025-11-25",
+      "category": "4",
+      "member_id": 4805,
+      "member_name": "Alicia Kearns",
+      "payer_id": 365,
+      "payer_name": "Embassy of Finland",
+      "amount": 1084.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4805/registeredinterests?categoryId=4",
+      "summary": "International visit to Finland between 25 November 2025 and 28 November 2025 — This study trip to Finland provided an opportunity to discover insights into the Finnish Society and the concept of comprehensive security, comprised of societal resilience, national defence and internal security.",
+      "description": "My Parliamentary Assistant attended this trip, following an invitation to do so by the Finnish Embassy. Flights, accommodation, sustenance, and transport"
+    },
+    {
+      "id": 13945,
+      "date": "2025-11-06",
+      "category": "3",
+      "member_id": 4805,
+      "member_name": "Alicia Kearns",
+      "payer_id": 487,
+      "payer_name": "Great Britain China Centre",
+      "amount": 1100.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-11-07",
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4805/registeredinterests?categoryId=3",
+      "summary": "Great Britain China Centre - £1,100.00",
+      "description": "Overnight hotel accommodation and all food, for a member of my staff to attend the two day Great Britian-China Centre Future Leaders Programme (London)"
+    },
+    {
+      "id": 135651,
+      "date": "2025-10-05",
+      "category": "4",
+      "member_id": 4805,
+      "member_name": "Alicia Kearns",
+      "payer_id": 196,
+      "payer_name": "Centre for Humanitarian Dialogue",
+      "amount": 849.9,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4805/registeredinterests?categoryId=4",
+      "summary": "International visit to Switzerland between 05 October 2025 and 06 October 2025 — Attending the Consular Services Conference in Geneva, Switzerland hosted by the Centre for Human Dialogue. My husband attended to care for my 4 month old baby.",
+      "description": "Flights (£312.90), accommodation (£272), transfers (£193) and lunch (£72) for me and two family members"
+    },
+    {
+      "id": 13127,
+      "date": "2025-07-23",
+      "category": "3",
+      "member_id": 4805,
+      "member_name": "Alicia Kearns",
+      "payer_id": 487,
+      "payer_name": "Great Britain China Centre",
+      "amount": 1350.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-07-25",
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4805/registeredinterests?categoryId=3",
+      "summary": "Great Britain China Centre - £1,350.00",
+      "description": "Hotel accomodation and sustinence during Great Britian-China Centre Future Leaders Programme (Oxford) attended by a member of my staff"
+    },
+    {
+      "id": 129481,
+      "date": "2025-07-05",
+      "category": "4",
+      "member_id": 4805,
+      "member_name": "Alicia Kearns",
+      "payer_id": 1072,
+      "payer_name": "Taiwan Ministry of Foreign Affairs",
+      "amount": 5489.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4805/registeredinterests?categoryId=4",
+      "summary": "International visit to Taiwan between 05 July 2025 and 16 July 2025 — European Valued Important Partnership (EVIP) delegation for Parliamentary staff to Taiwan. The EVIP Delegation invited Parliamentary staff from seven European countries to visit Taiwan to meet politicians, civil servants, business, and industry leaders and engage in cultural activities. My Senior Parliamentary Researcher was invited and attended as the UK delegate.",
+      "description": "Costs: Return flights to Taiwan £3400. Accommodation, travel in Taiwan, sustenance, and activities £2089"
+    }
+  ]
+}

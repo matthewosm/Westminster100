@@ -1,0 +1,242 @@
+{
+  "mnis_id": 4813,
+  "name": "Mr Richard Holden",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "Basildon and Billericay",
+  "house": "Commons",
+  "start_date": "2019-12-12",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4813/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 350.72,
+      "combined": 350.72,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 350.72,
+      "combined": 350.72,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 6308.71,
+      "combined": 6308.71,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 6659.43,
+      "combined": 6659.43,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 6659.43,
+      "combined": 6659.43,
+      "payment_count": 4,
+      "donor_count": 4
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 350.72,
+        "combined": 350.72,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 350.72,
+        "combined": 350.72,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 6308.71,
+        "combined": 6308.71,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 6659.43,
+        "combined": 6659.43,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 6659.43,
+        "combined": 6659.43,
+        "payment_count": 4,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    351,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "self-driving-vehicles",
+      "appg_name": "All-Party Parliamentary Group for Self-Driving Vehicles",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "freedom-of-speech",
+      "appg_name": "All-Party Parliamentary Group on Freedom of Speech",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "insurance-and-financial-services",
+      "appg_name": "All-Party Parliamentary Group on Insurance and Financial Services",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "pubs",
+      "appg_name": "All-Party Parliamentary Group on Pubs",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 147891,
+      "date": "2026-02-20",
+      "category": "4",
+      "member_id": 4813,
+      "member_name": "Mr Richard Holden",
+      "payer_id": 1122,
+      "payer_name": "UK Friends of Ukraine",
+      "amount": 350.72,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4813/registeredinterests?categoryId=4",
+      "summary": "International visit to Ukraine between 20 February 2026 and 25 February 2026 — Gain a greater understanding of the continuing impact of Russia's illegal invasion of Ukraine and the continuing war.",
+      "description": "Coach travel from Moldova to Ukraine and within Ukraine (£223.94), Chernobyl Visit (£46.15), meals and sundry items (£88.83)"
+    },
+    {
+      "id": 123941,
+      "date": "2025-04-08",
+      "category": "4",
+      "member_id": 4813,
+      "member_name": "Mr Richard Holden",
+      "payer_id": 1135,
+      "payer_name": "United Nations Population Fund",
+      "amount": 2381.45,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4813/registeredinterests?categoryId=4",
+      "summary": "International visit to Kenya between 08 April 2025 and 13 April 2025 — Study tour on Sexual and Reproductive Health and Rights and International Development",
+      "description": "Flights & visa (£1,241.60), accommodation (£486.41), other travel (£79.28), meals (£371.13), per diem & misc. (£203.03)"
+    },
+    {
+      "id": 123081,
+      "date": "2025-04-04",
+      "category": "4",
+      "member_id": 4813,
+      "member_name": "Mr Richard Holden",
+      "payer_id": 643,
+      "payer_name": "Konrad Adenauer Stiftung",
+      "amount": 727.26,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4813/registeredinterests?categoryId=4",
+      "summary": "International visit to Italy between 04 April 2025 and 06 April 2025 — Meeting with newly re-elected and newly elected members of CDU and CSU from the German Parliament at the Accademia Konrad Adenauer",
+      "description": "Flights (economy): £258, Transfers: £75.67, Accommodation: 306.07, Meals: £86.72"
+    },
+    {
+      "id": 119731,
+      "date": "2025-02-17",
+      "category": "4",
+      "member_id": 4813,
+      "member_name": "Mr Richard Holden",
+      "payer_id": 264,
+      "payer_name": "Conservative Friends of Israel Ltd",
+      "amount": 3200.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4813/registeredinterests?categoryId=4",
+      "summary": "International visit to Israel between 17 February 2025 and 21 February 2025 — Fact finding political delegation to Israel and Occupied Territory",
+      "description": "Air travel, accommodation, security, internal transportation and meals"
+    }
+  ]
+}

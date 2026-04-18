@@ -1,0 +1,164 @@
+{
+  "slug": "rural-services",
+  "title": "All-Party Parliamentary Group on Rural Services",
+  "purpose": "To promote a debate on the provision of rural services and to issue periodic reports.",
+  "categories": [
+    "Food, Agriculture & Rural Affairs"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/rural-services.htm",
+  "secretariat": "Rural Services Network acts as the group's secretariat.http://www.rsnonline.org.uk/",
+  "website": "https://www.rsnonline.org.uk/category/appg",
+  "registered_contact_name": "Sarah Dyke MP",
+  "date_of_most_recent_agm": "2026-01-14 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "rural-services",
+      "mnis_id": 5216,
+      "name": "Caroline Voaden",
+      "canon_name": "Caroline Voaden",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/rural-services.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "rural-services",
+      "mnis_id": 4860,
+      "name": "Dr Kieran Mullan",
+      "canon_name": "Kieran Mullan",
+      "officer_role": "Secretary",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/rural-services.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "rural-services",
+      "mnis_id": 5108,
+      "name": "Sam Rushworth",
+      "canon_name": "Sam Rushworth",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/rural-services.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "rural-services",
+      "mnis_id": 4995,
+      "name": "Sarah Dyke",
+      "canon_name": "Sarah Dyke",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/rural-services.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "rural-services",
+      "mnis_id": 5216,
+      "name": "Caroline Voaden",
+      "canon_name": "Caroline Voaden",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/rural-services.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "rural-services",
+      "mnis_id": 4860,
+      "name": "Dr Kieran Mullan",
+      "canon_name": "Kieran Mullan",
+      "officer_role": "Secretary",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/rural-services.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "rural-services",
+      "mnis_id": 5108,
+      "name": "Sam Rushworth",
+      "canon_name": "Sam Rushworth",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/rural-services.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "rural-services",
+      "mnis_id": 4995,
+      "name": "Sarah Dyke",
+      "canon_name": "Sarah Dyke",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/rural-services.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

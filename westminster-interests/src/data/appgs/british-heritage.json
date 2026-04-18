@@ -1,0 +1,164 @@
+{
+  "slug": "british-heritage",
+  "title": "All-Party Parliamentary Group on British Heritage",
+  "purpose": "To promote and celebrate the heritage, traditions, history, and culture of the British Isles, in areas such as flags, heraldry, national symbols, historic counties, the celebration of patron saints, and other customs and areas of national significance.",
+  "categories": [
+    "Arts, Culture, Heritage & Media"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-heritage.htm",
+  "secretariat": "",
+  "website": "None",
+  "registered_contact_name": "Andrew Rosindell MP",
+  "date_of_most_recent_agm": "2025-10-29 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "british-heritage",
+      "mnis_id": 1447,
+      "name": "Andrew Rosindell",
+      "canon_name": "Andrew Rosindell",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-heritage.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "british-heritage",
+      "mnis_id": 210,
+      "name": "Baroness Hoey",
+      "canon_name": "Baroness Hoey",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-heritage.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "british-heritage",
+      "mnis_id": 5186,
+      "name": "Bradley Thomas",
+      "canon_name": "Bradley Thomas",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-heritage.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "british-heritage",
+      "mnis_id": null,
+      "name": "Lord West of Spithead",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-heritage.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "british-heritage",
+      "mnis_id": 1447,
+      "name": "Andrew Rosindell",
+      "canon_name": "Andrew Rosindell",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-heritage.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "british-heritage",
+      "mnis_id": 210,
+      "name": "Baroness Hoey",
+      "canon_name": "Baroness Hoey",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-heritage.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "british-heritage",
+      "mnis_id": 5186,
+      "name": "Bradley Thomas",
+      "canon_name": "Bradley Thomas",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-heritage.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "british-heritage",
+      "mnis_id": null,
+      "name": "Lord West of Spithead",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-heritage.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

@@ -1,0 +1,164 @@
+{
+  "slug": "rail",
+  "title": "All-Party Parliamentary Group on Rail",
+  "purpose": "To facilitate an informed debate amongst parliamentarians regarding all aspects of the UK's railway industries.",
+  "categories": [
+    "Infrastructure, Transport & Mobility"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/rail.htm",
+  "secretariat": "T & I Communications Ltd acts as the group's secretariat.https://www.ti-communications.co.uk/",
+  "website": "None",
+  "registered_contact_name": "Martin Vickers MP",
+  "date_of_most_recent_agm": "2025-11-03 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "rail",
+      "mnis_id": 5176,
+      "name": "Baggy Shanker",
+      "canon_name": "Baggy Shanker",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/rail.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "rail",
+      "mnis_id": 3862,
+      "name": "Baroness Grey-Thompson",
+      "canon_name": "Baroness Grey-Thompson",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/rail.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "rail",
+      "mnis_id": 3526,
+      "name": "Lord Berkeley",
+      "canon_name": "Lord Berkeley",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/rail.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "rail",
+      "mnis_id": 3957,
+      "name": "Martin Vickers",
+      "canon_name": "Martin Vickers",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/rail.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "rail",
+      "mnis_id": 5176,
+      "name": "Baggy Shanker",
+      "canon_name": "Baggy Shanker",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/rail.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "rail",
+      "mnis_id": 3862,
+      "name": "Baroness Grey-Thompson",
+      "canon_name": "Baroness Grey-Thompson",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/rail.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "rail",
+      "mnis_id": 3526,
+      "name": "Lord Berkeley",
+      "canon_name": "Lord Berkeley",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/rail.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "rail",
+      "mnis_id": 3957,
+      "name": "Martin Vickers",
+      "canon_name": "Martin Vickers",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/rail.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

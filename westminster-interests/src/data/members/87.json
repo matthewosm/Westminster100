@@ -1,0 +1,167 @@
+{
+  "mnis_id": 87,
+  "name": "Sir Roger Gale",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "Herne Bay and Sandwich",
+  "house": "Commons",
+  "start_date": "1983-06-09",
+  "photo_url": "https://members-api.parliament.uk/api/Members/87/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 1732.3,
+      "combined": 1732.3,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 1732.3,
+      "combined": 1732.3,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 1732.3,
+      "combined": 1732.3,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 1732.3,
+      "combined": 1732.3,
+      "payment_count": 2,
+      "donor_count": 2
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1732.3,
+        "combined": 1732.3,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1732.3,
+        "combined": 1732.3,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1732.3,
+        "combined": 1732.3,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1732.3,
+        "combined": 1732.3,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    899,
+    0,
+    0,
+    0,
+    833,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [],
+  "payments": [
+    {
+      "id": 138061,
+      "date": "2025-10-10",
+      "category": "4",
+      "member_id": 87,
+      "member_name": "Sir Roger Gale",
+      "payer_id": 767,
+      "payer_name": "Morphou Municipality",
+      "amount": 832.96,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/87/registeredinterests?categoryId=4",
+      "summary": "International visit to Cyprus between 10 October 2025 and 13 October 2025 — To attend the Morphou Rally and associated events, to meet with the President of the Republic, the President of the National Assembly, Members of Parliament, the Mayor and Members of the Council of Morphou and others.",
+      "description": "Accommodation for three nights (£482.96), internal transport (£200 estimated) and meals (£150 estimated)"
+    },
+    {
+      "id": 126661,
+      "date": "2025-05-26",
+      "category": "4",
+      "member_id": 87,
+      "member_name": "Sir Roger Gale",
+      "payer_id": 528,
+      "payer_name": "House of Representatives of Cyprus",
+      "amount": 899.34,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/87/registeredinterests?categoryId=4",
+      "summary": "International visit to Cyprus between 26 May 2025 and 29 May 2025 — Meetings with the President of the Republic, the President and Members of the National Assembly and others",
+      "description": "Accommodation (£480.05), internal transport (£333.72), meals (£85.57)"
+    }
+  ]
+}

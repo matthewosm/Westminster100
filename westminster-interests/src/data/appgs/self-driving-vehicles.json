@@ -1,0 +1,165 @@
+{
+  "slug": "self-driving-vehicles",
+  "title": "All-Party Parliamentary Group for Self-Driving Vehicles",
+  "purpose": "The APPG provides a forum for parliamentarians and industry to discuss and promote the benefits of AVs (Automated Vehicles) for a variety of uses across all parts of the UK, acting as the voice of the AV sector in Parliament.",
+  "categories": [
+    "Infrastructure, Transport & Mobility",
+    "Science, Technology & Innovation"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/self-driving-vehicles.htm",
+  "secretariat": "Hanbury Strategy acts as the group's secretariat.https://hanburystrategy.com",
+  "website": "https://www.self-drivingappg.co.uk/",
+  "registered_contact_name": "Chris Curtis MP",
+  "date_of_most_recent_agm": "2024-10-28 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "self-driving-vehicles",
+      "mnis_id": 5118,
+      "name": "Chris Curtis",
+      "canon_name": "Chris Curtis",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/self-driving-vehicles.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "self-driving-vehicles",
+      "mnis_id": 5139,
+      "name": "Emily Darlington",
+      "canon_name": "Emily Darlington",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/self-driving-vehicles.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "self-driving-vehicles",
+      "mnis_id": 5189,
+      "name": "Gordon McKee",
+      "canon_name": "Gordon McKee",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/self-driving-vehicles.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "self-driving-vehicles",
+      "mnis_id": 4813,
+      "name": "Mr Richard Holden",
+      "canon_name": "Richard Holden",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/self-driving-vehicles.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "self-driving-vehicles",
+      "mnis_id": 5118,
+      "name": "Chris Curtis",
+      "canon_name": "Chris Curtis",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/self-driving-vehicles.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "self-driving-vehicles",
+      "mnis_id": 5139,
+      "name": "Emily Darlington",
+      "canon_name": "Emily Darlington",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/self-driving-vehicles.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "self-driving-vehicles",
+      "mnis_id": 5189,
+      "name": "Gordon McKee",
+      "canon_name": "Gordon McKee",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/self-driving-vehicles.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "self-driving-vehicles",
+      "mnis_id": 4813,
+      "name": "Mr Richard Holden",
+      "canon_name": "Richard Holden",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/self-driving-vehicles.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

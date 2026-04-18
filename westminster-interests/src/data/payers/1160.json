@@ -1,0 +1,124 @@
+{
+  "id": 1160,
+  "name": "The Warwickshire County Cricket Club Ltd",
+  "address": "Edgbaston Stadium, Birmingham B5 7QU",
+  "nature_of_business": null,
+  "donor_status": "Company",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 3598.8,
+      "combined": 3598.8,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 3598.8,
+      "combined": 3598.8,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 3598.8,
+      "combined": 3598.8,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 3598.8,
+      "combined": 3598.8,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    3599,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 12964,
+      "date": "2025-07-03",
+      "category": "3",
+      "member_id": 4603,
+      "member_name": "Preet Kaur Gill",
+      "payer_id": 1160,
+      "payer_name": "The Warwickshire County Cricket Club Ltd",
+      "amount": 1198.8,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4603/registeredinterests?categoryId=3",
+      "summary": "Warwickshire County Cricket Club - £1,198.80",
+      "description": "Two tickets including hospitality and entry to chair's lounge, to watch India v England for myself and my guest"
+    },
+    {
+      "id": 12780,
+      "date": "2025-07-02",
+      "category": "3",
+      "member_id": 4818,
+      "member_name": "Saqib Bhatti",
+      "payer_id": 1160,
+      "payer_name": "The Warwickshire County Cricket Club Ltd",
+      "amount": 2400.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4818/registeredinterests?categoryId=3",
+      "summary": "The Warwickshire County Cricket Club Ltd - £2,400.00",
+      "description": "Two tickets to attend the opening day of the England v India Test Match as guest of the Warwickshire County Cricket Club.  Ticket price includes parking, balcony seating and hospitality"
+    }
+  ]
+}

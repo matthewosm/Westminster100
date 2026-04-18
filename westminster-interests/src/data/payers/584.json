@@ -1,0 +1,124 @@
+{
+  "id": 584,
+  "name": "ITV PLC",
+  "address": "ITV White City, 201 Wood Lane, London W12 7RU",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 300.0,
+      "inkind": 0.0,
+      "combined": 300.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 600.0,
+      "inkind": 0.0,
+      "combined": 600.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 600.0,
+      "inkind": 0.0,
+      "combined": 600.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 600.0,
+      "inkind": 0.0,
+      "combined": 600.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    300,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 12818,
+      "date": "2025-06-10",
+      "category": "1.1",
+      "member_id": 4573,
+      "member_name": "Dr Rosena Allin-Khan",
+      "payer_id": 584,
+      "payer_name": "ITV PLC",
+      "amount": 300.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4573/registeredinterests?categoryId=1",
+      "summary": "Payment received on 10 June 2025 - £300.00",
+      "description": "For my appearance on the Loose Women show"
+    },
+    {
+      "id": 11969,
+      "date": "2025-03-07",
+      "category": "1.1",
+      "member_id": 4573,
+      "member_name": "Dr Rosena Allin-Khan",
+      "payer_id": 584,
+      "payer_name": "ITV PLC",
+      "amount": 300.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4573/registeredinterests?categoryId=1",
+      "summary": "Payment received on 07 March 2025 - £300.00",
+      "description": "For my appearance on This Morning show"
+    }
+  ]
+}

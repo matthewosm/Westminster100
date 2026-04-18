@@ -1,0 +1,180 @@
+{
+  "mnis_id": 1541,
+  "name": "Dame Nia Griffith",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Llanelli",
+  "house": "Commons",
+  "start_date": "2005-05-05",
+  "photo_url": "https://members-api.parliament.uk/api/Members/1541/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 1126.97,
+      "inkind": 0.0,
+      "combined": 1126.97,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 358.93,
+      "inkind": 0.0,
+      "combined": 358.93,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 768.04,
+      "inkind": 0.0,
+      "combined": 768.04,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 1126.97,
+      "inkind": 0.0,
+      "combined": 1126.97,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "all_time": {
+      "monetary": 1126.97,
+      "inkind": 0.0,
+      "combined": 1126.97,
+      "payment_count": 2,
+      "donor_count": 2
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 1126.97,
+        "inkind": 0.0,
+        "combined": 1126.97,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 358.93,
+        "inkind": 0.0,
+        "combined": 358.93,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 768.04,
+        "inkind": 0.0,
+        "combined": 768.04,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 1126.97,
+        "inkind": 0.0,
+        "combined": 1126.97,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 1126.97,
+        "inkind": 0.0,
+        "combined": 1126.97,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    768,
+    0,
+    0,
+    0,
+    0,
+    0,
+    359,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "future-generations",
+      "appg_name": "All-Party Parliamentary Group for Future Generations",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "steel-and-metals-related-industries",
+      "appg_name": "All-Party Parliamentary Group for Steel and Metals-Related Industries",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 147371,
+      "date": "2026-02-20",
+      "category": "4",
+      "member_id": 1541,
+      "member_name": "Dame Nia Griffith",
+      "payer_id": 788,
+      "payer_name": "Name of donor: UK Friends of Ukraine Ltd",
+      "amount": 358.93,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "ukraine",
+      "appg_name": "All-Party Parliamentary Group on Ukraine",
+      "source_url": "https://members.parliament.uk/member/1541/registeredinterests?categoryId=4",
+      "summary": "International visit to Ukraine between 20 February 2026 and 25 February 2026 — To attend the Yalta European Strategy conference, meet the Speaker and MPs from the Ukrainian Parliament and have meetings with representatives of businesses, civic organisations and public bodies.",
+      "description": "Coach transfers (£223.94), meals (£88.84), visit to Chernobyl, including minibus and meal (£46.15)."
+    },
+    {
+      "id": 134751,
+      "date": "2025-09-10",
+      "category": "4",
+      "member_id": 1541,
+      "member_name": "Dame Nia Griffith",
+      "payer_id": 1123,
+      "payer_name": "UK Friends of Ukraine Ltd",
+      "amount": 768.04,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "ukraine",
+      "appg_name": "All-Party Parliamentary Group on Ukraine",
+      "source_url": "https://members.parliament.uk/member/1541/registeredinterests?categoryId=4",
+      "summary": "International visit to Ukraine between 10 September 2025 and 15 September 2025 — To attend the Yalta European Strategy conference, meet the Speaker and MPs from the Ukrainian Parliament and have meetings with representatives of businesses, civic organisations and public bodies.",
+      "description": "Conference (£372.04), Transfers (minbus)\r\n(£262.12), BUCC-USUBC  Roundtable lunch (£45.88), dinner and performance by Cultural Forces (£28.00), visit to Vinnytsia, transfers (£8.00), lunch (£18.00) and dinner (£34.00)"
+    }
+  ]
+}

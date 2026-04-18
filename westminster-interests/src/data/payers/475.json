@@ -1,0 +1,124 @@
+{
+  "id": 475,
+  "name": "Godfrey Coaching Ltd",
+  "address": "56 Greenway Lane, Bath BA2 4LL",
+  "nature_of_business": null,
+  "donor_status": "Company",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 7200.0,
+      "combined": 7200.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 7200.0,
+      "combined": 7200.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 8500.0,
+      "combined": 8500.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 15700.0,
+      "combined": 15700.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 15700.0,
+      "combined": 15700.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    7200,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 13934,
+      "date": "2025-10-03",
+      "category": "2",
+      "member_id": 5053,
+      "member_name": "Natalie Fleet",
+      "payer_id": 475,
+      "payer_name": "Godfrey Coaching Ltd",
+      "amount": 7200.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2026-10-02",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5053/registeredinterests?categoryId=2",
+      "summary": "Godfrey Coaching Ltd - £7,200.00",
+      "description": "Coaching"
+    },
+    {
+      "id": 11516,
+      "date": "2024-10-02",
+      "category": "2",
+      "member_id": 5053,
+      "member_name": "Natalie Fleet",
+      "payer_id": 475,
+      "payer_name": "Godfrey Coaching Ltd",
+      "amount": 8500.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-10-02",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5053/registeredinterests?categoryId=2",
+      "summary": "Godfrey Coaching Ltd - £8,500.00",
+      "description": "Coaching"
+    }
+  ]
+}

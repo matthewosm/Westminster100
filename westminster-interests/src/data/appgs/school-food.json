@@ -1,0 +1,189 @@
+{
+  "slug": "school-food",
+  "title": "All-Party Parliamentary Group on School Food",
+  "purpose": "To bring together a range of organisations and stakeholders from the sector to champion the school meal service, highlight the issues at a political level, and collaborate to identify best practice.",
+  "categories": [
+    "Education, Skills & Youth",
+    "Food, Agriculture & Rural Affairs"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/school-food.htm",
+  "secretariat": "Association for Public Service Excellence acts as the group's secretariat.https://www.apse.org.uk/",
+  "website": "http://www.schoolfood.org.uk/",
+  "registered_contact_name": "Mrs Sharon Hodgson MP",
+  "date_of_most_recent_agm": "2025-12-03 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "school-food",
+      "mnis_id": 4724,
+      "name": "Baroness Blower",
+      "canon_name": "Baroness Blower",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/school-food.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "school-food",
+      "mnis_id": 4277,
+      "name": "Emma Lewell",
+      "canon_name": "Emma Lewell",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/school-food.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "school-food",
+      "mnis_id": 241,
+      "name": "Jenny Rathbone",
+      "canon_name": "Jenny Rathbone",
+      "officer_role": "Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=848",
+      "removed": null
+    },
+    {
+      "appg_slug": "school-food",
+      "mnis_id": 4909,
+      "name": "Lord Kamall",
+      "canon_name": "Lord Kamall",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/school-food.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "school-food",
+      "mnis_id": 1521,
+      "name": "Mrs Sharon Hodgson",
+      "canon_name": "Sharon Hodgson",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/school-food.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "school-food",
+      "mnis_id": 4724,
+      "name": "Baroness Blower",
+      "canon_name": "Baroness Blower",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/school-food.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "school-food",
+      "mnis_id": 4277,
+      "name": "Emma Lewell",
+      "canon_name": "Emma Lewell",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/school-food.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "school-food",
+      "mnis_id": 241,
+      "name": "Jenny Rathbone",
+      "canon_name": "Jenny Rathbone",
+      "officer_role": "Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=848",
+      "removed": null
+    },
+    {
+      "appg_slug": "school-food",
+      "mnis_id": 4909,
+      "name": "Lord Kamall",
+      "canon_name": "Lord Kamall",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/school-food.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "school-food",
+      "mnis_id": 1521,
+      "name": "Mrs Sharon Hodgson",
+      "canon_name": "Sharon Hodgson",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/school-food.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

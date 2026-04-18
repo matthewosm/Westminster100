@@ -1,0 +1,164 @@
+{
+  "slug": "fair-banking",
+  "title": "All-Party Parliamentary Group on Fair Banking",
+  "purpose": "To be a key driver for change and a forum for education that brings together parliamentarians, organisations and individuals from the private and public sector who share the objective of creating a financial services sector which encourages and sustains both growth and financial inclusion.",
+  "categories": [
+    "Finance, Markets & Consumer Affairs"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fair-banking.htm",
+  "secretariat": "Athena Foundation acts as the group's secretariat.https://www.theathenafoundation.org.uk/",
+  "website": "https://www.appgbanking.org.uk/",
+  "registered_contact_name": "David Burton-Sampson MP",
+  "date_of_most_recent_agm": "2025-10-15 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "fair-banking",
+      "mnis_id": 5106,
+      "name": "David Burton-Sampson",
+      "canon_name": "David Burton-Sampson",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fair-banking.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "fair-banking",
+      "mnis_id": 5217,
+      "name": "Lloyd Hatton",
+      "canon_name": "Lloyd Hatton",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fair-banking.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "fair-banking",
+      "mnis_id": null,
+      "name": "Lord Davies of Gower",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fair-banking.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "fair-banking",
+      "mnis_id": 4196,
+      "name": "Lord Sharkey",
+      "canon_name": "Lord Sharkey",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fair-banking.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "fair-banking",
+      "mnis_id": 5106,
+      "name": "David Burton-Sampson",
+      "canon_name": "David Burton-Sampson",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fair-banking.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "fair-banking",
+      "mnis_id": 5217,
+      "name": "Lloyd Hatton",
+      "canon_name": "Lloyd Hatton",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fair-banking.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "fair-banking",
+      "mnis_id": null,
+      "name": "Lord Davies of Gower",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fair-banking.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "fair-banking",
+      "mnis_id": 4196,
+      "name": "Lord Sharkey",
+      "canon_name": "Lord Sharkey",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fair-banking.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

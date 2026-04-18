@@ -1,0 +1,443 @@
+{
+  "mnis_id": 4409,
+  "name": "Naz Shah",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Bradford West",
+  "house": "Commons",
+  "start_date": "2015-05-07",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4409/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 23271.81,
+      "inkind": 13254.79,
+      "combined": 36526.6,
+      "payment_count": 7,
+      "donor_count": 6
+    },
+    "ytd": {
+      "monetary": 9225.0,
+      "inkind": 1920.51,
+      "combined": 11145.51,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2025": {
+      "monetary": 14046.81,
+      "inkind": 38499.18,
+      "combined": 52545.99,
+      "payment_count": 7,
+      "donor_count": 7
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 23271.81,
+      "inkind": 40419.69,
+      "combined": 63691.5,
+      "payment_count": 9,
+      "donor_count": 8
+    },
+    "all_time": {
+      "monetary": 23271.81,
+      "inkind": 40419.69,
+      "combined": 63691.5,
+      "payment_count": 9,
+      "donor_count": 8
+    }
+  },
+  "categories": {
+    "1.1": {
+      "12m": {
+        "monetary": 17450.0,
+        "inkind": 0.0,
+        "combined": 17450.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 9225.0,
+        "inkind": 0.0,
+        "combined": 9225.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 8225.0,
+        "inkind": 0.0,
+        "combined": 8225.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 17450.0,
+        "inkind": 0.0,
+        "combined": 17450.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 17450.0,
+        "inkind": 0.0,
+        "combined": 17450.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 5821.81,
+        "inkind": 13254.79,
+        "combined": 19076.6,
+        "payment_count": 5,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 1920.51,
+        "combined": 1920.51,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 5821.81,
+        "inkind": 13569.18,
+        "combined": 19390.99,
+        "payment_count": 5,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 5821.81,
+        "inkind": 15489.69,
+        "combined": 21311.5,
+        "payment_count": 6,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 5821.81,
+        "inkind": 15489.69,
+        "combined": 21311.5,
+        "payment_count": 6,
+        "donor_count": 0
+      }
+    },
+    "2": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 24930.0,
+        "combined": 24930.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 24930.0,
+        "combined": 24930.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 24930.0,
+        "combined": 24930.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    5822,
+    0,
+    0,
+    10689,
+    8870,
+    0,
+    1921,
+    9225,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "foreign-affairs",
+      "appg_name": "All-Party Parliamentary Group for Foreign Affairs",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "islamic-and-ethical-finance",
+      "appg_name": "All-Party Parliamentary Group on Islamic and Ethical Finance",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14726,
+      "date": "2026-02-28",
+      "category": "1.1",
+      "member_id": 4409,
+      "member_name": "Naz Shah",
+      "payer_id": 5,
+      "payer_name": "A M Heath & Company Limited",
+      "amount": 9225.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4409/registeredinterests?categoryId=1",
+      "summary": "Payment received on 28 February 2026 - £9,225.00",
+      "description": "payment from publishers"
+    },
+    {
+      "id": 146061,
+      "date": "2026-02-06",
+      "category": "4",
+      "member_id": 4409,
+      "member_name": "Naz Shah",
+      "payer_id": 360,
+      "payer_name": "El-Hibri Foundation",
+      "amount": 1920.51,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4409/registeredinterests?categoryId=4",
+      "summary": "International visit to United States between 06 February 2026 and 08 February 2026 — Attending a Public Narrative training weekend",
+      "description": "Flights: £1,423.24\r\nAccomdation: £441.69\r\nMeals: £55.58"
+    },
+    {
+      "id": 141931,
+      "date": "2025-12-05",
+      "category": "4",
+      "member_id": 4409,
+      "member_name": "Naz Shah",
+      "payer_id": 319,
+      "payer_name": "Doha Forum",
+      "amount": 8870.5,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4409/registeredinterests?categoryId=4",
+      "summary": "International visit to Qatar between 05 December 2025 and 14 December 2025 — Attending the Doha Forum",
+      "description": "Flights (£8468.50), accommdation, hospitality and meals (£402)"
+    },
+    {
+      "id": 13878,
+      "date": "2025-11-04",
+      "category": "1.1",
+      "member_id": 4409,
+      "member_name": "Naz Shah",
+      "payer_id": 5,
+      "payer_name": "A M Heath & Company Limited",
+      "amount": 8225.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4409/registeredinterests?categoryId=1",
+      "summary": "Payment received on 04 November 2025 - £8,225.00",
+      "description": "Second advanced payment for writing my book"
+    },
+    {
+      "id": 139071,
+      "date": "2025-11-03",
+      "category": "4",
+      "member_id": 4409,
+      "member_name": "Naz Shah",
+      "payer_id": 257,
+      "payer_name": "The Concordia Forum",
+      "amount": 2463.78,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4409/registeredinterests?categoryId=4",
+      "summary": "International visit to Italy between 03 November 2025 and 09 November 2025 — To attend the annual Concordia forum retreat, including the youth programme,",
+      "description": "Flights (£349.94), accommodation (£176.15), internal transport (£44.40) and Delegate package for Concordia Forum Annual Retreat 2025 (6-9 Nov at Verdura Resort, Sicily, worth standard delegate rate approx £1,893.29)"
+    },
+    {
+      "id": 133401,
+      "date": "2025-08-03",
+      "category": "4",
+      "member_id": 4409,
+      "member_name": "Naz Shah",
+      "payer_id": 740,
+      "payer_name": "Mercy Mission",
+      "amount": 2973.58,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4409/registeredinterests?categoryId=4",
+      "summary": "International visit to Pakistan between 03 August 2025 and 28 August 2025 — Speaking engagements, connecting with international stakeholders and developing insights into Muslim organisational working in the US.",
+      "description": "Flights (£2,393.58) and accommodation (£580, reimbursed on 12 September 2025)"
+    },
+    {
+      "id": 133402,
+      "date": "2025-08-03",
+      "category": "4",
+      "member_id": 4409,
+      "member_name": "Naz Shah",
+      "payer_id": 12,
+      "payer_name": "Adam Management Holdings Limited",
+      "amount": 2848.23,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4409/registeredinterests?categoryId=4",
+      "summary": "International visit to Pakistan between 03 August 2025 and 28 August 2025 — Speaking engagements, connecting with international stakeholders and developing insights into Muslim organisational working in the US.",
+      "description": "Flights (£2,848.23, received 17th October 2025)"
+    },
+    {
+      "id": 123721,
+      "date": "2025-04-14",
+      "category": "4",
+      "member_id": 4409,
+      "member_name": "Naz Shah",
+      "payer_id": 469,
+      "payer_name": "Global Wealth Forum",
+      "amount": 2234.9,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4409/registeredinterests?categoryId=4",
+      "summary": "International visit to Turkey between 14 April 2025 and 16 April 2025 — To attend the Global Donors Forum conference and participate in discussions on ethical leadership.",
+      "description": "Flights (£1399.90), accommodation and meals (£720), parking (£155.00)"
+    },
+    {
+      "id": 11977,
+      "date": "2025-03-10",
+      "category": "2",
+      "member_id": 4409,
+      "member_name": "Naz Shah",
+      "payer_id": 88,
+      "payer_name": "Aziz Foundation",
+      "amount": 24930.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4409/registeredinterests?categoryId=2",
+      "summary": "Aziz Foundation - £24,930.00",
+      "description": "Funding for two interns in the office, from 1st March until end of December 2025"
+    }
+  ]
+}

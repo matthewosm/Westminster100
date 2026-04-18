@@ -1,0 +1,367 @@
+{
+  "mnis_id": 1591,
+  "name": "Tim Farron",
+  "party": "Liberal Democrat",
+  "party_slug": "liberal-democrat",
+  "constituency": "Westmorland and Lonsdale",
+  "house": "Commons",
+  "start_date": "2005-05-05",
+  "photo_url": "https://members-api.parliament.uk/api/Members/1591/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 58253.08,
+      "combined": 58253.08,
+      "payment_count": 4,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 44621.84,
+      "combined": 44621.84,
+      "payment_count": 2,
+      "donor_count": 1
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 72130.41,
+      "combined": 72130.41,
+      "payment_count": 5,
+      "donor_count": 4
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 103977.42,
+      "combined": 103977.42,
+      "payment_count": 7,
+      "donor_count": 5
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 58253.08,
+        "combined": 58253.08,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 44621.84,
+        "combined": 44621.84,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 72130.41,
+        "combined": 72130.41,
+        "payment_count": 5,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 102874.92,
+        "combined": 102874.92,
+        "payment_count": 6,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1102.5,
+        "combined": 1102.5,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "volunteer-rescue-services",
+      "appg_name": "All-Party Parliamentary Group for Volunteer Rescue Services",
+      "officer_role": "Secretary",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "migration",
+      "appg_name": "All-Party Parliamentary Group on Migration",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "outdoor-learning",
+      "appg_name": "All-Party Parliamentary Group on Outdoor Learning",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "radiotherapy",
+      "appg_name": "All-Party Parliamentary Group on Radiotherapy",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "christians-in-parliament",
+      "appg_name": "Christians in Parliament All-Party Parliamentary Group",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 12166,
+      "date": "2025-04-01",
+      "category": "2",
+      "member_id": 1591,
+      "member_name": "Tim Farron",
+      "payer_id": 394,
+      "payer_name": "Faith in Public Ltd",
+      "amount": 30119.08,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2026-03-31",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1591/registeredinterests?categoryId=2",
+      "summary": "Faith in Public Ltd - £30,119.08",
+      "description": "The services of two policy advisers for a total of 30 hours a week between 1 April 2025 and 31 March 2026"
+    },
+    {
+      "id": 12167,
+      "date": "2025-04-01",
+      "category": "2",
+      "member_id": 1591,
+      "member_name": "Tim Farron",
+      "payer_id": 937,
+      "payer_name": "Refugee, Asylum & Migration Policy Project (RAMP)",
+      "amount": 9750.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-12-31",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1591/registeredinterests?categoryId=2",
+      "summary": "Refugee, Asylum & Migration Policy Project (RAMP) - £9,750.00",
+      "description": "The services of a policy adviser for one day per week from 1st April 2025 until 31st December 2025"
+    },
+    {
+      "id": 11946,
+      "date": "2025-03-01",
+      "category": "2",
+      "member_id": 1591,
+      "member_name": "Tim Farron",
+      "payer_id": 394,
+      "payer_name": "Faith in Public Ltd",
+      "amount": 15264.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2026-02-28",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1591/registeredinterests?categoryId=2",
+      "summary": "Faith in Public Ltd - £15,264.00",
+      "description": "The services of a public relations company"
+    },
+    {
+      "id": 11632,
+      "date": "2025-01-01",
+      "category": "2",
+      "member_id": 1591,
+      "member_name": "Tim Farron",
+      "payer_id": 937,
+      "payer_name": "Refugee, Asylum & Migration Policy Project (RAMP)",
+      "amount": 3120.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-03-31",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1591/registeredinterests?categoryId=2",
+      "summary": "Refugee, Asylum & Migration Policy Project (RAMP) - £3,120.00",
+      "description": "The services of a policy adviser for one day per week"
+    },
+    {
+      "id": 10945,
+      "date": "2024-09-16",
+      "category": "2",
+      "member_id": 1591,
+      "member_name": "Tim Farron",
+      "payer_id": 394,
+      "payer_name": "Faith in Public Ltd",
+      "amount": 13877.33,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-07-25",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1591/registeredinterests?categoryId=2",
+      "summary": "Faith in Public Ltd - £13,877.33",
+      "description": "The services of an intern for 22.5 hours a week between 16 September 2024 and 25 July 2025"
+    },
+    {
+      "id": 5364,
+      "date": "2024-04-01",
+      "category": "2",
+      "member_id": 1591,
+      "member_name": "Tim Farron",
+      "payer_id": 394,
+      "payer_name": "Faith in Public Ltd",
+      "amount": 30744.51,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-03-31",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1591/registeredinterests?categoryId=2",
+      "summary": "Faith in Public Ltd - £30,744.51",
+      "description": "The services of two policy advisers for a total of 30 hours a week between 1 April 2024 and 31 March 2025"
+    },
+    {
+      "id": 1117,
+      "date": "2015-08-01",
+      "category": "3",
+      "member_id": 1591,
+      "member_name": "Tim Farron",
+      "payer_id": 792,
+      "payer_name": "National Liberal Club",
+      "amount": 1102.5,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1591/registeredinterests?categoryId=3",
+      "summary": "National Liberal Club - £1,102.50",
+      "description": "honorary life membership as Leader of the Liberal Democrats (£735 pa in 2015, plus £367.50 entrance fee)"
+    }
+  ]
+}

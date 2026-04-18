@@ -1,0 +1,99 @@
+{
+  "id": 140,
+  "name": "BOKA Capital Ltd",
+  "address": "Devonshire House, 1 Mayfair Place, London W1J 8AJ",
+  "nature_of_business": "Technology investment firm",
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 15091.03,
+      "inkind": 0.0,
+      "combined": 15091.03,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 15091.03,
+      "inkind": 0.0,
+      "combined": 15091.03,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 15091.03,
+      "inkind": 0.0,
+      "combined": 15091.03,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 15091.03,
+      "inkind": 0.0,
+      "combined": 15091.03,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2278,
+    4271,
+    4271,
+    4271
+  ],
+  "payments": [
+    {
+      "id": 14270,
+      "date": "2026-01-07",
+      "category": "1.2",
+      "member_id": 4366,
+      "member_name": "Sir James Cleverly",
+      "payer_id": 140,
+      "payer_name": "BOKA Capital Ltd",
+      "amount": 52000.0,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Yearly",
+      "start_date": "2026-01-02",
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4366/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 02 January 2026 - £52,000.00",
+      "description": "paid monthly"
+    }
+  ]
+}

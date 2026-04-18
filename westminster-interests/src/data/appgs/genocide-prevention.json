@@ -1,0 +1,191 @@
+{
+  "slug": "genocide-prevention",
+  "title": "All-Party Parliamentary Group Genocide Prevention",
+  "purpose": "Providing parliamentarians with the information to act together to prevent genocides and crimes against humanity; learning from past genocides; supporting victims of genocides and crimes against humanity; promoting active peace building.",
+  "categories": [
+    "Justice, Law & Security",
+    "Human Rights, Equality & Social Justice"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/genocide-prevention.htm",
+  "secretariat": "Bellwether International acts as the group's secretariat.https://bellwetherngo.org/",
+  "website": "None",
+  "registered_contact_name": "Brendan O'Hara MP",
+  "date_of_most_recent_agm": "2025-03-26 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 3362.75,
+      "combined": 3362.75,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 3362.75,
+      "combined": 3362.75,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 3362.75,
+      "combined": 3362.75,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 3362.75,
+      "combined": 3362.75,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "genocide-prevention",
+      "mnis_id": 4371,
+      "name": "Brendan O'Hara",
+      "canon_name": "Brendan O'Hara",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/genocide-prevention.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "genocide-prevention",
+      "mnis_id": 4500,
+      "name": "Clive Lewis",
+      "canon_name": "Clive Lewis",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/genocide-prevention.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "genocide-prevention",
+      "mnis_id": 4846,
+      "name": "Colum Eastwood",
+      "canon_name": "Colum Eastwood",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/genocide-prevention.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "genocide-prevention",
+      "mnis_id": null,
+      "name": "Lord Davies of Gower",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/genocide-prevention.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "genocide-prevention",
+      "mnis_id": 4371,
+      "name": "Brendan O'Hara",
+      "canon_name": "Brendan O'Hara",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/genocide-prevention.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "genocide-prevention",
+      "mnis_id": 4500,
+      "name": "Clive Lewis",
+      "canon_name": "Clive Lewis",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/genocide-prevention.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "genocide-prevention",
+      "mnis_id": 4846,
+      "name": "Colum Eastwood",
+      "canon_name": "Colum Eastwood",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/genocide-prevention.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "genocide-prevention",
+      "mnis_id": null,
+      "name": "Lord Davies of Gower",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/genocide-prevention.htm",
+      "removed": null
+    }
+  ],
+  "payments": [
+    {
+      "id": 124791,
+      "date": "2025-04-28",
+      "category": "4",
+      "member_id": 4371,
+      "member_name": "Brendan O'Hara",
+      "payer_id": 116,
+      "payer_name": "Bellweather International",
+      "amount": 3362.75,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "genocide-prevention",
+      "appg_name": "All-Party Parliamentary Group Genocide Prevention",
+      "source_url": "https://members.parliament.uk/member/4371/registeredinterests?categoryId=4",
+      "summary": "International visit to United States between 28 April 2025 and 30 April 2025 — To speak to the International Human Rights and Freedom of Religion and Belief conference in the capacity of Chair of the APPG Genocide Prevention",
+      "description": "Flights: £3,014.42, hotel: $435.04, food: $32.64"
+    }
+  ]
+}

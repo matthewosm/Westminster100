@@ -1,0 +1,392 @@
+{
+  "mnis_id": 4765,
+  "name": "Wendy Chamberlain",
+  "party": "Liberal Democrat",
+  "party_slug": "liberal-democrat",
+  "constituency": "North East Fife",
+  "house": "Commons",
+  "start_date": "2019-12-12",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4765/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 27000.0,
+      "inkind": 4862.45,
+      "combined": 31862.45,
+      "payment_count": 5,
+      "donor_count": 5
+    },
+    "ytd": {
+      "monetary": 15000.0,
+      "inkind": 0.0,
+      "combined": 15000.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 12000.0,
+      "inkind": 4862.45,
+      "combined": 16862.45,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "2024": {
+      "monetary": 2400.0,
+      "inkind": 0.0,
+      "combined": 2400.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "since_election": {
+      "monetary": 29400.0,
+      "inkind": 4862.45,
+      "combined": 34262.45,
+      "payment_count": 6,
+      "donor_count": 5
+    },
+    "all_time": {
+      "monetary": 29400.0,
+      "inkind": 4862.45,
+      "combined": 34262.45,
+      "payment_count": 6,
+      "donor_count": 5
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 27000.0,
+        "inkind": 0.0,
+        "combined": 27000.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 15000.0,
+        "inkind": 0.0,
+        "combined": 15000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 12000.0,
+        "inkind": 0.0,
+        "combined": 12000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 2400.0,
+        "inkind": 0.0,
+        "combined": 2400.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 29400.0,
+        "inkind": 0.0,
+        "combined": 29400.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 29400.0,
+        "inkind": 0.0,
+        "combined": 29400.0,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 4382.45,
+        "combined": 4382.45,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 4382.45,
+        "combined": 4382.45,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 4382.45,
+        "combined": 4382.45,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 4382.45,
+        "combined": 4382.45,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 480.0,
+        "combined": 480.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 480.0,
+        "combined": 480.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 480.0,
+        "combined": 480.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 480.0,
+        "combined": 480.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    480,
+    0,
+    0,
+    4382,
+    0,
+    0,
+    12000,
+    0,
+    15000,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "golf",
+      "appg_name": "All-Party Parliamentary Group for Golf",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "survivors-of-fayed-and-harrods",
+      "appg_name": "All-Party Parliamentary Group for the Survivors of Fayed and Harrods",
+      "officer_role": "Co-Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "afghan-women-and-girls",
+      "appg_name": "All-Party Parliamentary Group on Afghan Women and Girls",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "carers",
+      "appg_name": "All-Party Parliamentary Group on Carers",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "pans-pandas",
+      "appg_name": "All-Party Parliamentary Group on PANS PANDAS",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "scotch-whisky",
+      "appg_name": "Scotch Whisky All-Party Parliamentary Group",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14288,
+      "date": "2026-01-07",
+      "category": "2",
+      "member_id": 4765,
+      "member_name": "Wendy Chamberlain",
+      "payer_id": 236,
+      "payer_name": "Claire Enders",
+      "amount": 15000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4765/registeredinterests?categoryId=2",
+      "summary": "Claire Enders - £15,000.00",
+      "description": null
+    },
+    {
+      "id": 13749,
+      "date": "2025-11-05",
+      "category": "2",
+      "member_id": 4765,
+      "member_name": "Wendy Chamberlain",
+      "payer_id": 862,
+      "payer_name": "Patrick H Foster",
+      "amount": 12000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4765/registeredinterests?categoryId=2",
+      "summary": "Patrick H Foster - £12,000.00",
+      "description": "paid in monthly instalments from 22 December 2025 to 22 November 2026"
+    },
+    {
+      "id": 131761,
+      "date": "2025-07-28",
+      "category": "4",
+      "member_id": 4765,
+      "member_name": "Wendy Chamberlain",
+      "payer_id": 715,
+      "payer_name": "Malaria No More",
+      "amount": 4214.8,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4765/registeredinterests?categoryId=4",
+      "summary": "International visit to Ghana between 28 July 2025 and 03 August 2025 — Visit with Malaria No More to Ghana to visit clinical facilities and meet with political leaders to learn about issues with preventing and treating malaria.",
+      "description": "Internal Transport (10% share of vehicle cost £357), internal transport (10% of fuel and cost of driver £478.61), anti-malaria treatment and visa (£303), flights (£1912.12), hotel (£964.07), meals (£200)"
+    },
+    {
+      "id": 131762,
+      "date": "2025-07-28",
+      "category": "4",
+      "member_id": 4765,
+      "member_name": "Wendy Chamberlain",
+      "payer_id": 586,
+      "payer_name": "IVCC (Innovate Vector Control Consortium)",
+      "amount": 167.65,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4765/registeredinterests?categoryId=4",
+      "summary": "International visit to Ghana between 28 July 2025 and 03 August 2025 — Visit with Malaria No More to Ghana to visit clinical facilities and meet with political leaders to learn about issues with preventing and treating malaria.",
+      "description": "Subsistence: £167.65"
+    },
+    {
+      "id": 12367,
+      "date": "2025-04-24",
+      "category": "3",
+      "member_id": 4765,
+      "member_name": "Wendy Chamberlain",
+      "payer_id": 797,
+      "payer_name": "NatWest Group",
+      "amount": 480.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4765/registeredinterests?categoryId=3",
+      "summary": "NatWest Group - £480.00",
+      "description": "Ticket and dinner at the British Business Awards"
+    },
+    {
+      "id": 11187,
+      "date": "2024-11-06",
+      "category": "2",
+      "member_id": 4765,
+      "member_name": "Wendy Chamberlain",
+      "payer_id": 862,
+      "payer_name": "Patrick H Foster",
+      "amount": 2400.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4765/registeredinterests?categoryId=2",
+      "summary": "Patrick H Foster - £2,400.00",
+      "description": "in monthly donations of £200 covering the period November 2024 - October 2025."
+    }
+  ]
+}

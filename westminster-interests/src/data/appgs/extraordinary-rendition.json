@@ -1,0 +1,165 @@
+{
+  "slug": "extraordinary-rendition",
+  "title": "All-Party Parliamentary Group on Extraordinary Rendition",
+  "purpose": "To establish the truth about the scope and scale of UK involvement in extraordinary rendition, reduce the possibility that the UK will take part in extraordinary rendition in the future, and promote adherence to the rule of law.",
+  "categories": [
+    "Justice, Law & Security",
+    "Human Rights, Equality & Social Justice"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/extraordinary-rendition.htm",
+  "secretariat": "",
+  "website": "https://www.extraordinaryrendition.org/",
+  "registered_contact_name": "Sam Rushworth MP",
+  "date_of_most_recent_agm": "2024-12-03 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "extraordinary-rendition",
+      "mnis_id": 1557,
+      "name": "Baroness Kramer",
+      "canon_name": "Baroness Kramer",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/extraordinary-rendition.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "extraordinary-rendition",
+      "mnis_id": 4495,
+      "name": "Kit Malthouse",
+      "canon_name": "Kit Malthouse",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/extraordinary-rendition.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "extraordinary-rendition",
+      "mnis_id": 112,
+      "name": "Lord Tyrie",
+      "canon_name": "Lord Tyrie",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/extraordinary-rendition.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "extraordinary-rendition",
+      "mnis_id": 5108,
+      "name": "Sam Rushworth",
+      "canon_name": "Sam Rushworth",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/extraordinary-rendition.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "extraordinary-rendition",
+      "mnis_id": 1557,
+      "name": "Baroness Kramer",
+      "canon_name": "Baroness Kramer",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/extraordinary-rendition.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "extraordinary-rendition",
+      "mnis_id": 4495,
+      "name": "Kit Malthouse",
+      "canon_name": "Kit Malthouse",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/extraordinary-rendition.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "extraordinary-rendition",
+      "mnis_id": 112,
+      "name": "Lord Tyrie",
+      "canon_name": "Lord Tyrie",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/extraordinary-rendition.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "extraordinary-rendition",
+      "mnis_id": 5108,
+      "name": "Sam Rushworth",
+      "canon_name": "Sam Rushworth",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/extraordinary-rendition.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

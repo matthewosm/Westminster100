@@ -1,0 +1,242 @@
+{
+  "mnis_id": 5212,
+  "name": "Dr Scott Arthur",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Edinburgh South West",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5212/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 279.17,
+      "combined": 279.17,
+      "payment_count": 5,
+      "donor_count": 5
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 279.17,
+      "combined": 279.17,
+      "payment_count": 5,
+      "donor_count": 5
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 279.17,
+      "combined": 279.17,
+      "payment_count": 5,
+      "donor_count": 5
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 279.17,
+        "combined": 279.17,
+        "payment_count": 5,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 279.17,
+        "combined": 279.17,
+        "payment_count": 5,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 279.17,
+        "combined": 279.17,
+        "payment_count": 5,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [],
+  "payments": [
+    {
+      "id": 122701,
+      "date": "2025-02-21",
+      "category": "4",
+      "member_id": 5212,
+      "member_name": "Dr Scott Arthur",
+      "payer_id": 1194,
+      "payer_name": "YES Foundation",
+      "amount": 92.11,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "ukraine",
+      "appg_name": "All-Party Parliamentary Group on Ukraine",
+      "source_url": "https://members.parliament.uk/member/5212/registeredinterests?categoryId=4",
+      "summary": "International visit to Ukraine between 21 February 2025 and 25 February 2025 — To promote and strengthen relations between the UK and Ukrainian parliaments",
+      "description": "Attendance at the YES Conference in Kyiv"
+    },
+    {
+      "id": 122702,
+      "date": "2025-02-21",
+      "category": "4",
+      "member_id": 5212,
+      "member_name": "Dr Scott Arthur",
+      "payer_id": 1202,
+      "payer_name": "Zhytomyr Administration",
+      "amount": 25.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "ukraine",
+      "appg_name": "All-Party Parliamentary Group on Ukraine",
+      "source_url": "https://members.parliament.uk/member/5212/registeredinterests?categoryId=4",
+      "summary": "International visit to Ukraine between 21 February 2025 and 25 February 2025 — To promote and strengthen relations between the UK and Ukrainian parliaments",
+      "description": "Transport and buffet lunch"
+    },
+    {
+      "id": 122703,
+      "date": "2025-02-21",
+      "category": "4",
+      "member_id": 5212,
+      "member_name": "Dr Scott Arthur",
+      "payer_id": 648,
+      "payer_name": "Kyivstar",
+      "amount": 50.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "ukraine",
+      "appg_name": "All-Party Parliamentary Group on Ukraine",
+      "source_url": "https://members.parliament.uk/member/5212/registeredinterests?categoryId=4",
+      "summary": "International visit to Ukraine between 21 February 2025 and 25 February 2025 — To promote and strengthen relations between the UK and Ukrainian parliaments",
+      "description": "Dinner and briefing in Kyiv with delegation"
+    },
+    {
+      "id": 122704,
+      "date": "2025-02-21",
+      "category": "4",
+      "member_id": 5212,
+      "member_name": "Dr Scott Arthur",
+      "payer_id": 1122,
+      "payer_name": "UK Friends of Ukraine",
+      "amount": 25.86,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "ukraine",
+      "appg_name": "All-Party Parliamentary Group on Ukraine",
+      "source_url": "https://members.parliament.uk/member/5212/registeredinterests?categoryId=4",
+      "summary": "International visit to Ukraine between 21 February 2025 and 25 February 2025 — To promote and strengthen relations between the UK and Ukrainian parliaments",
+      "description": "Bus transport in Kyiv and Lviv"
+    },
+    {
+      "id": 122705,
+      "date": "2025-02-21",
+      "category": "4",
+      "member_id": 5212,
+      "member_name": "Dr Scott Arthur",
+      "payer_id": 173,
+      "payer_name": "Bulldog Political Consulting",
+      "amount": 86.2,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "ukraine",
+      "appg_name": "All-Party Parliamentary Group on Ukraine",
+      "source_url": "https://members.parliament.uk/member/5212/registeredinterests?categoryId=4",
+      "summary": "International visit to Ukraine between 21 February 2025 and 25 February 2025 — To promote and strengthen relations between the UK and Ukrainian parliaments",
+      "description": "Dinner in Lviv"
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "mnis_id": 4527,
+  "name": "Helen Whately",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "Faversham and Mid Kent",
+  "house": "Commons",
+  "start_date": "2015-05-07",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4527/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 27500.0,
+      "inkind": 2450.0,
+      "combined": 29950.0,
+      "payment_count": 5,
+      "donor_count": 5
+    },
+    "ytd": {
+      "monetary": 27500.0,
+      "inkind": 0.0,
+      "combined": 27500.0,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 2938.5,
+      "combined": 2938.5,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 27500.0,
+      "inkind": 2938.5,
+      "combined": 30438.5,
+      "payment_count": 6,
+      "donor_count": 6
+    },
+    "all_time": {
+      "monetary": 27500.0,
+      "inkind": 2938.5,
+      "combined": 30438.5,
+      "payment_count": 6,
+      "donor_count": 6
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 27500.0,
+        "inkind": 2450.0,
+        "combined": 29950.0,
+        "payment_count": 5,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 27500.0,
+        "inkind": 0.0,
+        "combined": 27500.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 2450.0,
+        "combined": 2450.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 27500.0,
+        "inkind": 2450.0,
+        "combined": 29950.0,
+        "payment_count": 5,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 27500.0,
+        "inkind": 2450.0,
+        "combined": 29950.0,
+        "payment_count": 5,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 488.5,
+        "combined": 488.5,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 488.5,
+        "combined": 488.5,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 488.5,
+        "combined": 488.5,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    2450,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    12500,
+    5000,
+    10000,
+    0
+  ],
+  "appg_memberships": [],
+  "payments": [
+    {
+      "id": 14611,
+      "date": "2026-02-24",
+      "category": "2",
+      "member_id": 4527,
+      "member_name": "Helen Whately",
+      "payer_id": 352,
+      "payer_name": "Edward Sells",
+      "amount": 10000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4527/registeredinterests?categoryId=2",
+      "summary": "Edward Sells - £10,000.00",
+      "description": "Financial support towards the cost of salary for a member of staff to assist my work as a Shadow Secretary of State."
+    },
+    {
+      "id": 14367,
+      "date": "2026-01-21",
+      "category": "2",
+      "member_id": 4527,
+      "member_name": "Helen Whately",
+      "payer_id": 350,
+      "payer_name": "Edward Garton Woods",
+      "amount": 5000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4527/registeredinterests?categoryId=2",
+      "summary": "Edward Garton Woods - £5,000.00",
+      "description": "Financial support towards the cost of salary for a member of staff to assist my work as  a Shadow Secretary of State."
+    },
+    {
+      "id": 14331,
+      "date": "2026-01-14",
+      "category": "2",
+      "member_id": 4527,
+      "member_name": "Helen Whately",
+      "payer_id": 697,
+      "payer_name": "Lord (Stanley) Fink",
+      "amount": 5000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4527/registeredinterests?categoryId=2",
+      "summary": "Lord (Stanley) Fink - £5,000.00",
+      "description": "Financial support towards the cost of salary for a member of staff to assist the work of the Shadow Secretary of State."
+    },
+    {
+      "id": 14251,
+      "date": "2026-01-05",
+      "category": "2",
+      "member_id": 4527,
+      "member_name": "Helen Whately",
+      "payer_id": 951,
+      "payer_name": "Richard Oldfield",
+      "amount": 7500.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4527/registeredinterests?categoryId=2",
+      "summary": "Richard Oldfield - £7,500.00",
+      "description": "Financial support towards the cost of salary for a member of staff to assist the work of the Shadow Secretary of State."
+    },
+    {
+      "id": 12476,
+      "date": "2025-04-25",
+      "category": "2",
+      "member_id": 4527,
+      "member_name": "Helen Whately",
+      "payer_id": 946,
+      "payer_name": "Richard Chesson",
+      "amount": 2450.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-05-15",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4527/registeredinterests?categoryId=2",
+      "summary": "Richard Chesson - £2,450.00",
+      "description": "Sponsorship of the Unsung Heroes Awards including promotional signage, hospitality for the prize giving ceremony and prizes for the winners (exact amount)"
+    },
+    {
+      "id": 12263,
+      "date": "2025-04-03",
+      "category": "3",
+      "member_id": 4527,
+      "member_name": "Helen Whately",
+      "payer_id": 480,
+      "payer_name": "Google UK Ltd",
+      "amount": 488.5,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4527/registeredinterests?categoryId=3",
+      "summary": "Google UK Ltd - £488.50",
+      "description": "Travel, overnight stay and hospitality at Ditchley Park as part of the AI Parliamentary Scheme by Demos, in partnership with Google"
+    }
+  ]
+}

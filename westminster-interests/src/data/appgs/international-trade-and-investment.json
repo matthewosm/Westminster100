@@ -1,0 +1,164 @@
+{
+  "slug": "international-trade-and-investment",
+  "title": "International Trade and Investment All-Party Parliamentary Group",
+  "purpose": "The APPG will strengthen Parliament’s ability to address global trade complexities, foster cross-party collaboration, engage industry stakeholders, and promote strategic investment opportunities. This essential forum aims to shape and enhance the UK’s trade and investment landscape, driving economic growth and ensuring long-term global competitiveness.",
+  "categories": [
+    "International Affairs, Development & Trade"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/international-trade-and-investment.htm",
+  "secretariat": "NorthPoint Strategy and Chartered Institute of Export & International Trade jointly act as the group's secretariat.https://www.northpointstrategy.co.uk/andhttps://www.export.org.uk/",
+  "website": "http://appg-trade.com/",
+  "registered_contact_name": "Mike Reader MP",
+  "date_of_most_recent_agm": "2026-01-14 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "international-trade-and-investment",
+      "mnis_id": 5168,
+      "name": "Adam Jogee",
+      "canon_name": "Adam Jogee",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/international-trade-and-investment.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "international-trade-and-investment",
+      "mnis_id": null,
+      "name": "Baroness Foster of Aghadrumsee",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/international-trade-and-investment.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "international-trade-and-investment",
+      "mnis_id": null,
+      "name": "Lord Johnson of Lainston",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/international-trade-and-investment.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "international-trade-and-investment",
+      "mnis_id": 5316,
+      "name": "Mike Reader",
+      "canon_name": "Mike Reader",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/international-trade-and-investment.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "international-trade-and-investment",
+      "mnis_id": 5168,
+      "name": "Adam Jogee",
+      "canon_name": "Adam Jogee",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/international-trade-and-investment.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "international-trade-and-investment",
+      "mnis_id": null,
+      "name": "Baroness Foster of Aghadrumsee",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/international-trade-and-investment.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "international-trade-and-investment",
+      "mnis_id": null,
+      "name": "Lord Johnson of Lainston",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/international-trade-and-investment.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "international-trade-and-investment",
+      "mnis_id": 5316,
+      "name": "Mike Reader",
+      "canon_name": "Mike Reader",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/international-trade-and-investment.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

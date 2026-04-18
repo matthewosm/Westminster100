@@ -1,0 +1,164 @@
+{
+  "slug": "smart-towns-and-regions",
+  "title": "All-Party Parliamentary Group for Smart Towns and Regions",
+  "purpose": "The APPG unites Parliament, industry, and local leaders to accelerate the UK’s housing, energy, and retrofit goals connecting technology, data-led decision making, investment and policy to drive practical innovation, cut energy costs, support affordable homes, and strengthen regional economies.",
+  "categories": [
+    "Regions, Nations & Devolution"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/smart-towns-and-regions.htm",
+  "secretariat": "Elixr.Earth Limited acts as the group's secretariat.https://www.elixr.earth/",
+  "website": "https://smarttownsandregions.org.uk/",
+  "registered_contact_name": "Sureena Brackenridge MP",
+  "date_of_most_recent_agm": "2025-12-17 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "smart-towns-and-regions",
+      "mnis_id": null,
+      "name": "Baroness Maclean of Redditch",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/smart-towns-and-regions.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "smart-towns-and-regions",
+      "mnis_id": 5315,
+      "name": "Lee Barron",
+      "canon_name": "Lee Barron",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/smart-towns-and-regions.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "smart-towns-and-regions",
+      "mnis_id": null,
+      "name": "Lord Evans of Rainow",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/smart-towns-and-regions.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "smart-towns-and-regions",
+      "mnis_id": 5152,
+      "name": "Sureena Brackenridge",
+      "canon_name": "Sureena Brackenridge",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/smart-towns-and-regions.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "smart-towns-and-regions",
+      "mnis_id": null,
+      "name": "Baroness Maclean of Redditch",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/smart-towns-and-regions.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "smart-towns-and-regions",
+      "mnis_id": 5315,
+      "name": "Lee Barron",
+      "canon_name": "Lee Barron",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/smart-towns-and-regions.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "smart-towns-and-regions",
+      "mnis_id": null,
+      "name": "Lord Evans of Rainow",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/smart-towns-and-regions.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "smart-towns-and-regions",
+      "mnis_id": 5152,
+      "name": "Sureena Brackenridge",
+      "canon_name": "Sureena Brackenridge",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/smart-towns-and-regions.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

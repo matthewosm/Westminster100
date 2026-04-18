@@ -1,0 +1,164 @@
+{
+  "slug": "east-of-england",
+  "title": "East of England All-Party Parliamentary Group",
+  "purpose": "To bring together East of England's MPs and Peers with elected local council leaders, directly elected mayors and police, crime and fire commissioners – as well as senior representatives from the private and third sectors - to give a strong political voice for policies which support the East of England's economy and environment and promote its potential as a place to work, study, live, visit and invest.",
+  "categories": [
+    "Regions, Nations & Devolution"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/east-of-england.htm",
+  "secretariat": "Inflect acts as the group's secretariat.https://www.inflect.co.uk/",
+  "website": "https://eastofenglandappg.org.uk/",
+  "registered_contact_name": "Jess Asato MP",
+  "date_of_most_recent_agm": "2025-12-08 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "east-of-england",
+      "mnis_id": 5100,
+      "name": "Blake Stephenson",
+      "canon_name": "Blake Stephenson",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/east-of-england.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "east-of-england",
+      "mnis_id": 5156,
+      "name": "Jess Asato",
+      "canon_name": "Jessica Asato",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/east-of-england.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "east-of-england",
+      "mnis_id": 5073,
+      "name": "Marie Goldman",
+      "canon_name": "Marie Goldman",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/east-of-england.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "east-of-england",
+      "mnis_id": 5042,
+      "name": "Pam Cox",
+      "canon_name": "Pam Cox",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/east-of-england.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "east-of-england",
+      "mnis_id": 5100,
+      "name": "Blake Stephenson",
+      "canon_name": "Blake Stephenson",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/east-of-england.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "east-of-england",
+      "mnis_id": 5156,
+      "name": "Jess Asato",
+      "canon_name": "Jessica Asato",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/east-of-england.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "east-of-england",
+      "mnis_id": 5073,
+      "name": "Marie Goldman",
+      "canon_name": "Marie Goldman",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/east-of-england.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "east-of-england",
+      "mnis_id": 5042,
+      "name": "Pam Cox",
+      "canon_name": "Pam Cox",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/east-of-england.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

@@ -1,0 +1,164 @@
+{
+  "slug": "modernising-employment",
+  "title": "All-Party Parliamentary Group on Modernising Employment",
+  "purpose": "The APPG brings together Parliamentarians with organisations that have a shared interest in understanding how the UK labour market can lead the world in driving growth and providing a level playing field for everyone.",
+  "categories": [
+    "Economy, Business & Industry"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/modernising-employment.htm",
+  "secretariat": "Wychwood Consulting Limited acts as the group's secretariat.https://www.wychwoodconsultingltd.co.uk/",
+  "website": "https://www.modeappg.co.uk/",
+  "registered_contact_name": "Lee Barron MP",
+  "date_of_most_recent_agm": "2025-12-14 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "modernising-employment",
+      "mnis_id": 5255,
+      "name": "Joe Robertson",
+      "canon_name": "Joe Robertson",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/modernising-employment.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "modernising-employment",
+      "mnis_id": 5315,
+      "name": "Lee Barron",
+      "canon_name": "Lee Barron",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/modernising-employment.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "modernising-employment",
+      "mnis_id": 1879,
+      "name": "Lord Lucas",
+      "canon_name": "Lord Lucas",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/modernising-employment.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "modernising-employment",
+      "mnis_id": 5144,
+      "name": "Richard Quigley",
+      "canon_name": "Richard Quigley",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/modernising-employment.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "modernising-employment",
+      "mnis_id": 5255,
+      "name": "Joe Robertson",
+      "canon_name": "Joe Robertson",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/modernising-employment.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "modernising-employment",
+      "mnis_id": 5315,
+      "name": "Lee Barron",
+      "canon_name": "Lee Barron",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/modernising-employment.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "modernising-employment",
+      "mnis_id": 1879,
+      "name": "Lord Lucas",
+      "canon_name": "Lord Lucas",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/modernising-employment.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "modernising-employment",
+      "mnis_id": 5144,
+      "name": "Richard Quigley",
+      "canon_name": "Richard Quigley",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/modernising-employment.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

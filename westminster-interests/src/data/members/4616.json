@@ -1,0 +1,108 @@
+{
+  "mnis_id": 4616,
+  "name": "Rosie Duffield",
+  "party": "Independent",
+  "party_slug": "independent",
+  "constituency": "Canterbury",
+  "house": "Commons",
+  "start_date": "2017-06-08",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4616/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    }
+  },
+  "categories": {},
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "hazaras",
+      "appg_name": "All-Party Parliamentary Group for Hazaras",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "birth-trauma",
+      "appg_name": "All-Party Parliamentary Group on Birth Trauma",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "poland",
+      "appg_name": "All-Party Parliamentary Group on Poland",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "thalidomide",
+      "appg_name": "All-Party Parliamentary Group on Thalidomide",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "tigray",
+      "appg_name": "All-Party Parliamentary Group on Tigray",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "womens-rights",
+      "appg_name": "All-Party Parliamentary Group on Women's Rights",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": []
+}

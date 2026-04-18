@@ -1,0 +1,165 @@
+{
+  "slug": "creative-health",
+  "title": "All-Party Parliamentary Group on Creative Health",
+  "purpose": "To raise awareness of the benefits of creativity, culture and the arts for our health and wellbeing and to stimulate progress towards making these benefits a reality across the country.",
+  "categories": [
+    "Arts, Culture, Heritage & Media",
+    "Health, Medicine & Public Health"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/creative-health.htm",
+  "secretariat": "National Centre for Creative Health acts as the group's secretariat.https://ncch.org.uk/",
+  "website": "https://ncch.org.uk/appg-on-creative-health",
+  "registered_contact_name": "Dr Simon Opher MP",
+  "date_of_most_recent_agm": "2026-02-10 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "creative-health",
+      "mnis_id": null,
+      "name": "Baroness Royall of Blaisdon",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/creative-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "creative-health",
+      "mnis_id": 4008,
+      "name": "Dame Caroline Dinenage",
+      "canon_name": "Caroline Dinenage",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/creative-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "creative-health",
+      "mnis_id": 5030,
+      "name": "Dr Simon Opher",
+      "canon_name": "Simon Opher",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/creative-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "creative-health",
+      "mnis_id": 4909,
+      "name": "Lord Kamall",
+      "canon_name": "Lord Kamall",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/creative-health.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "creative-health",
+      "mnis_id": null,
+      "name": "Baroness Royall of Blaisdon",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/creative-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "creative-health",
+      "mnis_id": 4008,
+      "name": "Dame Caroline Dinenage",
+      "canon_name": "Caroline Dinenage",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/creative-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "creative-health",
+      "mnis_id": 5030,
+      "name": "Dr Simon Opher",
+      "canon_name": "Simon Opher",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/creative-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "creative-health",
+      "mnis_id": 4909,
+      "name": "Lord Kamall",
+      "canon_name": "Lord Kamall",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/creative-health.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

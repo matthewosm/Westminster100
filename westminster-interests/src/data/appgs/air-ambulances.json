@@ -1,0 +1,164 @@
+{
+  "slug": "air-ambulances",
+  "title": "All-Party Parliamentary Group for Air Ambulances",
+  "purpose": "To drive positive advancements for the UK’s air ambulances by championing crucial improvements and addressing key challenges faced by air ambulance charities. Through advocacy and collaboration, the group will enhance the delivery of lifesaving pre-hospital care, ensuring continued progress in this vital field.",
+  "categories": [
+    "Health, Medicine & Public Health"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/air-ambulances.htm",
+  "secretariat": "Air Ambulances UK acts as the group's secretariat.https://www.airambulancesuk.org/",
+  "website": "https://www.airambulancesuk.org/appg",
+  "registered_contact_name": "Pete Wishart MP",
+  "date_of_most_recent_agm": "2025-03-04 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "air-ambulances",
+      "mnis_id": null,
+      "name": "Baroness Foster of Aghadrumsee",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/air-ambulances.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "air-ambulances",
+      "mnis_id": 5197,
+      "name": "Dr Neil Shastri-Hurst",
+      "canon_name": "Neil Shastri-Hurst",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/air-ambulances.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "air-ambulances",
+      "mnis_id": 1440,
+      "name": "Pete Wishart",
+      "canon_name": "Pete Wishart",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/air-ambulances.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "air-ambulances",
+      "mnis_id": 5221,
+      "name": "Steve Witherden",
+      "canon_name": "Steve Witherden",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/air-ambulances.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "air-ambulances",
+      "mnis_id": null,
+      "name": "Baroness Foster of Aghadrumsee",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/air-ambulances.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "air-ambulances",
+      "mnis_id": 5197,
+      "name": "Dr Neil Shastri-Hurst",
+      "canon_name": "Neil Shastri-Hurst",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/air-ambulances.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "air-ambulances",
+      "mnis_id": 1440,
+      "name": "Pete Wishart",
+      "canon_name": "Pete Wishart",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/air-ambulances.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "air-ambulances",
+      "mnis_id": 5221,
+      "name": "Steve Witherden",
+      "canon_name": "Steve Witherden",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/air-ambulances.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

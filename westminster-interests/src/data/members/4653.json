@@ -1,0 +1,192 @@
+{
+  "mnis_id": 4653,
+  "name": "Stephen Morgan",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Portsmouth South",
+  "house": "Commons",
+  "start_date": "2017-06-08",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4653/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 15000.0,
+      "inkind": 0.0,
+      "combined": 15000.0,
+      "payment_count": 3,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 15000.0,
+      "inkind": 0.0,
+      "combined": 15000.0,
+      "payment_count": 3,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 15000.0,
+      "inkind": 0.0,
+      "combined": 15000.0,
+      "payment_count": 3,
+      "donor_count": 2
+    },
+    "all_time": {
+      "monetary": 15000.0,
+      "inkind": 0.0,
+      "combined": 15000.0,
+      "payment_count": 3,
+      "donor_count": 2
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 15000.0,
+        "inkind": 0.0,
+        "combined": 15000.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 15000.0,
+        "inkind": 0.0,
+        "combined": 15000.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 15000.0,
+        "inkind": 0.0,
+        "combined": 15000.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 15000.0,
+        "inkind": 0.0,
+        "combined": 15000.0,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    15000,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [],
+  "payments": [
+    {
+      "id": 14104,
+      "date": "2025-12-11",
+      "category": "2",
+      "member_id": 4653,
+      "member_name": "Stephen Morgan",
+      "payer_id": 773,
+      "payer_name": "Mr Abdul Sattar Shere-Mohammod (known as Shere M Sattar)",
+      "amount": 5000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4653/registeredinterests?categoryId=2",
+      "summary": "Mr Abdul Sattar Shere-Mohammod (known as Shere M Sattar) - £5,000.00",
+      "description": "The donation was made to Portsmouth Labour Party via a crowdfunder page organised and administered by the Portsmouth Labour Party. The donation was paid to the Portsmouth Labour Party bank account and was to raise money for Portsmouth Labour Party to help my re-election and support ongoing campaigns. The donation was repaid on 11 August 2025."
+    },
+    {
+      "id": 14105,
+      "date": "2025-12-11",
+      "category": "2",
+      "member_id": 4653,
+      "member_name": "Stephen Morgan",
+      "payer_id": 773,
+      "payer_name": "Mr Abdul Sattar Shere-Mohammod (known as Shere M Sattar)",
+      "amount": 5000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4653/registeredinterests?categoryId=2",
+      "summary": "Mr Adbul Sattar Shere-Mohammod (known as Shere M Sattar) - £5,000.00",
+      "description": "The donation was made to Portsmouth Labour Party via a crowdfunder page organised and administered by the Portsmouth Labour Party. The donation was paid to the Portsmouth Labour Party bank account and was to raise money for Portsmouth Labour Party to help my re-election and support ongoing campaigns. The donation was repaid on 11 August 2025"
+    },
+    {
+      "id": 14106,
+      "date": "2025-12-11",
+      "category": "2",
+      "member_id": 4653,
+      "member_name": "Stephen Morgan",
+      "payer_id": 773,
+      "payer_name": "Mr Abdul Sattar Shere-Mohammod (known as Shere M Sattar)",
+      "amount": 5000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4653/registeredinterests?categoryId=2",
+      "summary": "Mr Abdul Sattar Shere-Mohammod (known as Shere M Sattar) - £5,000.00",
+      "description": "The donation was made to Portsmouth Labour Party and paid to the Portsmouth Labour Party bank account and was to raise money for Portsmouth Labour Party  for my re-election and support ongoing campaigns. The donation was repaid on 11 August 2025"
+    }
+  ]
+}

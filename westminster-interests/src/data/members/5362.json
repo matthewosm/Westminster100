@@ -1,0 +1,90 @@
+{
+  "mnis_id": 5362,
+  "name": "Mr Angus MacDonald",
+  "party": "Liberal Democrat",
+  "party_slug": "liberal-democrat",
+  "constituency": "Inverness, Skye and West Ross-shire",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5362/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    }
+  },
+  "categories": {},
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "british-offshore-energy-industry",
+      "appg_name": "All-Party Parliamentary Group for the British Offshore Energy Industry",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "marine-energy",
+      "appg_name": "All-Party Parliamentary Group on Marine Energy",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "shooting-and-conservation",
+      "appg_name": "All-Party Parliamentary Group on Shooting and Conservation",
+      "officer_role": "Secretary",
+      "is_officer": true
+    }
+  ],
+  "payments": []
+}

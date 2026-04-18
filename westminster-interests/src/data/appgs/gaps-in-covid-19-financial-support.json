@@ -1,0 +1,166 @@
+{
+  "slug": "gaps-in-covid-19-financial-support",
+  "title": "Gaps in Covid-19 Financial Support All-Party Parliamentary Group",
+  "purpose": "To acknowledge the challenges faced by UK taxpayers excluded from government financial support during the Covid-19 pandemic, to address the failings of past provisions, and to develop equitable solutions ensuring no one is excluded from support in future crises.",
+  "categories": [
+    "Finance, Markets & Consumer Affairs",
+    "Economy, Business & Industry",
+    "Social Care, Welfare & Family Support"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/gaps-in-covid-19-financial-support.htm",
+  "secretariat": "ExcludedUK acts as the group's secretariat.https://excludeduk.org",
+  "website": "https://excludeduk.org/appg",
+  "registered_contact_name": "Steve Witherden MP",
+  "date_of_most_recent_agm": "2026-02-11 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "gaps-in-covid-19-financial-support",
+      "mnis_id": 5288,
+      "name": "Dr Al Pinkerton",
+      "canon_name": "Al Pinkerton",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/gaps-in-covid-19-financial-support.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "gaps-in-covid-19-financial-support",
+      "mnis_id": null,
+      "name": "Lord Brady of Altrincham",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/gaps-in-covid-19-financial-support.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "gaps-in-covid-19-financial-support",
+      "mnis_id": 5122,
+      "name": "Manuela Perteghella",
+      "canon_name": "Manuela Perteghella",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/gaps-in-covid-19-financial-support.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "gaps-in-covid-19-financial-support",
+      "mnis_id": 5221,
+      "name": "Steve Witherden",
+      "canon_name": "Steve Witherden",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/gaps-in-covid-19-financial-support.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "gaps-in-covid-19-financial-support",
+      "mnis_id": 5288,
+      "name": "Dr Al Pinkerton",
+      "canon_name": "Al Pinkerton",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/gaps-in-covid-19-financial-support.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "gaps-in-covid-19-financial-support",
+      "mnis_id": null,
+      "name": "Lord Brady of Altrincham",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/gaps-in-covid-19-financial-support.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "gaps-in-covid-19-financial-support",
+      "mnis_id": 5122,
+      "name": "Manuela Perteghella",
+      "canon_name": "Manuela Perteghella",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/gaps-in-covid-19-financial-support.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "gaps-in-covid-19-financial-support",
+      "mnis_id": 5221,
+      "name": "Steve Witherden",
+      "canon_name": "Steve Witherden",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/gaps-in-covid-19-financial-support.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

@@ -1,0 +1,165 @@
+{
+  "slug": "british-buses",
+  "title": "All-Party Parliamentary Group for British Buses",
+  "purpose": "The APPG provides a forum for Parliamentarians to discuss policies to support the UK bus manufacturing industry.",
+  "categories": [
+    "Infrastructure, Transport & Mobility",
+    "Economy, Business & Industry"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-buses.htm",
+  "secretariat": "Beyond2050 ltd acts as the group's secretariat.https://www.beyond2050.co.uk",
+  "website": "None",
+  "registered_contact_name": "Euan Stainbank MP",
+  "date_of_most_recent_agm": "2026-01-27 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "british-buses",
+      "mnis_id": 5110,
+      "name": "Euan Stainbank",
+      "canon_name": "Euan Stainbank",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-buses.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "british-buses",
+      "mnis_id": 1482,
+      "name": "Graham Stuart",
+      "canon_name": "Graham Stuart",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-buses.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "british-buses",
+      "mnis_id": 5356,
+      "name": "Jim Allister",
+      "canon_name": "Jim Allister",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-buses.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "british-buses",
+      "mnis_id": 5171,
+      "name": "Julia Buckley",
+      "canon_name": "Julia Buckley",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-buses.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "british-buses",
+      "mnis_id": 5110,
+      "name": "Euan Stainbank",
+      "canon_name": "Euan Stainbank",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-buses.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "british-buses",
+      "mnis_id": 1482,
+      "name": "Graham Stuart",
+      "canon_name": "Graham Stuart",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-buses.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "british-buses",
+      "mnis_id": 5356,
+      "name": "Jim Allister",
+      "canon_name": "Jim Allister",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-buses.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "british-buses",
+      "mnis_id": 5171,
+      "name": "Julia Buckley",
+      "canon_name": "Julia Buckley",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-buses.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

@@ -1,0 +1,99 @@
+{
+  "id": 267,
+  "name": "Consulate of the Republic of San Marino to the United Kingdom",
+  "address": "c/o Baird House, 15-17 St Cross Street, Farringdon, London , EC1N 8UW",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 1161.31,
+      "combined": 1161.31,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 1161.31,
+      "combined": 1161.31,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 1161.31,
+      "combined": 1161.31,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 1161.31,
+      "combined": 1161.31,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1161,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 138861,
+      "date": "2025-10-21",
+      "category": "4",
+      "member_id": 5168,
+      "member_name": "Adam Jogee",
+      "payer_id": 267,
+      "payer_name": "Consulate of the Republic of San Marino to the United Kingdom",
+      "amount": 1161.31,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "san-marino",
+      "appg_name": "San Marino All-Party Parliamentary Group",
+      "source_url": "https://members.parliament.uk/member/5168/registeredinterests?categoryId=4",
+      "summary": "International visit to San Marino between 21 October 2025 and 24 October 2025 — Part of a cross-party delegation to further relations between the United Kingdom and the Republic of San Marino and the Holy See. The visit included being received at the Vatican by the Holy Father, His Holiness Pope Leo.",
+      "description": "Airfare/Ground\r\nTransfers (£552.07)\r\n\r\nAccommodation\r\n(£322)\r\n\r\nSubsistence\r\n(£287.24)"
+    }
+  ]
+}

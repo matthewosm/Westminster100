@@ -1,0 +1,236 @@
+{
+  "mnis_id": 5256,
+  "name": "Jonathan Davies",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Mid Derbyshire",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5256/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 2006.32,
+      "combined": 2006.32,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 2006.32,
+      "combined": 2006.32,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 2006.32,
+      "combined": 2006.32,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 2006.32,
+      "combined": 2006.32,
+      "payment_count": 2,
+      "donor_count": 2
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1400.0,
+        "combined": 1400.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1400.0,
+        "combined": 1400.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1400.0,
+        "combined": 1400.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1400.0,
+        "combined": 1400.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 606.32,
+        "combined": 606.32,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 606.32,
+        "combined": 606.32,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 606.32,
+        "combined": 606.32,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 606.32,
+        "combined": 606.32,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    606,
+    0,
+    1400,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "art-craft-and-design-in-education",
+      "appg_name": "All-Party Parliamentary Group for Art, Craft and Design in Education",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "east-midlands",
+      "appg_name": "All-Party Parliamentary Group for the East Midlands",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "unesco-world-heritage-sites",
+      "appg_name": "All-Party Parliamentary Group on UNESCO World Heritage Sites",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "republic-of-korea",
+      "appg_name": "All-Party Parliamentary Group on the Republic of Korea",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 12989,
+      "date": "2025-07-06",
+      "category": "3",
+      "member_id": 5256,
+      "member_name": "Jonathan Davies",
+      "payer_id": 770,
+      "payer_name": "Motorsport UK",
+      "amount": 1400.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "formula-1-and-motorsport",
+      "appg_name": "All-Party Parliamentary Group on Formula 1 and Motorsport",
+      "source_url": "https://members.parliament.uk/member/5256/registeredinterests?categoryId=3",
+      "summary": "Motorsport UK - £1,400.00",
+      "description": "Admission and hospitality for myself and a guest at the 2025 British Grand Prix alongside other MPs as part of my membership of the All Party Parliamentary Group for Motorsport. This would have cost £700 each if bought on the open market"
+    },
+    {
+      "id": 135361,
+      "date": "2025-05-02",
+      "category": "4",
+      "member_id": 5256,
+      "member_name": "Jonathan Davies",
+      "payer_id": 69,
+      "payer_name": "Armed Forces Parliamentary Scheme Trust",
+      "amount": 606.32,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5256/registeredinterests?categoryId=4",
+      "summary": "International visit to Bahrain between 02 May 2025 and 05 May 2025 — UK Maritime Component Command (UKMCC) is a Royal Navy Command located at HMS Jufair in Bahrain.",
+      "description": "Flights to Bahrain and back to London to visit the UK Maritime Component Command"
+    }
+  ]
+}

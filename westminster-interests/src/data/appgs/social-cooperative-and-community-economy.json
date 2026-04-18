@@ -1,0 +1,164 @@
+{
+  "slug": "social-cooperative-and-community-economy",
+  "title": "Social, Cooperative, and Community Economy All-Party Parliamentary Group",
+  "purpose": "To grow understanding of and support for mission-led businesses including co­operatives, social enterprises, and community businesses.",
+  "categories": [
+    "Economy, Business & Industry"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/social-cooperative-and-community-economy.htm",
+  "secretariat": "Social Enterprise UK acts as the group's secretariat.https://www.socialenterprise.org.uk/",
+  "website": "https://www.socialenterprise.org.uk/evidence-policy/all-party-parliamentary-group-on-social-community-and-cooperative-economy/",
+  "registered_contact_name": "Patrick Hurley MP",
+  "date_of_most_recent_agm": "2024-12-10 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "social-cooperative-and-community-economy",
+      "mnis_id": 1782,
+      "name": "Baroness Thornton",
+      "canon_name": "Baroness Thornton",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/social-cooperative-and-community-economy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "social-cooperative-and-community-economy",
+      "mnis_id": 5086,
+      "name": "Josh Babarinde",
+      "canon_name": "Josh Babarinde",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/social-cooperative-and-community-economy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "social-cooperative-and-community-economy",
+      "mnis_id": 4302,
+      "name": "Lord Balfe",
+      "canon_name": "Lord Balfe",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/social-cooperative-and-community-economy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "social-cooperative-and-community-economy",
+      "mnis_id": 5052,
+      "name": "Patrick Hurley",
+      "canon_name": "Patrick Hurley",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/social-cooperative-and-community-economy.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "social-cooperative-and-community-economy",
+      "mnis_id": 1782,
+      "name": "Baroness Thornton",
+      "canon_name": "Baroness Thornton",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/social-cooperative-and-community-economy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "social-cooperative-and-community-economy",
+      "mnis_id": 5086,
+      "name": "Josh Babarinde",
+      "canon_name": "Josh Babarinde",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/social-cooperative-and-community-economy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "social-cooperative-and-community-economy",
+      "mnis_id": 4302,
+      "name": "Lord Balfe",
+      "canon_name": "Lord Balfe",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/social-cooperative-and-community-economy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "social-cooperative-and-community-economy",
+      "mnis_id": 5052,
+      "name": "Patrick Hurley",
+      "canon_name": "Patrick Hurley",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/social-cooperative-and-community-economy.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

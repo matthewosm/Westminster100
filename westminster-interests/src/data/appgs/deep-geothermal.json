@@ -1,0 +1,165 @@
+{
+  "slug": "deep-geothermal",
+  "title": "All-Party Parliamentary Group on Deep Geothermal",
+  "purpose": "The APPG is for parliamentarians to share information and ideas, and to work collaboratively with stakeholders to develop a new British growth industry that is key to energy security and net zero, with the long-term goal of becoming a mainstream renewable energy source in the UK.",
+  "categories": [
+    "Energy & Utilities",
+    "Environment, Climate & Sustainability"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/deep-geothermal.htm",
+  "secretariat": "Association for Renewable Energy and Clean Technology (REA) acts as the group's secretariat.https://www.r-e-a.net/",
+  "website": "https://www.r-e-a.net/appgs/working-with-westminster-on-deep-geothermal/",
+  "registered_contact_name": "Dr Kieran Mullan MP",
+  "date_of_most_recent_agm": "2025-12-17 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "deep-geothermal",
+      "mnis_id": 4860,
+      "name": "Dr Kieran Mullan",
+      "canon_name": "Kieran Mullan",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/deep-geothermal.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "deep-geothermal",
+      "mnis_id": 5279,
+      "name": "Jayne Kirkham",
+      "canon_name": "Jayne Kirkham",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/deep-geothermal.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "deep-geothermal",
+      "mnis_id": null,
+      "name": "Lord Cameron of Dillington",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/deep-geothermal.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "deep-geothermal",
+      "mnis_id": 5108,
+      "name": "Sam Rushworth",
+      "canon_name": "Sam Rushworth",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/deep-geothermal.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "deep-geothermal",
+      "mnis_id": 4860,
+      "name": "Dr Kieran Mullan",
+      "canon_name": "Kieran Mullan",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/deep-geothermal.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "deep-geothermal",
+      "mnis_id": 5279,
+      "name": "Jayne Kirkham",
+      "canon_name": "Jayne Kirkham",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/deep-geothermal.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "deep-geothermal",
+      "mnis_id": null,
+      "name": "Lord Cameron of Dillington",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/deep-geothermal.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "deep-geothermal",
+      "mnis_id": 5108,
+      "name": "Sam Rushworth",
+      "canon_name": "Sam Rushworth",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/deep-geothermal.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

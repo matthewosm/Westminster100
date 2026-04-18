@@ -1,0 +1,167 @@
+{
+  "mnis_id": 5048,
+  "name": "Antonia Bance",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Tipton and Wednesbury",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5048/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 900.0,
+      "combined": 900.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 900.0,
+      "combined": 900.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 900.0,
+      "combined": 900.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 900.0,
+      "combined": 900.0,
+      "payment_count": 1,
+      "donor_count": 1
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 900.0,
+        "combined": 900.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 900.0,
+        "combined": 900.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 900.0,
+        "combined": 900.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 900.0,
+        "combined": 900.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    900,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "west-midlands",
+      "appg_name": "All-Party Parliamentary Group for the West Midlands",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "dying-well",
+      "appg_name": "All-Party Parliamentary Group on Dying Well",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "freight-and-logistics",
+      "appg_name": "All-Party Parliamentary Group on Freight and Logistics",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "manufacturing",
+      "appg_name": "All-Party Parliamentary Manufacturing Group",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 13435,
+      "date": "2025-09-28",
+      "category": "3",
+      "member_id": 5048,
+      "member_name": "Antonia Bance",
+      "payer_id": 471,
+      "payer_name": "GMB",
+      "amount": 900.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-09-30",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5048/registeredinterests?categoryId=3",
+      "summary": "GMB - £900.00",
+      "description": "Hotel room and breakfast for two nights at Labour party conference in Liverpool, at £450 per night"
+    }
+  ]
+}

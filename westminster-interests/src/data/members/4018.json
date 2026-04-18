@@ -1,0 +1,273 @@
+{
+  "mnis_id": 4018,
+  "name": "Helen Grant",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "Maidstone and Malling",
+  "house": "Commons",
+  "start_date": "2010-05-06",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4018/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 2054.59,
+      "combined": 2054.59,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 2998.59,
+      "combined": 2998.59,
+      "payment_count": 5,
+      "donor_count": 4
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 2998.59,
+      "combined": 2998.59,
+      "payment_count": 5,
+      "donor_count": 4
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 2998.59,
+      "combined": 2998.59,
+      "payment_count": 5,
+      "donor_count": 4
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 2054.59,
+        "combined": 2054.59,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 2998.59,
+        "combined": 2998.59,
+        "payment_count": 5,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 2998.59,
+        "combined": 2998.59,
+        "payment_count": 5,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 2998.59,
+        "combined": 2998.59,
+        "payment_count": 5,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    1415,
+    640,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "jamaica",
+      "appg_name": "All-Party Parliamentary Group for Jamaica",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "maldives",
+      "appg_name": "All-Party Parliamentary Group on Maldives",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "race-and-community",
+      "appg_name": "All-Party Parliamentary Group on Race and Community",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "tennis",
+      "appg_name": "All-Party Parliamentary Group on Tennis",
+      "officer_role": "Co-Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "womens-football",
+      "appg_name": "All-Party Parliamentary Group on Women's Football",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 12914,
+      "date": "2025-07-04",
+      "category": "3",
+      "member_id": 4018,
+      "member_name": "Helen Grant",
+      "payer_id": 658,
+      "payer_name": "The Lawn Tennis Association",
+      "amount": 640.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "tennis",
+      "appg_name": "All-Party Parliamentary Group on Tennis",
+      "source_url": "https://members.parliament.uk/member/4018/registeredinterests?categoryId=3",
+      "summary": "Lawn Tennis Association - £640.00",
+      "description": "Two tickets to attend the Wimbledon Tennis Championships with hospitality"
+    },
+    {
+      "id": 12789,
+      "date": "2025-06-22",
+      "category": "3",
+      "member_id": 4018,
+      "member_name": "Helen Grant",
+      "payer_id": 659,
+      "payer_name": "The Lawn Tennis Association Limited",
+      "amount": 1015.12,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4018/registeredinterests?categoryId=3",
+      "summary": "Lawn Tennis Association Ltd - £1,015.12",
+      "description": "Two tickets to attend the HSBC tennis tournament at The Queens Club, London, including hospitality"
+    },
+    {
+      "id": 12788,
+      "date": "2025-06-12",
+      "category": "3",
+      "member_id": 4018,
+      "member_name": "Helen Grant",
+      "payer_id": 659,
+      "payer_name": "The Lawn Tennis Association Limited",
+      "amount": 399.47,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "tennis",
+      "appg_name": "All-Party Parliamentary Group on Tennis",
+      "source_url": "https://members.parliament.uk/member/4018/registeredinterests?categoryId=3",
+      "summary": "Lawn Tennis Association Limited - £399.47",
+      "description": "One ticket to attend the HSBC tennis tournament at The Queens Club as co-chair of the APPG for Tennis"
+    },
+    {
+      "id": 12119,
+      "date": "2025-03-24",
+      "category": "3",
+      "member_id": 4018,
+      "member_name": "Helen Grant",
+      "payer_id": 417,
+      "payer_name": "The Football Association Ltd",
+      "amount": 494.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4018/registeredinterests?categoryId=3",
+      "summary": "The FA Group - £494.00",
+      "description": "Seats and hospitality for two people at the England vs Latvia World Cup qualifying match at Wembley Stadium"
+    },
+    {
+      "id": 11936,
+      "date": "2025-02-26",
+      "category": "3",
+      "member_id": 4018,
+      "member_name": "Helen Grant",
+      "payer_id": 417,
+      "payer_name": "The Football Association Ltd",
+      "amount": 450.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4018/registeredinterests?categoryId=3",
+      "summary": "The FA Group - £450.00",
+      "description": "Hospitality and two tickets to a women's football match between England and Spain at Wembley Stadium"
+    }
+  ]
+}

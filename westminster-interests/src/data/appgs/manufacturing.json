@@ -1,0 +1,164 @@
+{
+  "slug": "manufacturing",
+  "title": "All-Party Parliamentary Manufacturing Group",
+  "purpose": "To encourage the exchange of knowledge and understanding between Parliament and the UK's diverse manufacturing industries, helping to raise the profile of manufacturing both inside and outside Parliament.",
+  "categories": [
+    "Economy, Business & Industry"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/manufacturing.htm",
+  "secretariat": "Policy Connect acts as the group's secretariat.https://www.policyconnect.org.uk/",
+  "website": "https://www.policyconnect.org.uk/apmg",
+  "registered_contact_name": "Bill Esterson MP",
+  "date_of_most_recent_agm": "2024-10-31 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "manufacturing",
+      "mnis_id": 5048,
+      "name": "Antonia Bance",
+      "canon_name": "Antonia Bance",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/manufacturing.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "manufacturing",
+      "mnis_id": 4061,
+      "name": "Bill Esterson",
+      "canon_name": "Bill Esterson",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/manufacturing.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "manufacturing",
+      "mnis_id": 5100,
+      "name": "Blake Stephenson",
+      "canon_name": "Blake Stephenson",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/manufacturing.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "manufacturing",
+      "mnis_id": 3809,
+      "name": "Lord Bilimoria",
+      "canon_name": "Lord Bilimoria",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/manufacturing.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "manufacturing",
+      "mnis_id": 5048,
+      "name": "Antonia Bance",
+      "canon_name": "Antonia Bance",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/manufacturing.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "manufacturing",
+      "mnis_id": 4061,
+      "name": "Bill Esterson",
+      "canon_name": "Bill Esterson",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/manufacturing.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "manufacturing",
+      "mnis_id": 5100,
+      "name": "Blake Stephenson",
+      "canon_name": "Blake Stephenson",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/manufacturing.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "manufacturing",
+      "mnis_id": 3809,
+      "name": "Lord Bilimoria",
+      "canon_name": "Lord Bilimoria",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/manufacturing.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

@@ -1,0 +1,336 @@
+{
+  "mnis_id": 5100,
+  "name": "Blake Stephenson",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "Mid Bedfordshire",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5100/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 15211.53,
+      "inkind": 4129.77,
+      "combined": 19341.3,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 15211.53,
+      "inkind": 4129.77,
+      "combined": 19341.3,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 15211.53,
+      "inkind": 4129.77,
+      "combined": 19341.3,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "all_time": {
+      "monetary": 15211.53,
+      "inkind": 4129.77,
+      "combined": 19341.3,
+      "payment_count": 4,
+      "donor_count": 4
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 790.0,
+        "combined": 790.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 790.0,
+        "combined": 790.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 790.0,
+        "combined": 790.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 790.0,
+        "combined": 790.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 3339.77,
+        "combined": 3339.77,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 3339.77,
+        "combined": 3339.77,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 3339.77,
+        "combined": 3339.77,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 3339.77,
+        "combined": 3339.77,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "1.1": {
+      "12m": {
+        "monetary": 15211.53,
+        "inkind": 0.0,
+        "combined": 15211.53,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 15211.53,
+        "inkind": 0.0,
+        "combined": 15211.53,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 15211.53,
+        "inkind": 0.0,
+        "combined": 15211.53,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 15211.53,
+        "inkind": 0.0,
+        "combined": 15211.53,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    15562,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3340,
+    440,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "financial-technology",
+      "appg_name": "All-Party Parliamentary Group on Financial Technology",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "pensions-and-growth",
+      "appg_name": "All-Party Parliamentary Group on Pensions and Growth",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "pubs",
+      "appg_name": "All-Party Parliamentary Group on Pubs",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "manufacturing",
+      "appg_name": "All-Party Parliamentary Manufacturing Group",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "east-of-england",
+      "appg_name": "East of England All-Party Parliamentary Group",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14317,
+      "date": "2025-12-18",
+      "category": "3",
+      "member_id": 5100,
+      "member_name": "Blake Stephenson",
+      "payer_id": 157,
+      "payer_name": "British Association for Shooting and Conservation",
+      "amount": 440.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-12-19",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5100/registeredinterests?categoryId=3",
+      "summary": "British Association for Shooting and Conservation - £440.00",
+      "description": "Educational visit in the UK to learn about deer management and conservation."
+    },
+    {
+      "id": 140041,
+      "date": "2025-11-11",
+      "category": "4",
+      "member_id": 5100,
+      "member_name": "Blake Stephenson",
+      "payer_id": 372,
+      "payer_name": "Energy and Climate Intelligence Unit",
+      "amount": 3339.77,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5100/registeredinterests?categoryId=4",
+      "summary": "International visit to Brazil between 11 November 2025 and 18 November 2025 — Attendance of COP30 to meet legislators and experts and to build knowledge of the international climate process.",
+      "description": "Accommodation (£292.41), Flights (£2,271.72) and  Maximum subsistence received (£835.64)"
+    },
+    {
+      "id": 12470,
+      "date": "2025-05-01",
+      "category": "1.1",
+      "member_id": 5100,
+      "member_name": "Blake Stephenson",
+      "payer_id": 1102,
+      "payer_name": "Tradeweb Europe Limited",
+      "amount": 15211.53,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5100/registeredinterests?categoryId=1",
+      "summary": "Payment received on 01 May 2025 - £15,211.53",
+      "description": "Total gross payments (before deductions) associated with the vesting and sale of restricted stock units in Tradeweb Inc. which were earnt whilst in employment before entering Parliament."
+    },
+    {
+      "id": 12294,
+      "date": "2025-04-27",
+      "category": "3",
+      "member_id": 5100,
+      "member_name": "Blake Stephenson",
+      "payer_id": 686,
+      "payer_name": "London Marathon Events Ltd",
+      "amount": 350.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5100/registeredinterests?categoryId=3",
+      "summary": "London Marathon Events Limited - £350.00",
+      "description": "2025 London Marathon Start and Finish Line Hospitality"
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "mnis_id": 4658,
+  "name": "Alex Sobel",
+  "party": "Labour (Co-op)",
+  "party_slug": "labour-co-op",
+  "constituency": "Leeds Central and Headingley",
+  "house": "Commons",
+  "start_date": "2017-06-08",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4658/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 4842.0,
+      "combined": 4842.0,
+      "payment_count": 3,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 3432.0,
+      "combined": 3432.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 1556.0,
+      "combined": 1556.0,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 4988.0,
+      "combined": 4988.0,
+      "payment_count": 4,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 4988.0,
+      "combined": 4988.0,
+      "payment_count": 4,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 4842.0,
+        "combined": 4842.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 3432.0,
+        "combined": 3432.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1410.0,
+        "combined": 1410.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 4842.0,
+        "combined": 4842.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 4842.0,
+        "combined": 4842.0,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 146.0,
+        "combined": 146.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 146.0,
+        "combined": 146.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 146.0,
+        "combined": 146.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    750,
+    0,
+    0,
+    660,
+    0,
+    0,
+    0,
+    0,
+    3432,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "fair-elections",
+      "appg_name": "All-Party Parliamentary Group for Fair Elections",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "global-deforestation",
+      "appg_name": "All-Party Parliamentary Group on Global Deforestation",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "music",
+      "appg_name": "All-Party Parliamentary Group on Music",
+      "officer_role": "Co-Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "students",
+      "appg_name": "All-Party Parliamentary Group on Students",
+      "officer_role": "Co-Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "ukraine",
+      "appg_name": "All-Party Parliamentary Group on Ukraine",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "west-papua",
+      "appg_name": "All-Party Parliamentary Group on West Papua",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14755,
+      "date": "2026-02-28",
+      "category": "3",
+      "member_id": 4658,
+      "member_name": "Alex Sobel",
+      "payer_id": 144,
+      "payer_name": "BPI (British Recorded Music Industry) Ltd",
+      "amount": 3432.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "music",
+      "appg_name": "All-Party Parliamentary Group on Music",
+      "source_url": "https://members.parliament.uk/member/4658/registeredinterests?categoryId=3",
+      "summary": "BPI - £3,432.00",
+      "description": "two tickets and hospitality for the Brit Awards at Co-op Live, Manchester"
+    },
+    {
+      "id": 13611,
+      "date": "2025-10-16",
+      "category": "3",
+      "member_id": 4658,
+      "member_name": "Alex Sobel",
+      "payer_id": 144,
+      "payer_name": "BPI (British Recorded Music Industry) Ltd",
+      "amount": 660.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-10-16",
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "music",
+      "appg_name": "All-Party Parliamentary Group on Music",
+      "source_url": "https://members.parliament.uk/member/4658/registeredinterests?categoryId=3",
+      "summary": "BPI - £660.00",
+      "description": "2 floor tickets and dinner for the Mercury Music Prize at the Utilita Arena, Newcastle"
+    },
+    {
+      "id": 12808,
+      "date": "2025-07-02",
+      "category": "3",
+      "member_id": 4658,
+      "member_name": "Alex Sobel",
+      "payer_id": 641,
+      "payer_name": "Knights Tailoring Ltd",
+      "amount": 750.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-07-02",
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "ukraine",
+      "appg_name": "All-Party Parliamentary Group on Ukraine",
+      "source_url": "https://members.parliament.uk/member/4658/registeredinterests?categoryId=3",
+      "summary": "Knights Tailoring Ltd - £750.00",
+      "description": "Two tickets for the National Film Awards to support the Ukrainian documentary 'We are Home'  that won Best Documentary. Hospitality included drinks but no food"
+    },
+    {
+      "id": 122431,
+      "date": "2025-03-17",
+      "category": "4",
+      "member_id": 4658,
+      "member_name": "Alex Sobel",
+      "payer_id": 1184,
+      "payer_name": "The World Forum",
+      "amount": 146.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4658/registeredinterests?categoryId=4",
+      "summary": "International visit to Germany between 17 March 2025 and 19 March 2025 — Speaker at the World Forum 2025",
+      "description": "Meals"
+    }
+  ]
+}

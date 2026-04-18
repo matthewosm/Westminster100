@@ -1,0 +1,164 @@
+{
+  "slug": "media",
+  "title": "All-Party Parliamentary Media Group",
+  "purpose": "To provide a forum for the discussion of public policy on the media.",
+  "categories": [
+    "Arts, Culture, Heritage & Media"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/media.htm",
+  "secretariat": "Whitehouse Communications acts as the group's secretariat.https://whitehousecomms.com/",
+  "website": "https://www.appgmedia.org/",
+  "registered_contact_name": "Chris Kane MP",
+  "date_of_most_recent_agm": "2025-12-03 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "media",
+      "mnis_id": null,
+      "name": "Baroness Bonham-Carter of Yarnbury",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/media.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "media",
+      "mnis_id": 5155,
+      "name": "Chris Kane",
+      "canon_name": "Chris Kane",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/media.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "media",
+      "mnis_id": 5358,
+      "name": "John Cooper",
+      "canon_name": "John Cooper",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/media.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "media",
+      "mnis_id": 5246,
+      "name": "Torcuil Crichton",
+      "canon_name": "Torcuil Crichton",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/media.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "media",
+      "mnis_id": null,
+      "name": "Baroness Bonham-Carter of Yarnbury",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/media.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "media",
+      "mnis_id": 5155,
+      "name": "Chris Kane",
+      "canon_name": "Chris Kane",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/media.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "media",
+      "mnis_id": 5358,
+      "name": "John Cooper",
+      "canon_name": "John Cooper",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/media.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "media",
+      "mnis_id": 5246,
+      "name": "Torcuil Crichton",
+      "canon_name": "Torcuil Crichton",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/media.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

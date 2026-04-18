@@ -1,0 +1,236 @@
+{
+  "slug": "brain-tumours",
+  "title": "All-Party Parliamentary Group on Brain Tumours",
+  "purpose": "To raise awareness of the issues facing the brain tumour community in order to improve research, diagnosis, information, support, treatment and care outcomes.",
+  "categories": [
+    "Health, Medicine & Public Health"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/brain-tumours.htm",
+  "secretariat": "Brain Tumour Research acts as the group's secretariat.https://www.braintumourresearch.org/",
+  "website": "https://braintumourresearch.org/campaigning/APPGonBrainTumours",
+  "registered_contact_name": "Dame Siobhain McDonagh MP",
+  "date_of_most_recent_agm": "2025-10-21 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "brain-tumours",
+      "mnis_id": null,
+      "name": "Beatrice Wishart",
+      "canon_name": "Beatrice Wishart",
+      "officer_role": "Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "brain-tumours",
+      "mnis_id": null,
+      "name": "Colin Smyth",
+      "canon_name": "Colin Smyth",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "brain-tumours",
+      "mnis_id": 193,
+      "name": "Dame Siobhain McDonagh",
+      "canon_name": "Siobhain McDonagh",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/brain-tumours.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "brain-tumours",
+      "mnis_id": null,
+      "name": "Finlay Carson",
+      "canon_name": "Finlay Carson",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "brain-tumours",
+      "mnis_id": 4547,
+      "name": "Lord Polak",
+      "canon_name": "Lord Polak",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/brain-tumours.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "brain-tumours",
+      "mnis_id": 4513,
+      "name": "Mims Davies",
+      "canon_name": "Mims Davies",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/brain-tumours.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "brain-tumours",
+      "mnis_id": 4777,
+      "name": "Sarah Owen",
+      "canon_name": "Sarah Owen",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/brain-tumours.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "brain-tumours",
+      "mnis_id": null,
+      "name": "Beatrice Wishart",
+      "canon_name": "Beatrice Wishart",
+      "officer_role": "Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "brain-tumours",
+      "mnis_id": null,
+      "name": "Colin Smyth",
+      "canon_name": "Colin Smyth",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "brain-tumours",
+      "mnis_id": 193,
+      "name": "Dame Siobhain McDonagh",
+      "canon_name": "Siobhain McDonagh",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/brain-tumours.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "brain-tumours",
+      "mnis_id": null,
+      "name": "Finlay Carson",
+      "canon_name": "Finlay Carson",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "brain-tumours",
+      "mnis_id": 4547,
+      "name": "Lord Polak",
+      "canon_name": "Lord Polak",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/brain-tumours.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "brain-tumours",
+      "mnis_id": 4513,
+      "name": "Mims Davies",
+      "canon_name": "Mims Davies",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/brain-tumours.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "brain-tumours",
+      "mnis_id": 4777,
+      "name": "Sarah Owen",
+      "canon_name": "Sarah Owen",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/brain-tumours.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

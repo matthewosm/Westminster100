@@ -1,0 +1,236 @@
+{
+  "mnis_id": 5215,
+  "name": "Naushabah Khan",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Gillingham and Rainham",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5215/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 3000.0,
+      "inkind": 5799.82,
+      "combined": 8799.82,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 5000.0,
+      "combined": 5000.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 3000.0,
+      "inkind": 799.82,
+      "combined": 3799.82,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 3000.0,
+      "inkind": 5799.82,
+      "combined": 8799.82,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 3000.0,
+      "inkind": 5799.82,
+      "combined": 8799.82,
+      "payment_count": 3,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 3000.0,
+        "inkind": 5000.0,
+        "combined": 8000.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 5000.0,
+        "combined": 5000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 3000.0,
+        "inkind": 0.0,
+        "combined": 3000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 3000.0,
+        "inkind": 5000.0,
+        "combined": 8000.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 3000.0,
+        "inkind": 5000.0,
+        "combined": 8000.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 799.82,
+        "combined": 799.82,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 799.82,
+        "combined": 799.82,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 799.82,
+        "combined": 799.82,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 799.82,
+        "combined": 799.82,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    800,
+    0,
+    0,
+    0,
+    0,
+    3000,
+    0,
+    0,
+    0,
+    5000,
+    0
+  ],
+  "appg_memberships": [],
+  "payments": [
+    {
+      "id": 14733,
+      "date": "2026-03-06",
+      "category": "2",
+      "member_id": 5215,
+      "member_name": "Naushabah Khan",
+      "payer_id": 873,
+      "payer_name": "Persimmon Homes Ltd",
+      "amount": 5000.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5215/registeredinterests?categoryId=2",
+      "summary": "Persimmon Homes Ltd - £5,000.00",
+      "description": "£5000 donation for a Housing Summit to give residents direct access to a variety of organisations responsible for housing issues; financial support; and welfare advice. The event was hosted by Naushabah Khan and sponsorship was given direct to Salvation Army Gillingham for the event."
+    },
+    {
+      "id": 13801,
+      "date": "2025-11-07",
+      "category": "2",
+      "member_id": 5215,
+      "member_name": "Naushabah Khan",
+      "payer_id": 524,
+      "payer_name": "Homes for Britain Ltd",
+      "amount": 3000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5215/registeredinterests?categoryId=2",
+      "summary": "Home For Britain Ltd - £3,000.00",
+      "description": "Political Donation for campaigning purposes following a fundraiser held by the company."
+    },
+    {
+      "id": 135421,
+      "date": "2025-05-25",
+      "category": "4",
+      "member_id": 5215,
+      "member_name": "Naushabah Khan",
+      "payer_id": 70,
+      "payer_name": "Armed Forces Parliamentary Trust",
+      "amount": 799.82,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5215/registeredinterests?categoryId=4",
+      "summary": "International visit to Brunei between 25 May 2025 and 29 May 2025 — To undertake a visit as part of my participation in the Armed Forces Parliamentary Scheme",
+      "description": "Flights"
+    }
+  ]
+}

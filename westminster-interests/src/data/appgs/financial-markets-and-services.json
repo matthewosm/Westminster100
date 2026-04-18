@@ -1,0 +1,164 @@
+{
+  "slug": "financial-markets-and-services",
+  "title": "All-Party Parliamentary Group for Financial Markets and Services",
+  "purpose": "The APPG provides parliamentarians with a unique forum to explore and debate topical issues relating to the wholesale financial sector.",
+  "categories": [
+    "Finance, Markets & Consumer Affairs"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/financial-markets-and-services.htm",
+  "secretariat": "Industry Advisory Group acts as the group's secretariat.",
+  "website": "None",
+  "registered_contact_name": "Sir Jeremy Hunt MP",
+  "date_of_most_recent_agm": "2025-12-03 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "financial-markets-and-services",
+      "mnis_id": 5298,
+      "name": "Lauren Edwards",
+      "canon_name": "Lauren Edwards",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/financial-markets-and-services.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "financial-markets-and-services",
+      "mnis_id": null,
+      "name": "Lord Sharpe of Epsom",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/financial-markets-and-services.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "financial-markets-and-services",
+      "mnis_id": 1572,
+      "name": "Sir Jeremy Hunt",
+      "canon_name": "Jeremy Hunt",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/financial-markets-and-services.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "financial-markets-and-services",
+      "mnis_id": 1829,
+      "name": "Viscount Trenchard",
+      "canon_name": "Viscount Trenchard",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/financial-markets-and-services.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "financial-markets-and-services",
+      "mnis_id": 5298,
+      "name": "Lauren Edwards",
+      "canon_name": "Lauren Edwards",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/financial-markets-and-services.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "financial-markets-and-services",
+      "mnis_id": null,
+      "name": "Lord Sharpe of Epsom",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/financial-markets-and-services.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "financial-markets-and-services",
+      "mnis_id": 1572,
+      "name": "Sir Jeremy Hunt",
+      "canon_name": "Jeremy Hunt",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/financial-markets-and-services.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "financial-markets-and-services",
+      "mnis_id": 1829,
+      "name": "Viscount Trenchard",
+      "canon_name": "Viscount Trenchard",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/financial-markets-and-services.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

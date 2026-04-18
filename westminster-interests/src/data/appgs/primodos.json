@@ -1,0 +1,165 @@
+{
+  "slug": "primodos",
+  "title": "All-Party Parliamentary Group on Primodos",
+  "purpose": "To raise awareness of the drug Primodos and the plight of the families who have been affected.",
+  "categories": [
+    "Health, Medicine & Public Health",
+    "Human Rights, Equality & Social Justice"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/primodos.htm",
+  "secretariat": "Association for Children Damaged by Hormone Pregnancy Tests  acts as the group's secretariat.https://primodos.org",
+  "website": "None",
+  "registered_contact_name": "Yasmin Qureshi MP",
+  "date_of_most_recent_agm": "2025-02-04 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "primodos",
+      "mnis_id": 188,
+      "name": "Ed Davey",
+      "canon_name": "Edward Davey",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/primodos.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "primodos",
+      "mnis_id": 4084,
+      "name": "Esther McVey",
+      "canon_name": "Esther McVey",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/primodos.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "primodos",
+      "mnis_id": 5208,
+      "name": "Perran Moon",
+      "canon_name": "Perran Moon",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/primodos.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "primodos",
+      "mnis_id": 3924,
+      "name": "Yasmin Qureshi",
+      "canon_name": "Yasmin Qureshi",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/primodos.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "primodos",
+      "mnis_id": 188,
+      "name": "Ed Davey",
+      "canon_name": "Edward Davey",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/primodos.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "primodos",
+      "mnis_id": 4084,
+      "name": "Esther McVey",
+      "canon_name": "Esther McVey",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/primodos.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "primodos",
+      "mnis_id": 5208,
+      "name": "Perran Moon",
+      "canon_name": "Perran Moon",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/primodos.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "primodos",
+      "mnis_id": 3924,
+      "name": "Yasmin Qureshi",
+      "canon_name": "Yasmin Qureshi",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/primodos.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

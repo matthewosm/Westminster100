@@ -1,0 +1,318 @@
+{
+  "mnis_id": 4040,
+  "name": "Chris Evans",
+  "party": "Labour (Co-op)",
+  "party_slug": "labour-co-op",
+  "constituency": "Caerphilly",
+  "house": "Commons",
+  "start_date": "2010-05-06",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4040/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 6100.0,
+      "inkind": 1581.55,
+      "combined": 7681.55,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 6100.0,
+      "inkind": 1581.55,
+      "combined": 7681.55,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 6100.0,
+      "inkind": 1581.55,
+      "combined": 7681.55,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "all_time": {
+      "monetary": 6100.0,
+      "inkind": 1581.55,
+      "combined": 7681.55,
+      "payment_count": 4,
+      "donor_count": 4
+    }
+  },
+  "categories": {
+    "1.1": {
+      "12m": {
+        "monetary": 6100.0,
+        "inkind": 0.0,
+        "combined": 6100.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 6100.0,
+        "inkind": 0.0,
+        "combined": 6100.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 6100.0,
+        "inkind": 0.0,
+        "combined": 6100.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 6100.0,
+        "inkind": 0.0,
+        "combined": 6100.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1031.55,
+        "combined": 1031.55,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1031.55,
+        "combined": 1031.55,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1031.55,
+        "combined": 1031.55,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1031.55,
+        "combined": 1031.55,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 550.0,
+        "combined": 550.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 550.0,
+        "combined": 550.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 550.0,
+        "combined": 550.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 550.0,
+        "combined": 550.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    550,
+    0,
+    4100,
+    0,
+    1032,
+    2000,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "archives-and-history",
+      "appg_name": "All-Party Parliamentary Group for Archives and History",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "writers",
+      "appg_name": "All-Party Parliamentary Group for Writers",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 13805,
+      "date": "2025-10-17",
+      "category": "1.1",
+      "member_id": 4040,
+      "member_name": "Chris Evans",
+      "payer_id": 294,
+      "payer_name": "David Luxton Associates Ltd",
+      "amount": 2000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4040/registeredinterests?categoryId=1",
+      "summary": "Payment received on 17 October 2025 - £2,000.00",
+      "description": "Payment for publication of a book"
+    },
+    {
+      "id": 134011,
+      "date": "2025-09-15",
+      "category": "4",
+      "member_id": 4040,
+      "member_name": "Chris Evans",
+      "payer_id": 253,
+      "payer_name": "Commonwealth War Graves Commission",
+      "amount": 1031.55,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4040/registeredinterests?categoryId=4",
+      "summary": "International visit to Turkey between 15 September 2025 and 18 September 2025 — Took part in the annual CWGC tours of war graves in Gallipoli",
+      "description": "Return flights: (£370.49), meals (£206.24), coach (£139.82), hotel (£315.00)"
+    },
+    {
+      "id": 12946,
+      "date": "2025-07-17",
+      "category": "1.1",
+      "member_id": 4040,
+      "member_name": "Chris Evans",
+      "payer_id": 133,
+      "payer_name": "Bloomsbury Publishing",
+      "amount": 4100.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": true,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4040/registeredinterests?categoryId=1",
+      "summary": "Payment received on 17 July 2025 - £4,100.00",
+      "description": "Further advance for writing a book."
+    },
+    {
+      "id": 12477,
+      "date": "2025-04-27",
+      "category": "3",
+      "member_id": 4040,
+      "member_name": "Chris Evans",
+      "payer_id": 686,
+      "payer_name": "London Marathon Events Ltd",
+      "amount": 550.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-04-27",
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4040/registeredinterests?categoryId=3",
+      "summary": "London Marathon Events Ltd - £550.00",
+      "description": "Hospitality for my wife, Julia Evans at the London Marathon"
+    }
+  ]
+}

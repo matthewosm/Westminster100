@@ -1,0 +1,167 @@
+{
+  "slug": "households-in-temporary-accommodation",
+  "title": "All-Party Parliamentary Group for Households in Temporary Accommodation",
+  "purpose": "The APPG is committed to improving the health, lives and experiences of families and adults living in temporary accommodation across England.  The group will highlight the damaging health and educational impact of living in temporary accommodation, especially for children.",
+  "categories": [
+    "Social Care, Welfare & Family Support",
+    "Education, Skills & Youth",
+    "Health, Medicine & Public Health",
+    "Housing, Planning & Built Environment"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/households-in-temporary-accommodation.htm",
+  "secretariat": "Justlife Foundation  and Shared Health Foundation jointly act as the group's secretariat.https://www.justlife.org.uk/andhttps://sharedhealthfoundation.org.uk/",
+  "website": "https://householdsintemporaryaccommodation.co.uk/",
+  "registered_contact_name": "Dame Siobhain McDonagh MP",
+  "date_of_most_recent_agm": "2025-11-19 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "households-in-temporary-accommodation",
+      "mnis_id": 193,
+      "name": "Dame Siobhain McDonagh",
+      "canon_name": "Siobhain McDonagh",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/households-in-temporary-accommodation.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "households-in-temporary-accommodation",
+      "mnis_id": 5086,
+      "name": "Josh Babarinde",
+      "canon_name": "Josh Babarinde",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/households-in-temporary-accommodation.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "households-in-temporary-accommodation",
+      "mnis_id": 4302,
+      "name": "Lord Balfe",
+      "canon_name": "Lord Balfe",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/households-in-temporary-accommodation.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "households-in-temporary-accommodation",
+      "mnis_id": 123,
+      "name": "Lord Lansley",
+      "canon_name": "Lord Lansley",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/households-in-temporary-accommodation.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "households-in-temporary-accommodation",
+      "mnis_id": 193,
+      "name": "Dame Siobhain McDonagh",
+      "canon_name": "Siobhain McDonagh",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/households-in-temporary-accommodation.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "households-in-temporary-accommodation",
+      "mnis_id": 5086,
+      "name": "Josh Babarinde",
+      "canon_name": "Josh Babarinde",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/households-in-temporary-accommodation.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "households-in-temporary-accommodation",
+      "mnis_id": 4302,
+      "name": "Lord Balfe",
+      "canon_name": "Lord Balfe",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/households-in-temporary-accommodation.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "households-in-temporary-accommodation",
+      "mnis_id": 123,
+      "name": "Lord Lansley",
+      "canon_name": "Lord Lansley",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/households-in-temporary-accommodation.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

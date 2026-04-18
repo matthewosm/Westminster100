@@ -1,0 +1,179 @@
+{
+  "mnis_id": 5163,
+  "name": "Peter Prinsley",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Bury St Edmunds and Stowmarket",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5163/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 2600.0,
+      "combined": 2600.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 2600.0,
+      "combined": 2600.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 2600.0,
+      "combined": 2600.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 2600.0,
+      "combined": 2600.0,
+      "payment_count": 1,
+      "donor_count": 1
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 2600.0,
+        "combined": 2600.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 2600.0,
+        "combined": 2600.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 2600.0,
+        "combined": 2600.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 2600.0,
+        "combined": 2600.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    2600,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "deafness",
+      "appg_name": "All-Party Parliamentary Group Deafness",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "healthcare-workers",
+      "appg_name": "All-Party Parliamentary Group for Healthcare Workers",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "british-jews",
+      "appg_name": "All-Party Parliamentary Group on British Jews",
+      "officer_role": "Co-Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "emergency-care",
+      "appg_name": "All-Party Parliamentary Group on Emergency Care",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "listed-properties",
+      "appg_name": "All-Party Parliamentary Group on Listed Properties",
+      "officer_role": "Treasurer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "prostate-cancer",
+      "appg_name": "All-Party Parliamentary Group on Prostate Cancer",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 128621,
+      "date": "2025-05-25",
+      "category": "4",
+      "member_id": 5163,
+      "member_name": "Peter Prinsley",
+      "payer_id": 654,
+      "payer_name": "Labour Friends of Israel",
+      "amount": 2600.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5163/registeredinterests?categoryId=4",
+      "summary": "International visit to Israel between 25 May 2025 and 29 May 2025 — Delegation to Israel and Palestinian territories\r\nMet politicians, activists and academics and diplomats",
+      "description": "Flights and Accommodation/Food"
+    }
+  ]
+}

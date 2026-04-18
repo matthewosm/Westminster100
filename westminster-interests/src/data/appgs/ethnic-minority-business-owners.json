@@ -1,0 +1,165 @@
+{
+  "slug": "ethnic-minority-business-owners",
+  "title": "All-Party Parliamentary Group for Ethnic Minority Business Owners",
+  "purpose": "The APPG for Ethnic Minority Business Owners aims to promote the advancement of businesses owned by Black, Asian and Minority Ethnic people to reduce barriers and unlock their potential for the overall benefit of the UK’s economy.",
+  "categories": [
+    "Economy, Business & Industry",
+    "Human Rights, Equality & Social Justice"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/ethnic-minority-business-owners.htm",
+  "secretariat": "Ethnic Minority Business Network acts as the group's secretariat.",
+  "website": "https://www.appgethnicbusiness.co.uk/",
+  "registered_contact_name": "Dr Rupa Huq MP",
+  "date_of_most_recent_agm": "2025-11-24 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "ethnic-minority-business-owners",
+      "mnis_id": 3790,
+      "name": "Baroness Verma",
+      "canon_name": "Baroness Verma",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/ethnic-minority-business-owners.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "ethnic-minority-business-owners",
+      "mnis_id": 5172,
+      "name": "Dan Aldridge",
+      "canon_name": "Dan Aldridge",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/ethnic-minority-business-owners.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "ethnic-minority-business-owners",
+      "mnis_id": 4511,
+      "name": "Dr Rupa Huq",
+      "canon_name": "Rupa Huq",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/ethnic-minority-business-owners.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "ethnic-minority-business-owners",
+      "mnis_id": 4591,
+      "name": "Sarah Olney",
+      "canon_name": "Sarah Olney",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/ethnic-minority-business-owners.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "ethnic-minority-business-owners",
+      "mnis_id": 3790,
+      "name": "Baroness Verma",
+      "canon_name": "Baroness Verma",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/ethnic-minority-business-owners.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "ethnic-minority-business-owners",
+      "mnis_id": 5172,
+      "name": "Dan Aldridge",
+      "canon_name": "Dan Aldridge",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/ethnic-minority-business-owners.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "ethnic-minority-business-owners",
+      "mnis_id": 4511,
+      "name": "Dr Rupa Huq",
+      "canon_name": "Rupa Huq",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/ethnic-minority-business-owners.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "ethnic-minority-business-owners",
+      "mnis_id": 4591,
+      "name": "Sarah Olney",
+      "canon_name": "Sarah Olney",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/ethnic-minority-business-owners.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

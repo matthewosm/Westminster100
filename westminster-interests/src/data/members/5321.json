@@ -1,0 +1,449 @@
+{
+  "mnis_id": 5321,
+  "name": "Mr Paul Kohler",
+  "party": "Liberal Democrat",
+  "party_slug": "liberal-democrat",
+  "constituency": "Wimbledon",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5321/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 12005.82,
+      "inkind": 3844.24,
+      "combined": 15850.06,
+      "payment_count": 7,
+      "donor_count": 7
+    },
+    "ytd": {
+      "monetary": 3552.41,
+      "inkind": 1140.0,
+      "combined": 4692.41,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2025": {
+      "monetary": 12005.82,
+      "inkind": 4497.04,
+      "combined": 16502.86,
+      "payment_count": 7,
+      "donor_count": 7
+    },
+    "2024": {
+      "monetary": 4933.9,
+      "inkind": 1552.86,
+      "combined": 6486.76,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "since_election": {
+      "monetary": 20492.12,
+      "inkind": 7189.9,
+      "combined": 27682.02,
+      "payment_count": 9,
+      "donor_count": 8
+    },
+    "all_time": {
+      "monetary": 20492.12,
+      "inkind": 7189.9,
+      "combined": 27682.02,
+      "payment_count": 9,
+      "donor_count": 8
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 3494.24,
+        "combined": 3494.24,
+        "payment_count": 5,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 1140.0,
+        "combined": 1140.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 4147.04,
+        "combined": 4147.04,
+        "payment_count": 5,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 1552.86,
+        "combined": 1552.86,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 6839.9,
+        "combined": 6839.9,
+        "payment_count": 7,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 6839.9,
+        "combined": 6839.9,
+        "payment_count": 7,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 350.0,
+        "combined": 350.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 350.0,
+        "combined": 350.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 350.0,
+        "combined": 350.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 350.0,
+        "combined": 350.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "1.2": {
+      "12m": {
+        "monetary": 12005.82,
+        "inkind": 0.0,
+        "combined": 12005.82,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 3552.41,
+        "inkind": 0.0,
+        "combined": 3552.41,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 12005.82,
+        "inkind": 0.0,
+        "combined": 12005.82,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 4933.9,
+        "inkind": 0.0,
+        "combined": 4933.9,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 20492.12,
+        "inkind": 0.0,
+        "combined": 20492.12,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 20492.12,
+        "inkind": 0.0,
+        "combined": 20492.12,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    1481,
+    1687,
+    2147,
+    987,
+    987,
+    987,
+    1337,
+    987,
+    2127,
+    987,
+    987,
+    987
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "night-time-economy",
+      "appg_name": "All-Party Parliamentary Group for the Night Time Economy",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "intergenerational-inquiry",
+      "appg_name": "All-Party Parliamentary Group on the Intergenerational Inquiry",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "republic-of-korea",
+      "appg_name": "All-Party Parliamentary Group on the Republic of Korea",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14307,
+      "date": "2026-01-01",
+      "category": "3",
+      "member_id": 5321,
+      "member_name": "Mr Paul Kohler",
+      "payer_id": 792,
+      "payer_name": "National Liberal Club",
+      "amount": 1140.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2026-12-31",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5321/registeredinterests?categoryId=3",
+      "summary": "National Liberal Club - £1,140.00",
+      "description": "Complimentary membership to the National Liberal Club, 2026"
+    },
+    {
+      "id": 140741,
+      "date": "2025-11-03",
+      "category": "4",
+      "member_id": 5321,
+      "member_name": "Mr Paul Kohler",
+      "payer_id": 384,
+      "payer_name": "European Jewish Association",
+      "amount": 350.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5321/registeredinterests?categoryId=4",
+      "summary": "International visit to Poland between 03 November 2025 and 05 November 2025 — To visit Auschwitz as a cross-party group. The purpose was to learn from each other how to promote peace.",
+      "description": "Part of the flights and accommodation have been provided for this trip. (£350 for both)"
+    },
+    {
+      "id": 13045,
+      "date": "2025-07-11",
+      "category": "3",
+      "member_id": 5321,
+      "member_name": "Mr Paul Kohler",
+      "payer_id": 1126,
+      "payer_name": "UK Music",
+      "amount": 599.88,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5321/registeredinterests?categoryId=3",
+      "summary": "UK Music - £599.88",
+      "description": "Two tickets for the BST in Hyde Park, including hospitality on the terrace"
+    },
+    {
+      "id": 13048,
+      "date": "2025-07-04",
+      "category": "3",
+      "member_id": 5321,
+      "member_name": "Mr Paul Kohler",
+      "payer_id": 36,
+      "payer_name": "The All England Lawn Tennis Club (Championships) Limited",
+      "amount": 560.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5321/registeredinterests?categoryId=3",
+      "summary": "The All England Lawn Tennis Club (Championships) Limited - £560.00",
+      "description": "Two Royal Box tickets to watch the Wimbledon Championships"
+    },
+    {
+      "id": 12703,
+      "date": "2025-05-26",
+      "category": "3",
+      "member_id": 5321,
+      "member_name": "Mr Paul Kohler",
+      "payer_id": 13,
+      "payer_name": "AFC Wimbledon",
+      "amount": 700.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5321/registeredinterests?categoryId=3",
+      "summary": "AFC Wimbledon - £700.00",
+      "description": "Two tickets and hospitality to see AFC Wimbledon in the league 2 play-off final at Wembley"
+    },
+    {
+      "id": 12393,
+      "date": "2025-04-26",
+      "category": "3",
+      "member_id": 5321,
+      "member_name": "Mr Paul Kohler",
+      "payer_id": 417,
+      "payer_name": "The Football Association Ltd",
+      "amount": 494.36,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5321/registeredinterests?categoryId=3",
+      "summary": "Football Association Limited - £494.36",
+      "description": "Two tickets and hospitality to the FA cup semi-final with Crystal Palace F.C."
+    },
+    {
+      "id": 12128,
+      "date": "2025-03-29",
+      "category": "3",
+      "member_id": 5321,
+      "member_name": "Mr Paul Kohler",
+      "payer_id": 436,
+      "payer_name": "Fulham FC",
+      "amount": 1792.8,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5321/registeredinterests?categoryId=3",
+      "summary": "Fulham FC - £1,792.80",
+      "description": "Tickets for FA Cup match included hospitality, Fulham vs Crystal Palace, for myself and my family (total of six). Value provided by supplier"
+    },
+    {
+      "id": 8794,
+      "date": "2024-08-03",
+      "category": "1.2",
+      "member_id": 5321,
+      "member_name": "Mr Paul Kohler",
+      "payer_id": 742,
+      "payer_name": "Merton Council",
+      "amount": 1001.17,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5321/registeredinterests?categoryId=1",
+      "summary": "Agreement - £1,001.17",
+      "description": null
+    },
+    {
+      "id": 10009,
+      "date": "2024-07-08",
+      "category": "3",
+      "member_id": 5321,
+      "member_name": "Mr Paul Kohler",
+      "payer_id": 792,
+      "payer_name": "National Liberal Club",
+      "amount": 1552.86,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-12-31",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5321/registeredinterests?categoryId=3",
+      "summary": "National Liberal Club - £1,552.86",
+      "description": "Complimentary membership of the NLC from 14 August 2024 until 31 December 2025"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": 157,
+  "name": "British Association for Shooting and Conservation",
+  "address": "Marford Mill, Rossett, Wrexham, LL12 0HL",
+  "nature_of_business": null,
+  "donor_status": "Company",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 880.0,
+      "combined": 880.0,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 880.0,
+      "combined": 880.0,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 880.0,
+      "combined": 880.0,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 880.0,
+      "combined": 880.0,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    880,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 14317,
+      "date": "2025-12-18",
+      "category": "3",
+      "member_id": 5100,
+      "member_name": "Blake Stephenson",
+      "payer_id": 157,
+      "payer_name": "British Association for Shooting and Conservation",
+      "amount": 440.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-12-19",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5100/registeredinterests?categoryId=3",
+      "summary": "British Association for Shooting and Conservation - £440.00",
+      "description": "Educational visit in the UK to learn about deer management and conservation."
+    },
+    {
+      "id": 14329,
+      "date": "2025-12-18",
+      "category": "3",
+      "member_id": 4778,
+      "member_name": "Greg Smith",
+      "payer_id": 157,
+      "payer_name": "British Association for Shooting and Conservation",
+      "amount": 440.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-12-19",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4778/registeredinterests?categoryId=3",
+      "summary": "British Association for Shooting and Conservation - £440.00",
+      "description": "Educational visit in the UK to learn about deer management and conservation including lunch, dinner, overnight accommodation and breakfast"
+    }
+  ]
+}

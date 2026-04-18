@@ -1,0 +1,99 @@
+{
+  "id": 697,
+  "name": "Lord (Stanley) Fink",
+  "address": null,
+  "nature_of_business": null,
+  "donor_status": "Individual",
+  "is_private_individual": true,
+  "totals": {
+    "12m": {
+      "monetary": 5000.0,
+      "inkind": 0.0,
+      "combined": 5000.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 5000.0,
+      "inkind": 0.0,
+      "combined": 5000.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 5000.0,
+      "inkind": 0.0,
+      "combined": 5000.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 5000.0,
+      "inkind": 0.0,
+      "combined": 5000.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    5000,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 14331,
+      "date": "2026-01-14",
+      "category": "2",
+      "member_id": 4527,
+      "member_name": "Helen Whately",
+      "payer_id": 697,
+      "payer_name": "Lord (Stanley) Fink",
+      "amount": 5000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4527/registeredinterests?categoryId=2",
+      "summary": "Lord (Stanley) Fink - £5,000.00",
+      "description": "Financial support towards the cost of salary for a member of staff to assist the work of the Shadow Secretary of State."
+    }
+  ]
+}

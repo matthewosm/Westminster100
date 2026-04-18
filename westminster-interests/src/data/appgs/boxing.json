@@ -1,0 +1,164 @@
+{
+  "slug": "boxing",
+  "title": "All-Party Parliamentary Group on Boxing",
+  "purpose": "To engage with government and parliament to support all aspects of boxing; set out the benefits of boxing to individuals and wider society; reduce barriers to participation in boxing; celebrate the success of our nation’s boxers; and highlight the potential for grass roots boxing clubs to promote diversity, inclusion and regeneration in the UK.",
+  "categories": [
+    "Sport, Recreation & Physical Activity"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/boxing.htm",
+  "secretariat": "Stewart Public Affairs Ltd acts as the group's secretariat.",
+  "website": "None",
+  "registered_contact_name": "Imran Hussain MP",
+  "date_of_most_recent_agm": "2025-10-29 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "boxing",
+      "mnis_id": 4335,
+      "name": "Baroness Mobarik",
+      "canon_name": "Baroness Mobarik",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/boxing.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "boxing",
+      "mnis_id": 5025,
+      "name": "Chris Webb",
+      "canon_name": "Chris Webb",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/boxing.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "boxing",
+      "mnis_id": 4394,
+      "name": "Imran Hussain",
+      "canon_name": "Imran Hussain",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/boxing.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "boxing",
+      "mnis_id": 4824,
+      "name": "Kim Johnson",
+      "canon_name": "Kim Johnson",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/boxing.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "boxing",
+      "mnis_id": 4335,
+      "name": "Baroness Mobarik",
+      "canon_name": "Baroness Mobarik",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/boxing.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "boxing",
+      "mnis_id": 5025,
+      "name": "Chris Webb",
+      "canon_name": "Chris Webb",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/boxing.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "boxing",
+      "mnis_id": 4394,
+      "name": "Imran Hussain",
+      "canon_name": "Imran Hussain",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/boxing.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "boxing",
+      "mnis_id": 4824,
+      "name": "Kim Johnson",
+      "canon_name": "Kim Johnson",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/boxing.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

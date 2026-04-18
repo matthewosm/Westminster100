@@ -1,0 +1,191 @@
+{
+  "slug": "global-tuberculosis",
+  "title": "All-Party Parliamentary Group for Global Tuberculosis",
+  "purpose": "The APPG's mission is to accelerate progress towards ending the global TB epidemic. We work primarily through the UK parliament to push the UK government to improve its policies on TB and devote more resources to tackling the epidemic.",
+  "categories": [
+    "Health, Medicine & Public Health",
+    "International Affairs, Development & Trade"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/global-tuberculosis.htm",
+  "secretariat": "Results UK acts as the group's secretariat.https://www.results.org.uk/",
+  "website": "https://appg-tb.org.uk/",
+  "registered_contact_name": "Sojan Joseph MP",
+  "date_of_most_recent_agm": "2025-03-24 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 745.36,
+      "combined": 745.36,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 745.36,
+      "combined": 745.36,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 745.36,
+      "combined": 745.36,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 745.36,
+      "combined": 745.36,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "global-tuberculosis",
+      "mnis_id": 4298,
+      "name": "Baroness Suttie",
+      "canon_name": "Baroness Suttie",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/global-tuberculosis.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "global-tuberculosis",
+      "mnis_id": 4515,
+      "name": "Kate Osamor",
+      "canon_name": "Kate Osamor",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/global-tuberculosis.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "global-tuberculosis",
+      "mnis_id": null,
+      "name": "Lord Herbert of South Downs",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/global-tuberculosis.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "global-tuberculosis",
+      "mnis_id": 5247,
+      "name": "Sojan Joseph",
+      "canon_name": "Sojan Joseph",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/global-tuberculosis.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "global-tuberculosis",
+      "mnis_id": 4298,
+      "name": "Baroness Suttie",
+      "canon_name": "Baroness Suttie",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/global-tuberculosis.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "global-tuberculosis",
+      "mnis_id": 4515,
+      "name": "Kate Osamor",
+      "canon_name": "Kate Osamor",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/global-tuberculosis.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "global-tuberculosis",
+      "mnis_id": null,
+      "name": "Lord Herbert of South Downs",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/global-tuberculosis.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "global-tuberculosis",
+      "mnis_id": 5247,
+      "name": "Sojan Joseph",
+      "canon_name": "Sojan Joseph",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/global-tuberculosis.htm",
+      "removed": null
+    }
+  ],
+  "payments": [
+    {
+      "id": 136231,
+      "date": "2025-10-08",
+      "category": "4",
+      "member_id": 5247,
+      "member_name": "Sojan Joseph",
+      "payer_id": 943,
+      "payer_name": "Results UK",
+      "amount": 745.36,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "global-tuberculosis",
+      "appg_name": "All-Party Parliamentary Group for Global Tuberculosis",
+      "source_url": "https://members.parliament.uk/member/5247/registeredinterests?categoryId=4",
+      "summary": "International visit to Switzerland between 08 October 2025 and 09 October 2025 — Member of delegation of MPs who chair global health related APPGs to meet with global institutions that are working to end TB, malaria and HIV, improve immunisation coverage, and protect child health.",
+      "description": "Flights, hotel, travel to and from airport and meetings and subsistence"
+    }
+  ]
+}

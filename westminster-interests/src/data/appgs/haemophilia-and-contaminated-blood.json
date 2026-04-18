@@ -1,0 +1,164 @@
+{
+  "slug": "haemophilia-and-contaminated-blood",
+  "title": "All-Party Parliamentary Group on Haemophilia and Contaminated Blood",
+  "purpose": "To promote awareness of, and campaign for, people with haemophilia and other bleeding disorders and people infected with blood-borne viruses due to contaminated blood and blood products used in their healthcare treatment.",
+  "categories": [
+    "Health, Medicine & Public Health"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/haemophilia-and-contaminated-blood.htm",
+  "secretariat": "The Haemophilia Society acts as the group's secretariat.http://haemophilia.org.uk/",
+  "website": "https://haemophilia.org.uk/public-inquiry/the-infected-blood-inquiry/the-all-party-parliamentary-group",
+  "registered_contact_name": "Clive Efford MP",
+  "date_of_most_recent_agm": "2024-12-17 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "haemophilia-and-contaminated-blood",
+      "mnis_id": 1531,
+      "name": "Baroness Featherstone",
+      "canon_name": "Baroness Featherstone",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/haemophilia-and-contaminated-blood.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "haemophilia-and-contaminated-blood",
+      "mnis_id": 165,
+      "name": "Clive Efford",
+      "canon_name": "Clive Efford",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/haemophilia-and-contaminated-blood.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "haemophilia-and-contaminated-blood",
+      "mnis_id": 1440,
+      "name": "Pete Wishart",
+      "canon_name": "Pete Wishart",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/haemophilia-and-contaminated-blood.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "haemophilia-and-contaminated-blood",
+      "mnis_id": 54,
+      "name": "Sir Julian Lewis",
+      "canon_name": "Julian Lewis",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/haemophilia-and-contaminated-blood.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "haemophilia-and-contaminated-blood",
+      "mnis_id": 1531,
+      "name": "Baroness Featherstone",
+      "canon_name": "Baroness Featherstone",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/haemophilia-and-contaminated-blood.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "haemophilia-and-contaminated-blood",
+      "mnis_id": 165,
+      "name": "Clive Efford",
+      "canon_name": "Clive Efford",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/haemophilia-and-contaminated-blood.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "haemophilia-and-contaminated-blood",
+      "mnis_id": 1440,
+      "name": "Pete Wishart",
+      "canon_name": "Pete Wishart",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/haemophilia-and-contaminated-blood.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "haemophilia-and-contaminated-blood",
+      "mnis_id": 54,
+      "name": "Sir Julian Lewis",
+      "canon_name": "Julian Lewis",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/haemophilia-and-contaminated-blood.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

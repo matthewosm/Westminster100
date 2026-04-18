@@ -1,0 +1,124 @@
+{
+  "id": 279,
+  "name": "Cristina Caffarra",
+  "address": null,
+  "nature_of_business": null,
+  "donor_status": "Individual",
+  "is_private_individual": true,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 575.0,
+      "combined": 575.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 575.0,
+      "combined": 575.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 575.0,
+      "combined": 575.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 12061,
+      "date": "2025-01-30",
+      "category": "3",
+      "member_id": 4124,
+      "member_name": "Dame Chi Onwurah",
+      "payer_id": 279,
+      "payer_name": "Cristina Caffarra",
+      "amount": 406.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4124/registeredinterests?categoryId=3",
+      "summary": "Cristina Caffarra - £406.00",
+      "description": "Dinner - for speakers attending The Perfect Storm Conference in Brussels - meal was held at The Sky Avenue Louise 480, 1000 Brussels £406 aprox including VAT"
+    },
+    {
+      "id": 13823,
+      "date": "2025-01-30",
+      "category": "3",
+      "member_id": 4124,
+      "member_name": "Dame Chi Onwurah",
+      "payer_id": 279,
+      "payer_name": "Cristina Caffarra",
+      "amount": 169.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4124/registeredinterests?categoryId=3",
+      "summary": "Cristina Caffarra - £169.00",
+      "description": "Speaker's dinner at a conference in Brussels (value is approximate)"
+    }
+  ]
+}

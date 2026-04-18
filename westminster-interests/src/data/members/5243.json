@@ -1,0 +1,249 @@
+{
+  "mnis_id": 5243,
+  "name": "Andrew Pakes",
+  "party": "Labour (Co-op)",
+  "party_slug": "labour-co-op",
+  "constituency": "Peterborough",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5243/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 2000.0,
+      "inkind": 13194.0,
+      "combined": 15194.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 2000.0,
+      "inkind": 0.0,
+      "combined": 2000.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 2000.0,
+      "inkind": 13194.0,
+      "combined": 15194.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 4000.0,
+      "inkind": 13194.0,
+      "combined": 17194.0,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 4000.0,
+      "inkind": 13194.0,
+      "combined": 17194.0,
+      "payment_count": 3,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 2000.0,
+        "inkind": 0.0,
+        "combined": 2000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 2000.0,
+        "inkind": 0.0,
+        "combined": 2000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 2000.0,
+        "inkind": 0.0,
+        "combined": 2000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 4000.0,
+        "inkind": 0.0,
+        "combined": 4000.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 4000.0,
+        "inkind": 0.0,
+        "combined": 4000.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 13194.0,
+        "combined": 13194.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 13194.0,
+        "combined": 13194.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 13194.0,
+        "combined": 13194.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 13194.0,
+        "combined": 13194.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    13194,
+    0,
+    0,
+    0,
+    2000,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "mutuals",
+      "appg_name": "All-Party Parliamentary Group for Mutuals",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "future-of-work",
+      "appg_name": "All-Party Parliamentary Group on the Future of Work",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14801,
+      "date": "2026-03-19",
+      "category": "2",
+      "member_id": 5243,
+      "member_name": "Andrew Pakes",
+      "payer_id": 472,
+      "payer_name": "GMB London Region",
+      "amount": 2000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5243/registeredinterests?categoryId=2",
+      "summary": "GMB London Region - £2,000.00",
+      "description": null
+    },
+    {
+      "id": 138171,
+      "date": "2025-10-22",
+      "category": "4",
+      "member_id": 5243,
+      "member_name": "Andrew Pakes",
+      "payer_id": 175,
+      "payer_name": "Business Council of Co-operatives and Mutuals, Australia",
+      "amount": 13194.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "mutuals",
+      "appg_name": "All-Party Parliamentary Group for Mutuals",
+      "source_url": "https://members.parliament.uk/member/5243/registeredinterests?categoryId=4",
+      "summary": "International visit to Australia between 22 October 2025 and 29 October 2025 — Speaker at the Business Council of Co-operative and Mutuals [BCCM] Leaders' Summit in Adelaide. Meetings with Ministers and associated organisations in Canberra in relation to UK and Australian policies for co-operative and mutual businesses.",
+      "description": "Flights, accommodation and meals"
+    },
+    {
+      "id": 11978,
+      "date": "2025-03-10",
+      "category": "2",
+      "member_id": 5243,
+      "member_name": "Andrew Pakes",
+      "payer_id": 471,
+      "payer_name": "GMB",
+      "amount": 2000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5243/registeredinterests?categoryId=2",
+      "summary": "GMB - £2,000.00",
+      "description": "To support my constituency campaigning"
+    }
+  ]
+}

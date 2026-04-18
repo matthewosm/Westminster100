@@ -1,0 +1,99 @@
+{
+  "id": 744,
+  "name": "MHP Group",
+  "address": "60 Great Portland Street, London W1W 7RT",
+  "nature_of_business": "Public relations and communications activities",
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 760.0,
+      "inkind": 0.0,
+      "combined": 760.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 760.0,
+      "inkind": 0.0,
+      "combined": 760.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 760.0,
+      "inkind": 0.0,
+      "combined": 760.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 760.0,
+      "inkind": 0.0,
+      "combined": 760.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    760,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 14343,
+      "date": "2026-01-15",
+      "category": "1.1",
+      "member_id": 4107,
+      "member_name": "Dame Harriett Baldwin",
+      "payer_id": 744,
+      "payer_name": "MHP Group",
+      "amount": 760.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": true,
+      "donated_to": "Charity",
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4107/registeredinterests?categoryId=1",
+      "summary": "Payment received on 15 January 2026 - £760.00",
+      "description": "The whole payment was donated to a charity in my constituency"
+    }
+  ]
+}

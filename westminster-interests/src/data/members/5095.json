@@ -1,0 +1,149 @@
+{
+  "mnis_id": 5095,
+  "name": "Kirith Entwistle",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Bolton North East",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5095/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 2327.86,
+      "combined": 2327.86,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 2327.86,
+      "combined": 2327.86,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 2327.86,
+      "combined": 2327.86,
+      "payment_count": 1,
+      "donor_count": 1
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 2327.86,
+        "combined": 2327.86,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 2327.86,
+        "combined": 2327.86,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 2327.86,
+        "combined": 2327.86,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "interfaith-dialogue",
+      "appg_name": "All-Party Parliamentary Group for Interfaith Dialogue",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 129121,
+      "date": "2025-04-08",
+      "category": "4",
+      "member_id": 5095,
+      "member_name": "Kirith Entwistle",
+      "payer_id": 1135,
+      "payer_name": "United Nations Population Fund",
+      "amount": 2327.86,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "global-sexual-and-reproductive-health-and-rights",
+      "appg_name": "All-Party Parliamentary Group on Global Sexual and Reproductive Health and Rights",
+      "source_url": "https://members.parliament.uk/member/5095/registeredinterests?categoryId=4",
+      "summary": "International visit to Kenya between 08 April 2025 and 13 April 2025 — Study tour on sexual and reproductive health and rights and international development",
+      "description": "Flights and visa (£1,277.90); accommodation (£486.41); other travel (£65.28); food and drink\t(£371.13); per diem and miscellaneous (127.14)"
+    }
+  ]
+}

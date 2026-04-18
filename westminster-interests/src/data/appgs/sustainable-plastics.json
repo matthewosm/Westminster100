@@ -1,0 +1,164 @@
+{
+  "slug": "sustainable-plastics",
+  "title": "All-Party Parliamentary Group on Sustainable Plastics",
+  "purpose": "To further evidence-based discussions regarding the positive and negative impacts of plastics across their full life-cycle, and influence policy towards achieving a sustainable future, and circular economy, for plastics.",
+  "categories": [
+    "Environment, Climate & Sustainability"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sustainable-plastics.htm",
+  "secretariat": "University of Birmingham, Birmingham Plastics Network acts as the group's secretariat.https://www.birmingham.ac.uk/research/centres-institutes/birmingham-plastics-network",
+  "website": "None",
+  "registered_contact_name": "Laurence Turner MP",
+  "date_of_most_recent_agm": "2025-06-17 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "sustainable-plastics",
+      "mnis_id": 5195,
+      "name": "Andrew Cooper",
+      "canon_name": "Andrew Cooper",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sustainable-plastics.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "sustainable-plastics",
+      "mnis_id": 4983,
+      "name": "Earl Russell",
+      "canon_name": "Earl Russell",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sustainable-plastics.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "sustainable-plastics",
+      "mnis_id": 5234,
+      "name": "Laurence Turner",
+      "canon_name": "Laurence Turner",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sustainable-plastics.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "sustainable-plastics",
+      "mnis_id": null,
+      "name": "The Earl of Leicester",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sustainable-plastics.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "sustainable-plastics",
+      "mnis_id": 5195,
+      "name": "Andrew Cooper",
+      "canon_name": "Andrew Cooper",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sustainable-plastics.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "sustainable-plastics",
+      "mnis_id": 4983,
+      "name": "Earl Russell",
+      "canon_name": "Earl Russell",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sustainable-plastics.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "sustainable-plastics",
+      "mnis_id": 5234,
+      "name": "Laurence Turner",
+      "canon_name": "Laurence Turner",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sustainable-plastics.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "sustainable-plastics",
+      "mnis_id": null,
+      "name": "The Earl of Leicester",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sustainable-plastics.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

@@ -1,0 +1,216 @@
+{
+  "slug": "rugby-union-football-club",
+  "title": "All-Party Parliamentary Commons and Lords Rugby Union Football Club Group",
+  "purpose": "To foster international parliamentary relations and to encourage members of the parliamentary estate and associated government offices to partake in rugby football union.",
+  "categories": [
+    "Sport, Recreation & Physical Activity",
+    "International Affairs, Development & Trade"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/rugby-union-football-club.htm",
+  "secretariat": "",
+  "website": "None",
+  "registered_contact_name": "Tonia Antoniazzi MP",
+  "date_of_most_recent_agm": "2025-11-25 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 1559.6,
+      "combined": 1559.6,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 1559.6,
+      "combined": 1559.6,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 1559.6,
+      "combined": 1559.6,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 1559.6,
+      "combined": 1559.6,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 1
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "rugby-union-football-club",
+      "mnis_id": 5169,
+      "name": "Charlie Dewhirst",
+      "canon_name": "Charlie Dewhirst",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/rugby-union-football-club.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "rugby-union-football-club",
+      "mnis_id": 3453,
+      "name": "Lord Addington",
+      "canon_name": "Lord Addington",
+      "officer_role": "Secretary",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/rugby-union-football-club.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "rugby-union-football-club",
+      "mnis_id": 863,
+      "name": "Lord Hayward",
+      "canon_name": "Lord Hayward",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/rugby-union-football-club.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "rugby-union-football-club",
+      "mnis_id": 4623,
+      "name": "Tonia Antoniazzi",
+      "canon_name": "Tonia Antoniazzi",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/rugby-union-football-club.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "rugby-union-football-club",
+      "mnis_id": 5169,
+      "name": "Charlie Dewhirst",
+      "canon_name": "Charlie Dewhirst",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/rugby-union-football-club.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "rugby-union-football-club",
+      "mnis_id": 3453,
+      "name": "Lord Addington",
+      "canon_name": "Lord Addington",
+      "officer_role": "Secretary",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/rugby-union-football-club.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "rugby-union-football-club",
+      "mnis_id": 863,
+      "name": "Lord Hayward",
+      "canon_name": "Lord Hayward",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/rugby-union-football-club.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "rugby-union-football-club",
+      "mnis_id": 4623,
+      "name": "Tonia Antoniazzi",
+      "canon_name": "Tonia Antoniazzi",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/rugby-union-football-club.htm",
+      "removed": null
+    }
+  ],
+  "payments": [
+    {
+      "id": 13944,
+      "date": "2025-11-15",
+      "category": "3",
+      "member_id": 4623,
+      "member_name": "Tonia Antoniazzi",
+      "payer_id": 983,
+      "payer_name": "Rugby Football Union",
+      "amount": 369.6,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "rugby-union-football-club",
+      "appg_name": "All-Party Parliamentary Commons and Lords Rugby Union Football Club Group",
+      "source_url": "https://members.parliament.uk/member/4623/registeredinterests?categoryId=3",
+      "summary": "Rugby Football Union - £369.60",
+      "description": "Rugby ticket England v New Zealand and hospitality"
+    },
+    {
+      "id": 13517,
+      "date": "2025-09-27",
+      "category": "3",
+      "member_id": 4623,
+      "member_name": "Tonia Antoniazzi",
+      "payer_id": 42,
+      "payer_name": "Allwyn Entertainment Ltd",
+      "amount": 1190.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "rugby-union-football-club",
+      "appg_name": "All-Party Parliamentary Commons and Lords Rugby Union Football Club Group",
+      "source_url": "https://members.parliament.uk/member/4623/registeredinterests?categoryId=3",
+      "summary": "Allwyn Entertainment Ltd - £1,190.00",
+      "description": "Two tickets and hospitality for the Women's Rugby World Cup"
+    }
+  ]
+}

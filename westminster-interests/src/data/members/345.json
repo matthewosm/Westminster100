@@ -1,0 +1,235 @@
+{
+  "mnis_id": 345,
+  "name": "Sir Edward Leigh",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "Gainsborough",
+  "house": "Commons",
+  "start_date": "1983-06-09",
+  "photo_url": "https://members-api.parliament.uk/api/Members/345/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 398.14,
+      "combined": 398.14,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 2356.14,
+      "combined": 2356.14,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 2356.14,
+      "combined": 2356.14,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 2356.14,
+      "combined": 2356.14,
+      "payment_count": 3,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 398.14,
+        "combined": 398.14,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 2356.14,
+        "combined": 2356.14,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 2356.14,
+        "combined": 2356.14,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 2356.14,
+        "combined": 2356.14,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    398,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "lebanon",
+      "appg_name": "All-Party Parliamentary Group for Lebanon",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "christianity-in-the-holy-land",
+      "appg_name": "All-Party Parliamentary Group on Christianity in the Holy Land",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "community-development",
+      "appg_name": "All-Party Parliamentary Group on Community Development",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "croatia",
+      "appg_name": "All-Party Parliamentary Group on Croatia",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "france",
+      "appg_name": "All-Party Parliamentary Group on France",
+      "officer_role": "Treasurer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "malaysia",
+      "appg_name": "All-Party Parliamentary Group on Malaysia",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "holy-see",
+      "appg_name": "All-Party Parliamentary Group on the Holy See",
+      "officer_role": "Co-Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 136891,
+      "date": "2025-10-05",
+      "category": "4",
+      "member_id": 345,
+      "member_name": "Sir Edward Leigh",
+      "payer_id": 65,
+      "payer_name": "APPG Italy",
+      "amount": 237.18,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "italy",
+      "appg_name": "All-Party Parliamentary Group on Italy",
+      "source_url": "https://members.parliament.uk/member/345/registeredinterests?categoryId=4",
+      "summary": "International visit to Italy between 05 October 2025 and 08 October 2025 — Fostering closer relations between Italy and the United Kingdom",
+      "description": "Meals for myself and my staff member (£180.58), taxis for myself and my staff member (56.60)"
+    },
+    {
+      "id": 136892,
+      "date": "2025-10-05",
+      "category": "4",
+      "member_id": 345,
+      "member_name": "Sir Edward Leigh",
+      "payer_id": 578,
+      "payer_name": "Italian Inter Parliamentary Union",
+      "amount": 160.96,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "italy",
+      "appg_name": "All-Party Parliamentary Group on Italy",
+      "source_url": "https://members.parliament.uk/member/345/registeredinterests?categoryId=4",
+      "summary": "International visit to Italy between 05 October 2025 and 08 October 2025 — Fostering closer relations between Italy and the United Kingdom",
+      "description": "Tour of the Colosseum for myself and my staff memeber (£113.20) and lunch for myself (£47.76)"
+    },
+    {
+      "id": 119071,
+      "date": "2025-02-16",
+      "category": "4",
+      "member_id": 345,
+      "member_name": "Sir Edward Leigh",
+      "payer_id": 1191,
+      "payer_name": "Yachad",
+      "amount": 1958.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/345/registeredinterests?categoryId=4",
+      "summary": "International visit to Israel between 16 February 2025 and 20 February 2025 — To meet victims of violence in Israel and the West Bank, and a range of individuals and organisations, to understand the steps needed to achieve a resolution to the Israel-Palestine conflict and to respond to the humanitarian situation in Gaza.",
+      "description": "Flights, accommodation, hospitality and travel"
+    }
+  ]
+}

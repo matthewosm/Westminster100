@@ -1,0 +1,164 @@
+{
+  "slug": "democratic-republic-of-congo",
+  "title": "All-Party Parliamentary Group on the Democratic Republic of Congo",
+  "purpose": "To promote bilateral trade and diplomatic relations and interests between the United Kingdom and the Democratic Republic of Congo.",
+  "categories": [
+    "Country Group"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/democratic-republic-of-congo.htm",
+  "secretariat": "",
+  "website": "None",
+  "registered_contact_name": "Sir Gavin Williamson MP",
+  "date_of_most_recent_agm": "2024-10-16 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "democratic-republic-of-congo",
+      "mnis_id": 5168,
+      "name": "Adam Jogee",
+      "canon_name": "Adam Jogee",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/democratic-republic-of-congo.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "democratic-republic-of-congo",
+      "mnis_id": 3790,
+      "name": "Baroness Verma",
+      "canon_name": "Baroness Verma",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/democratic-republic-of-congo.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "democratic-republic-of-congo",
+      "mnis_id": 5189,
+      "name": "Gordon McKee",
+      "canon_name": "Gordon McKee",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/democratic-republic-of-congo.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "democratic-republic-of-congo",
+      "mnis_id": 4108,
+      "name": "Sir Gavin Williamson",
+      "canon_name": "Gavin Williamson",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/democratic-republic-of-congo.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "democratic-republic-of-congo",
+      "mnis_id": 5168,
+      "name": "Adam Jogee",
+      "canon_name": "Adam Jogee",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/democratic-republic-of-congo.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "democratic-republic-of-congo",
+      "mnis_id": 3790,
+      "name": "Baroness Verma",
+      "canon_name": "Baroness Verma",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/democratic-republic-of-congo.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "democratic-republic-of-congo",
+      "mnis_id": 5189,
+      "name": "Gordon McKee",
+      "canon_name": "Gordon McKee",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/democratic-republic-of-congo.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "democratic-republic-of-congo",
+      "mnis_id": 4108,
+      "name": "Sir Gavin Williamson",
+      "canon_name": "Gavin Williamson",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/democratic-republic-of-congo.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

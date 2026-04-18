@@ -1,0 +1,23 @@
+{
+  "build_timestamp": "2026-04-18T22:08:28Z",
+  "as_of_date": "2026-04-18",
+  "as_of_dates": {
+    "12m": "2026-04-18",
+    "ytd": "2026-04-18",
+    "2025": "2025-12-31",
+    "2024": "2024-12-31",
+    "since_election": "2026-04-18",
+    "all_time": "2026-04-18"
+  },
+  "counts": {
+    "members": 650,
+    "payers_with_pages": 1127,
+    "confidential_payer_rows": 19,
+    "appgs": 599,
+    "payments": 2358,
+    "parties": 18,
+    "unmapped_appg_strings": 0
+  },
+  "source_url_template": "https://members.parliament.uk/member/{mnis_id}/registeredinterests?categoryId={category_id}",
+  "thumbnail_url_template": "https://members-api.parliament.uk/api/Members/{mnis_id}/Thumbnail"
+}

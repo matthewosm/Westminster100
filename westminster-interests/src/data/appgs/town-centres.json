@@ -1,0 +1,166 @@
+{
+  "slug": "town-centres",
+  "title": "All-Party Parliamentary Group for Town Centres",
+  "purpose": "To raise parliamentary awareness of what makes a thriving and inclusive town or city centre in the 21st Century, capable of attracting private sector investment to support the needs of both the local economy and local community.",
+  "categories": [
+    "Economy, Business & Industry",
+    "Regions, Nations & Devolution",
+    "Housing, Planning & Built Environment"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/town-centres.htm",
+  "secretariat": "Association of Town and City Management acts as the group's secretariat.https://www.atcm.org/",
+  "website": "None",
+  "registered_contact_name": "Vikki Slade MP",
+  "date_of_most_recent_agm": "2025-07-09 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "town-centres",
+      "mnis_id": null,
+      "name": "Baroness O'Neill of Bexley",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/town-centres.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "town-centres",
+      "mnis_id": null,
+      "name": "Lord Pitkeathley of Camden Town",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/town-centres.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "town-centres",
+      "mnis_id": 5248,
+      "name": "Luke Murphy",
+      "canon_name": "Luke Murphy",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/town-centres.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "town-centres",
+      "mnis_id": 5327,
+      "name": "Vikki Slade",
+      "canon_name": "Vikki Slade",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/town-centres.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "town-centres",
+      "mnis_id": null,
+      "name": "Baroness O'Neill of Bexley",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/town-centres.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "town-centres",
+      "mnis_id": null,
+      "name": "Lord Pitkeathley of Camden Town",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/town-centres.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "town-centres",
+      "mnis_id": 5248,
+      "name": "Luke Murphy",
+      "canon_name": "Luke Murphy",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/town-centres.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "town-centres",
+      "mnis_id": 5327,
+      "name": "Vikki Slade",
+      "canon_name": "Vikki Slade",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/town-centres.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

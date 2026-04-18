@@ -1,0 +1,99 @@
+{
+  "id": 317,
+  "name": "The Ditchley Foundation",
+  "address": "Ditchley Park, Enstone, Chipping Norton, Oxon, OX7 4ER",
+  "nature_of_business": null,
+  "donor_status": "Company",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 540.0,
+      "combined": 540.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 540.0,
+      "combined": 540.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 540.0,
+      "combined": 540.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 540.0,
+      "combined": 540.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    540,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 14298,
+      "date": "2025-12-18",
+      "category": "3",
+      "member_id": 4077,
+      "member_name": "Emma Reynolds",
+      "payer_id": 317,
+      "payer_name": "The Ditchley Foundation",
+      "amount": 540.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-12-19",
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4077/registeredinterests?categoryId=3",
+      "summary": "The Ditchley Foundation - £540.00",
+      "description": "£270 per 24 hours or part thereof for full board accommodation per person for myself and my husband to attend the Chairman's Dinner and Farewell Celebration in Honour of Jonathan, Lord Hill of Oareford"
+    }
+  ]
+}

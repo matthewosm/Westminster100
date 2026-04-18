@@ -1,0 +1,164 @@
+{
+  "slug": "woods-and-trees",
+  "title": "All-Party Parliamentary Group for Woods and Trees",
+  "purpose": "To raise awareness of the UK's woods and trees and to discuss the steps necessary to protect, restore and expand them in a time of climate and nature crises.",
+  "categories": [
+    "Environment, Climate & Sustainability"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/woods-and-trees.htm",
+  "secretariat": "The Woodland Trust acts as the group's secretariat.https://woodlandtrust.org.uk",
+  "website": "https://www.woodlandtrust.org.uk/protecting-trees-and-woods/campaign-with-us/appg-for-woods-and-trees/",
+  "registered_contact_name": "Alex Mayer MP",
+  "date_of_most_recent_agm": "2025-12-10 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "woods-and-trees",
+      "mnis_id": 5141,
+      "name": "Alex Mayer",
+      "canon_name": "Alex Mayer",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/woods-and-trees.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "woods-and-trees",
+      "mnis_id": null,
+      "name": "Baroness Young of Old Scone",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/woods-and-trees.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "woods-and-trees",
+      "mnis_id": 5285,
+      "name": "Katie Lam",
+      "canon_name": "Katie Lam",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/woods-and-trees.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "woods-and-trees",
+      "mnis_id": 4995,
+      "name": "Sarah Dyke",
+      "canon_name": "Sarah Dyke",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/woods-and-trees.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "woods-and-trees",
+      "mnis_id": 5141,
+      "name": "Alex Mayer",
+      "canon_name": "Alex Mayer",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/woods-and-trees.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "woods-and-trees",
+      "mnis_id": null,
+      "name": "Baroness Young of Old Scone",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/woods-and-trees.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "woods-and-trees",
+      "mnis_id": 5285,
+      "name": "Katie Lam",
+      "canon_name": "Katie Lam",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/woods-and-trees.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "woods-and-trees",
+      "mnis_id": 4995,
+      "name": "Sarah Dyke",
+      "canon_name": "Sarah Dyke",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/woods-and-trees.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

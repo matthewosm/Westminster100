@@ -1,0 +1,99 @@
+{
+  "id": 175,
+  "name": "Business Council of Co-operatives and Mutuals, Australia",
+  "address": "Level 6, 275 George Street, Sydney NSW 2000",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 13194.0,
+      "combined": 13194.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 13194.0,
+      "combined": 13194.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 13194.0,
+      "combined": 13194.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 13194.0,
+      "combined": 13194.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    13194,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 138171,
+      "date": "2025-10-22",
+      "category": "4",
+      "member_id": 5243,
+      "member_name": "Andrew Pakes",
+      "payer_id": 175,
+      "payer_name": "Business Council of Co-operatives and Mutuals, Australia",
+      "amount": 13194.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "mutuals",
+      "appg_name": "All-Party Parliamentary Group for Mutuals",
+      "source_url": "https://members.parliament.uk/member/5243/registeredinterests?categoryId=4",
+      "summary": "International visit to Australia between 22 October 2025 and 29 October 2025 — Speaker at the Business Council of Co-operative and Mutuals [BCCM] Leaders' Summit in Adelaide. Meetings with Ministers and associated organisations in Canberra in relation to UK and Australian policies for co-operative and mutual businesses.",
+      "description": "Flights, accommodation and meals"
+    }
+  ]
+}

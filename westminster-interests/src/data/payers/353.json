@@ -1,0 +1,99 @@
+{
+  "id": 353,
+  "name": "Edwin DeSilva",
+  "address": "Suite 8 Bourne Gate, 25 Bourne Valley Road, Poole, Dorset BH12 1DY, Role Active",
+  "nature_of_business": null,
+  "donor_status": "Company",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 495.0,
+      "combined": 495.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 495.0,
+      "combined": 495.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 495.0,
+      "combined": 495.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 495.0,
+      "combined": 495.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    495,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 13647,
+      "date": "2025-10-02",
+      "category": "3",
+      "member_id": 5001,
+      "member_name": "Sarah Edwards",
+      "payer_id": 353,
+      "payer_name": "Edwin DeSilva",
+      "amount": 495.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5001/registeredinterests?categoryId=3",
+      "summary": "Edwin DeSilva - £495.00",
+      "description": "Invitation to the SME Housebuilders innovation conference with hospitality and an overnight hotel stay"
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "mnis_id": 1579,
+  "name": "Mary Creagh",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Coventry East",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/1579/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 1000.0,
+      "combined": 1000.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 500.0,
+      "combined": 500.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 884.0,
+      "combined": 884.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 1384.0,
+      "combined": 1384.0,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 1384.0,
+      "combined": 1384.0,
+      "payment_count": 3,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1000.0,
+        "combined": 1000.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 500.0,
+        "combined": 500.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 884.0,
+        "combined": 884.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1384.0,
+        "combined": 1384.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1384.0,
+        "combined": 1384.0,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    500,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    500,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [],
+  "payments": [
+    {
+      "id": 14353,
+      "date": "2026-01-17",
+      "category": "3",
+      "member_id": 1579,
+      "member_name": "Mary Creagh",
+      "payer_id": 274,
+      "payer_name": "Coventry City Football Club Ltd",
+      "amount": 500.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1579/registeredinterests?categoryId=3",
+      "summary": "Coventry City Football Club Ltd - £500.00",
+      "description": "Ticket in the Director's Box to Coventry v Leicester"
+    },
+    {
+      "id": 12473,
+      "date": "2025-05-03",
+      "category": "3",
+      "member_id": 1579,
+      "member_name": "Mary Creagh",
+      "payer_id": 274,
+      "payer_name": "Coventry City Football Club Ltd",
+      "amount": 500.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1579/registeredinterests?categoryId=3",
+      "summary": "Coventry City Football Club Ltd - £500.00",
+      "description": "Ticket in the Directors Box to the final game of the season against Middlesbrough"
+    },
+    {
+      "id": 12216,
+      "date": "2025-03-22",
+      "category": "3",
+      "member_id": 1579,
+      "member_name": "Mary Creagh",
+      "payer_id": 1181,
+      "payer_name": "Women Dentists' Network",
+      "amount": 384.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1579/registeredinterests?categoryId=3",
+      "summary": "Women Dentists' Network - £384.00",
+      "description": "Dinner, gift and overnight accommodation for me and my husband at the Belfry Hotel Sutton Coldfield"
+    }
+  ]
+}

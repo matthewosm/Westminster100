@@ -1,0 +1,333 @@
+{
+  "slug": "autism",
+  "title": "All-Party Parliamentary Group on Autism",
+  "purpose": "To raise awareness of issues affecting autistic people, their families and carers; to raise parliamentary awareness of autism; to campaign for changes to government policy to benefit autistic people and improve diagnosis or support for autistic people.",
+  "categories": [
+    "Health, Medicine & Public Health",
+    "Social Care, Welfare & Family Support"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/autism.htm",
+  "secretariat": "National Autistic Society acts as the group's secretariat.http://www.autism.org.uk/",
+  "website": "https://www.autism.org.uk/what-we-do/campaign/england/how-we-work-with-parliament/all-party-parliamentary-group",
+  "registered_contact_name": "Alison Hume MP",
+  "date_of_most_recent_agm": "2025-11-25 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "autism",
+      "mnis_id": null,
+      "name": "Alexander Burnett",
+      "canon_name": "Alexander Burnett",
+      "officer_role": "Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "autism",
+      "mnis_id": 5254,
+      "name": "Alison Hume",
+      "canon_name": "Alison Hume",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/autism.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "autism",
+      "mnis_id": null,
+      "name": "Annie Wells",
+      "canon_name": "Annie Wells",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "autism",
+      "mnis_id": 236,
+      "name": "Baroness Browning",
+      "canon_name": "Baroness Browning",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/autism.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "autism",
+      "mnis_id": 5293,
+      "name": "Cat Eccles",
+      "canon_name": "Cat Eccles",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/autism.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "autism",
+      "mnis_id": 542,
+      "name": "Lord Touhig",
+      "canon_name": "Lord Touhig",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/autism.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "autism",
+      "mnis_id": 157,
+      "name": "Mark Isherwood",
+      "canon_name": "Mark Isherwood",
+      "officer_role": "Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=786",
+      "removed": null
+    },
+    {
+      "appg_slug": "autism",
+      "mnis_id": 208,
+      "name": "Mr Cathal Boylan",
+      "canon_name": "Cathal Boylan",
+      "officer_role": "Chairperson",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=227",
+      "removed": null
+    },
+    {
+      "appg_slug": "autism",
+      "mnis_id": 287,
+      "name": "Mr Mark Durkan",
+      "canon_name": "Mark Durkan",
+      "officer_role": "Secretary",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=227",
+      "removed": null
+    },
+    {
+      "appg_slug": "autism",
+      "mnis_id": 7534,
+      "name": "Mrs Deborah Erskine",
+      "canon_name": "Deborah Erskine",
+      "officer_role": "Vice-Chairperson",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=227",
+      "removed": null
+    },
+    {
+      "appg_slug": "autism",
+      "mnis_id": 8110,
+      "name": "Ms Cheryl Brownlee",
+      "canon_name": "Cheryl Brownlee",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=227",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "autism",
+      "mnis_id": null,
+      "name": "Alexander Burnett",
+      "canon_name": "Alexander Burnett",
+      "officer_role": "Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "autism",
+      "mnis_id": 5254,
+      "name": "Alison Hume",
+      "canon_name": "Alison Hume",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/autism.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "autism",
+      "mnis_id": null,
+      "name": "Annie Wells",
+      "canon_name": "Annie Wells",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "autism",
+      "mnis_id": 236,
+      "name": "Baroness Browning",
+      "canon_name": "Baroness Browning",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/autism.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "autism",
+      "mnis_id": 5293,
+      "name": "Cat Eccles",
+      "canon_name": "Cat Eccles",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/autism.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "autism",
+      "mnis_id": 542,
+      "name": "Lord Touhig",
+      "canon_name": "Lord Touhig",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/autism.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "autism",
+      "mnis_id": 157,
+      "name": "Mark Isherwood",
+      "canon_name": "Mark Isherwood",
+      "officer_role": "Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=786",
+      "removed": null
+    },
+    {
+      "appg_slug": "autism",
+      "mnis_id": 208,
+      "name": "Mr Cathal Boylan",
+      "canon_name": "Cathal Boylan",
+      "officer_role": "Chairperson",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=227",
+      "removed": null
+    },
+    {
+      "appg_slug": "autism",
+      "mnis_id": 287,
+      "name": "Mr Mark Durkan",
+      "canon_name": "Mark Durkan",
+      "officer_role": "Secretary",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=227",
+      "removed": null
+    },
+    {
+      "appg_slug": "autism",
+      "mnis_id": 7534,
+      "name": "Mrs Deborah Erskine",
+      "canon_name": "Deborah Erskine",
+      "officer_role": "Vice-Chairperson",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=227",
+      "removed": null
+    },
+    {
+      "appg_slug": "autism",
+      "mnis_id": 8110,
+      "name": "Ms Cheryl Brownlee",
+      "canon_name": "Cheryl Brownlee",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=227",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

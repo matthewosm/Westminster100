@@ -1,0 +1,164 @@
+{
+  "slug": "net-zero",
+  "title": "Net Zero All-Party Parliamentary Group",
+  "purpose": "The APPG accelerates policy change, promotes zero carbon solutions, supports clean growth technology, and embeds the UK’s commitment to a net zero carbon economy. It provides a forum for MPs and peers to collectively advocate for urgent government action for a low carbon future in the UK.",
+  "categories": [
+    "Environment, Climate & Sustainability"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/net-zero.htm",
+  "secretariat": "Inflect Partners Ltd acts as the group's secretariat.https://www.inflect.co.uk/",
+  "website": "https://netzeroappg.org.uk/",
+  "registered_contact_name": "Dr Simon Opher MP",
+  "date_of_most_recent_agm": "2025-11-25 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "net-zero",
+      "mnis_id": 5030,
+      "name": "Dr Simon Opher",
+      "canon_name": "Simon Opher",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/net-zero.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "net-zero",
+      "mnis_id": 5326,
+      "name": "Edward Morello",
+      "canon_name": "Edward Morello",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/net-zero.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "net-zero",
+      "mnis_id": 5342,
+      "name": "John Whitby",
+      "canon_name": "John Whitby",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/net-zero.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "net-zero",
+      "mnis_id": 4336,
+      "name": "Lord Callanan",
+      "canon_name": "Lord Callanan",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/net-zero.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "net-zero",
+      "mnis_id": 5030,
+      "name": "Dr Simon Opher",
+      "canon_name": "Simon Opher",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/net-zero.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "net-zero",
+      "mnis_id": 5326,
+      "name": "Edward Morello",
+      "canon_name": "Edward Morello",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/net-zero.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "net-zero",
+      "mnis_id": 5342,
+      "name": "John Whitby",
+      "canon_name": "John Whitby",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/net-zero.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "net-zero",
+      "mnis_id": 4336,
+      "name": "Lord Callanan",
+      "canon_name": "Lord Callanan",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/net-zero.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

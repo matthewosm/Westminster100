@@ -1,0 +1,124 @@
+{
+  "id": 387,
+  "name": "European Parliamentary Forum",
+  "address": "Sq. de Meeûs 18, 1050 Brussels, Belgium",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 4313.72,
+      "combined": 4313.72,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 4313.72,
+      "combined": 4313.72,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 4313.72,
+      "combined": 4313.72,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 4313.72,
+      "combined": 4313.72,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    }
+  },
+  "trend_12m": [
+    4314,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 124911,
+      "date": "2025-05-03",
+      "category": "4",
+      "member_id": 5336,
+      "member_name": "Helen Maguire",
+      "payer_id": 387,
+      "payer_name": "European Parliamentary Forum",
+      "amount": 2334.27,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5336/registeredinterests?categoryId=4",
+      "summary": "International visit to South Africa between 03 May 2025 and 08 May 2025 — G20 Parliamentary Conference",
+      "description": "Conference and catering (£62.39), hotel accommodation (approx. £416.51), Flight (£1669.88), per diem (estimated £185.49)"
+    },
+    {
+      "id": 124871,
+      "date": "2025-04-30",
+      "category": "4",
+      "member_id": 4824,
+      "member_name": "Kim Johnson",
+      "payer_id": 387,
+      "payer_name": "European Parliamentary Forum",
+      "amount": 1979.45,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "global-sexual-and-reproductive-health-and-rights",
+      "appg_name": "All-Party Parliamentary Group on Global Sexual and Reproductive Health and Rights",
+      "source_url": "https://members.parliament.uk/member/4824/registeredinterests?categoryId=4",
+      "summary": "International visit to South Africa between 30 April 2025 and 07 May 2025 — UK delegate on behalf of the APPG to the international G20 Conference on Women's Health",
+      "description": "Flights (£1,315.17), hotel (£416.44), conference fee & catering (£62.38), per diem (£185.46)"
+    }
+  ]
+}

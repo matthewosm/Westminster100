@@ -1,0 +1,99 @@
+{
+  "id": 827,
+  "name": "North Devon District Council",
+  "address": "North Devon District Council, PO Box 379, Barnstaple EX32 2GR",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 1598.75,
+      "inkind": 0.0,
+      "combined": 1598.75,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 4796.26,
+      "inkind": 0.0,
+      "combined": 4796.26,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 4500.2,
+      "inkind": 0.0,
+      "combined": 4500.2,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "since_election": {
+      "monetary": 9296.46,
+      "inkind": 0.0,
+      "combined": 9296.46,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 9296.46,
+      "inkind": 0.0,
+      "combined": 9296.46,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    888,
+    563,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 8628,
+      "date": "2024-08-01",
+      "category": "1.2",
+      "member_id": 5138,
+      "member_name": "Ian Roome",
+      "payer_id": 827,
+      "payer_name": "North Devon District Council",
+      "amount": 901.15,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": null,
+      "end_date": "2025-06-11",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5138/registeredinterests?categoryId=1",
+      "summary": "Agreement - £901.15",
+      "description": "this payment includes a SRA for being Leader (going forward I will not receive this SRA)"
+    }
+  ]
+}

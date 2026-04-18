@@ -1,0 +1,165 @@
+{
+  "slug": "children-in-police-custody",
+  "title": "All-Party Parliamentary Group on Children  in Police Custody",
+  "purpose": "To raise awareness of the experiences of children in police custody; for parliamentarians to hear from children, professionals and experts about the impacts of police custody on children, their families, carers and communities; to develop recommendations for reform to ensure that children's rights are upheld and respected in police custody.",
+  "categories": [
+    "Justice, Law & Security",
+    "Human Rights, Equality & Social Justice"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/children-in-police-custody.htm",
+  "secretariat": "Dr Miranda Bevan (King’s College, London) acts as the group's secretariat.https://www.kcl.ac.uk/people/miranda-bevan",
+  "website": "https://appgchildrenincustody.org/",
+  "registered_contact_name": "Michelle Welsh MP",
+  "date_of_most_recent_agm": "2024-12-03 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "children-in-police-custody",
+      "mnis_id": 5058,
+      "name": "Juliet Campbell",
+      "canon_name": "Juliet Campbell",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/children-in-police-custody.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "children-in-police-custody",
+      "mnis_id": null,
+      "name": "Lord Carlile of Berriew",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/children-in-police-custody.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "children-in-police-custody",
+      "mnis_id": 4283,
+      "name": "Lord Finkelstein",
+      "canon_name": "Lord Finkelstein",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/children-in-police-custody.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "children-in-police-custody",
+      "mnis_id": 5226,
+      "name": "Michelle Welsh",
+      "canon_name": "Michelle Welsh",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/children-in-police-custody.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "children-in-police-custody",
+      "mnis_id": 5058,
+      "name": "Juliet Campbell",
+      "canon_name": "Juliet Campbell",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/children-in-police-custody.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "children-in-police-custody",
+      "mnis_id": null,
+      "name": "Lord Carlile of Berriew",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/children-in-police-custody.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "children-in-police-custody",
+      "mnis_id": 4283,
+      "name": "Lord Finkelstein",
+      "canon_name": "Lord Finkelstein",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/children-in-police-custody.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "children-in-police-custody",
+      "mnis_id": 5226,
+      "name": "Michelle Welsh",
+      "canon_name": "Michelle Welsh",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/children-in-police-custody.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

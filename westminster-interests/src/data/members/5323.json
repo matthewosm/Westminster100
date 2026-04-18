@@ -1,0 +1,267 @@
+{
+  "mnis_id": 5323,
+  "name": "Matt Bishop",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Forest of Dean",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5323/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 2230.0,
+      "combined": 2230.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 2640.0,
+      "combined": 2640.0,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 2640.0,
+      "combined": 2640.0,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 2640.0,
+      "combined": 2640.0,
+      "payment_count": 3,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1760.0,
+        "combined": 1760.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1760.0,
+        "combined": 1760.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1760.0,
+        "combined": 1760.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1760.0,
+        "combined": 1760.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 470.0,
+        "combined": 470.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 880.0,
+        "combined": 880.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 880.0,
+        "combined": 880.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 880.0,
+        "combined": 880.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    470,
+    0,
+    0,
+    0,
+    1760,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "dairy",
+      "appg_name": "All-Party Parliamentary Group for Dairy",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "education",
+      "appg_name": "All-Party Parliamentary Group for Education",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "blockchain-technologies",
+      "appg_name": "All-Party Parliamentary Group on Blockchain Technologies",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "emotional-support-for-parent-carers-of-seriously-ill-and-disabled-children",
+      "appg_name": "All-Party Parliamentary Group on Emotional Support for Parent Carers of Seriously Ill and Disabled Children",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "osteoporosis-and-bone-health",
+      "appg_name": "All-Party Parliamentary Group on Osteoporosis and Bone Health",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 133041,
+      "date": "2025-09-08",
+      "category": "4",
+      "member_id": 5323,
+      "member_name": "Matt Bishop",
+      "payer_id": 482,
+      "payer_name": "HM Government of Gibraltar",
+      "amount": 1760.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "gibraltar",
+      "appg_name": "All-Party Parliamentary Group on Gibraltar",
+      "source_url": "https://members.parliament.uk/member/5323/registeredinterests?categoryId=4",
+      "summary": "International visit to Gibraltar between 08 September 2025 and 10 September 2025 — Gibraltar National Day, as well as associated meetings and briefings",
+      "description": "Flights (£700), accommodation (£660) and meals (£400) for me and a staff member"
+    },
+    {
+      "id": 12485,
+      "date": "2025-05-18",
+      "category": "3",
+      "member_id": 5323,
+      "member_name": "Matt Bishop",
+      "payer_id": 417,
+      "payer_name": "The Football Association Ltd",
+      "amount": 470.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5323/registeredinterests?categoryId=3",
+      "summary": "The Football Association Ltd - £470.00",
+      "description": "Two tickets including hospitality to the Women's FA Cup Final between Manchester United and Chelsea"
+    },
+    {
+      "id": 12206,
+      "date": "2025-04-04",
+      "category": "3",
+      "member_id": 5323,
+      "member_name": "Matt Bishop",
+      "payer_id": 417,
+      "payer_name": "The Football Association Ltd",
+      "amount": 410.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5323/registeredinterests?categoryId=3",
+      "summary": "The Football Association Ltd - £410.00",
+      "description": "Two tickets including hospitality to the England v Belgium Lionesses Nations League game at Ashton Gate, Bristol"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "mnis_id": 5162,
+  "name": "Matthew Patrick",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Wirral West",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5162/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 375.0,
+      "combined": 375.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 875.0,
+      "combined": 875.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 875.0,
+      "combined": 875.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 875.0,
+      "combined": 875.0,
+      "payment_count": 2,
+      "donor_count": 2
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 375.0,
+        "combined": 375.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 875.0,
+        "combined": 875.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 875.0,
+        "combined": 875.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 875.0,
+        "combined": 875.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    375,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [],
+  "payments": [
+    {
+      "id": 12398,
+      "date": "2025-05-11",
+      "category": "3",
+      "member_id": 5162,
+      "member_name": "Matthew Patrick",
+      "payer_id": 1038,
+      "payer_name": "SQR Group",
+      "amount": 375.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5162/registeredinterests?categoryId=3",
+      "summary": "SQR Group - £375.00",
+      "description": "Invited by the Damari family to a Spurs game in a corporate box which is owned by SQR Group"
+    },
+    {
+      "id": 12064,
+      "date": "2025-03-06",
+      "category": "3",
+      "member_id": 5162,
+      "member_name": "Matthew Patrick",
+      "payer_id": 1105,
+      "payer_name": "Tranmere Rovers Football Club",
+      "amount": 500.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5162/registeredinterests?categoryId=3",
+      "summary": "Tranmere Rovers Football Club - £500.00",
+      "description": "Tranmere Rovers Football Club provided me with some scarfs to share with local schools and hospices. The value was confirmed by Tranmere"
+    }
+  ]
+}

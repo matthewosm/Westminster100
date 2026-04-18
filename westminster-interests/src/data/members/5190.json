@@ -1,0 +1,180 @@
+{
+  "mnis_id": 5190,
+  "name": "Patricia Ferguson",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Glasgow West",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5190/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 228.5,
+      "combined": 228.5,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 228.5,
+      "combined": 228.5,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 228.5,
+      "combined": 228.5,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 228.5,
+      "combined": 228.5,
+      "payment_count": 2,
+      "donor_count": 2
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 228.5,
+        "combined": 228.5,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 228.5,
+        "combined": 228.5,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 228.5,
+        "combined": 228.5,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 228.5,
+        "combined": 228.5,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    228,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "breast-cancer",
+      "appg_name": "All-Party Parliamentary Group on Breast Cancer",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "holy-see",
+      "appg_name": "All-Party Parliamentary Group on the Holy See",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 137131,
+      "date": "2025-10-05",
+      "category": "4",
+      "member_id": 5190,
+      "member_name": "Patricia Ferguson",
+      "payer_id": 579,
+      "payer_name": "Italian IPU Group",
+      "amount": 104.36,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "italy",
+      "appg_name": "All-Party Parliamentary Group on Italy",
+      "source_url": "https://members.parliament.uk/member/5190/registeredinterests?categoryId=4",
+      "summary": "International visit to Italy between 05 October 2025 and 08 October 2025 — To meet with counterparts in the Italian Chamber of Deputies and in the Senate and to discuss matters of mutual interest.  We met with a number of committee chairs and members of the two houses.",
+      "description": "Tour of the Colosseum (£56.60) and IPU Lunch at Italian parliament (£47.76)"
+    },
+    {
+      "id": 137132,
+      "date": "2025-10-05",
+      "category": "4",
+      "member_id": 5190,
+      "member_name": "Patricia Ferguson",
+      "payer_id": 65,
+      "payer_name": "APPG Italy",
+      "amount": 124.14,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "italy",
+      "appg_name": "All-Party Parliamentary Group on Italy",
+      "source_url": "https://members.parliament.uk/member/5190/registeredinterests?categoryId=4",
+      "summary": "International visit to Italy between 05 October 2025 and 08 October 2025 — To meet with counterparts in the Italian Chamber of Deputies and in the Senate and to discuss matters of mutual interest.  We met with a number of committee chairs and members of the two houses.",
+      "description": "Dinner on two days (£79.30), lunch on one day (£10.90) and transport (£33.85)"
+    }
+  ]
+}

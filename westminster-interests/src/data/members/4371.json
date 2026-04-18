@@ -1,0 +1,292 @@
+{
+  "mnis_id": 4371,
+  "name": "Brendan O'Hara",
+  "party": "Scottish National Party",
+  "party_slug": "scottish-national-party",
+  "constituency": "Argyll, Bute and South Lochaber",
+  "house": "Commons",
+  "start_date": "2015-05-07",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4371/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 6261.75,
+      "combined": 6261.75,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 900.0,
+      "combined": 900.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 5361.75,
+      "combined": 5361.75,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 6261.75,
+      "combined": 6261.75,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 6261.75,
+      "combined": 6261.75,
+      "payment_count": 4,
+      "donor_count": 4
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1525.0,
+        "combined": 1525.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 900.0,
+        "combined": 900.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 625.0,
+        "combined": 625.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1525.0,
+        "combined": 1525.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1525.0,
+        "combined": 1525.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 4736.75,
+        "combined": 4736.75,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 4736.75,
+        "combined": 4736.75,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 4736.75,
+        "combined": 4736.75,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 4736.75,
+        "combined": 4736.75,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    3363,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1999,
+    0,
+    900,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "genocide-prevention",
+      "appg_name": "All-Party Parliamentary Group Genocide Prevention",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "greenland",
+      "appg_name": "All-Party Parliamentary Group for Greenland",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "arbitrary-detention-and-hostage-affairs",
+      "appg_name": "All-Party Parliamentary Group on Arbitrary Detention and Hostage Affairs",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "international-law-justice-and-accountability",
+      "appg_name": "All-Party Parliamentary Group on International Law, Justice and Accountability",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "yazidis",
+      "appg_name": "All-Party Parliamentary Group on Yazidis",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14518,
+      "date": "2026-01-20",
+      "category": "3",
+      "member_id": 4371,
+      "member_name": "Brendan O'Hara",
+      "payer_id": 373,
+      "payer_name": "Enersoft International Limited",
+      "amount": 900.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4371/registeredinterests?categoryId=3",
+      "summary": "Enersoft International Limited - £900.00",
+      "description": "Single ticket and matchday hospitality at Tottenham Hotspur v Borussia Dortmund"
+    },
+    {
+      "id": 14296,
+      "date": "2025-12-14",
+      "category": "3",
+      "member_id": 4371,
+      "member_name": "Brendan O'Hara",
+      "payer_id": 373,
+      "payer_name": "Enersoft International Limited",
+      "amount": 625.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4371/registeredinterests?categoryId=3",
+      "summary": "Enersoft International Ltd - £625.00",
+      "description": "Two tickets and hospitality for myself and a guest to attend the League Cup Final at Hampden Park"
+    },
+    {
+      "id": 142951,
+      "date": "2025-11-30",
+      "category": "4",
+      "member_id": 4371,
+      "member_name": "Brendan O'Hara",
+      "payer_id": 569,
+      "payer_name": "International Human Rights Committee",
+      "amount": 1374.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "international-freedom-of-religion-or-belief",
+      "appg_name": "All-Party Parliamentary Group for International Freedom of Religion or Belief",
+      "source_url": "https://members.parliament.uk/member/4371/registeredinterests?categoryId=4",
+      "summary": "International visit to Thailand between 30 November 2025 and 06 December 2025 — The purpose of the trip was ascertain the progress for refugees, including a lack of recognised refugee status, limited access to adequate healthcare and education, and restrictions on free religious worship.",
+      "description": "Flights (£885), hotels including breakfast in Thailand (£99), hotels including breakfast in Malaysia (£390)"
+    },
+    {
+      "id": 124791,
+      "date": "2025-04-28",
+      "category": "4",
+      "member_id": 4371,
+      "member_name": "Brendan O'Hara",
+      "payer_id": 116,
+      "payer_name": "Bellweather International",
+      "amount": 3362.75,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "genocide-prevention",
+      "appg_name": "All-Party Parliamentary Group Genocide Prevention",
+      "source_url": "https://members.parliament.uk/member/4371/registeredinterests?categoryId=4",
+      "summary": "International visit to United States between 28 April 2025 and 30 April 2025 — To speak to the International Human Rights and Freedom of Religion and Belief conference in the capacity of Chair of the APPG Genocide Prevention",
+      "description": "Flights: £3,014.42, hotel: $435.04, food: $32.64"
+    }
+  ]
+}

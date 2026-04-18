@@ -1,0 +1,164 @@
+{
+  "slug": "packaging-in-the-circular-economy",
+  "title": "All Party Parliamentary Group for Packaging in the Circular Economy",
+  "purpose": "To create a better understanding of the UK packaging manufacturing industry and its products with a focus on the role of packaging in the Circular Economy; to address issues facing the industry from regulation; and to promote the UK as a centre of excellence for packaging manufacture.",
+  "categories": [
+    "Environment, Climate & Sustainability"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/packaging-in-the-circular-economy.htm",
+  "secretariat": "The Packaging Federation acts as the group's secretariat.",
+  "website": "None",
+  "registered_contact_name": "Chris Bloore MP",
+  "date_of_most_recent_agm": "2025-12-11 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "packaging-in-the-circular-economy",
+      "mnis_id": null,
+      "name": "Baroness Bakewell of Hardington Mandeville",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/packaging-in-the-circular-economy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "packaging-in-the-circular-economy",
+      "mnis_id": 5109,
+      "name": "Chris Bloore",
+      "canon_name": "Christopher Bloore",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/packaging-in-the-circular-economy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "packaging-in-the-circular-economy",
+      "mnis_id": 4595,
+      "name": "Gareth Snell",
+      "canon_name": "Gareth Snell",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/packaging-in-the-circular-economy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "packaging-in-the-circular-economy",
+      "mnis_id": 4462,
+      "name": "Tom Tugendhat",
+      "canon_name": "Thomas Tugendhat",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/packaging-in-the-circular-economy.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "packaging-in-the-circular-economy",
+      "mnis_id": null,
+      "name": "Baroness Bakewell of Hardington Mandeville",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/packaging-in-the-circular-economy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "packaging-in-the-circular-economy",
+      "mnis_id": 5109,
+      "name": "Chris Bloore",
+      "canon_name": "Christopher Bloore",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/packaging-in-the-circular-economy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "packaging-in-the-circular-economy",
+      "mnis_id": 4595,
+      "name": "Gareth Snell",
+      "canon_name": "Gareth Snell",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/packaging-in-the-circular-economy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "packaging-in-the-circular-economy",
+      "mnis_id": 4462,
+      "name": "Tom Tugendhat",
+      "canon_name": "Thomas Tugendhat",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/packaging-in-the-circular-economy.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

@@ -1,0 +1,430 @@
+{
+  "mnis_id": 5294,
+  "name": "Amanda Martin",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Portsmouth North",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5294/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 606.42,
+      "inkind": 5793.0,
+      "combined": 6399.42,
+      "payment_count": 7,
+      "donor_count": 6
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 606.42,
+      "inkind": 6168.0,
+      "combined": 6774.42,
+      "payment_count": 8,
+      "donor_count": 6
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 606.42,
+      "inkind": 6168.0,
+      "combined": 6774.42,
+      "payment_count": 8,
+      "donor_count": 6
+    },
+    "all_time": {
+      "monetary": 606.42,
+      "inkind": 6168.0,
+      "combined": 6774.42,
+      "payment_count": 8,
+      "donor_count": 6
+    }
+  },
+  "categories": {
+    "5": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 2708.0,
+        "combined": 2708.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 2708.0,
+        "combined": 2708.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 2708.0,
+        "combined": 2708.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 2708.0,
+        "combined": 2708.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 3085.0,
+        "combined": 3085.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 3460.0,
+        "combined": 3460.0,
+        "payment_count": 5,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 3460.0,
+        "combined": 3460.0,
+        "payment_count": 5,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 3460.0,
+        "combined": 3460.0,
+        "payment_count": 5,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 606.42,
+        "inkind": 0.0,
+        "combined": 606.42,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 606.42,
+        "inkind": 0.0,
+        "combined": 606.42,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 606.42,
+        "inkind": 0.0,
+        "combined": 606.42,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 606.42,
+        "inkind": 0.0,
+        "combined": 606.42,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    606,
+    0,
+    0,
+    0,
+    2468,
+    1950,
+    0,
+    375,
+    1000,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "armed-forces",
+      "appg_name": "All-Party Parliamentary Group for the Armed Forces",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "gibraltar",
+      "appg_name": "All-Party Parliamentary Group on Gibraltar",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "male-suicide",
+      "appg_name": "All-Party Parliamentary Group on Male Suicide",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "male-suicide-and-mental-health",
+      "appg_name": "All-Party Parliamentary Group on Male Suicide and Mental Health",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14382,
+      "date": "2025-12-29",
+      "category": "5",
+      "member_id": 5294,
+      "member_name": "Amanda Martin",
+      "payer_id": 855,
+      "payer_name": "Paddy Power part of Flutter Entertainment plc",
+      "amount": 1000.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5294/registeredinterests?categoryId=5",
+      "summary": "Paddy Power part of Flutter Entertainment plc - £1,000.00",
+      "description": "Two tickets with hospitality to attend the Professional Darts Association World Darts competition as a guest of Paddy Power"
+    },
+    {
+      "id": 14062,
+      "date": "2025-11-22",
+      "category": "3",
+      "member_id": 5294,
+      "member_name": "Amanda Martin",
+      "payer_id": 890,
+      "payer_name": "Portsmouth Community Football Club",
+      "amount": 375.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5294/registeredinterests?categoryId=3",
+      "summary": "Portsmouth Community Football Club - £375.00",
+      "description": "Match tickets and hospitality"
+    },
+    {
+      "id": 13613,
+      "date": "2025-09-28",
+      "category": "3",
+      "member_id": 5294,
+      "member_name": "Amanda Martin",
+      "payer_id": 482,
+      "payer_name": "HM Government of Gibraltar",
+      "amount": 1950.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-10-01",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5294/registeredinterests?categoryId=3",
+      "summary": "HM Government of Gibraltar - £1,950.00",
+      "description": "Three nights' accommodation during the Labour Party Conference"
+    },
+    {
+      "id": 13278,
+      "date": "2025-09-07",
+      "category": "5",
+      "member_id": 5294,
+      "member_name": "Amanda Martin",
+      "payer_id": 482,
+      "payer_name": "HM Government of Gibraltar",
+      "amount": 1708.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-09-10",
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "gibraltar",
+      "appg_name": "All-Party Parliamentary Group on Gibraltar",
+      "source_url": "https://members.parliament.uk/member/5294/registeredinterests?categoryId=5",
+      "summary": "HM Government of Gibraltar - £1,708.00",
+      "description": "Flights (£558), accommodation for 3 nights (£700), meals (£250), taxi (£200)"
+    },
+    {
+      "id": 13277,
+      "date": "2025-08-30",
+      "category": "3",
+      "member_id": 5294,
+      "member_name": "Amanda Martin",
+      "payer_id": 413,
+      "payer_name": "Fix Radio Limited",
+      "amount": 440.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5294/registeredinterests?categoryId=3",
+      "summary": "Fix Radio Limited - £440.00",
+      "description": "four tickets for Fix Fest at a value of £110 per person. I attended as a guest speaker on a panel. One of the tickets was used by a member of my staff"
+    },
+    {
+      "id": 13276,
+      "date": "2025-08-22",
+      "category": "3",
+      "member_id": 5294,
+      "member_name": "Amanda Martin",
+      "payer_id": 1150,
+      "payer_name": "Victorious Festivals Limited",
+      "amount": 320.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5294/registeredinterests?categoryId=3",
+      "summary": "Victorious Festivals Limited - £320.00",
+      "description": "Four bolt-on VIP tickets (£80 per person) for attending the VIP area whilst at the Victorious Festival"
+    },
+    {
+      "id": 135751,
+      "date": "2025-05-02",
+      "category": "4",
+      "member_id": 5294,
+      "member_name": "Amanda Martin",
+      "payer_id": 67,
+      "payer_name": "Armed Forces Parliamentary Scheme",
+      "amount": 606.42,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5294/registeredinterests?categoryId=4",
+      "summary": "International visit to Bahrain between 02 May 2025 and 05 May 2025 — Armed Forces Parliamentary Navy scheme visit to the United Kingdom Naval Support Facility (UKNSF) Bahrain.",
+      "description": "Flights"
+    },
+    {
+      "id": 12228,
+      "date": "2025-04-12",
+      "category": "3",
+      "member_id": 5294,
+      "member_name": "Amanda Martin",
+      "payer_id": 890,
+      "payer_name": "Portsmouth Community Football Club",
+      "amount": 375.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5294/registeredinterests?categoryId=3",
+      "summary": "Portsmouth Community Football Club - £375.00",
+      "description": "Match tickets and hospitality"
+    }
+  ]
+}

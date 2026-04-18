@@ -1,0 +1,99 @@
+{
+  "id": 1146,
+  "name": "USC Schwarzenegger Institute for State and Global Policy",
+  "address": "USC Pol Price School of Public Policy, University of Southern, California, 35511 Trousdale Pkwy, Los Ángeles CA 90089",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 23858.89,
+      "combined": 23858.89,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 23858.89,
+      "combined": 23858.89,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 23858.89,
+      "combined": 23858.89,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 23858.89,
+      "combined": 23858.89,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    23859,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 146841,
+      "date": "2026-01-29",
+      "category": "4",
+      "member_id": 4366,
+      "member_name": "Sir James Cleverly",
+      "payer_id": 1146,
+      "payer_name": "USC Schwarzenegger Institute for State and Global Policy",
+      "amount": 23858.89,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4366/registeredinterests?categoryId=4",
+      "summary": "International visit to United States between 29 January 2026 and 22 February 2026 — I visited Los Angeles and Sacramento accompanied by Lady Cleverly, as the guests of The Schwarzenegger Institute for State and Global Policy. I was invited as a fellow and guest lecturer and to meet with the British and American Business Council, as well as notable figures and politicians in the Housing, Building, Regulation and Political sphere.",
+      "description": "Flights LHR-LAX-LHR (£16,044.36), car rental (£806.91), hotel LA 3 nights (£988.32), car service from LAX (£343.83), USC apartment (£3743.36), Uber to LAX (£106.93), Flight LAX-SMF-LAX (£1364.08) and hotel in Sacramento (£461.10)."
+    }
+  ]
+}

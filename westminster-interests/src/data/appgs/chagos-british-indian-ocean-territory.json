@@ -1,0 +1,164 @@
+{
+  "slug": "chagos-british-indian-ocean-territory",
+  "title": "Chagos Islands (British Indian Ocean Territory) All-Party Parliamentary Group",
+  "purpose": "To help bring about a resolution of the issues concerning the future of the Chagos Islands (British Indian Ocean Territory) and the Chagossians.",
+  "categories": [
+    "Country Group"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/chagos-british-indian-ocean-territory.htm",
+  "secretariat": "",
+  "website": "https://sites.google.com/site/thechagosarchipelagofacts/parliamentary-group",
+  "registered_contact_name": "Jeremy Corbyn MP",
+  "date_of_most_recent_agm": "2025-10-15 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "chagos-british-indian-ocean-territory",
+      "mnis_id": 1867,
+      "name": "Baroness Ludford",
+      "canon_name": "Baroness Ludford",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/chagos-british-indian-ocean-territory.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "chagos-british-indian-ocean-territory",
+      "mnis_id": 4523,
+      "name": "Catherine West",
+      "canon_name": "Catherine West",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/chagos-british-indian-ocean-territory.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "chagos-british-indian-ocean-territory",
+      "mnis_id": 185,
+      "name": "Jeremy Corbyn",
+      "canon_name": "Jeremy Corbyn",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/chagos-british-indian-ocean-territory.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "chagos-british-indian-ocean-territory",
+      "mnis_id": 196,
+      "name": "Lord Horam",
+      "canon_name": "Lord Horam",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/chagos-british-indian-ocean-territory.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "chagos-british-indian-ocean-territory",
+      "mnis_id": 1867,
+      "name": "Baroness Ludford",
+      "canon_name": "Baroness Ludford",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/chagos-british-indian-ocean-territory.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "chagos-british-indian-ocean-territory",
+      "mnis_id": 4523,
+      "name": "Catherine West",
+      "canon_name": "Catherine West",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/chagos-british-indian-ocean-territory.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "chagos-british-indian-ocean-territory",
+      "mnis_id": 185,
+      "name": "Jeremy Corbyn",
+      "canon_name": "Jeremy Corbyn",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/chagos-british-indian-ocean-territory.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "chagos-british-indian-ocean-territory",
+      "mnis_id": 196,
+      "name": "Lord Horam",
+      "canon_name": "Lord Horam",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/chagos-british-indian-ocean-territory.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

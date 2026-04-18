@@ -1,0 +1,164 @@
+{
+  "slug": "vascular-and-venous-disease",
+  "title": "All-Party Parliamentary Group on Vascular and Venous Disease",
+  "purpose": "The group aims to empower women to make informed choices about their treatment and ensure they are treated with dignity and respect throughout their treatment pathway.",
+  "categories": [
+    "Health, Medicine & Public Health"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/vascular-and-venous-disease.htm",
+  "secretariat": "Healthcomms Consulting Ltd (part of the PLMR Group) acts as the group's secretariat.https://www.healthcommsconsulting.co.uk/",
+  "website": "https://www.vvappg.com/",
+  "registered_contact_name": "Jim Shannon MP",
+  "date_of_most_recent_agm": "2026-01-12 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "vascular-and-venous-disease",
+      "mnis_id": 5196,
+      "name": "Brian Leishman",
+      "canon_name": "Brian Leishman",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/vascular-and-venous-disease.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "vascular-and-venous-disease",
+      "mnis_id": 4131,
+      "name": "Jim Shannon",
+      "canon_name": "Jim Shannon",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/vascular-and-venous-disease.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "vascular-and-venous-disease",
+      "mnis_id": null,
+      "name": "Lord Elliott of Ballinamallard",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/vascular-and-venous-disease.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "vascular-and-venous-disease",
+      "mnis_id": 123,
+      "name": "Lord Lansley",
+      "canon_name": "Lord Lansley",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/vascular-and-venous-disease.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "vascular-and-venous-disease",
+      "mnis_id": 5196,
+      "name": "Brian Leishman",
+      "canon_name": "Brian Leishman",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/vascular-and-venous-disease.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "vascular-and-venous-disease",
+      "mnis_id": 4131,
+      "name": "Jim Shannon",
+      "canon_name": "Jim Shannon",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/vascular-and-venous-disease.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "vascular-and-venous-disease",
+      "mnis_id": null,
+      "name": "Lord Elliott of Ballinamallard",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/vascular-and-venous-disease.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "vascular-and-venous-disease",
+      "mnis_id": 123,
+      "name": "Lord Lansley",
+      "canon_name": "Lord Lansley",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/vascular-and-venous-disease.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

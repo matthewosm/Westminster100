@@ -1,0 +1,173 @@
+{
+  "mnis_id": 5154,
+  "name": "Sarah Hall",
+  "party": "Labour (Co-op)",
+  "party_slug": "labour-co-op",
+  "constituency": "Warrington South",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5154/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 882.55,
+      "combined": 882.55,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 882.55,
+      "combined": 882.55,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 882.55,
+      "combined": 882.55,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 882.55,
+      "combined": 882.55,
+      "payment_count": 1,
+      "donor_count": 1
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 882.55,
+        "combined": 882.55,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 882.55,
+        "combined": 882.55,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 882.55,
+        "combined": 882.55,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 882.55,
+        "combined": 882.55,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    883,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "attention-deficit-hyperactivity-disorder-adhd",
+      "appg_name": "All-Party Parliamentary Group on Attention Deficit Hyperactivity Disorder (ADHD)",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "digital-markets-and-digital-money",
+      "appg_name": "All-Party Parliamentary Group on Digital Markets and Digital Money",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "tackling-loneliness-and-connected-communities",
+      "appg_name": "All-Party Parliamentary Group on Tackling Loneliness and Connected Communities",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "digital-inclusion",
+      "appg_name": "Digital Inclusion All-Party Parliamentary Group",
+      "officer_role": "Co-Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "inclusion-and-nurture-in-education",
+      "appg_name": "Inclusion and Nurture in Education All-Party Parliamentary Group",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 138731,
+      "date": "2025-10-27",
+      "category": "4",
+      "member_id": 5154,
+      "member_name": "Sarah Hall",
+      "payer_id": 831,
+      "payer_name": "Nuclear Industry Association",
+      "amount": 882.55,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "nuclear-energy",
+      "appg_name": "All-Party Parliamentary Group on Nuclear Energy",
+      "source_url": "https://members.parliament.uk/member/5154/registeredinterests?categoryId=4",
+      "summary": "International visit to Finland between 27 October 2025 and 29 October 2025 — To visit the Olkiluoto 3 Nuclear Power Plant, Onkalo Geological Disposal Facility and Radiation and Nuclear Safety Authority (STUK) as part of a Nuclear Energy APPG Visit.",
+      "description": "Return flights to Helsinki, hotel accommodation, transport and meals"
+    }
+  ]
+}

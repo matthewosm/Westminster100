@@ -1,0 +1,164 @@
+{
+  "slug": "dentistry-and-oral-health",
+  "title": "All-Party Parliamentary Group for Dentistry and Oral Health",
+  "purpose": "The APPG acts as a forum for dental and oral health issues in Parliament, works to raise the profile of dentistry, highlighting the views of patients and the profession, and campaigns to improve oral health and the quality of dental services.",
+  "categories": [
+    "Health, Medicine & Public Health"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/dentistry-and-oral-health.htm",
+  "secretariat": "British Dental Association acts as the group's secretariat.https://www.bda.org/",
+  "website": "https://www.bda.org/what-we-do/campaigns-and-advocacy/lobbying/appg-for-dentistry-and-oral-health/",
+  "registered_contact_name": "Yasmin Qureshi MP",
+  "date_of_most_recent_agm": "2025-12-09 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "dentistry-and-oral-health",
+      "mnis_id": 5138,
+      "name": "Ian Roome",
+      "canon_name": "Ian Roome",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/dentistry-and-oral-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "dentistry-and-oral-health",
+      "mnis_id": null,
+      "name": "Lord Bourne of Aberystwyth",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/dentistry-and-oral-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "dentistry-and-oral-health",
+      "mnis_id": 4753,
+      "name": "Mary Kelly Foy",
+      "canon_name": "Mary Foy",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/dentistry-and-oral-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "dentistry-and-oral-health",
+      "mnis_id": 3924,
+      "name": "Yasmin Qureshi",
+      "canon_name": "Yasmin Qureshi",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/dentistry-and-oral-health.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "dentistry-and-oral-health",
+      "mnis_id": 5138,
+      "name": "Ian Roome",
+      "canon_name": "Ian Roome",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/dentistry-and-oral-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "dentistry-and-oral-health",
+      "mnis_id": null,
+      "name": "Lord Bourne of Aberystwyth",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/dentistry-and-oral-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "dentistry-and-oral-health",
+      "mnis_id": 4753,
+      "name": "Mary Kelly Foy",
+      "canon_name": "Mary Foy",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/dentistry-and-oral-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "dentistry-and-oral-health",
+      "mnis_id": 3924,
+      "name": "Yasmin Qureshi",
+      "canon_name": "Yasmin Qureshi",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/dentistry-and-oral-health.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

@@ -1,0 +1,124 @@
+{
+  "id": 899,
+  "name": "The Prison Officers Association",
+  "address": "Cronin House, 245 Church Street, London N9 9HW",
+  "nature_of_business": null,
+  "donor_status": "Trade Union",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 5670.0,
+      "combined": 5670.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 9450.0,
+      "combined": 9450.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 9450.0,
+      "combined": 9450.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 9450.0,
+      "combined": 9450.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    5670,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 13850,
+      "date": "2025-10-01",
+      "category": "2",
+      "member_id": 4521,
+      "member_name": "Liz Saville Roberts",
+      "payer_id": 899,
+      "payer_name": "The Prison Officers Association",
+      "amount": 5670.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2026-10-31",
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4521/registeredinterests?categoryId=2",
+      "summary": "The Prison Officers Association - £5,670.00",
+      "description": "Administration and coordination of the Justice Unions Parliamentary Group, a cross-party group which I co-chair, provided by Solidarity Consulting Ltd between 1 October 2025 to 31 October 2026"
+    },
+    {
+      "id": 13845,
+      "date": "2025-01-01",
+      "category": "2",
+      "member_id": 4521,
+      "member_name": "Liz Saville Roberts",
+      "payer_id": 899,
+      "payer_name": "The Prison Officers Association",
+      "amount": 3780.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-09-30",
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4521/registeredinterests?categoryId=2",
+      "summary": "The Prison Officers Association - £3,780.00",
+      "description": "Administration and coordination of the Justice Unions Parliamentary Group, a cross-party group which I co-chair, provided by Solidarity Consulting Ltd between 1 January 2025 to 30 September 2025"
+    }
+  ]
+}

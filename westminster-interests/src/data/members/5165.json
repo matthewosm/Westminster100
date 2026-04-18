@@ -1,0 +1,173 @@
+{
+  "mnis_id": 5165,
+  "name": "Peter Swallow",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Bracknell",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5165/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 799.82,
+      "combined": 799.82,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 799.82,
+      "combined": 799.82,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 799.82,
+      "combined": 799.82,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 799.82,
+      "combined": 799.82,
+      "payment_count": 1,
+      "donor_count": 1
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 799.82,
+        "combined": 799.82,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 799.82,
+        "combined": 799.82,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 799.82,
+        "combined": 799.82,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 799.82,
+        "combined": 799.82,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    800,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "classics",
+      "appg_name": "All-Party Parliamentary Group for Classics",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "schools-learning-and-assessment",
+      "appg_name": "All-Party Parliamentary Group for Schools, Learning and Assessment",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "south-east",
+      "appg_name": "All-Party Parliamentary Group for the South East",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "thames-valley",
+      "appg_name": "All-Party Parliamentary Group for the Thames Valley",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "social-mobility",
+      "appg_name": "All-Party Parliamentary Group on Social Mobility",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 135411,
+      "date": "2025-05-25",
+      "category": "4",
+      "member_id": 5165,
+      "member_name": "Peter Swallow",
+      "payer_id": 70,
+      "payer_name": "Armed Forces Parliamentary Trust",
+      "amount": 799.82,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5165/registeredinterests?categoryId=4",
+      "summary": "International visit to Brunei between 25 May 2025 and 29 May 2025 — To undertake a visit as part of my participation in the Armed \r\nForces Parliamentary Scheme.",
+      "description": "Flights"
+    }
+  ]
+}

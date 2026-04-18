@@ -1,0 +1,124 @@
+{
+  "id": 5,
+  "name": "A M Heath & Company Limited",
+  "address": "6 Warwick Court, London WC1R 5DJ",
+  "nature_of_business": "Literary Agency",
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 17450.0,
+      "inkind": 0.0,
+      "combined": 17450.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 9225.0,
+      "inkind": 0.0,
+      "combined": 9225.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 8225.0,
+      "inkind": 0.0,
+      "combined": 8225.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 17450.0,
+      "inkind": 0.0,
+      "combined": 17450.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 17450.0,
+      "inkind": 0.0,
+      "combined": 17450.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    8225,
+    0,
+    0,
+    0,
+    9225,
+    0
+  ],
+  "payments": [
+    {
+      "id": 14726,
+      "date": "2026-02-28",
+      "category": "1.1",
+      "member_id": 4409,
+      "member_name": "Naz Shah",
+      "payer_id": 5,
+      "payer_name": "A M Heath & Company Limited",
+      "amount": 9225.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4409/registeredinterests?categoryId=1",
+      "summary": "Payment received on 28 February 2026 - £9,225.00",
+      "description": "payment from publishers"
+    },
+    {
+      "id": 13878,
+      "date": "2025-11-04",
+      "category": "1.1",
+      "member_id": 4409,
+      "member_name": "Naz Shah",
+      "payer_id": 5,
+      "payer_name": "A M Heath & Company Limited",
+      "amount": 8225.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4409/registeredinterests?categoryId=1",
+      "summary": "Payment received on 04 November 2025 - £8,225.00",
+      "description": "Second advanced payment for writing my book"
+    }
+  ]
+}

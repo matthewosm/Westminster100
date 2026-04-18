@@ -1,0 +1,380 @@
+{
+  "mnis_id": 5166,
+  "name": "Mark Sewards",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Leeds South West and Morley",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5166/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 10737.9,
+      "combined": 10737.9,
+      "payment_count": 6,
+      "donor_count": 5
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 3336.86,
+      "combined": 3336.86,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 7401.04,
+      "combined": 7401.04,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 10737.9,
+      "combined": 10737.9,
+      "payment_count": 6,
+      "donor_count": 5
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 10737.9,
+      "combined": 10737.9,
+      "payment_count": 6,
+      "donor_count": 5
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 386.86,
+        "combined": 386.86,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 386.86,
+        "combined": 386.86,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 386.86,
+        "combined": 386.86,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 386.86,
+        "combined": 386.86,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 7351.04,
+        "combined": 7351.04,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 2950.0,
+        "combined": 2950.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 4401.04,
+        "combined": 4401.04,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 7351.04,
+        "combined": 7351.04,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 7351.04,
+        "combined": 7351.04,
+        "payment_count": 4,
+        "donor_count": 0
+      }
+    },
+    "2": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 3000.0,
+        "combined": 3000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 3000.0,
+        "combined": 3000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 3000.0,
+        "combined": 3000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 3000.0,
+        "combined": 3000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    3631,
+    0,
+    3000,
+    770,
+    0,
+    0,
+    0,
+    0,
+    3337,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "funerals-coroners-and-bereavement",
+      "appg_name": "All-Party Parliamentary Group for Funerals, Coroners and Bereavement",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "parents",
+      "appg_name": "All-Party Parliamentary Group for Parents",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "yorkshire-and-northern-lincolnshire",
+      "appg_name": "All-Party Parliamentary Group for Yorkshire and Northern Lincolnshire",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "consumer-protection",
+      "appg_name": "All-Party Parliamentary Group on Consumer Protection",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14562,
+      "date": "2026-01-31",
+      "category": "3",
+      "member_id": 5166,
+      "member_name": "Mark Sewards",
+      "payer_id": 895,
+      "payer_name": "Premier League",
+      "amount": 386.86,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5166/registeredinterests?categoryId=3",
+      "summary": "The Premier League - £386.86",
+      "description": "Ticket and hospitality for Leeds v Arsenal Football Match at Elland Rd Stadium, Leeds"
+    },
+    {
+      "id": 145611,
+      "date": "2026-01-25",
+      "category": "4",
+      "member_id": 5166,
+      "member_name": "Mark Sewards",
+      "payer_id": 655,
+      "payer_name": "Labour Friends of Israel Ltd",
+      "amount": 2950.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5166/registeredinterests?categoryId=4",
+      "summary": "International visit to Israel between 25 January 2026 and 29 January 2026 — Delegation to Israel and the Kingdom of Bahrain. Meetings with politicians, academics, activists and diplomats.",
+      "description": "Transport, accommodation and meals"
+    },
+    {
+      "id": 134611,
+      "date": "2025-09-10",
+      "category": "4",
+      "member_id": 5166,
+      "member_name": "Mark Sewards",
+      "payer_id": 1122,
+      "payer_name": "UK Friends of Ukraine",
+      "amount": 770.04,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5166/registeredinterests?categoryId=4",
+      "summary": "International visit to Ukraine between 10 September 2025 and 15 September 2025 — Parliamentary Delegation to attend the YES Conference.",
+      "description": "Pass for Yes Conference, Transfers, food & drink"
+    },
+    {
+      "id": 13204,
+      "date": "2025-08-05",
+      "category": "2",
+      "member_id": 5166,
+      "member_name": "Mark Sewards",
+      "payer_id": 804,
+      "payer_name": "Neural Voice AI",
+      "amount": 3000.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5166/registeredinterests?categoryId=2",
+      "summary": "Neural Voice AI - £3,000.00",
+      "description": "The creation and hosting of an AI voice assistant"
+    },
+    {
+      "id": 126831,
+      "date": "2025-06-04",
+      "category": "4",
+      "member_id": 5166,
+      "member_name": "Mark Sewards",
+      "payer_id": 482,
+      "payer_name": "HM Government of Gibraltar",
+      "amount": 1031.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5166/registeredinterests?categoryId=4",
+      "summary": "International visit to Gibraltar between 04 June 2025 and 06 June 2025 — Familiarisation and briefing visit",
+      "description": "Flights, accommodation and meals"
+    },
+    {
+      "id": 125451,
+      "date": "2025-05-25",
+      "category": "4",
+      "member_id": 5166,
+      "member_name": "Mark Sewards",
+      "payer_id": 655,
+      "payer_name": "Labour Friends of Israel Ltd",
+      "amount": 2600.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5166/registeredinterests?categoryId=4",
+      "summary": "International visit to Palestine between 25 May 2025 and 29 May 2025 — Delegation to Israel and the Palestinian Territories. Meetings with politicians, academics, activists and diplomats.",
+      "description": "Flights, accommodation and meals"
+    }
+  ]
+}

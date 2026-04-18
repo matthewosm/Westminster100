@@ -1,0 +1,212 @@
+{
+  "slug": "bangladesh",
+  "title": "All-Party Parliamentary Group on Bangladesh",
+  "purpose": "To foster a greater understanding of the country of Bangladesh and provide a conduit for the Bangladeshi community here in the UK.",
+  "categories": [
+    "Country Group"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bangladesh.htm",
+  "secretariat": "",
+  "website": "None",
+  "registered_contact_name": "Apsana Begum MP",
+  "date_of_most_recent_agm": "2025-12-18 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "bangladesh",
+      "mnis_id": 4790,
+      "name": "Apsana Begum",
+      "canon_name": "Apsana Begum",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bangladesh.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "bangladesh",
+      "mnis_id": 4764,
+      "name": "Bell Ribeiro-Addy",
+      "canon_name": "Bell Ribeiro-Addy",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bangladesh.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "bangladesh",
+      "mnis_id": null,
+      "name": "Foysol Choudhury",
+      "canon_name": "Foysol Choudhury",
+      "officer_role": "Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "bangladesh",
+      "mnis_id": 4302,
+      "name": "Lord Balfe",
+      "canon_name": "Lord Balfe",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bangladesh.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "bangladesh",
+      "mnis_id": 4221,
+      "name": "Lord Hussain",
+      "canon_name": "Lord Hussain",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bangladesh.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "bangladesh",
+      "mnis_id": null,
+      "name": "Miles Briggs",
+      "canon_name": "Miles Briggs",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "bangladesh",
+      "mnis_id": 4790,
+      "name": "Apsana Begum",
+      "canon_name": "Apsana Begum",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bangladesh.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "bangladesh",
+      "mnis_id": 4764,
+      "name": "Bell Ribeiro-Addy",
+      "canon_name": "Bell Ribeiro-Addy",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bangladesh.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "bangladesh",
+      "mnis_id": null,
+      "name": "Foysol Choudhury",
+      "canon_name": "Foysol Choudhury",
+      "officer_role": "Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "bangladesh",
+      "mnis_id": 4302,
+      "name": "Lord Balfe",
+      "canon_name": "Lord Balfe",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bangladesh.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "bangladesh",
+      "mnis_id": 4221,
+      "name": "Lord Hussain",
+      "canon_name": "Lord Hussain",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bangladesh.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "bangladesh",
+      "mnis_id": null,
+      "name": "Miles Briggs",
+      "canon_name": "Miles Briggs",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

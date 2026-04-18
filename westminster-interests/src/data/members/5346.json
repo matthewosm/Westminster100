@@ -1,0 +1,374 @@
+{
+  "mnis_id": 5346,
+  "name": "Calum Miller",
+  "party": "Liberal Democrat",
+  "party_slug": "liberal-democrat",
+  "constituency": "Bicester and Woodstock",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5346/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 36763.86,
+      "inkind": 0.0,
+      "combined": 36763.86,
+      "payment_count": 5,
+      "donor_count": 5
+    },
+    "ytd": {
+      "monetary": 11246.21,
+      "inkind": 0.0,
+      "combined": 11246.21,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "2025": {
+      "monetary": 29466.86,
+      "inkind": 0.0,
+      "combined": 29466.86,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 5521.58,
+      "inkind": 0.0,
+      "combined": 5521.58,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "since_election": {
+      "monetary": 46234.64,
+      "inkind": 0.0,
+      "combined": 46234.64,
+      "payment_count": 5,
+      "donor_count": 5
+    },
+    "all_time": {
+      "monetary": 46234.64,
+      "inkind": 0.0,
+      "combined": 46234.64,
+      "payment_count": 5,
+      "donor_count": 5
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 2297.0,
+        "inkind": 0.0,
+        "combined": 2297.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 2297.0,
+        "inkind": 0.0,
+        "combined": 2297.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 2297.0,
+        "inkind": 0.0,
+        "combined": 2297.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 2297.0,
+        "inkind": 0.0,
+        "combined": 2297.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "2": {
+      "12m": {
+        "monetary": 15000.0,
+        "inkind": 0.0,
+        "combined": 15000.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 5000.0,
+        "inkind": 0.0,
+        "combined": 5000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 10000.0,
+        "inkind": 0.0,
+        "combined": 10000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 15000.0,
+        "inkind": 0.0,
+        "combined": 15000.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 15000.0,
+        "inkind": 0.0,
+        "combined": 15000.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "1.1": {
+      "12m": {
+        "monetary": 6120.0,
+        "inkind": 0.0,
+        "combined": 6120.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 6120.0,
+        "inkind": 0.0,
+        "combined": 6120.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 6120.0,
+        "inkind": 0.0,
+        "combined": 6120.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 6120.0,
+        "inkind": 0.0,
+        "combined": 6120.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "1.2": {
+      "12m": {
+        "monetary": 13346.86,
+        "inkind": 0.0,
+        "combined": 13346.86,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 3949.21,
+        "inkind": 0.0,
+        "combined": 3949.21,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 13346.86,
+        "inkind": 0.0,
+        "combined": 13346.86,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 5521.58,
+        "inkind": 0.0,
+        "combined": 5521.58,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 22817.64,
+        "inkind": 0.0,
+        "combined": 22817.64,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 22817.64,
+        "inkind": 0.0,
+        "combined": 22817.64,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    1097,
+    1097,
+    7217,
+    1097,
+    1097,
+    11097,
+    1097,
+    1097,
+    1097,
+    8394,
+    1097,
+    1097
+  ],
+  "appg_memberships": [],
+  "payments": [
+    {
+      "id": 147491,
+      "date": "2026-02-15",
+      "category": "4",
+      "member_id": 5346,
+      "member_name": "Calum Miller",
+      "payer_id": 363,
+      "payer_name": "ELNET UK/ iberal Democrat Friends of Israel",
+      "amount": 2297.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5346/registeredinterests?categoryId=4",
+      "summary": "International visit to Israel between 15 February 2026 and 19 February 2026 — Fact-finding visit to Israel and Ramallah. Meeting with Israeli and Palestinian co-existence campaigners, politicians, academics and diplomats.",
+      "description": "Flights (£936), accommodation (£915), food (£446)"
+    },
+    {
+      "id": 14584,
+      "date": "2026-02-09",
+      "category": "2",
+      "member_id": 5346,
+      "member_name": "Calum Miller",
+      "payer_id": 623,
+      "payer_name": "Jonathan Conibear",
+      "amount": 5000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5346/registeredinterests?categoryId=2",
+      "summary": "Jonathan Conibear - £5,000.00",
+      "description": "Donation to cover the cost of the MP Annual Report"
+    },
+    {
+      "id": 13390,
+      "date": "2025-09-30",
+      "category": "2",
+      "member_id": 5346,
+      "member_name": "Calum Miller",
+      "payer_id": 821,
+      "payer_name": "Nick Clegg",
+      "amount": 10000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5346/registeredinterests?categoryId=2",
+      "summary": "Nick Clegg - £10,000.00",
+      "description": "Support for the activities of Bicester and Woodstock Liberal Democrats"
+    },
+    {
+      "id": 13052,
+      "date": "2025-06-30",
+      "category": "1.1",
+      "member_id": 5346,
+      "member_name": "Calum Miller",
+      "payer_id": 128,
+      "payer_name": "Blavatnik School of Government, Oxford University",
+      "amount": 6120.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5346/registeredinterests?categoryId=1",
+      "summary": "Payment received on 30 June 2025 - £6,120.00",
+      "description": "Provision of one day's teaching, and associated preparation, on a course delivered by the Blavatnik School"
+    },
+    {
+      "id": 6765,
+      "date": "2024-08-02",
+      "category": "1.2",
+      "member_id": 5346,
+      "member_name": "Calum Miller",
+      "payer_id": 852,
+      "payer_name": "Oxfordshire County Council",
+      "amount": 1113.0,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5346/registeredinterests?categoryId=1",
+      "summary": "Agreement - £1,113.00",
+      "description": null
+    }
+  ]
+}

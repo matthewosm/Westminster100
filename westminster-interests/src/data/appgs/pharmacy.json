@@ -1,0 +1,164 @@
+{
+  "slug": "pharmacy",
+  "title": "All-Party Parliamentary Group on Pharmacy",
+  "purpose": "To raise awareness of the profession of pharmacy, and to promote pharmacists' current and potential contribution to the health of the nation.",
+  "categories": [
+    "Health, Medicine & Public Health"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/pharmacy.htm",
+  "secretariat": "M+F Health Communications acts as the group's secretariat.https://www.mandfhealth.com/",
+  "website": "https://www.pharmacyappg.co.uk/about-the-appg",
+  "registered_contact_name": "Sadik Al-Hassan MP",
+  "date_of_most_recent_agm": "2025-10-20 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "pharmacy",
+      "mnis_id": 5255,
+      "name": "Joe Robertson",
+      "canon_name": "Joe Robertson",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/pharmacy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "pharmacy",
+      "mnis_id": 4333,
+      "name": "Lord Scriven",
+      "canon_name": "Lord Scriven",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/pharmacy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "pharmacy",
+      "mnis_id": 5310,
+      "name": "Mr Lee Dillon",
+      "canon_name": "Lee Dillon",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/pharmacy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "pharmacy",
+      "mnis_id": 5312,
+      "name": "Sadik Al-Hassan",
+      "canon_name": "Sadik Al-Hassan",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/pharmacy.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "pharmacy",
+      "mnis_id": 5255,
+      "name": "Joe Robertson",
+      "canon_name": "Joe Robertson",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/pharmacy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "pharmacy",
+      "mnis_id": 4333,
+      "name": "Lord Scriven",
+      "canon_name": "Lord Scriven",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/pharmacy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "pharmacy",
+      "mnis_id": 5310,
+      "name": "Mr Lee Dillon",
+      "canon_name": "Lee Dillon",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/pharmacy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "pharmacy",
+      "mnis_id": 5312,
+      "name": "Sadik Al-Hassan",
+      "canon_name": "Sadik Al-Hassan",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/pharmacy.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

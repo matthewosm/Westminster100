@@ -1,0 +1,164 @@
+{
+  "slug": "prostate-cancer",
+  "title": "All-Party Parliamentary Group on Prostate Cancer",
+  "purpose": "To raise awareness of prostate cancer issues with parliament, provide a forum for MPs and peers to discuss issues impacting people with prostate cancer, and to advocate for improvements in policy to improve equitable early diagnosis, treatment, care and survival for people with prostate cancer.",
+  "categories": [
+    "Health, Medicine & Public Health"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/prostate-cancer.htm",
+  "secretariat": "Prostate Cancer Research and Prostate Cancer UK jointly act as the group's secretariat.https://www.prostate-cancer-research.org.uk/andhttps://prostatecanceruk.org/",
+  "website": "https://appgprostatecancer.org.uk/",
+  "registered_contact_name": "Mr Calvin Bailey MP",
+  "date_of_most_recent_agm": "2024-12-17 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "prostate-cancer",
+      "mnis_id": 5089,
+      "name": "Ben Obese-Jecty",
+      "canon_name": "Ben Obese-Jecty",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/prostate-cancer.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "prostate-cancer",
+      "mnis_id": 5086,
+      "name": "Josh Babarinde",
+      "canon_name": "Josh Babarinde",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/prostate-cancer.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "prostate-cancer",
+      "mnis_id": 5054,
+      "name": "Mr Calvin Bailey",
+      "canon_name": "Calvin Bailey",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/prostate-cancer.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "prostate-cancer",
+      "mnis_id": 5163,
+      "name": "Peter Prinsley",
+      "canon_name": "Peter Prinsley",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/prostate-cancer.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "prostate-cancer",
+      "mnis_id": 5089,
+      "name": "Ben Obese-Jecty",
+      "canon_name": "Ben Obese-Jecty",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/prostate-cancer.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "prostate-cancer",
+      "mnis_id": 5086,
+      "name": "Josh Babarinde",
+      "canon_name": "Josh Babarinde",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/prostate-cancer.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "prostate-cancer",
+      "mnis_id": 5054,
+      "name": "Mr Calvin Bailey",
+      "canon_name": "Calvin Bailey",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/prostate-cancer.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "prostate-cancer",
+      "mnis_id": 5163,
+      "name": "Peter Prinsley",
+      "canon_name": "Peter Prinsley",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/prostate-cancer.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

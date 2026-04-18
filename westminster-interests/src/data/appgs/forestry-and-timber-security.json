@@ -1,0 +1,164 @@
+{
+  "slug": "forestry-and-timber-security",
+  "title": "All-Party Parliamentary Group on Forestry and Timber Security",
+  "purpose": "The APPG promotes sustainably managed forests for jobs and economic growth, and a growing, secure timber resource for the UK wood processing sector. Our work supports rural economies, provides low-carbon timber for house-building and combats illegal logging overseas.",
+  "categories": [
+    "Environment, Climate & Sustainability"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/forestry-and-timber-security.htm",
+  "secretariat": "Confor: Promoting Forestry and Wood acts as the group's secretariat.http://www.confor.org.uk/",
+  "website": "None",
+  "registered_contact_name": "Ben Lake MP",
+  "date_of_most_recent_agm": "2024-10-29 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "forestry-and-timber-security",
+      "mnis_id": 4630,
+      "name": "Ben Lake",
+      "canon_name": "Ben Lake",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/forestry-and-timber-security.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "forestry-and-timber-security",
+      "mnis_id": 5284,
+      "name": "David Chadwick",
+      "canon_name": "David Chadwick",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/forestry-and-timber-security.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "forestry-and-timber-security",
+      "mnis_id": null,
+      "name": "Lord Clark of Windermere",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/forestry-and-timber-security.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "forestry-and-timber-security",
+      "mnis_id": 4596,
+      "name": "Lord Colgrain",
+      "canon_name": "Lord Colgrain",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/forestry-and-timber-security.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "forestry-and-timber-security",
+      "mnis_id": 4630,
+      "name": "Ben Lake",
+      "canon_name": "Ben Lake",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/forestry-and-timber-security.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "forestry-and-timber-security",
+      "mnis_id": 5284,
+      "name": "David Chadwick",
+      "canon_name": "David Chadwick",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/forestry-and-timber-security.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "forestry-and-timber-security",
+      "mnis_id": null,
+      "name": "Lord Clark of Windermere",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/forestry-and-timber-security.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "forestry-and-timber-security",
+      "mnis_id": 4596,
+      "name": "Lord Colgrain",
+      "canon_name": "Lord Colgrain",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/forestry-and-timber-security.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

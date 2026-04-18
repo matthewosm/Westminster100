@@ -1,0 +1,298 @@
+{
+  "mnis_id": 5168,
+  "name": "Adam Jogee",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Newcastle-under-Lyme",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5168/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 3757.31,
+      "combined": 3757.31,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 6410.89,
+      "combined": 6410.89,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 6410.89,
+      "combined": 6410.89,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 6410.89,
+      "combined": 6410.89,
+      "payment_count": 4,
+      "donor_count": 4
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 3061.31,
+        "combined": 3061.31,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 5714.89,
+        "combined": 5714.89,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 5714.89,
+        "combined": 5714.89,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 5714.89,
+        "combined": 5714.89,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 696.0,
+        "combined": 696.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 696.0,
+        "combined": 696.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 696.0,
+        "combined": 696.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 696.0,
+        "combined": 696.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    696,
+    0,
+    0,
+    0,
+    0,
+    3061,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "australia-and-new-zealand-anzac-and-the-pacific-islands",
+      "appg_name": "All-Party Parliamentary Group for Australia and New Zealand (ANZAC) and the Pacific Islands",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "foreign-affairs",
+      "appg_name": "All-Party Parliamentary Group for Foreign Affairs",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "commonwealth",
+      "appg_name": "All-Party Parliamentary Group for the Commonwealth",
+      "officer_role": "Co-Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "democratic-republic-of-congo",
+      "appg_name": "All-Party Parliamentary Group on the Democratic Republic of Congo",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "international-trade-and-investment",
+      "appg_name": "International Trade and Investment All-Party Parliamentary Group",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "ireland-and-the-irish-in-britain",
+      "appg_name": "Ireland and the Irish in Britain All-Party Parliamentary Group",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 140201,
+      "date": "2025-11-05",
+      "category": "4",
+      "member_id": 5168,
+      "member_name": "Adam Jogee",
+      "payer_id": 399,
+      "payer_name": "Federal Department of Foreign Affairs, Switzerland",
+      "amount": 1900.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5168/registeredinterests?categoryId=4",
+      "summary": "International visit to Switzerland between 05 November 2025 and 08 November 2025 — Cross party delegation of MPs focused on what lessons the United Kingdom can learn from Switzerland's rail/transport network and Vocational and their Professional Education and Training (VPET) system.",
+      "description": "Travel (£380), accommodation (£990), in-country travel (£290) and meals (£240)"
+    },
+    {
+      "id": 138861,
+      "date": "2025-10-21",
+      "category": "4",
+      "member_id": 5168,
+      "member_name": "Adam Jogee",
+      "payer_id": 267,
+      "payer_name": "Consulate of the Republic of San Marino to the United Kingdom",
+      "amount": 1161.31,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "san-marino",
+      "appg_name": "San Marino All-Party Parliamentary Group",
+      "source_url": "https://members.parliament.uk/member/5168/registeredinterests?categoryId=4",
+      "summary": "International visit to San Marino between 21 October 2025 and 24 October 2025 — Part of a cross-party delegation to further relations between the United Kingdom and the Republic of San Marino and the Holy See. The visit included being received at the Vatican by the Holy Father, His Holiness Pope Leo.",
+      "description": "Airfare/Ground\r\nTransfers (£552.07)\r\n\r\nAccommodation\r\n(£322)\r\n\r\nSubsistence\r\n(£287.24)"
+    },
+    {
+      "id": 12932,
+      "date": "2025-06-20",
+      "category": "3",
+      "member_id": 5168,
+      "member_name": "Adam Jogee",
+      "payer_id": 59,
+      "payer_name": "Anton' de Piro",
+      "amount": 696.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5168/registeredinterests?categoryId=3",
+      "summary": "Anton' de Piro - £696.00",
+      "description": "Return economy flight between Northern Ireland and Great Britain"
+    },
+    {
+      "id": 119931,
+      "date": "2025-02-17",
+      "category": "4",
+      "member_id": 5168,
+      "member_name": "Adam Jogee",
+      "payer_id": 246,
+      "payer_name": "The Coalition for Global Prosperity (CGP)",
+      "amount": 2653.58,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5168/registeredinterests?categoryId=4",
+      "summary": "International visit to Zimbabwe between 17 February 2025 and 21 February 2025 — As part of a delegation of MPs (from constituencies across the United Kingdom) to see UK Development programmes 'in-action' and meet with development experts, partners and elected representatives.",
+      "description": "Visa (£43.25), flights and travel (£1636.76), accommodation\t(£711.67), food and refreshments (£131.90)"
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "mnis_id": 4824,
+  "name": "Kim Johnson",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Liverpool Riverside",
+  "house": "Commons",
+  "start_date": "2019-12-12",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4824/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 6883.38,
+      "combined": 6883.38,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 2633.74,
+      "inkind": 6883.38,
+      "combined": 9517.12,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 2633.74,
+      "inkind": 6883.38,
+      "combined": 9517.12,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "all_time": {
+      "monetary": 2633.74,
+      "inkind": 6883.38,
+      "combined": 9517.12,
+      "payment_count": 4,
+      "donor_count": 4
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 6883.38,
+        "combined": 6883.38,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 2633.74,
+        "inkind": 6883.38,
+        "combined": 9517.12,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 2633.74,
+        "inkind": 6883.38,
+        "combined": 9517.12,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 2633.74,
+        "inkind": 6883.38,
+        "combined": 9517.12,
+        "payment_count": 4,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    1979,
+    0,
+    0,
+    4904,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "miscarriages-of-justice",
+      "appg_name": "All-Party Parliamentary Group for Miscarriages of Justice",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "race-equality-in-education",
+      "appg_name": "All-Party Parliamentary Group for Race Equality in Education",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "boxing",
+      "appg_name": "All-Party Parliamentary Group on Boxing",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "cuba",
+      "appg_name": "All-Party Parliamentary Group on Cuba",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "somaliland",
+      "appg_name": "All-Party Parliamentary Group on Somaliland",
+      "officer_role": "Co-Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "broadcasting-entertainment-and-arts-unions",
+      "appg_name": "Broadcasting, Entertainment and Arts Unions All-Party Parliamentary Group",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 132591,
+      "date": "2025-07-28",
+      "category": "4",
+      "member_id": 4824,
+      "member_name": "Kim Johnson",
+      "payer_id": 716,
+      "payer_name": "Malaria No More UK",
+      "amount": 4753.93,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4824/registeredinterests?categoryId=4",
+      "summary": "International visit to Ghana between 28 July 2025 and 03 August 2025 — Malaria No More visit to Ghana to see in person some of the lifesaving work and scientific research being carried out by partners who receive funding from the UK.",
+      "description": "Flights (£2337.62), hotel (£1320.70),internal transport - vehicle hire (£357), internal transport - Fuel & driver (£478.61), food 2 meals per day for 4 days (£200) and visa (£60)"
+    },
+    {
+      "id": 132592,
+      "date": "2025-07-28",
+      "category": "4",
+      "member_id": 4824,
+      "member_name": "Kim Johnson",
+      "payer_id": 559,
+      "payer_name": "Innovative Vector Control Consortium (IVCC)",
+      "amount": 150.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4824/registeredinterests?categoryId=4",
+      "summary": "International visit to Ghana between 28 July 2025 and 03 August 2025 — Malaria No More visit to Ghana to see in person some of the lifesaving work and scientific research being carried out by partners who receive funding from the UK.",
+      "description": "Meals, 2 per day for 1 day"
+    },
+    {
+      "id": 124871,
+      "date": "2025-04-30",
+      "category": "4",
+      "member_id": 4824,
+      "member_name": "Kim Johnson",
+      "payer_id": 387,
+      "payer_name": "European Parliamentary Forum",
+      "amount": 1979.45,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "global-sexual-and-reproductive-health-and-rights",
+      "appg_name": "All-Party Parliamentary Group on Global Sexual and Reproductive Health and Rights",
+      "source_url": "https://members.parliament.uk/member/4824/registeredinterests?categoryId=4",
+      "summary": "International visit to South Africa between 30 April 2025 and 07 May 2025 — UK delegate on behalf of the APPG to the international G20 Conference on Women's Health",
+      "description": "Flights (£1,315.17), hotel (£416.44), conference fee & catering (£62.38), per diem (£185.46)"
+    },
+    {
+      "id": 123811,
+      "date": "2025-04-08",
+      "category": "4",
+      "member_id": 4824,
+      "member_name": "Kim Johnson",
+      "payer_id": 1136,
+      "payer_name": "United Nations Population Fund via the APPG on Global Sexual and Reproductive Health and as per its APPG Register",
+      "amount": 2633.74,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "global-sexual-and-reproductive-health-and-rights",
+      "appg_name": "All-Party Parliamentary Group on Global Sexual and Reproductive Health and Rights",
+      "source_url": "https://members.parliament.uk/member/4824/registeredinterests?categoryId=4",
+      "summary": "International visit to Kenya between 08 April 2025 and 19 April 2025 — To raise awareness among UK Parliamentarians about issues relating to Global SRHR/Maternal Health/Family Planning (FP)/Gender Based Violence (GBV) and International Development and assess UK Official Development Aid impact.",
+      "description": "9-13th April, Kenya\r\nFlights:  £1,547.90\r\nAccommodation: 486.41\r\nOther travel: £101.16\r\nFood & Drink: £371.13\r\nMisc: £127.14"
+    }
+  ]
+}

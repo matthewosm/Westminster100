@@ -1,0 +1,164 @@
+{
+  "slug": "spinal-cord-injury",
+  "title": "All-Party Parliamentary Group on Spinal Cord Injury",
+  "purpose": "To address medical, care, treatment, and broader issues faced by people with spinal cord injuries.",
+  "categories": [
+    "Health, Medicine & Public Health"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/spinal-cord-injury.htm",
+  "secretariat": "Spinal Injuries Association acts as the group's secretariat.https://www.spinal.co.uk/",
+  "website": "https://spinal.co.uk/campaigns/our-campaigns/all-party-parliamentary-group/",
+  "registered_contact_name": "Andy McDonald MP",
+  "date_of_most_recent_agm": "2025-11-24 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "spinal-cord-injury",
+      "mnis_id": 4269,
+      "name": "Andy McDonald",
+      "canon_name": "Andy McDonald",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/spinal-cord-injury.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "spinal-cord-injury",
+      "mnis_id": 4571,
+      "name": "Gill Furniss",
+      "canon_name": "Gill Furniss",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/spinal-cord-injury.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "spinal-cord-injury",
+      "mnis_id": 4934,
+      "name": "Helen Morgan",
+      "canon_name": "Helen Morgan",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/spinal-cord-injury.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "spinal-cord-injury",
+      "mnis_id": 4051,
+      "name": "John Glen",
+      "canon_name": "John Glen",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/spinal-cord-injury.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "spinal-cord-injury",
+      "mnis_id": 4269,
+      "name": "Andy McDonald",
+      "canon_name": "Andy McDonald",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/spinal-cord-injury.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "spinal-cord-injury",
+      "mnis_id": 4571,
+      "name": "Gill Furniss",
+      "canon_name": "Gill Furniss",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/spinal-cord-injury.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "spinal-cord-injury",
+      "mnis_id": 4934,
+      "name": "Helen Morgan",
+      "canon_name": "Helen Morgan",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/spinal-cord-injury.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "spinal-cord-injury",
+      "mnis_id": 4051,
+      "name": "John Glen",
+      "canon_name": "John Glen",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/spinal-cord-injury.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

@@ -1,0 +1,165 @@
+{
+  "slug": "pensions-and-growth",
+  "title": "All-Party Parliamentary Group on Pensions and Growth",
+  "purpose": "To bring together parliamentarians, stakeholders (including employers and unions) and the pensions industry to facilitate discussions on adequate, sustainable retirement income across state, occupational and private pensions. It will also focus on how pension funds may be able to support economic growth and regional economic regeneration through domestic investment.",
+  "categories": [
+    "Finance, Markets & Consumer Affairs",
+    "Economy, Business & Industry"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/pensions-and-growth.htm",
+  "secretariat": "Pensions and Lifetime Savings Association acts as the group's secretariat.https://www.plsa.co.uk/",
+  "website": "https://www.plsa.co.uk/All-Party-Parliamentary-Group-for-Pensions-and-Growth",
+  "registered_contact_name": "Sarah Edwards MP",
+  "date_of_most_recent_agm": "2025-04-23 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "pensions-and-growth",
+      "mnis_id": 5100,
+      "name": "Blake Stephenson",
+      "canon_name": "Blake Stephenson",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/pensions-and-growth.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "pensions-and-growth",
+      "mnis_id": 5329,
+      "name": "John Milne",
+      "canon_name": "John Milne",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/pensions-and-growth.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "pensions-and-growth",
+      "mnis_id": 5001,
+      "name": "Sarah Edwards",
+      "canon_name": "Sarah Edwards",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/pensions-and-growth.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "pensions-and-growth",
+      "mnis_id": null,
+      "name": "Viscount Younger of Leckie",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/pensions-and-growth.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "pensions-and-growth",
+      "mnis_id": 5100,
+      "name": "Blake Stephenson",
+      "canon_name": "Blake Stephenson",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/pensions-and-growth.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "pensions-and-growth",
+      "mnis_id": 5329,
+      "name": "John Milne",
+      "canon_name": "John Milne",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/pensions-and-growth.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "pensions-and-growth",
+      "mnis_id": 5001,
+      "name": "Sarah Edwards",
+      "canon_name": "Sarah Edwards",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/pensions-and-growth.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "pensions-and-growth",
+      "mnis_id": null,
+      "name": "Viscount Younger of Leckie",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/pensions-and-growth.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

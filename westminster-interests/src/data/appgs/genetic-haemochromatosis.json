@@ -1,0 +1,164 @@
+{
+  "slug": "genetic-haemochromatosis",
+  "title": "All-Party Parliamentary Group on Genetic Haemochromatosis",
+  "purpose": "The groups' mission is to (a) raise parliamentary awareness and public understanding of Genetic Haemochromatosis (GH), its prevalence and implications; (b) drive policy change to improve the welfare of GH patients across the UK; (c) influence ministers, parliamentarians, government bodies, policy-makers and NHS representatives to improve patient pathways through the UK healthcare and support systems.",
+  "categories": [
+    "Health, Medicine & Public Health"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/genetic-haemochromatosis.htm",
+  "secretariat": "Haemochromatosis UK acts as the group's secretariat.https://www.haemochromatosis.org.uk",
+  "website": "https://www.haemochromatosis.org.uk/appg",
+  "registered_contact_name": "Sir John Hayes MP",
+  "date_of_most_recent_agm": "2025-02-11 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "genetic-haemochromatosis",
+      "mnis_id": null,
+      "name": "Baroness Evans of Bowes Park",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/genetic-haemochromatosis.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "genetic-haemochromatosis",
+      "mnis_id": 4787,
+      "name": "James Wild",
+      "canon_name": "James Wild",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/genetic-haemochromatosis.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "genetic-haemochromatosis",
+      "mnis_id": 350,
+      "name": "Sir John Hayes",
+      "canon_name": "John Hayes",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/genetic-haemochromatosis.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "genetic-haemochromatosis",
+      "mnis_id": 5246,
+      "name": "Torcuil Crichton",
+      "canon_name": "Torcuil Crichton",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/genetic-haemochromatosis.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "genetic-haemochromatosis",
+      "mnis_id": null,
+      "name": "Baroness Evans of Bowes Park",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/genetic-haemochromatosis.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "genetic-haemochromatosis",
+      "mnis_id": 4787,
+      "name": "James Wild",
+      "canon_name": "James Wild",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/genetic-haemochromatosis.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "genetic-haemochromatosis",
+      "mnis_id": 350,
+      "name": "Sir John Hayes",
+      "canon_name": "John Hayes",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/genetic-haemochromatosis.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "genetic-haemochromatosis",
+      "mnis_id": 5246,
+      "name": "Torcuil Crichton",
+      "canon_name": "Torcuil Crichton",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/genetic-haemochromatosis.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

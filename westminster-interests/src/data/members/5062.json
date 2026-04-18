@@ -1,0 +1,418 @@
+{
+  "mnis_id": 5062,
+  "name": "Nick Timothy",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "West Suffolk",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5062/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 194900.75,
+      "inkind": 3744.0,
+      "combined": 198644.75,
+      "payment_count": 7,
+      "donor_count": 7
+    },
+    "ytd": {
+      "monetary": 77874.74,
+      "inkind": 0.0,
+      "combined": 77874.74,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "2025": {
+      "monetary": 159900.75,
+      "inkind": 4524.0,
+      "combined": 164424.75,
+      "payment_count": 5,
+      "donor_count": 5
+    },
+    "2024": {
+      "monetary": 60342.23,
+      "inkind": 0.0,
+      "combined": 60342.23,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "since_election": {
+      "monetary": 298117.73,
+      "inkind": 4524.0,
+      "combined": 302641.73,
+      "payment_count": 8,
+      "donor_count": 8
+    },
+    "all_time": {
+      "monetary": 298117.73,
+      "inkind": 4524.0,
+      "combined": 302641.73,
+      "payment_count": 8,
+      "donor_count": 8
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 50000.0,
+        "inkind": 0.0,
+        "combined": 50000.0,
+        "payment_count": 5,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 35000.0,
+        "inkind": 0.0,
+        "combined": 35000.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 15000.0,
+        "inkind": 0.0,
+        "combined": 15000.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 50000.0,
+        "inkind": 0.0,
+        "combined": 50000.0,
+        "payment_count": 5,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 50000.0,
+        "inkind": 0.0,
+        "combined": 50000.0,
+        "payment_count": 5,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 3744.0,
+        "combined": 3744.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 4524.0,
+        "combined": 4524.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 4524.0,
+        "combined": 4524.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 4524.0,
+        "combined": 4524.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "1.2": {
+      "12m": {
+        "monetary": 144900.75,
+        "inkind": 0.0,
+        "combined": 144900.75,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 42874.74,
+        "inkind": 0.0,
+        "combined": 42874.74,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 144900.75,
+        "inkind": 0.0,
+        "combined": 144900.75,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 60342.23,
+        "inkind": 0.0,
+        "combined": 60342.23,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 248117.73,
+        "inkind": 0.0,
+        "combined": 248117.73,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 248117.73,
+        "inkind": 0.0,
+        "combined": 248117.73,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    15654,
+    11910,
+    11910,
+    11910,
+    11910,
+    11910,
+    11910,
+    26910,
+    11910,
+    21910,
+    36910,
+    11910
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "defending-democracy",
+      "appg_name": "All-Party Parliamentary Group for Defending Democracy",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "racing-and-bloodstock",
+      "appg_name": "All-Party Parliamentary Group on Racing and Bloodstock",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14802,
+      "date": "2026-03-19",
+      "category": "2",
+      "member_id": 5062,
+      "member_name": "Nick Timothy",
+      "payer_id": 1075,
+      "payer_name": "Tattersalls Ltd",
+      "amount": 25000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5062/registeredinterests?categoryId=2",
+      "summary": "Tattersalls Ltd - £25,000.00",
+      "description": null
+    },
+    {
+      "id": 14648,
+      "date": "2026-02-13",
+      "category": "2",
+      "member_id": 5062,
+      "member_name": "Nick Timothy",
+      "payer_id": 837,
+      "payer_name": "Oluwole Kolade",
+      "amount": 5000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5062/registeredinterests?categoryId=2",
+      "summary": "Oluwole Kolade - £5,000.00",
+      "description": null
+    },
+    {
+      "id": 14576,
+      "date": "2026-02-06",
+      "category": "2",
+      "member_id": 5062,
+      "member_name": "Nick Timothy",
+      "payer_id": 50,
+      "payer_name": "Andrew Sells",
+      "amount": 5000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5062/registeredinterests?categoryId=2",
+      "summary": "Andrew Sells - £5,000.00",
+      "description": null
+    },
+    {
+      "id": 14140,
+      "date": "2025-12-11",
+      "category": "2",
+      "member_id": 5062,
+      "member_name": "Nick Timothy",
+      "payer_id": 522,
+      "payer_name": "Hilton Nathanson",
+      "amount": 5000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5062/registeredinterests?categoryId=2",
+      "summary": "Hilton Nathanson - £5,000.00",
+      "description": null
+    },
+    {
+      "id": 14112,
+      "date": "2025-12-10",
+      "category": "2",
+      "member_id": 5062,
+      "member_name": "Nick Timothy",
+      "payer_id": 1075,
+      "payer_name": "Tattersalls Ltd",
+      "amount": 10000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5062/registeredinterests?categoryId=2",
+      "summary": "Tattersalls Ltd - £10,000.00",
+      "description": null
+    },
+    {
+      "id": 13271,
+      "date": "2025-04-26",
+      "category": "3",
+      "member_id": 5062,
+      "member_name": "Nick Timothy",
+      "payer_id": 48,
+      "payer_name": "Andrew Law",
+      "amount": 3744.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5062/registeredinterests?categoryId=3",
+      "summary": "Andrew Law - £3,744.00",
+      "description": "Two Club Wembley match tickets, including hospitality"
+    },
+    {
+      "id": 13208,
+      "date": "2025-04-01",
+      "category": "3",
+      "member_id": 5062,
+      "member_name": "Nick Timothy",
+      "payer_id": 614,
+      "payer_name": "The Jockey Club Rooms",
+      "amount": 780.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2026-03-31",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5062/registeredinterests?categoryId=3",
+      "summary": "The Jockey Club Rooms - £780.00",
+      "description": "Honorary membership"
+    },
+    {
+      "id": 8833,
+      "date": "2024-08-01",
+      "category": "1.2",
+      "member_id": 5062,
+      "member_name": "Nick Timothy",
+      "payer_id": 287,
+      "payer_name": "Daily Telegraph",
+      "amount": 145000.0,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Yearly",
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5062/registeredinterests?categoryId=1",
+      "summary": "Agreement - £145,000.00",
+      "description": null
+    }
+  ]
+}

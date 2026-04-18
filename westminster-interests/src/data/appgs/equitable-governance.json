@@ -1,0 +1,166 @@
+{
+  "slug": "equitable-governance",
+  "title": "All-Party Parliamentary Group on Equitable Governance",
+  "purpose": "A policy forum to advance gender equality and governance in SMEs and micro-businesses. Driving systemic reform for ethical credibility, economic resilience, and social progress. Turning SME governance into a gateway, not a gatekeeper.",
+  "categories": [
+    "Economy, Business & Industry",
+    "Governance, Democracy & Political Reform",
+    "Human Rights, Equality & Social Justice"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/equitable-governance.htm",
+  "secretariat": "Women on Boards CIC acts as the group's secretariat.https://www.womenonboardscic.com",
+  "website": "https://www.appg-equitablegovernance.org/",
+  "registered_contact_name": "Sarah Edwards MP",
+  "date_of_most_recent_agm": "2025-09-08 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "equitable-governance",
+      "mnis_id": 5149,
+      "name": "Amanda Hack",
+      "canon_name": "Amanda Hack",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/equitable-governance.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "equitable-governance",
+      "mnis_id": null,
+      "name": "Baroness Brown of Silvertown",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/equitable-governance.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "equitable-governance",
+      "mnis_id": 3790,
+      "name": "Baroness Verma",
+      "canon_name": "Baroness Verma",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/equitable-governance.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "equitable-governance",
+      "mnis_id": 5001,
+      "name": "Sarah Edwards",
+      "canon_name": "Sarah Edwards",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/equitable-governance.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "equitable-governance",
+      "mnis_id": 5149,
+      "name": "Amanda Hack",
+      "canon_name": "Amanda Hack",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/equitable-governance.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "equitable-governance",
+      "mnis_id": null,
+      "name": "Baroness Brown of Silvertown",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/equitable-governance.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "equitable-governance",
+      "mnis_id": 3790,
+      "name": "Baroness Verma",
+      "canon_name": "Baroness Verma",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/equitable-governance.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "equitable-governance",
+      "mnis_id": 5001,
+      "name": "Sarah Edwards",
+      "canon_name": "Sarah Edwards",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/equitable-governance.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

@@ -1,0 +1,179 @@
+{
+  "mnis_id": 5270,
+  "name": "Darren Paffey",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Southampton Itchen",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5270/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 302.4,
+      "combined": 302.4,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 302.4,
+      "combined": 302.4,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 302.4,
+      "combined": 302.4,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 302.4,
+      "combined": 302.4,
+      "payment_count": 1,
+      "donor_count": 1
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 302.4,
+        "combined": 302.4,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 302.4,
+        "combined": 302.4,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 302.4,
+        "combined": 302.4,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 302.4,
+        "combined": 302.4,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    302,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "care-experienced-children-and-young-people",
+      "appg_name": "All-Party Parliamentary Group for Care-Experienced Children and Young People",
+      "officer_role": "Co-Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "central-south",
+      "appg_name": "All-Party Parliamentary Group for Central South",
+      "officer_role": "Deputy Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "water-safety-education",
+      "appg_name": "All-Party Parliamentary Group for Water Safety Education",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "emerging-drugs-and-online-behavioural-trends",
+      "appg_name": "All-Party Parliamentary Group on Emerging Drugs and Online Behavioral Trends",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "modern-languages",
+      "appg_name": "All-Party Parliamentary Group on Modern Languages",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "spain",
+      "appg_name": "All-Party Parliamentary Group on Spain",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14654,
+      "date": "2026-01-30",
+      "category": "3",
+      "member_id": 5270,
+      "member_name": "Darren Paffey",
+      "payer_id": 1120,
+      "payer_name": "UK Chamber of Shipping",
+      "amount": 302.4,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5270/registeredinterests?categoryId=3",
+      "summary": "UK Chamber of Shipping - £302.40",
+      "description": "Attendance for myself at the UK Chamber of Shipping Annual Dinner 2026. The ticket included a three-course dinner with wine"
+    }
+  ]
+}

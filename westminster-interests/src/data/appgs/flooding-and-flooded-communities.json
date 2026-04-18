@@ -1,0 +1,164 @@
+{
+  "slug": "flooding-and-flooded-communities",
+  "title": "All-Party Parliamentary Group on Flooding and Flooded Communities",
+  "purpose": "The APPG aims to discuss further flood prevention across the UK to minimise the impact of flooding on the public and businesses. The APPG aims to represent flooded communities, provide a forum for debate, access to specialist information, and help shape future policy to support those most impacted by flooding.",
+  "categories": [
+    "Environment, Climate & Sustainability"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/flooding-and-flooded-communities.htm",
+  "secretariat": "National Flood Forum acts as the group's secretariat.https://nationalfloodforum.org.uk/",
+  "website": "None",
+  "registered_contact_name": "Tessa Munt MP",
+  "date_of_most_recent_agm": "2026-02-02 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "flooding-and-flooded-communities",
+      "mnis_id": null,
+      "name": "Baroness McIntosh of Pickering",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/flooding-and-flooded-communities.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "flooding-and-flooded-communities",
+      "mnis_id": 5171,
+      "name": "Julia Buckley",
+      "canon_name": "Julia Buckley",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/flooding-and-flooded-communities.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "flooding-and-flooded-communities",
+      "mnis_id": 5101,
+      "name": "Sir Ashley Fox",
+      "canon_name": "Ashley Fox",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/flooding-and-flooded-communities.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "flooding-and-flooded-communities",
+      "mnis_id": 4089,
+      "name": "Tessa Munt",
+      "canon_name": "Tessa Munt",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/flooding-and-flooded-communities.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "flooding-and-flooded-communities",
+      "mnis_id": null,
+      "name": "Baroness McIntosh of Pickering",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/flooding-and-flooded-communities.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "flooding-and-flooded-communities",
+      "mnis_id": 5171,
+      "name": "Julia Buckley",
+      "canon_name": "Julia Buckley",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/flooding-and-flooded-communities.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "flooding-and-flooded-communities",
+      "mnis_id": 5101,
+      "name": "Sir Ashley Fox",
+      "canon_name": "Ashley Fox",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/flooding-and-flooded-communities.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "flooding-and-flooded-communities",
+      "mnis_id": 4089,
+      "name": "Tessa Munt",
+      "canon_name": "Tessa Munt",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/flooding-and-flooded-communities.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

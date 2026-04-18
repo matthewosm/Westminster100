@@ -1,0 +1,186 @@
+{
+  "mnis_id": 5032,
+  "name": "Tom Gordon",
+  "party": "Liberal Democrat",
+  "party_slug": "liberal-democrat",
+  "constituency": "Harrogate and Knaresborough",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5032/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 1197.83,
+      "combined": 1197.83,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 398.01,
+      "combined": 398.01,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 799.82,
+      "combined": 799.82,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 1197.83,
+      "combined": 1197.83,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 1197.83,
+      "combined": 1197.83,
+      "payment_count": 2,
+      "donor_count": 2
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1197.83,
+        "combined": 1197.83,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 398.01,
+        "combined": 398.01,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 799.82,
+        "combined": 799.82,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1197.83,
+        "combined": 1197.83,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1197.83,
+        "combined": 1197.83,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    800,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    398,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "adult-social-care",
+      "appg_name": "Adult Social Care All-Party Parliamentary Group",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "diabetes",
+      "appg_name": "All-Party Parliamentary Group for Diabetes",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "vulnerable-groups-to-pandemics",
+      "appg_name": "All-Party Parliamentary Group on Vulnerable Groups to Pandemics",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 147941,
+      "date": "2026-02-19",
+      "category": "4",
+      "member_id": 5032,
+      "member_name": "Tom Gordon",
+      "payer_id": 1122,
+      "payer_name": "UK Friends of Ukraine",
+      "amount": 398.01,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5032/registeredinterests?categoryId=4",
+      "summary": "International visit to Ukraine between 19 February 2026 and 25 February 2026 — Parliamentary delegation to attend 4th anniversary of the full scale invasion, and build relationship with Ukrainian allies.",
+      "description": "Internal transport including excursions (£270.09) and meals (£127.92)"
+    },
+    {
+      "id": 135581,
+      "date": "2025-05-25",
+      "category": "4",
+      "member_id": 5032,
+      "member_name": "Tom Gordon",
+      "payer_id": 70,
+      "payer_name": "Armed Forces Parliamentary Trust",
+      "amount": 799.82,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5032/registeredinterests?categoryId=4",
+      "summary": "International visit to Brunei between 25 May 2025 and 29 May 2025 — To undertake a visit as part of my participation in the Armed Forces Parliamentary Scheme.",
+      "description": "Flights"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "mnis_id": 5109,
+  "name": "Chris Bloore",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Redditch",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5109/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    }
+  },
+  "categories": {},
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "packaging-in-the-circular-economy",
+      "appg_name": "All Party Parliamentary Group for Packaging in the Circular Economy",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "digital-creators",
+      "appg_name": "All-Party Parliamentary Group for Digital Creators",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "allergy",
+      "appg_name": "All-Party Parliamentary Group on Allergy",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "family-hubs",
+      "appg_name": "All-Party Parliamentary Group on Family Hubs",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "football-club",
+      "appg_name": "Football Club All-Party Parliamentary Group",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": []
+}

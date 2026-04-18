@@ -1,0 +1,165 @@
+{
+  "slug": "fusion-energy",
+  "title": "All-Party Parliamentary Group on Fusion Energy",
+  "purpose": "To accelerate policy change to facilitate the commercialisation of fusion technology and provide a forum for parliamentarians of all parties to work together to make the case for investment in fusion energy.",
+  "categories": [
+    "Science, Technology & Innovation",
+    "Energy & Utilities"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fusion-energy.htm",
+  "secretariat": "The Fusion Cluster acts as the group's secretariat.https://thefusioncluster.com/",
+  "website": "https://fusionenergyappg.co.uk/",
+  "registered_contact_name": "Jo White MP",
+  "date_of_most_recent_agm": "2025-12-02 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "fusion-energy",
+      "mnis_id": 4020,
+      "name": "George Freeman",
+      "canon_name": "George Freeman",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fusion-energy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "fusion-energy",
+      "mnis_id": 5047,
+      "name": "James Naish",
+      "canon_name": "James Naish",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fusion-energy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "fusion-energy",
+      "mnis_id": 5105,
+      "name": "Jo White",
+      "canon_name": "Jo White",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fusion-energy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "fusion-energy",
+      "mnis_id": 4715,
+      "name": "Lord Ravensdale",
+      "canon_name": "Lord Ravensdale",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fusion-energy.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "fusion-energy",
+      "mnis_id": 4020,
+      "name": "George Freeman",
+      "canon_name": "George Freeman",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fusion-energy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "fusion-energy",
+      "mnis_id": 5047,
+      "name": "James Naish",
+      "canon_name": "James Naish",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fusion-energy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "fusion-energy",
+      "mnis_id": 5105,
+      "name": "Jo White",
+      "canon_name": "Jo White",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fusion-energy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "fusion-energy",
+      "mnis_id": 4715,
+      "name": "Lord Ravensdale",
+      "canon_name": "Lord Ravensdale",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fusion-energy.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

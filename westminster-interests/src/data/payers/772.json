@@ -1,0 +1,99 @@
+{
+  "id": 772,
+  "name": "Movimiento Sumar",
+  "address": "C/ San Raimundo 12 Planta 1, Puerta D 28039 Madrid",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 990.93,
+      "combined": 990.93,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 990.93,
+      "combined": 990.93,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 990.93,
+      "combined": 990.93,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 990.93,
+      "combined": 990.93,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    991,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 129001,
+      "date": "2025-06-23",
+      "category": "4",
+      "member_id": 4786,
+      "member_name": "Zarah Sultana",
+      "payer_id": 772,
+      "payer_name": "Movimiento Sumar",
+      "amount": 990.93,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4786/registeredinterests?categoryId=4",
+      "summary": "International visit to Spain between 23 June 2025 and 25 June 2025 — International guest speaker at the 'Stop Genocide in Gaza' event organised by Sumar in Madrid",
+      "description": "Costs associated with being an international guest speaker at the 'Stop Genocide in Gaza' event organised by Sumar in Madrid. Flights (£683.90) and accommodation for two nights (£307.03) for me and one other person"
+    }
+  ]
+}

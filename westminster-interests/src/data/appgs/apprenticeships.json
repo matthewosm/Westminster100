@@ -1,0 +1,213 @@
+{
+  "slug": "apprenticeships",
+  "title": "All-Party Parliamentary Group on Apprenticeships",
+  "purpose": "To provide a forum for parliamentarians and employers to discuss how to promote the role of high quality apprenticeships.",
+  "categories": [
+    "Education, Skills & Youth",
+    "Economy, Business & Industry"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/apprenticeships.htm",
+  "secretariat": "Connect Public Affairs acts as the group's secretariat.https://connectpa.co.uk/",
+  "website": "https://www.appgapprenticeships.uk/",
+  "registered_contact_name": "Mr Toby Perkins MP",
+  "date_of_most_recent_agm": "2025-11-12 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "apprenticeships",
+      "mnis_id": 182,
+      "name": "Joyce Watson",
+      "canon_name": "Joyce Watson",
+      "officer_role": "Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=888",
+      "removed": null
+    },
+    {
+      "appg_slug": "apprenticeships",
+      "mnis_id": 4951,
+      "name": "Lord Hampton",
+      "canon_name": "Lord Hampton",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/apprenticeships.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "apprenticeships",
+      "mnis_id": null,
+      "name": "Lord Young of Norwood Green",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/apprenticeships.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "apprenticeships",
+      "mnis_id": 8634,
+      "name": "Luke Fletcher",
+      "canon_name": "Luke Fletcher",
+      "officer_role": "Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=888",
+      "removed": null
+    },
+    {
+      "appg_slug": "apprenticeships",
+      "mnis_id": 5330,
+      "name": "Mr Peter Bedford",
+      "canon_name": "Peter Bedford",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/apprenticeships.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "apprenticeships",
+      "mnis_id": 3952,
+      "name": "Mr Toby Perkins",
+      "canon_name": "Toby Perkins",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/apprenticeships.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "apprenticeships",
+      "mnis_id": 182,
+      "name": "Joyce Watson",
+      "canon_name": "Joyce Watson",
+      "officer_role": "Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=888",
+      "removed": null
+    },
+    {
+      "appg_slug": "apprenticeships",
+      "mnis_id": 4951,
+      "name": "Lord Hampton",
+      "canon_name": "Lord Hampton",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/apprenticeships.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "apprenticeships",
+      "mnis_id": null,
+      "name": "Lord Young of Norwood Green",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/apprenticeships.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "apprenticeships",
+      "mnis_id": 8634,
+      "name": "Luke Fletcher",
+      "canon_name": "Luke Fletcher",
+      "officer_role": "Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=888",
+      "removed": null
+    },
+    {
+      "appg_slug": "apprenticeships",
+      "mnis_id": 5330,
+      "name": "Mr Peter Bedford",
+      "canon_name": "Peter Bedford",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/apprenticeships.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "apprenticeships",
+      "mnis_id": 3952,
+      "name": "Mr Toby Perkins",
+      "canon_name": "Toby Perkins",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/apprenticeships.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

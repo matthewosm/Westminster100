@@ -1,0 +1,161 @@
+{
+  "mnis_id": 4638,
+  "name": "Mr Tanmanjeet Singh Dhesi",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Slough",
+  "house": "Commons",
+  "start_date": "2017-06-08",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4638/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 4229.8,
+      "combined": 4229.8,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 4229.8,
+      "combined": 4229.8,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 4229.8,
+      "combined": 4229.8,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 4229.8,
+      "combined": 4229.8,
+      "payment_count": 1,
+      "donor_count": 1
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 4229.8,
+        "combined": 4229.8,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 4229.8,
+        "combined": 4229.8,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 4229.8,
+        "combined": 4229.8,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 4229.8,
+        "combined": 4229.8,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    4230,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "south-east",
+      "appg_name": "All-Party Parliamentary Group for the South East",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "malaria-and-neglected-tropical-diseases",
+      "appg_name": "All-Party Parliamentary Group on Malaria and Neglected Tropical Diseases",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "western-rail-link-to-heathrow",
+      "appg_name": "All-Party Parliamentary Group on the Western Rail Link to Heathrow",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 131861,
+      "date": "2025-07-28",
+      "category": "4",
+      "member_id": 4638,
+      "member_name": "Mr Tanmanjeet Singh Dhesi",
+      "payer_id": 715,
+      "payer_name": "Malaria No More",
+      "amount": 4229.8,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4638/registeredinterests?categoryId=4",
+      "summary": "International visit to Ghana between 28 July 2025 and 03 August 2025 — To showcase how UK science is fighting malaria in Ghana.",
+      "description": "Flights (£1912.12), accommodation (£964.07), parking (£178.00), internal transport (£835.61), visa (£140) and meals (£200)"
+    }
+  ]
+}

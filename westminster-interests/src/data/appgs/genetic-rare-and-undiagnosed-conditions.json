@@ -1,0 +1,165 @@
+{
+  "slug": "genetic-rare-and-undiagnosed-conditions",
+  "title": "All-Party Parliamentary Group on Genetic, Rare and Undiagnosed Conditions",
+  "purpose": "To increase awareness in parliament of genetic, rare and undiagnosed conditions and help to ensure that patients and families affected by those conditions have access to appropriate care and support.",
+  "categories": [
+    "Health, Medicine & Public Health",
+    "Social Care, Welfare & Family Support"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/genetic-rare-and-undiagnosed-conditions.htm",
+  "secretariat": "Genetic Alliance UK acts as the group's secretariat.https://www.geneticalliance.org.uk/",
+  "website": "https://geneticalliance.org.uk/westminster-appg",
+  "registered_contact_name": "Peter Dowd MP",
+  "date_of_most_recent_agm": "2024-12-17 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "genetic-rare-and-undiagnosed-conditions",
+      "mnis_id": 5254,
+      "name": "Alison Hume",
+      "canon_name": "Alison Hume",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/genetic-rare-and-undiagnosed-conditions.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "genetic-rare-and-undiagnosed-conditions",
+      "mnis_id": 3840,
+      "name": "Baroness Neville-Jones",
+      "canon_name": "Baroness Neville-Jones",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/genetic-rare-and-undiagnosed-conditions.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "genetic-rare-and-undiagnosed-conditions",
+      "mnis_id": 2537,
+      "name": "Lord Turnberg",
+      "canon_name": "Lord Turnberg",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/genetic-rare-and-undiagnosed-conditions.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "genetic-rare-and-undiagnosed-conditions",
+      "mnis_id": 4397,
+      "name": "Peter Dowd",
+      "canon_name": "Peter Dowd",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/genetic-rare-and-undiagnosed-conditions.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "genetic-rare-and-undiagnosed-conditions",
+      "mnis_id": 5254,
+      "name": "Alison Hume",
+      "canon_name": "Alison Hume",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/genetic-rare-and-undiagnosed-conditions.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "genetic-rare-and-undiagnosed-conditions",
+      "mnis_id": 3840,
+      "name": "Baroness Neville-Jones",
+      "canon_name": "Baroness Neville-Jones",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/genetic-rare-and-undiagnosed-conditions.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "genetic-rare-and-undiagnosed-conditions",
+      "mnis_id": 2537,
+      "name": "Lord Turnberg",
+      "canon_name": "Lord Turnberg",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/genetic-rare-and-undiagnosed-conditions.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "genetic-rare-and-undiagnosed-conditions",
+      "mnis_id": 4397,
+      "name": "Peter Dowd",
+      "canon_name": "Peter Dowd",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/genetic-rare-and-undiagnosed-conditions.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

@@ -1,0 +1,164 @@
+{
+  "slug": "terrorism-and-security",
+  "title": "All-Party Parliamentary Group on Terrorism and Security",
+  "purpose": "To promote better understanding within Parliament of the threat of terrorism and violent extremism, efforts taken to prevent radicalisation, build community cohesion, and to secure and safeguard the British public and interests from such incidents. This group will also seek to facilitate discussion on how we can best support those impacted by terrorism.",
+  "categories": [
+    "Justice, Law & Security"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/terrorism-and-security.htm",
+  "secretariat": "Resilience in Unity acts as the group's secretariat.https://www.resilienceinunity.com/",
+  "website": "https://www.resilienceinunity.com/appg",
+  "registered_contact_name": "Andy MacNae MP",
+  "date_of_most_recent_agm": "2026-01-13 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "terrorism-and-security",
+      "mnis_id": 5134,
+      "name": "Andy MacNae",
+      "canon_name": "Andy MacNae",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/terrorism-and-security.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "terrorism-and-security",
+      "mnis_id": null,
+      "name": "Baroness Foster of Oxton",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/terrorism-and-security.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "terrorism-and-security",
+      "mnis_id": 4368,
+      "name": "Neil Coyle",
+      "canon_name": "Neil Coyle",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/terrorism-and-security.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "terrorism-and-security",
+      "mnis_id": null,
+      "name": "The Lord Bishop of Manchester",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/terrorism-and-security.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "terrorism-and-security",
+      "mnis_id": 5134,
+      "name": "Andy MacNae",
+      "canon_name": "Andy MacNae",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/terrorism-and-security.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "terrorism-and-security",
+      "mnis_id": null,
+      "name": "Baroness Foster of Oxton",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/terrorism-and-security.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "terrorism-and-security",
+      "mnis_id": 4368,
+      "name": "Neil Coyle",
+      "canon_name": "Neil Coyle",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/terrorism-and-security.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "terrorism-and-security",
+      "mnis_id": null,
+      "name": "The Lord Bishop of Manchester",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/terrorism-and-security.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

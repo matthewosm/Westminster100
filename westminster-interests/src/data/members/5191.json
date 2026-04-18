@@ -1,0 +1,224 @@
+{
+  "mnis_id": 5191,
+  "name": "Adam Dance",
+  "party": "Liberal Democrat",
+  "party_slug": "liberal-democrat",
+  "constituency": "Yeovil",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5191/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 15489.43,
+      "inkind": 0.0,
+      "combined": 15489.43,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 4583.17,
+      "inkind": 0.0,
+      "combined": 4583.17,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 15489.43,
+      "inkind": 0.0,
+      "combined": 15489.43,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 7129.38,
+      "inkind": 863.69,
+      "combined": 7993.07,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "since_election": {
+      "monetary": 27201.99,
+      "inkind": 863.69,
+      "combined": 28065.68,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "all_time": {
+      "monetary": 27201.99,
+      "inkind": 863.69,
+      "combined": 28065.68,
+      "payment_count": 2,
+      "donor_count": 2
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 863.69,
+        "combined": 863.69,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 863.69,
+        "combined": 863.69,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 863.69,
+        "combined": 863.69,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "1.2": {
+      "12m": {
+        "monetary": 15489.43,
+        "inkind": 0.0,
+        "combined": 15489.43,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 4583.17,
+        "inkind": 0.0,
+        "combined": 4583.17,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 15489.43,
+        "inkind": 0.0,
+        "combined": 15489.43,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 7129.38,
+        "inkind": 0.0,
+        "combined": 7129.38,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 27201.99,
+        "inkind": 0.0,
+        "combined": 27201.99,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 27201.99,
+        "inkind": 0.0,
+        "combined": 27201.99,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    1273,
+    1273,
+    1273,
+    1273,
+    1273,
+    1273,
+    1273,
+    1273,
+    1273,
+    1273,
+    1273,
+    1273
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "attention-deficit-hyperactivity-disorder-adhd",
+      "appg_name": "All-Party Parliamentary Group on Attention Deficit Hyperactivity Disorder (ADHD)",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "missing-children-and-adults",
+      "appg_name": "All-Party Parliamentary Group on Missing Children and Adults",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 11128,
+      "date": "2024-09-16",
+      "category": "3",
+      "member_id": 5191,
+      "member_name": "Adam Dance",
+      "payer_id": 792,
+      "payer_name": "National Liberal Club",
+      "amount": 863.69,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-12-31",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5191/registeredinterests?categoryId=3",
+      "summary": "National Liberal Club - £863.69",
+      "description": "honorary membership of National Liberal Club for those who reside outside  London"
+    },
+    {
+      "id": 6477,
+      "date": "2024-07-16",
+      "category": "1.2",
+      "member_id": 5191,
+      "member_name": "Adam Dance",
+      "payer_id": 1023,
+      "payer_name": "Somerset Council",
+      "amount": 1291.67,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5191/registeredinterests?categoryId=1",
+      "summary": "Agreement - £1,291.67",
+      "description": null
+    }
+  ]
+}

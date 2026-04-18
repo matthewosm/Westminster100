@@ -1,0 +1,164 @@
+{
+  "slug": "gambling-reform",
+  "title": "All-Party Parliamentary Group on Gambling Reform",
+  "purpose": "To assess how the gambling industry should be reformed to prevent harm.",
+  "categories": [
+    "Social Care, Welfare & Family Support"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/gambling-reform.htm",
+  "secretariat": "DGA Group acts as the group's secretariat.https://dgagroup.com/",
+  "website": "http://grh-appg.com/",
+  "registered_contact_name": "Sir Iain Duncan Smith MP",
+  "date_of_most_recent_agm": "2026-01-21 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "gambling-reform",
+      "mnis_id": 5238,
+      "name": "Alex Ballinger",
+      "canon_name": "Alex Ballinger",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/gambling-reform.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "gambling-reform",
+      "mnis_id": 5307,
+      "name": "Dr Beccy Cooper",
+      "canon_name": "Beccy Cooper",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/gambling-reform.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "gambling-reform",
+      "mnis_id": null,
+      "name": "Lord Foster of Bath",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/gambling-reform.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "gambling-reform",
+      "mnis_id": 152,
+      "name": "Sir Iain Duncan Smith",
+      "canon_name": "Iain Duncan Smith",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/gambling-reform.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "gambling-reform",
+      "mnis_id": 5238,
+      "name": "Alex Ballinger",
+      "canon_name": "Alex Ballinger",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/gambling-reform.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "gambling-reform",
+      "mnis_id": 5307,
+      "name": "Dr Beccy Cooper",
+      "canon_name": "Beccy Cooper",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/gambling-reform.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "gambling-reform",
+      "mnis_id": null,
+      "name": "Lord Foster of Bath",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/gambling-reform.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "gambling-reform",
+      "mnis_id": 152,
+      "name": "Sir Iain Duncan Smith",
+      "canon_name": "Iain Duncan Smith",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/gambling-reform.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

@@ -1,0 +1,212 @@
+{
+  "slug": "cuba",
+  "title": "All-Party Parliamentary Group on Cuba",
+  "purpose": "To meet and exchange views with visitors from Cuba and discuss developments within the country, to encourage government links between the UK and Cuba.",
+  "categories": [
+    "Country Group"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cuba.htm",
+  "secretariat": "",
+  "website": "None",
+  "registered_contact_name": "Steve Witherden MP",
+  "date_of_most_recent_agm": "2026-01-06 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "cuba",
+      "mnis_id": null,
+      "name": "Carol Mochan",
+      "canon_name": "Carol Mochan",
+      "officer_role": "Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "cuba",
+      "mnis_id": 3973,
+      "name": "Grahame Morris",
+      "canon_name": "Grahame Morris",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cuba.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "cuba",
+      "mnis_id": 4824,
+      "name": "Kim Johnson",
+      "canon_name": "Kim Johnson",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cuba.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "cuba",
+      "mnis_id": 4302,
+      "name": "Lord Balfe",
+      "canon_name": "Lord Balfe",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cuba.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "cuba",
+      "mnis_id": null,
+      "name": "Maggie Chapman",
+      "canon_name": "Maggie Chapman",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "cuba",
+      "mnis_id": 5221,
+      "name": "Steve Witherden",
+      "canon_name": "Steve Witherden",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cuba.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "cuba",
+      "mnis_id": null,
+      "name": "Carol Mochan",
+      "canon_name": "Carol Mochan",
+      "officer_role": "Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "cuba",
+      "mnis_id": 3973,
+      "name": "Grahame Morris",
+      "canon_name": "Grahame Morris",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cuba.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "cuba",
+      "mnis_id": 4824,
+      "name": "Kim Johnson",
+      "canon_name": "Kim Johnson",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cuba.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "cuba",
+      "mnis_id": 4302,
+      "name": "Lord Balfe",
+      "canon_name": "Lord Balfe",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cuba.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "cuba",
+      "mnis_id": null,
+      "name": "Maggie Chapman",
+      "canon_name": "Maggie Chapman",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "cuba",
+      "mnis_id": 5221,
+      "name": "Steve Witherden",
+      "canon_name": "Steve Witherden",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cuba.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

@@ -1,0 +1,164 @@
+{
+  "slug": "community-development-finance-institutions",
+  "title": "All-Party Parliamentary Group on Community Development Finance Institutions (CDFIs)",
+  "purpose": "The Group aims to accelerate the scale and impact of CDFIs by advancing policies that strengthen their capitalisation and embed community finance within mainstream financial services. Through proactive stakeholder engagement, the Group will champion reforms that expand fair access to finance for underserved people and neighbourhoods.",
+  "categories": [
+    "Economy, Business & Industry"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/community-development-finance-institutions.htm",
+  "secretariat": "The Community Development Finance Association acts as the group's secretariat.https://responsiblefinance.org.uk/",
+  "website": "None",
+  "registered_contact_name": "Gareth Thomas MP",
+  "date_of_most_recent_agm": "2025-12-17 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "community-development-finance-institutions",
+      "mnis_id": 5339,
+      "name": "Danny Beales",
+      "canon_name": "Danny Beales",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/community-development-finance-institutions.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "community-development-finance-institutions",
+      "mnis_id": 177,
+      "name": "Gareth Thomas",
+      "canon_name": "Gareth Thomas",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/community-development-finance-institutions.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "community-development-finance-institutions",
+      "mnis_id": 1482,
+      "name": "Graham Stuart",
+      "canon_name": "Graham Stuart",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/community-development-finance-institutions.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "community-development-finance-institutions",
+      "mnis_id": 5239,
+      "name": "Sarah Gibson",
+      "canon_name": "Sarah Gibson",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/community-development-finance-institutions.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "community-development-finance-institutions",
+      "mnis_id": 5339,
+      "name": "Danny Beales",
+      "canon_name": "Danny Beales",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/community-development-finance-institutions.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "community-development-finance-institutions",
+      "mnis_id": 177,
+      "name": "Gareth Thomas",
+      "canon_name": "Gareth Thomas",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/community-development-finance-institutions.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "community-development-finance-institutions",
+      "mnis_id": 1482,
+      "name": "Graham Stuart",
+      "canon_name": "Graham Stuart",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/community-development-finance-institutions.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "community-development-finance-institutions",
+      "mnis_id": 5239,
+      "name": "Sarah Gibson",
+      "canon_name": "Sarah Gibson",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/community-development-finance-institutions.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

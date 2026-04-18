@@ -1,0 +1,217 @@
+{
+  "mnis_id": 5033,
+  "name": "Josh MacAlister",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Whitehaven and Workington",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5033/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 50000.0,
+      "inkind": 0.0,
+      "combined": 50000.0,
+      "payment_count": 3,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 20000.0,
+      "inkind": 0.0,
+      "combined": 20000.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 30000.0,
+      "inkind": 1900.0,
+      "combined": 31900.0,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 50000.0,
+      "inkind": 1900.0,
+      "combined": 51900.0,
+      "payment_count": 4,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 50000.0,
+      "inkind": 1900.0,
+      "combined": 51900.0,
+      "payment_count": 4,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 50000.0,
+        "inkind": 0.0,
+        "combined": 50000.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 20000.0,
+        "inkind": 0.0,
+        "combined": 20000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 30000.0,
+        "inkind": 1900.0,
+        "combined": 31900.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 50000.0,
+        "inkind": 1900.0,
+        "combined": 51900.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 50000.0,
+        "inkind": 1900.0,
+        "combined": 51900.0,
+        "payment_count": 4,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    30000,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    20000
+  ],
+  "appg_memberships": [],
+  "payments": [
+    {
+      "id": 14810,
+      "date": "2026-03-21",
+      "category": "2",
+      "member_id": 5033,
+      "member_name": "Josh MacAlister",
+      "payer_id": 691,
+      "payer_name": "Lord (David) Sainsbury",
+      "amount": 20000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5033/registeredinterests?categoryId=2",
+      "summary": "Lord (David) Sainsbury - £20,000.00",
+      "description": null
+    },
+    {
+      "id": 12901,
+      "date": "2025-07-15",
+      "category": "2",
+      "member_id": 5033,
+      "member_name": "Josh MacAlister",
+      "payer_id": 691,
+      "payer_name": "Lord (David) Sainsbury",
+      "amount": 20000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5033/registeredinterests?categoryId=2",
+      "summary": "Lord (David) Sainsbury - £20,000.00",
+      "description": null
+    },
+    {
+      "id": 12896,
+      "date": "2025-07-11",
+      "category": "2",
+      "member_id": 5033,
+      "member_name": "Josh MacAlister",
+      "payer_id": 277,
+      "payer_name": "Cressida Pollock and Danny Luhde-Thompson",
+      "amount": 10000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5033/registeredinterests?categoryId=2",
+      "summary": "Cressida Pollock and Danny Luhde-Thompson - £10,000.00",
+      "description": null
+    },
+    {
+      "id": 11983,
+      "date": "2025-01-01",
+      "category": "2",
+      "member_id": 5033,
+      "member_name": "Josh MacAlister",
+      "payer_id": 117,
+      "payer_name": "Ben Kingsley",
+      "amount": 1900.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-03-07",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5033/registeredinterests?categoryId=2",
+      "summary": "Ben Kingsley - £1,900.00",
+      "description": "Approx. 24 hours of in kind support on development of Private Members Bill - further drafting work, attending meetings with other relevant legal experts and with public officials, to finalise the draft Bill in advance of its second reading debate"
+    }
+  ]
+}

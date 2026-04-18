@@ -1,0 +1,165 @@
+{
+  "slug": "ticket-abuse",
+  "title": "All-Party Parliamentary Group on Ticket Abuse",
+  "purpose": "To promote and provide a forum for the discussion of issues relating to the sale and resale of tickets, for events, with a particular focus on devising solutions to the problem of ticket touting.",
+  "categories": [
+    "Finance, Markets & Consumer Affairs",
+    "Arts, Culture, Heritage & Media"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/ticket-abuse.htm",
+  "secretariat": "",
+  "website": "https://appgticketabuse.wordpress.com/",
+  "registered_contact_name": "Mrs Sharon Hodgson MP",
+  "date_of_most_recent_agm": "2026-02-03 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "ticket-abuse",
+      "mnis_id": 5038,
+      "name": "Anneliese Midgley",
+      "canon_name": "Anneliese Midgley",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/ticket-abuse.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "ticket-abuse",
+      "mnis_id": 1588,
+      "name": "Baroness Keeley",
+      "canon_name": "Baroness Keeley",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/ticket-abuse.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "ticket-abuse",
+      "mnis_id": 924,
+      "name": "Lord Moynihan",
+      "canon_name": "Lord Moynihan",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/ticket-abuse.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "ticket-abuse",
+      "mnis_id": 1521,
+      "name": "Mrs Sharon Hodgson",
+      "canon_name": "Sharon Hodgson",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/ticket-abuse.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "ticket-abuse",
+      "mnis_id": 5038,
+      "name": "Anneliese Midgley",
+      "canon_name": "Anneliese Midgley",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/ticket-abuse.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "ticket-abuse",
+      "mnis_id": 1588,
+      "name": "Baroness Keeley",
+      "canon_name": "Baroness Keeley",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/ticket-abuse.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "ticket-abuse",
+      "mnis_id": 924,
+      "name": "Lord Moynihan",
+      "canon_name": "Lord Moynihan",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/ticket-abuse.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "ticket-abuse",
+      "mnis_id": 1521,
+      "name": "Mrs Sharon Hodgson",
+      "canon_name": "Sharon Hodgson",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/ticket-abuse.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

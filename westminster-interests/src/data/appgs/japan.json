@@ -1,0 +1,263 @@
+{
+  "slug": "japan",
+  "title": "All-Party Parliamentary Group on Japan",
+  "purpose": "To develop and improve links between the British and Japanese parliaments and encourage a deeper understanding of their respective cultures. The APPG also has an important role to play in promoting trade between the two countries.",
+  "categories": [
+    "Country Group"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/japan.htm",
+  "secretariat": "The Japan Society acts as the group's secretariat.https://www.japansociety.org.uk/",
+  "website": "http://www.bjpg.co.uk/",
+  "registered_contact_name": "Sir Mark Hendrick MP",
+  "date_of_most_recent_agm": "2025-09-09 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 11811.94,
+      "combined": 11811.94,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 11811.94,
+      "combined": 11811.94,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 11811.94,
+      "combined": 11811.94,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 11811.94,
+      "combined": 11811.94,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "japan",
+      "mnis_id": null,
+      "name": "Alexander Stewart",
+      "canon_name": "Alexander Stewart",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "japan",
+      "mnis_id": null,
+      "name": "Colin Smyth",
+      "canon_name": "Colin Smyth",
+      "officer_role": "Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "japan",
+      "mnis_id": 5348,
+      "name": "David Taylor",
+      "canon_name": "David Taylor",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/japan.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "japan",
+      "mnis_id": 5299,
+      "name": "Monica Harding",
+      "canon_name": "Monica Harding",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/japan.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "japan",
+      "mnis_id": 473,
+      "name": "Sir Mark Hendrick",
+      "canon_name": "Mark Hendrick",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/japan.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "japan",
+      "mnis_id": 1829,
+      "name": "Viscount Trenchard",
+      "canon_name": "Viscount Trenchard",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/japan.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "japan",
+      "mnis_id": null,
+      "name": "Alexander Stewart",
+      "canon_name": "Alexander Stewart",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "japan",
+      "mnis_id": null,
+      "name": "Colin Smyth",
+      "canon_name": "Colin Smyth",
+      "officer_role": "Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "japan",
+      "mnis_id": 5348,
+      "name": "David Taylor",
+      "canon_name": "David Taylor",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/japan.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "japan",
+      "mnis_id": 5299,
+      "name": "Monica Harding",
+      "canon_name": "Monica Harding",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/japan.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "japan",
+      "mnis_id": 473,
+      "name": "Sir Mark Hendrick",
+      "canon_name": "Mark Hendrick",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/japan.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "japan",
+      "mnis_id": 1829,
+      "name": "Viscount Trenchard",
+      "canon_name": "Viscount Trenchard",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/japan.htm",
+      "removed": null
+    }
+  ],
+  "payments": [
+    {
+      "id": 138641,
+      "date": "2025-10-09",
+      "category": "4",
+      "member_id": 5348,
+      "member_name": "David Taylor",
+      "payer_id": 41,
+      "payer_name": "All-Party Parliamentary Group on Japan",
+      "amount": 5794.28,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "japan",
+      "appg_name": "All-Party Parliamentary Group on Japan",
+      "source_url": "https://members.parliament.uk/member/5348/registeredinterests?categoryId=4",
+      "summary": "International visit to Japan between 09 October 2025 and 19 October 2025 — The purpose of the trip to Japan was to foster a deeper understanding between the British and Japanese parliaments and cultures, while also promoting trade between the two countries. The group of MPs worked cross-party to develop and improve links between the two parliaments and encourage economic ties.",
+      "description": "Flights (£2,911.52), accomdation (£1,943.14), hospitality and food (£574.65), transport (£364.97)"
+    },
+    {
+      "id": 138311,
+      "date": "2025-10-08",
+      "category": "4",
+      "member_id": 4785,
+      "member_name": "Dr Ben Spencer",
+      "payer_id": 64,
+      "payer_name": "APPG for Japan",
+      "amount": 6017.66,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "japan",
+      "appg_name": "All-Party Parliamentary Group on Japan",
+      "source_url": "https://members.parliament.uk/member/4785/registeredinterests?categoryId=4",
+      "summary": "International visit to Japan between 08 October 2025 and 16 October 2025 — Strengthening UK-Japan relations and engagement with Japanese politicians and businesses, including visits and meetings linked to my role as Shadow DSIT Minister of State.",
+      "description": "Flights (£3,134.90), accommodation (£1,943.14), food and hospitality (£574.65), transport in Japan (£364.97)"
+    }
+  ]
+}

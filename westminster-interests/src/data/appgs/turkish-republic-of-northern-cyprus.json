@@ -1,0 +1,164 @@
+{
+  "slug": "turkish-republic-of-northern-cyprus",
+  "title": "All-Party Parliamentary Group on the Turkish Republic of Northern Cyprus",
+  "purpose": "To promote the interests of the people of the Turkish Republic of Northern Cyprus.",
+  "categories": [
+    "Country Group"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/turkish-republic-of-northern-cyprus.htm",
+  "secretariat": "",
+  "website": "None",
+  "registered_contact_name": "Imran Hussain MP",
+  "date_of_most_recent_agm": "2025-11-05 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "turkish-republic-of-northern-cyprus",
+      "mnis_id": 4164,
+      "name": "Baroness Hussein-Ece",
+      "canon_name": "Baroness Hussein-Ece",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/turkish-republic-of-northern-cyprus.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "turkish-republic-of-northern-cyprus",
+      "mnis_id": 4394,
+      "name": "Imran Hussain",
+      "canon_name": "Imran Hussain",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/turkish-republic-of-northern-cyprus.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "turkish-republic-of-northern-cyprus",
+      "mnis_id": 3191,
+      "name": "Lord Northbrook",
+      "canon_name": "Lord Northbrook",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/turkish-republic-of-northern-cyprus.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "turkish-republic-of-northern-cyprus",
+      "mnis_id": 5231,
+      "name": "Mr Adnan Hussain",
+      "canon_name": "Adnan Hussain",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/turkish-republic-of-northern-cyprus.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "turkish-republic-of-northern-cyprus",
+      "mnis_id": 4164,
+      "name": "Baroness Hussein-Ece",
+      "canon_name": "Baroness Hussein-Ece",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/turkish-republic-of-northern-cyprus.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "turkish-republic-of-northern-cyprus",
+      "mnis_id": 4394,
+      "name": "Imran Hussain",
+      "canon_name": "Imran Hussain",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/turkish-republic-of-northern-cyprus.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "turkish-republic-of-northern-cyprus",
+      "mnis_id": 3191,
+      "name": "Lord Northbrook",
+      "canon_name": "Lord Northbrook",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/turkish-republic-of-northern-cyprus.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "turkish-republic-of-northern-cyprus",
+      "mnis_id": 5231,
+      "name": "Mr Adnan Hussain",
+      "canon_name": "Adnan Hussain",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/turkish-republic-of-northern-cyprus.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

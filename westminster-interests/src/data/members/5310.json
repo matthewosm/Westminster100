@@ -1,0 +1,249 @@
+{
+  "mnis_id": 5310,
+  "name": "Mr Lee Dillon",
+  "party": "Liberal Democrat",
+  "party_slug": "liberal-democrat",
+  "constituency": "Newbury",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5310/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 11579.99,
+      "inkind": 850.0,
+      "combined": 12429.99,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 3426.41,
+      "inkind": 0.0,
+      "combined": 3426.41,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 11579.99,
+      "inkind": 850.0,
+      "combined": 12429.99,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 4822.35,
+      "inkind": 1552.86,
+      "combined": 6375.21,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "since_election": {
+      "monetary": 19828.75,
+      "inkind": 2402.86,
+      "combined": 22231.61,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 19828.75,
+      "inkind": 2402.86,
+      "combined": 22231.61,
+      "payment_count": 3,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 850.0,
+        "combined": 850.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 850.0,
+        "combined": 850.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 1552.86,
+        "combined": 1552.86,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 2402.86,
+        "combined": 2402.86,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 2402.86,
+        "combined": 2402.86,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "1.2": {
+      "12m": {
+        "monetary": 11579.99,
+        "inkind": 0.0,
+        "combined": 11579.99,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 3426.41,
+        "inkind": 0.0,
+        "combined": 3426.41,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 11579.99,
+        "inkind": 0.0,
+        "combined": 11579.99,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 4822.35,
+        "inkind": 0.0,
+        "combined": 4822.35,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 19828.75,
+        "inkind": 0.0,
+        "combined": 19828.75,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 19828.75,
+        "inkind": 0.0,
+        "combined": 19828.75,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    952,
+    952,
+    952,
+    1802,
+    952,
+    952,
+    952,
+    952,
+    952,
+    952,
+    952,
+    952
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "historic-vehicles",
+      "appg_name": "All-Party Parliamentary Group for Historic Vehicles",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "pharmacy",
+      "appg_name": "All-Party Parliamentary Group on Pharmacy",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 13283,
+      "date": "2025-08-21",
+      "category": "3",
+      "member_id": 5310,
+      "member_name": "Mr Lee Dillon",
+      "payer_id": 1,
+      "payer_name": "(1) Chartered Institute of Housing and (2) National Housing Federation",
+      "amount": 850.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5310/registeredinterests?categoryId=3",
+      "summary": "(1) Chartered Institute of Housing and (2) National Housing Federation - £850.00",
+      "description": "A free ticket to the Housing Summit held in Liverpool on Monday 8th and Tuesday 9th September 2025"
+    },
+    {
+      "id": 10600,
+      "date": "2024-08-14",
+      "category": "3",
+      "member_id": 5310,
+      "member_name": "Mr Lee Dillon",
+      "payer_id": 792,
+      "payer_name": "National Liberal Club",
+      "amount": 1552.86,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-12-31",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5310/registeredinterests?categoryId=3",
+      "summary": "National Liberal Club - £1,552.86",
+      "description": "Complimentary membership of the NLC from 14 August 2024 until 31 December 2025"
+    },
+    {
+      "id": 9059,
+      "date": "2024-08-01",
+      "category": "1.2",
+      "member_id": 5310,
+      "member_name": "Mr Lee Dillon",
+      "payer_id": 1165,
+      "payer_name": "West Berkshire Council",
+      "amount": 965.66,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5310/registeredinterests?categoryId=1",
+      "summary": "Agreement - £965.66",
+      "description": null
+    }
+  ]
+}

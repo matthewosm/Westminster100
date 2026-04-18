@@ -1,0 +1,140 @@
+{
+  "slug": "park-homes",
+  "title": "All-Party Parliamentary Group on Park Homes",
+  "purpose": "To bring together parliamentarians, park homeowners and industry representatives to discuss issues of common interest including legislation and its enforcement to eliminate abuse and disadvantage.",
+  "categories": [
+    "Housing, Planning & Built Environment"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/park-homes.htm",
+  "secretariat": "British Holiday and Home Parks Association acts as the group's secretariat.https://www.bhhpa.org.uk/",
+  "website": "https://www.parkhome.org.uk/appg/",
+  "registered_contact_name": "Sir Christopher Chope MP",
+  "date_of_most_recent_agm": "2024-09-09 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "park-homes",
+      "mnis_id": 4785,
+      "name": "Dr Ben Spencer",
+      "canon_name": "Ben Spencer",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/250909/park-homes.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "park-homes",
+      "mnis_id": 5343,
+      "name": "Mr Joshua Reynolds",
+      "canon_name": "Joshua Reynolds",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/250909/park-homes.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "park-homes",
+      "mnis_id": 242,
+      "name": "Sir Christopher Chope",
+      "canon_name": "Christopher Chope",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/250909/park-homes.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "park-homes",
+      "mnis_id": 4785,
+      "name": "Dr Ben Spencer",
+      "canon_name": "Ben Spencer",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/250909/park-homes.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "park-homes",
+      "mnis_id": 5343,
+      "name": "Mr Joshua Reynolds",
+      "canon_name": "Joshua Reynolds",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/250909/park-homes.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "park-homes",
+      "mnis_id": 242,
+      "name": "Sir Christopher Chope",
+      "canon_name": "Christopher Chope",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/250909/park-homes.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

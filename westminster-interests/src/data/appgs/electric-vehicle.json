@@ -1,0 +1,164 @@
+{
+  "slug": "electric-vehicle",
+  "title": "Electric Vehicle All-Party Parliamentary Group",
+  "purpose": "The group will review upcoming policy changes and policy concerns relating to electric vehicles and their charging infrastructure, from a manufacturing, energy supply, and infrastructure perspective, amongst others. The APPG will bring together manufacturers, businesses, media, NGOs, and experts to share information, promote awareness, and debate future policy options.",
+  "categories": [
+    "Infrastructure, Transport & Mobility"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/electric-vehicle.htm",
+  "secretariat": "Renewable Energy Association (REA) acts as the group's secretariat.https://www.r-e-a.net/",
+  "website": "https://www.r-e-a.net/appgs/appg-on-electric-vehicles/",
+  "registered_contact_name": "Perran Moon MP",
+  "date_of_most_recent_agm": "2025-10-16 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "electric-vehicle",
+      "mnis_id": 2533,
+      "name": "Lord Birt",
+      "canon_name": "Lord Birt",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/electric-vehicle.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "electric-vehicle",
+      "mnis_id": null,
+      "name": "Lord Young of Cookham",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/electric-vehicle.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "electric-vehicle",
+      "mnis_id": 4617,
+      "name": "Matt Western",
+      "canon_name": "Matt Western",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/electric-vehicle.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "electric-vehicle",
+      "mnis_id": 5208,
+      "name": "Perran Moon",
+      "canon_name": "Perran Moon",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/electric-vehicle.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "electric-vehicle",
+      "mnis_id": 2533,
+      "name": "Lord Birt",
+      "canon_name": "Lord Birt",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/electric-vehicle.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "electric-vehicle",
+      "mnis_id": null,
+      "name": "Lord Young of Cookham",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/electric-vehicle.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "electric-vehicle",
+      "mnis_id": 4617,
+      "name": "Matt Western",
+      "canon_name": "Matt Western",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/electric-vehicle.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "electric-vehicle",
+      "mnis_id": 5208,
+      "name": "Perran Moon",
+      "canon_name": "Perran Moon",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/electric-vehicle.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

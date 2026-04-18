@@ -1,0 +1,124 @@
+{
+  "id": 1157,
+  "name": "The Walbrook Club",
+  "address": "The Walbrook Club, 37a Walbrook, London EC4N 8BS",
+  "nature_of_business": null,
+  "donor_status": "Company",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 1440.0,
+      "combined": 1440.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 1440.0,
+      "combined": 1440.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 1440.0,
+      "combined": 1440.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 2880.0,
+      "combined": 2880.0,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 12059,
+      "date": "2025-03-14",
+      "category": "3",
+      "member_id": 4475,
+      "member_name": "Suella Braverman",
+      "payer_id": 1157,
+      "payer_name": "The Walbrook Club",
+      "amount": 1440.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2026-03-31",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4475/registeredinterests?categoryId=3",
+      "summary": "The Walbrook Club - £1,440.00",
+      "description": "One year honorary club membership"
+    },
+    {
+      "id": 5492,
+      "date": "2024-04-01",
+      "category": "3",
+      "member_id": 4475,
+      "member_name": "Suella Braverman",
+      "payer_id": 1157,
+      "payer_name": "The Walbrook Club",
+      "amount": 1440.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-03-31",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4475/registeredinterests?categoryId=3",
+      "summary": "The Walbrook Club - £1,440.00",
+      "description": "One year honorary membership of the private members' club"
+    }
+  ]
+}

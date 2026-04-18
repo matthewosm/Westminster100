@@ -1,0 +1,99 @@
+{
+  "id": 14,
+  "name": "Africa50",
+  "address": "Tour Ivoire 3 - 8ème étage, Marina de Casablanca, Boulevard des Almohades, Casablanca 20000 Morocco",
+  "nature_of_business": "Africa50 helps bridge Africa's infrastructure funding gap by facilitating project development, mobilizing public and private sector finance, and investing in infrastructure on the continent",
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 71074.61,
+      "inkind": 0.0,
+      "combined": 71074.61,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 26020.53,
+      "inkind": 0.0,
+      "combined": 26020.53,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 45054.07,
+      "inkind": 0.0,
+      "combined": 45054.07,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 71074.61,
+      "inkind": 0.0,
+      "combined": 71074.61,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 71074.61,
+      "inkind": 0.0,
+      "combined": 71074.61,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    6023,
+    7228,
+    7228,
+    7228,
+    7228,
+    7228,
+    7228,
+    7228,
+    7228,
+    7228
+  ],
+  "payments": [
+    {
+      "id": 12690,
+      "date": "2025-07-10",
+      "category": "1.2",
+      "member_id": 1211,
+      "member_name": "Sir Andrew Mitchell",
+      "payer_id": 14,
+      "payer_name": "Africa50",
+      "amount": 22000.0,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Quarterly",
+      "start_date": "2025-06-27",
+      "end_date": "2026-06-26",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1211/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 27 June 2025 - £22,000.00",
+      "description": "(amount has been converted from US Dollars based on on 3 July 2025 exchange rate), Africa50 will meet the cost of any travel and other expenses arising from this role"
+    }
+  ]
+}

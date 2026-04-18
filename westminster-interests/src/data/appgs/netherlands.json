@@ -1,0 +1,164 @@
+{
+  "slug": "netherlands",
+  "title": "Netherlands All-Party Parliamentary Group",
+  "purpose": "To promote good relations between the people and parliaments of the UK and the Netherlands.",
+  "categories": [
+    "Country Group"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/netherlands.htm",
+  "secretariat": "",
+  "website": "None",
+  "registered_contact_name": "Mr Clive Betts MP",
+  "date_of_most_recent_agm": "2026-01-13 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "netherlands",
+      "mnis_id": 4630,
+      "name": "Ben Lake",
+      "canon_name": "Ben Lake",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/netherlands.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "netherlands",
+      "mnis_id": null,
+      "name": "Lord Taylor of Holbeach",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/netherlands.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "netherlands",
+      "mnis_id": 542,
+      "name": "Lord Touhig",
+      "canon_name": "Lord Touhig",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/netherlands.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "netherlands",
+      "mnis_id": 394,
+      "name": "Mr Clive Betts",
+      "canon_name": "Clive Betts",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/netherlands.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "netherlands",
+      "mnis_id": 4630,
+      "name": "Ben Lake",
+      "canon_name": "Ben Lake",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/netherlands.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "netherlands",
+      "mnis_id": null,
+      "name": "Lord Taylor of Holbeach",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/netherlands.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "netherlands",
+      "mnis_id": 542,
+      "name": "Lord Touhig",
+      "canon_name": "Lord Touhig",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/netherlands.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "netherlands",
+      "mnis_id": 394,
+      "name": "Mr Clive Betts",
+      "canon_name": "Clive Betts",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/netherlands.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

@@ -1,0 +1,374 @@
+{
+  "mnis_id": 4785,
+  "name": "Dr Ben Spencer",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "Runnymede and Weybridge",
+  "house": "Commons",
+  "start_date": "2019-12-12",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4785/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 16000.0,
+      "inkind": 6017.66,
+      "combined": 22017.66,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "ytd": {
+      "monetary": 10000.0,
+      "inkind": 0.0,
+      "combined": 10000.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 6000.0,
+      "inkind": 17251.66,
+      "combined": 23251.66,
+      "payment_count": 5,
+      "donor_count": 5
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 16000.0,
+      "inkind": 17251.66,
+      "combined": 33251.66,
+      "payment_count": 6,
+      "donor_count": 6
+    },
+    "all_time": {
+      "monetary": 16000.0,
+      "inkind": 17251.66,
+      "combined": 33251.66,
+      "payment_count": 6,
+      "donor_count": 6
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 16000.0,
+        "inkind": 0.0,
+        "combined": 16000.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 10000.0,
+        "inkind": 0.0,
+        "combined": 10000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 6000.0,
+        "inkind": 0.0,
+        "combined": 6000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 16000.0,
+        "inkind": 0.0,
+        "combined": 16000.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 16000.0,
+        "inkind": 0.0,
+        "combined": 16000.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 6017.66,
+        "combined": 6017.66,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 13651.66,
+        "combined": 13651.66,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 13651.66,
+        "combined": 13651.66,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 13651.66,
+        "combined": 13651.66,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 3600.0,
+        "combined": 3600.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 3600.0,
+        "combined": 3600.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 3600.0,
+        "combined": 3600.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    6018,
+    0,
+    6000,
+    0,
+    10000,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "nordic-countries",
+      "appg_name": "All-Party Parliamentary Group on Nordic Countries",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "park-homes",
+      "appg_name": "All-Party Parliamentary Group on Park Homes",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "republic-of-korea",
+      "appg_name": "All-Party Parliamentary Group on the Republic of Korea",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14387,
+      "date": "2026-01-26",
+      "category": "2",
+      "member_id": 4785,
+      "member_name": "Dr Ben Spencer",
+      "payer_id": 99,
+      "payer_name": "Bansols Beta Ltd",
+      "amount": 10000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4785/registeredinterests?categoryId=2",
+      "summary": "Bansols Beta Ltd - £10,000.00",
+      "description": "Money donated to FTL Club, an unincorporated association, to support my political activities."
+    },
+    {
+      "id": 13948,
+      "date": "2025-11-24",
+      "category": "2",
+      "member_id": 4785,
+      "member_name": "Dr Ben Spencer",
+      "payer_id": 188,
+      "payer_name": "Carol and Clive Chase",
+      "amount": 6000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4785/registeredinterests?categoryId=2",
+      "summary": "Carol and Clive Chase - £6,000.00",
+      "description": "Money donated to FTL Club, an unincorporated association, to support my political activities."
+    },
+    {
+      "id": 138311,
+      "date": "2025-10-08",
+      "category": "4",
+      "member_id": 4785,
+      "member_name": "Dr Ben Spencer",
+      "payer_id": 64,
+      "payer_name": "APPG for Japan",
+      "amount": 6017.66,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "japan",
+      "appg_name": "All-Party Parliamentary Group on Japan",
+      "source_url": "https://members.parliament.uk/member/4785/registeredinterests?categoryId=4",
+      "summary": "International visit to Japan between 08 October 2025 and 16 October 2025 — Strengthening UK-Japan relations and engagement with Japanese politicians and businesses, including visits and meetings linked to my role as Shadow DSIT Minister of State.",
+      "description": "Flights (£3,134.90), accommodation (£1,943.14), food and hospitality (£574.65), transport in Japan (£364.97)"
+    },
+    {
+      "id": 12168,
+      "date": "2025-03-18",
+      "category": "3",
+      "member_id": 4785,
+      "member_name": "Dr Ben Spencer",
+      "payer_id": 23,
+      "payer_name": "AirportsUK",
+      "amount": 480.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4785/registeredinterests?categoryId=3",
+      "summary": "AirportsUK - £480.00",
+      "description": "Attendance at the AirportsUK Annual Dinner 2025"
+    },
+    {
+      "id": 11934,
+      "date": "2025-03-01",
+      "category": "3",
+      "member_id": 4785,
+      "member_name": "Dr Ben Spencer",
+      "payer_id": 144,
+      "payer_name": "BPI (British Recorded Music Industry) Ltd",
+      "amount": 3120.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4785/registeredinterests?categoryId=3",
+      "summary": "BPI (British Recorded Music Industry) Ltd - £3,120.00",
+      "description": "Two tickets plus hospitality to the 2025 Brit Awards"
+    },
+    {
+      "id": 120051,
+      "date": "2025-02-14",
+      "category": "4",
+      "member_id": 4785,
+      "member_name": "Dr Ben Spencer",
+      "payer_id": 1072,
+      "payer_name": "Taiwan Ministry of Foreign Affairs",
+      "amount": 7634.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "taiwan",
+      "appg_name": "British-Taiwanese All-Party Parliamentary Group",
+      "source_url": "https://members.parliament.uk/member/4785/registeredinterests?categoryId=4",
+      "summary": "International visit to Taiwan between 14 February 2025 and 22 February 2025 — Strengthening UK - Taiwanese relations and engagement with Taiwanese leadership, including visits and meetings linked to my role as Shadow DSIT Minister of State.",
+      "description": "Flights (£5325), accommodation (£1404), food and hospitality (£605), transport in Taiwan (£300)"
+    }
+  ]
+}

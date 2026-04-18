@@ -1,0 +1,99 @@
+{
+  "id": 150,
+  "name": "Breedon Group plc",
+  "address": "Pinnacle House, Breedon Quarry, Breedon on the Hill, Derby DE73 8AP",
+  "nature_of_business": null,
+  "donor_status": "Company",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 2500.0,
+      "inkind": 0.0,
+      "combined": 2500.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 2500.0,
+      "inkind": 0.0,
+      "combined": 2500.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 2500.0,
+      "inkind": 0.0,
+      "combined": 2500.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 2500.0,
+      "inkind": 0.0,
+      "combined": 2500.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    2500,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 12572,
+      "date": "2025-04-29",
+      "category": "2",
+      "member_id": 5115,
+      "member_name": "Jon Pearce",
+      "payer_id": 150,
+      "payer_name": "Breedon Group plc",
+      "amount": 2500.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5115/registeredinterests?categoryId=2",
+      "summary": "Breedon Group plc - £2,500.00",
+      "description": "Sponsorship of High Peak Jobs Fair."
+    }
+  ]
+}

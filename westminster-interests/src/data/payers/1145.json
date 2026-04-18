@@ -1,0 +1,99 @@
+{
+  "id": 1145,
+  "name": "UNOCT Programme Office on Parliamentary Engagement in Preventing and Countering Terrorism",
+  "address": "United Nations Office of Counter-Terrorism, UN House Doha, Qatar",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 659.69,
+      "combined": 659.69,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 659.69,
+      "combined": 659.69,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 659.69,
+      "combined": 659.69,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 115911,
+      "date": "2024-11-26",
+      "category": "4",
+      "member_id": 4651,
+      "member_name": "Dan Carden",
+      "payer_id": 1145,
+      "payer_name": "UNOCT Programme Office on Parliamentary Engagement in Preventing and Countering Terrorism",
+      "amount": 659.69,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4651/registeredinterests?categoryId=4",
+      "summary": "International visit to Qatar between 26 November 2024 and 28 November 2024 — To participate in the Youth Initiative Closing Plenary Forum, November 27-28, 2024",
+      "description": "Subsistence to participate in Youth Initiative Closing Plenary Forum, November 27-28, 2024"
+    }
+  ]
+}

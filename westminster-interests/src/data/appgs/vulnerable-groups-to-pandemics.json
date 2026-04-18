@@ -1,0 +1,165 @@
+{
+  "slug": "vulnerable-groups-to-pandemics",
+  "title": "All-Party Parliamentary Group on Vulnerable Groups to Pandemics",
+  "purpose": "To provide a forum for parliamentarians and stakeholders to consider the needs of vulnerable groups to pandemics and to provide an effective voice in parliament; to raise awareness of specific vulnerable patients; to encourage actions to promote a greater priority for prevention, treatment and support for those groups; to inform better policy decisions and public debate related to the needs of vulnerable groups.",
+  "categories": [
+    "Health, Medicine & Public Health",
+    "Social Care, Welfare & Family Support"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/vulnerable-groups-to-pandemics.htm",
+  "secretariat": "",
+  "website": "None",
+  "registered_contact_name": "Johanna Baxter MP",
+  "date_of_most_recent_agm": "2025-10-28 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "vulnerable-groups-to-pandemics",
+      "mnis_id": 5063,
+      "name": "Johanna Baxter",
+      "canon_name": "Johanna Baxter",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/vulnerable-groups-to-pandemics.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "vulnerable-groups-to-pandemics",
+      "mnis_id": 123,
+      "name": "Lord Lansley",
+      "canon_name": "Lord Lansley",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/vulnerable-groups-to-pandemics.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "vulnerable-groups-to-pandemics",
+      "mnis_id": 4286,
+      "name": "Lord Mendelsohn",
+      "canon_name": "Lord Mendelsohn",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/vulnerable-groups-to-pandemics.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "vulnerable-groups-to-pandemics",
+      "mnis_id": 5032,
+      "name": "Tom Gordon",
+      "canon_name": "Tom Gordon",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/vulnerable-groups-to-pandemics.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "vulnerable-groups-to-pandemics",
+      "mnis_id": 5063,
+      "name": "Johanna Baxter",
+      "canon_name": "Johanna Baxter",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/vulnerable-groups-to-pandemics.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "vulnerable-groups-to-pandemics",
+      "mnis_id": 123,
+      "name": "Lord Lansley",
+      "canon_name": "Lord Lansley",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/vulnerable-groups-to-pandemics.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "vulnerable-groups-to-pandemics",
+      "mnis_id": 4286,
+      "name": "Lord Mendelsohn",
+      "canon_name": "Lord Mendelsohn",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/vulnerable-groups-to-pandemics.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "vulnerable-groups-to-pandemics",
+      "mnis_id": 5032,
+      "name": "Tom Gordon",
+      "canon_name": "Tom Gordon",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/vulnerable-groups-to-pandemics.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

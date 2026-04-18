@@ -1,0 +1,164 @@
+{
+  "slug": "advertising",
+  "title": "All-Party Parliamentary Group on Advertising",
+  "purpose": "The APPG is an opportunity to bring industry leaders and MPs and Peers together to celebrate the success of advertising across our nations and regions.",
+  "categories": [
+    "Economy, Business & Industry"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/advertising.htm",
+  "secretariat": "Advertising Association acts as the group's secretariat.https://adassoc.org.uk",
+  "website": "https://adassoc.org.uk/uk-advertising-appg/",
+  "registered_contact_name": "Dame Karen Bradley MP",
+  "date_of_most_recent_agm": "2025-01-22 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "advertising",
+      "mnis_id": 4110,
+      "name": "Dame Karen Bradley",
+      "canon_name": "Karen Bradley",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/advertising.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "advertising",
+      "mnis_id": null,
+      "name": "Lord Bassam of Brighton",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/advertising.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "advertising",
+      "mnis_id": null,
+      "name": "Lord Black of Brentwood",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/advertising.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "advertising",
+      "mnis_id": 4637,
+      "name": "Mr James Frith",
+      "canon_name": "James Frith",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/advertising.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "advertising",
+      "mnis_id": 4110,
+      "name": "Dame Karen Bradley",
+      "canon_name": "Karen Bradley",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/advertising.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "advertising",
+      "mnis_id": null,
+      "name": "Lord Bassam of Brighton",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/advertising.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "advertising",
+      "mnis_id": null,
+      "name": "Lord Black of Brentwood",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/advertising.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "advertising",
+      "mnis_id": 4637,
+      "name": "Mr James Frith",
+      "canon_name": "James Frith",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/advertising.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

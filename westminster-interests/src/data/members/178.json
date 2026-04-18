@@ -1,0 +1,254 @@
+{
+  "mnis_id": 178,
+  "name": "John McDonnell",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Hayes and Harlington",
+  "house": "Commons",
+  "start_date": "1997-05-01",
+  "photo_url": "https://members-api.parliament.uk/api/Members/178/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 61168.0,
+      "combined": 61168.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 61168.0,
+      "combined": 61168.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 56569.0,
+      "combined": 56569.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 117737.0,
+      "combined": 117737.0,
+      "payment_count": 4,
+      "donor_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 117737.0,
+      "combined": 117737.0,
+      "payment_count": 4,
+      "donor_count": 2
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 61168.0,
+        "combined": 61168.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 61168.0,
+        "combined": 61168.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 56569.0,
+        "combined": 56569.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 117737.0,
+        "combined": 117737.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 117737.0,
+        "combined": 117737.0,
+        "payment_count": 4,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    61168,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "airport-communities",
+      "appg_name": "All-Party Parliamentary Group on Airport Communities",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "immigration-detention",
+      "appg_name": "All-Party Parliamentary Group on Immigration Detention",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "indian-traditional-sciences",
+      "appg_name": "All-Party Parliamentary Group on Indian Traditional Sciences",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "investment-fraud-and-fairer-financial-services",
+      "appg_name": "All-Party Parliamentary Group on Investment Fraud and Fairer Financial Services",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "intergenerational-inquiry",
+      "appg_name": "All-Party Parliamentary Group on the Intergenerational Inquiry",
+      "officer_role": "Co-Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "drugs-alcohol-and-justice",
+      "appg_name": "Drugs, Alcohol and Justice All-Party Parliamentary Group",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 13669,
+      "date": "2025-10-29",
+      "category": "2",
+      "member_id": 178,
+      "member_name": "John McDonnell",
+      "payer_id": 908,
+      "payer_name": "Public and Commercial Services Union (PCS)",
+      "amount": 36077.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/178/registeredinterests?categoryId=2",
+      "summary": "Public and Commercial Services Union (PCS) - £36,077.00",
+      "description": "Administration and coordination of the PCS Parliamentary Group, which I chair, by Solidarity Consulting Ltd, from 15 October 2025 to 14 October 2026"
+    },
+    {
+      "id": 13671,
+      "date": "2025-10-29",
+      "category": "2",
+      "member_id": 178,
+      "member_name": "John McDonnell",
+      "payer_id": 922,
+      "payer_name": "Rail, Maritime and Transport Union",
+      "amount": 25091.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/178/registeredinterests?categoryId=2",
+      "summary": "Rail, Maritime and Transport Union - £25,091.00",
+      "description": "Administration and coordination of the RMT Parliamentary Group, which I chair, provided by Solidarity Consulting Ltd from 13 October 2025  to 12 October 2026"
+    },
+    {
+      "id": 11275,
+      "date": "2024-11-20",
+      "category": "2",
+      "member_id": 178,
+      "member_name": "John McDonnell",
+      "payer_id": 922,
+      "payer_name": "Rail, Maritime and Transport Union",
+      "amount": 22211.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/178/registeredinterests?categoryId=2",
+      "summary": "Rail, Maritime and Transport Union - £22,211.00",
+      "description": "Administration and coordination of the RMT Parliamentary Group, which I chair, provided by Solidarity Consulting Ltd from 12 October 2024 to 11 October 2025"
+    },
+    {
+      "id": 11276,
+      "date": "2024-11-20",
+      "category": "2",
+      "member_id": 178,
+      "member_name": "John McDonnell",
+      "payer_id": 908,
+      "payer_name": "Public and Commercial Services Union (PCS)",
+      "amount": 34358.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/178/registeredinterests?categoryId=2",
+      "summary": "Public and Commercial Services Union (PCS) - £34,358.00",
+      "description": "Administration and coordination of the PCS Parliamentary Group, which I chair, by Solidarity Consulting Ltd, from 15 October 2024 to 14 October 2025, value £34,358"
+    }
+  ]
+}

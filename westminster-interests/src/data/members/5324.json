@@ -1,0 +1,108 @@
+{
+  "mnis_id": 5324,
+  "name": "Sarah Russell",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Congleton",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5324/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    }
+  },
+  "categories": {},
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "children",
+      "appg_name": "All-Party Parliamentary Group for Children",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "flexible-and-family-friendly-working",
+      "appg_name": "All-Party Parliamentary Group for Flexible and Family Friendly Working",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "survivors-of-fayed-and-harrods",
+      "appg_name": "All-Party Parliamentary Group for the Survivors of Fayed and Harrods",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "access-to-justice",
+      "appg_name": "All-Party Parliamentary Group on Access to Justice",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "legal-and-constitutional-affairs",
+      "appg_name": "All-Party Parliamentary Group on Legal and Constitutional Affairs",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "women-and-work",
+      "appg_name": "All-Party Parliamentary Group on Women and Work",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": []
+}

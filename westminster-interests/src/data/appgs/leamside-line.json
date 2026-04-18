@@ -1,0 +1,166 @@
+{
+  "slug": "leamside-line",
+  "title": "All-Party Parliamentary Group on the Leamside Line",
+  "purpose": "To campaign for the re-opening of the Leamside Line in full, which would provide significant economic, social and environmental benefits for the North-East of England and positively impact the East Coast Main Line ensuring an uplift in capacity.",
+  "categories": [
+    "Infrastructure, Transport & Mobility",
+    "Economy, Business & Industry",
+    "Environment, Climate & Sustainability"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/leamside-line.htm",
+  "secretariat": "",
+  "website": "None",
+  "registered_contact_name": "Mrs Sharon Hodgson MP",
+  "date_of_most_recent_agm": "2025-02-04 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "leamside-line",
+      "mnis_id": 4277,
+      "name": "Emma Lewell",
+      "canon_name": "Emma Lewell",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/leamside-line.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "leamside-line",
+      "mnis_id": 333,
+      "name": "Lord McLoughlin",
+      "canon_name": "Lord McLoughlin",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/leamside-line.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "leamside-line",
+      "mnis_id": 5112,
+      "name": "Luke Akehurst",
+      "canon_name": "Luke Akehurst",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/leamside-line.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "leamside-line",
+      "mnis_id": 1521,
+      "name": "Mrs Sharon Hodgson",
+      "canon_name": "Sharon Hodgson",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/leamside-line.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "leamside-line",
+      "mnis_id": 4277,
+      "name": "Emma Lewell",
+      "canon_name": "Emma Lewell",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/leamside-line.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "leamside-line",
+      "mnis_id": 333,
+      "name": "Lord McLoughlin",
+      "canon_name": "Lord McLoughlin",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/leamside-line.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "leamside-line",
+      "mnis_id": 5112,
+      "name": "Luke Akehurst",
+      "canon_name": "Luke Akehurst",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/leamside-line.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "leamside-line",
+      "mnis_id": 1521,
+      "name": "Mrs Sharon Hodgson",
+      "canon_name": "Sharon Hodgson",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/leamside-line.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

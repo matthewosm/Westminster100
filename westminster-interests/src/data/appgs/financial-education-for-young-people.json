@@ -1,0 +1,164 @@
+{
+  "slug": "financial-education-for-young-people",
+  "title": "All-Party Parliamentary Group on Financial Education for Young People",
+  "purpose": "To provide a forum for parliamentarians and organisations to discuss the current provision of financial education in schools, further education and higher education, and ensure that all young people – regardless of background – are equipped to make informed financial decisions.",
+  "categories": [
+    "Education, Skills & Youth"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/financial-education-for-young-people.htm",
+  "secretariat": "Young Enterprise acts as the group's secretariat.https://www.young-enterprise.org.uk/",
+  "website": "https://www.young-enterprise.org.uk/home/impact-policy/policy-hub/appg-on-financial-education/",
+  "registered_contact_name": "Amanda Hack MP",
+  "date_of_most_recent_agm": "2025-12-03 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "financial-education-for-young-people",
+      "mnis_id": 5149,
+      "name": "Amanda Hack",
+      "canon_name": "Amanda Hack",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/financial-education-for-young-people.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "financial-education-for-young-people",
+      "mnis_id": 4700,
+      "name": "Baroness Sater",
+      "canon_name": "Baroness Sater",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/financial-education-for-young-people.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "financial-education-for-young-people",
+      "mnis_id": 4739,
+      "name": "Jerome Mayhew",
+      "canon_name": "Jerome Mayhew",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/financial-education-for-young-people.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "financial-education-for-young-people",
+      "mnis_id": 4051,
+      "name": "John Glen",
+      "canon_name": "John Glen",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/financial-education-for-young-people.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "financial-education-for-young-people",
+      "mnis_id": 5149,
+      "name": "Amanda Hack",
+      "canon_name": "Amanda Hack",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/financial-education-for-young-people.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "financial-education-for-young-people",
+      "mnis_id": 4700,
+      "name": "Baroness Sater",
+      "canon_name": "Baroness Sater",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/financial-education-for-young-people.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "financial-education-for-young-people",
+      "mnis_id": 4739,
+      "name": "Jerome Mayhew",
+      "canon_name": "Jerome Mayhew",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/financial-education-for-young-people.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "financial-education-for-young-people",
+      "mnis_id": 4051,
+      "name": "John Glen",
+      "canon_name": "John Glen",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/financial-education-for-young-people.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

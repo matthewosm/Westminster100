@@ -1,0 +1,164 @@
+{
+  "slug": "defibrillators",
+  "title": "All-Party Parliamentary Group for Defibrillators",
+  "purpose": "To provide a forum for parliamentary discussion on the issues surrounding sudden cardiac arrest (SCA) defibrillators and resuscitation, whilst providing evidence-based solutions to improve the survival rates of SCA.",
+  "categories": [
+    "Health, Medicine & Public Health"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/defibrillators.htm",
+  "secretariat": "DGA Group acts as the group's secretariat.https://dgagroup.com/",
+  "website": "https://defibrillatorappg.wordpress.com/",
+  "registered_contact_name": "Steve Darling MP",
+  "date_of_most_recent_agm": "2026-01-27 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "defibrillators",
+      "mnis_id": 5014,
+      "name": "Lord Banner",
+      "canon_name": "Lord Banner",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/defibrillators.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "defibrillators",
+      "mnis_id": 5253,
+      "name": "Richard Baker",
+      "canon_name": "Richard Baker",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/defibrillators.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "defibrillators",
+      "mnis_id": 4108,
+      "name": "Sir Gavin Williamson",
+      "canon_name": "Gavin Williamson",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/defibrillators.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "defibrillators",
+      "mnis_id": 5066,
+      "name": "Steve Darling",
+      "canon_name": "Steve Darling",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/defibrillators.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "defibrillators",
+      "mnis_id": 5014,
+      "name": "Lord Banner",
+      "canon_name": "Lord Banner",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/defibrillators.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "defibrillators",
+      "mnis_id": 5253,
+      "name": "Richard Baker",
+      "canon_name": "Richard Baker",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/defibrillators.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "defibrillators",
+      "mnis_id": 4108,
+      "name": "Sir Gavin Williamson",
+      "canon_name": "Gavin Williamson",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/defibrillators.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "defibrillators",
+      "mnis_id": 5066,
+      "name": "Steve Darling",
+      "canon_name": "Steve Darling",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/defibrillators.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

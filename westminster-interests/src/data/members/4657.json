@@ -1,0 +1,299 @@
+{
+  "mnis_id": 4657,
+  "name": "Anneliese Dodds",
+  "party": "Labour (Co-op)",
+  "party_slug": "labour-co-op",
+  "constituency": "Oxford East",
+  "house": "Commons",
+  "start_date": "2017-06-08",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4657/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 3702.99,
+      "combined": 3702.99,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 2048.99,
+      "inkind": 4702.99,
+      "combined": 6751.98,
+      "payment_count": 5,
+      "donor_count": 5
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 2048.99,
+      "inkind": 4702.99,
+      "combined": 6751.98,
+      "payment_count": 5,
+      "donor_count": 5
+    },
+    "all_time": {
+      "monetary": 2048.99,
+      "inkind": 4702.99,
+      "combined": 6751.98,
+      "payment_count": 5,
+      "donor_count": 5
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 3702.99,
+        "combined": 3702.99,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 3702.99,
+        "combined": 3702.99,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 3702.99,
+        "combined": 3702.99,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 3702.99,
+        "combined": 3702.99,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "1.1": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 2048.99,
+        "inkind": 1000.0,
+        "combined": 3048.99,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 2048.99,
+        "inkind": 1000.0,
+        "combined": 3048.99,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 2048.99,
+        "inkind": 1000.0,
+        "combined": 3048.99,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    508,
+    3195,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "sudan-and-south-sudan",
+      "appg_name": "All-Party Parliamentary Group for Sudan and South Sudan",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "west-papua",
+      "appg_name": "All-Party Parliamentary Group on West Papua",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 140161,
+      "date": "2025-11-11",
+      "category": "4",
+      "member_id": 4657,
+      "member_name": "Anneliese Dodds",
+      "payer_id": 372,
+      "payer_name": "Energy and Climate Intelligence Unit",
+      "amount": 3195.17,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4657/registeredinterests?categoryId=4",
+      "summary": "International visit to Brazil between 11 November 2025 and 17 November 2025 — Attendance of COP30 to meet legislators and experts and to build knowledge of the international climate process.",
+      "description": "Accommodation (£539.91), flights (£2,271.72) and maximum subsistence received (£383.64)"
+    },
+    {
+      "id": 135631,
+      "date": "2025-10-14",
+      "category": "4",
+      "member_id": 4657,
+      "member_name": "Anneliese Dodds",
+      "payer_id": 432,
+      "payer_name": "Friedrich-Ebert-Stiftung London Limited",
+      "amount": 507.82,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4657/registeredinterests?categoryId=4",
+      "summary": "International visit to Germany between 14 October 2025 and 16 October 2025 — Participation in annual UK-German Parliamentary Dialogue organised by the Friedrich-Ebert-Stiftung.",
+      "description": "Flights (£325.37) and accommodation (£182.45)"
+    },
+    {
+      "id": 12218,
+      "date": "2025-03-31",
+      "category": "1.1",
+      "member_id": 4657,
+      "member_name": "Anneliese Dodds",
+      "payer_id": 132,
+      "payer_name": "Bloomsbury Publishers Plc",
+      "amount": 1699.3,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4657/registeredinterests?categoryId=1",
+      "summary": "Payment received on 31 March 2025 - £1,699.30",
+      "description": "Royalties payments on a previously-published textbook."
+    },
+    {
+      "id": 12217,
+      "date": "2025-03-26",
+      "category": "1.1",
+      "member_id": 4657,
+      "member_name": "Anneliese Dodds",
+      "payer_id": 31,
+      "payer_name": "Authors' Licensing and Collecting Society (ALCS)",
+      "amount": 349.69,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4657/registeredinterests?categoryId=1",
+      "summary": "Payment received on 26 March 2025 - £349.69",
+      "description": null
+    },
+    {
+      "id": 12091,
+      "date": "2025-03-20",
+      "category": "1.1",
+      "member_id": 4657,
+      "member_name": "Anneliese Dodds",
+      "payer_id": 851,
+      "payer_name": "The Oxford Study Abroad Programme (OSAP)",
+      "amount": 1000.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": true,
+      "donated_to": "Community organisation",
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4657/registeredinterests?categoryId=1",
+      "summary": "Payment received on 20 March 2025 - £1,000.00",
+      "description": "Donation to local charity - Oxford Community Action"
+    }
+  ]
+}

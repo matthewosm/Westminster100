@@ -1,0 +1,243 @@
+{
+  "mnis_id": 5192,
+  "name": "Helena Dollimore",
+  "party": "Labour (Co-op)",
+  "party_slug": "labour-co-op",
+  "constituency": "Hastings and Rye",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5192/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 1500.0,
+      "inkind": 6600.0,
+      "combined": 8100.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 1500.0,
+      "inkind": 0.0,
+      "combined": 1500.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 14121.0,
+      "combined": 14121.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 1500.0,
+      "inkind": 14121.0,
+      "combined": 15621.0,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 1500.0,
+      "inkind": 14121.0,
+      "combined": 15621.0,
+      "payment_count": 3,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 1500.0,
+        "inkind": 6600.0,
+        "combined": 8100.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 1500.0,
+        "inkind": 0.0,
+        "combined": 1500.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 6600.0,
+        "combined": 6600.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 1500.0,
+        "inkind": 6600.0,
+        "combined": 8100.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 1500.0,
+        "inkind": 6600.0,
+        "combined": 8100.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 7521.0,
+        "combined": 7521.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 7521.0,
+        "combined": 7521.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 7521.0,
+        "combined": 7521.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    6600,
+    0,
+    0,
+    1500,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "birth-trauma",
+      "appg_name": "All-Party Parliamentary Group on Birth Trauma",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 13858,
+      "date": "2026-01-19",
+      "category": "2",
+      "member_id": 5192,
+      "member_name": "Helena Dollimore",
+      "payer_id": 1131,
+      "payer_name": "UNISON",
+      "amount": 1500.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5192/registeredinterests?categoryId=2",
+      "summary": "UNISON - £1,500.00",
+      "description": "Support towards my annual Christmas card printing / postage costs"
+    },
+    {
+      "id": 13857,
+      "date": "2025-11-07",
+      "category": "2",
+      "member_id": 5192,
+      "member_name": "Helena Dollimore",
+      "payer_id": 473,
+      "payer_name": "GMB Southern Region",
+      "amount": 6600.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5192/registeredinterests?categoryId=2",
+      "summary": "GMB Southern Region - £6,600.00",
+      "description": "Support for a constituency office, estimated value £550 per calendar month"
+    },
+    {
+      "id": 120181,
+      "date": "2025-02-14",
+      "category": "4",
+      "member_id": 5192,
+      "member_name": "Helena Dollimore",
+      "payer_id": 484,
+      "payer_name": "Government of Taiwan",
+      "amount": 7521.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "taiwan",
+      "appg_name": "British-Taiwanese All-Party Parliamentary Group",
+      "source_url": "https://members.parliament.uk/member/5192/registeredinterests?categoryId=4",
+      "summary": "International visit to Taiwan between 14 February 2025 and 22 February 2025 — APPG Taiwan cross-party delegation of UK MPs hosted by Government of Taiwan. Meetings with President, Ministers and others.",
+      "description": "Transportation, hotel, and food"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "mnis_id": 4673,
+  "name": "Jo Platt",
+  "party": "Labour (Co-op)",
+  "party_slug": "labour-co-op",
+  "constituency": "Leigh and Atherton",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4673/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    }
+  },
+  "categories": {},
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "attention-deficit-hyperactivity-disorder-adhd",
+      "appg_name": "All-Party Parliamentary Group on Attention Deficit Hyperactivity Disorder (ADHD)",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "long-covid",
+      "appg_name": "All-Party Parliamentary Group on Long Covid",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "myalgic-encephalomyelitis-me",
+      "appg_name": "All-Party Parliamentary Group on Myalgic Encephalomyelitis (ME)",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "womens-health",
+      "appg_name": "All-Party Parliamentary Group on Women's Health",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "greater-manchester",
+      "appg_name": "Greater Manchester All-Party Parliamentary Group",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "inclusion-and-nurture-in-education",
+      "appg_name": "Inclusion and Nurture in Education All-Party Parliamentary Group",
+      "officer_role": "Secretary",
+      "is_officer": true
+    }
+  ],
+  "payments": []
+}

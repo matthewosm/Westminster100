@@ -1,0 +1,292 @@
+{
+  "mnis_id": 5105,
+  "name": "Jo White",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Bassetlaw",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5105/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 10000.0,
+      "inkind": 33634.4,
+      "combined": 43634.4,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 10000.0,
+      "inkind": 33634.4,
+      "combined": 43634.4,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 10000.0,
+      "inkind": 33634.4,
+      "combined": 43634.4,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "all_time": {
+      "monetary": 10000.0,
+      "inkind": 33634.4,
+      "combined": 43634.4,
+      "payment_count": 4,
+      "donor_count": 4
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1634.4,
+        "combined": 1634.4,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1634.4,
+        "combined": 1634.4,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1634.4,
+        "combined": 1634.4,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1634.4,
+        "combined": 1634.4,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "2": {
+      "12m": {
+        "monetary": 10000.0,
+        "inkind": 32000.0,
+        "combined": 42000.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 10000.0,
+        "inkind": 32000.0,
+        "combined": 42000.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 10000.0,
+        "inkind": 32000.0,
+        "combined": 42000.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 10000.0,
+        "inkind": 32000.0,
+        "combined": 42000.0,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    32000,
+    10000,
+    1634,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "dementia-in-sport",
+      "appg_name": "All-Partly Parliamentary Group on Dementia in Sport",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "golf",
+      "appg_name": "All-Party Parliamentary Group for Golf",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "fusion-energy",
+      "appg_name": "All-Party Parliamentary Group on Fusion Energy",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "jazz",
+      "appg_name": "All-Party Parliamentary Jazz Group",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "kidney",
+      "appg_name": "All-Party Parliamentary Kidney Group",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 13154,
+      "date": "2025-07-24",
+      "category": "3",
+      "member_id": 5105,
+      "member_name": "Jo White",
+      "payer_id": 539,
+      "payer_name": "Hull Trains Company Limited",
+      "amount": 1634.4,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5105/registeredinterests?categoryId=3",
+      "summary": "Hull Trains Company Limited - £1,634.40",
+      "description": "36 rail tickets for Summer School students"
+    },
+    {
+      "id": 13008,
+      "date": "2025-07-16",
+      "category": "2",
+      "member_id": 5105,
+      "member_name": "Jo White",
+      "payer_id": 1111,
+      "payer_name": "Tritax Big Box REIT plc",
+      "amount": 5000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5105/registeredinterests?categoryId=2",
+      "summary": "Tritax Big Box REIT plc - £5,000.00",
+      "description": "for the provision of my Parliamentary Summer School for children and young people from Bassetlaw."
+    },
+    {
+      "id": 12938,
+      "date": "2025-07-02",
+      "category": "2",
+      "member_id": 5105,
+      "member_name": "Jo White",
+      "payer_id": 107,
+      "payer_name": "Bawtry Farms Ltd",
+      "amount": 5000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5105/registeredinterests?categoryId=2",
+      "summary": "Bawtry Farms Ltd - £5,000.00",
+      "description": "The provision of Jo White MP's Parliamentary Summer School for children and young people from Bassetlaw."
+    },
+    {
+      "id": 12607,
+      "date": "2025-06-11",
+      "category": "2",
+      "member_id": 5105,
+      "member_name": "Jo White",
+      "payer_id": 856,
+      "payer_name": "Palace Yard Events Ltd",
+      "amount": 32000.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2026-06-11",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5105/registeredinterests?categoryId=2",
+      "summary": "Palace Yard Events Ltd - £32,000.00",
+      "description": "Services of staff"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "mnis_id": 5052,
+  "name": "Patrick Hurley",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Southport",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5052/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 1560.0,
+      "combined": 1560.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 4680.0,
+      "combined": 4680.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 4680.0,
+      "combined": 4680.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 4680.0,
+      "combined": 4680.0,
+      "payment_count": 2,
+      "donor_count": 2
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1560.0,
+        "combined": 1560.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 4680.0,
+        "combined": 4680.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 4680.0,
+        "combined": 4680.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 4680.0,
+        "combined": 4680.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    1560,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "coastal-communities",
+      "appg_name": "All-Party Parliamentary Group for Coastal Communities",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "northern-culture",
+      "appg_name": "Northern Culture All-Party Parliamentary Group",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "social-cooperative-and-community-economy",
+      "appg_name": "Social, Cooperative, and Community Economy All-Party Parliamentary Group",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 12679,
+      "date": "2025-06-02",
+      "category": "3",
+      "member_id": 5052,
+      "member_name": "Patrick Hurley",
+      "payer_id": 1071,
+      "payer_name": "SXSW London t/a Panarise Ltd",
+      "amount": 1560.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-06-08",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "music",
+      "appg_name": "All-Party Parliamentary Group on Music",
+      "source_url": "https://members.parliament.uk/member/5052/registeredinterests?categoryId=3",
+      "summary": "SXSW London t/a Panarise Ltd - £1,560.00",
+      "description": "Cultural Industries Conference Pass"
+    },
+    {
+      "id": 11990,
+      "date": "2025-03-01",
+      "category": "3",
+      "member_id": 5052,
+      "member_name": "Patrick Hurley",
+      "payer_id": 144,
+      "payer_name": "BPI (British Recorded Music Industry) Ltd",
+      "amount": 3120.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "music",
+      "appg_name": "All-Party Parliamentary Group on Music",
+      "source_url": "https://members.parliament.uk/member/5052/registeredinterests?categoryId=3",
+      "summary": "British Recorded Music Industry Ltd - £3,120.00",
+      "description": "Two tickets to BRIT Awards Event"
+    }
+  ]
+}

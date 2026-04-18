@@ -1,0 +1,164 @@
+{
+  "slug": "parks-and-green-spaces",
+  "title": "Parks and Green Spaces All-Party Parliamentary Group",
+  "purpose": "To address the most urgent issues affecting our parks and green spaces, including but not limited to funding, skills, equality of access and provision, climate change, biodiversity and the impact they have on the nation’s health and wellbeing.",
+  "categories": [
+    "Environment, Climate & Sustainability"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/parks-and-green-spaces.htm",
+  "secretariat": "Keep Britain Tidy acts as the group's secretariat.https://www.keepbritaintidy.org",
+  "website": "https://www.keepbritaintidy.org/about/all-party-parliamentary-group-parks-and-green-spaces",
+  "registered_contact_name": "Afzal Khan MP",
+  "date_of_most_recent_agm": "2024-12-04 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "parks-and-green-spaces",
+      "mnis_id": 4671,
+      "name": "Afzal Khan",
+      "canon_name": "Afzal Khan",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/parks-and-green-spaces.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "parks-and-green-spaces",
+      "mnis_id": 1782,
+      "name": "Baroness Thornton",
+      "canon_name": "Baroness Thornton",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/parks-and-green-spaces.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "parks-and-green-spaces",
+      "mnis_id": 497,
+      "name": "Lord Blencathra",
+      "canon_name": "Lord Blencathra",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/parks-and-green-spaces.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "parks-and-green-spaces",
+      "mnis_id": 5327,
+      "name": "Vikki Slade",
+      "canon_name": "Vikki Slade",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/parks-and-green-spaces.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "parks-and-green-spaces",
+      "mnis_id": 4671,
+      "name": "Afzal Khan",
+      "canon_name": "Afzal Khan",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/parks-and-green-spaces.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "parks-and-green-spaces",
+      "mnis_id": 1782,
+      "name": "Baroness Thornton",
+      "canon_name": "Baroness Thornton",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/parks-and-green-spaces.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "parks-and-green-spaces",
+      "mnis_id": 497,
+      "name": "Lord Blencathra",
+      "canon_name": "Lord Blencathra",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/parks-and-green-spaces.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "parks-and-green-spaces",
+      "mnis_id": 5327,
+      "name": "Vikki Slade",
+      "canon_name": "Vikki Slade",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/parks-and-green-spaces.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

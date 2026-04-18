@@ -1,0 +1,165 @@
+{
+  "slug": "dementia-in-sport",
+  "title": "All-Partly Parliamentary Group on Dementia in Sport",
+  "purpose": "The group aims to raise awareness, collect evidence, and make clear recommendations to protect athletes from head injuries incurred from sport.",
+  "categories": [
+    "Health, Medicine & Public Health",
+    "Sport, Recreation & Physical Activity"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/dementia-in-sport.htm",
+  "secretariat": "",
+  "website": "None",
+  "registered_contact_name": "Jo White MP",
+  "date_of_most_recent_agm": "2025-10-21 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "dementia-in-sport",
+      "mnis_id": 5105,
+      "name": "Jo White",
+      "canon_name": "Jo White",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/dementia-in-sport.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "dementia-in-sport",
+      "mnis_id": 1387,
+      "name": "Lord Mann",
+      "canon_name": "Lord Mann",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/dementia-in-sport.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "dementia-in-sport",
+      "mnis_id": 924,
+      "name": "Lord Moynihan",
+      "canon_name": "Lord Moynihan",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/dementia-in-sport.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "dementia-in-sport",
+      "mnis_id": 5146,
+      "name": "Michael Payne",
+      "canon_name": "Michael Payne",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/dementia-in-sport.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "dementia-in-sport",
+      "mnis_id": 5105,
+      "name": "Jo White",
+      "canon_name": "Jo White",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/dementia-in-sport.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "dementia-in-sport",
+      "mnis_id": 1387,
+      "name": "Lord Mann",
+      "canon_name": "Lord Mann",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/dementia-in-sport.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "dementia-in-sport",
+      "mnis_id": 924,
+      "name": "Lord Moynihan",
+      "canon_name": "Lord Moynihan",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/dementia-in-sport.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "dementia-in-sport",
+      "mnis_id": 5146,
+      "name": "Michael Payne",
+      "canon_name": "Michael Payne",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/dementia-in-sport.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

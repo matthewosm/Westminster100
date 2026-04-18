@@ -1,0 +1,198 @@
+{
+  "mnis_id": 5127,
+  "name": "John Slinger",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Rugby",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5127/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 9456.85,
+      "combined": 9456.85,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 16656.85,
+      "combined": 16656.85,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 16656.85,
+      "combined": 16656.85,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 16656.85,
+      "combined": 16656.85,
+      "payment_count": 2,
+      "donor_count": 2
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 9456.85,
+        "combined": 9456.85,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 16656.85,
+        "combined": 16656.85,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 16656.85,
+        "combined": 16656.85,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 16656.85,
+        "combined": 16656.85,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    9457,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "defending-democracy",
+      "appg_name": "All-Party Parliamentary Group for Defending Democracy",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "indonesia",
+      "appg_name": "All-Party Parliamentary Group for Indonesia",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "lithuania",
+      "appg_name": "All-Party Parliamentary Group on Lithuania",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "saudi-arabia",
+      "appg_name": "All-Party Parliamentary Group on Saudi Arabia",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "kurdistan-region-in-iraq",
+      "appg_name": "All-Party Parliamentary Group on the Kurdistan Region in Iraq",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 136931,
+      "date": "2025-10-11",
+      "category": "4",
+      "member_id": 5127,
+      "member_name": "John Slinger",
+      "payer_id": 637,
+      "payer_name": "The Kingdom of Saudi Arabia",
+      "amount": 9456.85,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "saudi-arabia",
+      "appg_name": "All-Party Parliamentary Group on Saudi Arabia",
+      "source_url": "https://members.parliament.uk/member/5127/registeredinterests?categoryId=4",
+      "summary": "International visit to Saudi Arabia between 11 October 2025 and 15 October 2025 — To further the aims of the APPG on Saudi Arabia, to strengthen bilateral relations, promote cultural exchange, and address key issues such as trade and regional stability via discussions, visits, and events to deepen mutual cooperation.",
+      "description": "Flights from London to Riyadh (£7,276.54), hotel accommodation (£1,880.31) and food (£300)"
+    },
+    {
+      "id": 124261,
+      "date": "2025-04-08",
+      "category": "4",
+      "member_id": 5127,
+      "member_name": "John Slinger",
+      "payer_id": 534,
+      "payer_name": "HST Group",
+      "amount": 7200.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "kurdistan-region-in-iraq",
+      "appg_name": "All-Party Parliamentary Group on the Kurdistan Region in Iraq",
+      "source_url": "https://members.parliament.uk/member/5127/registeredinterests?categoryId=4",
+      "summary": "International visit to Iraq between 08 April 2025 and 14 April 2025 — Fact-finding visit of All-Party Parliamentary Group on the Kurdistan Region in Iraq to Iraqi Kurdistan to meet senior Kurdish leaders and British diplomats and soldiers.",
+      "description": "Transport, food and accommodation for myself and a member of staff (£3,600 per person)"
+    }
+  ]
+}

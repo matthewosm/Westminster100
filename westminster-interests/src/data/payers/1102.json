@@ -1,0 +1,99 @@
+{
+  "id": 1102,
+  "name": "Tradeweb Europe Limited",
+  "address": "1 Fore Street Avenue, Moorgate, London EC2Y 9DT",
+  "nature_of_business": "A UK investment firm with permissions to operate a Multilateral Trading Facility (\"MTF\"), an Organised Trading Facility (\"OTF\") and an Approved Publication Arrangement (\"APA\").",
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 15211.53,
+      "inkind": 0.0,
+      "combined": 15211.53,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 15211.53,
+      "inkind": 0.0,
+      "combined": 15211.53,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 15211.53,
+      "inkind": 0.0,
+      "combined": 15211.53,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 15211.53,
+      "inkind": 0.0,
+      "combined": 15211.53,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    15212,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 12470,
+      "date": "2025-05-01",
+      "category": "1.1",
+      "member_id": 5100,
+      "member_name": "Blake Stephenson",
+      "payer_id": 1102,
+      "payer_name": "Tradeweb Europe Limited",
+      "amount": 15211.53,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5100/registeredinterests?categoryId=1",
+      "summary": "Payment received on 01 May 2025 - £15,211.53",
+      "description": "Total gross payments (before deductions) associated with the vesting and sale of restricted stock units in Tradeweb Inc. which were earnt whilst in employment before entering Parliament."
+    }
+  ]
+}

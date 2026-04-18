@@ -1,0 +1,164 @@
+{
+  "slug": "responsible-business",
+  "title": "All-Party Parliamentary Group for Responsible Business",
+  "purpose": "To promote debate and understanding of responsible business.",
+  "categories": [
+    "Economy, Business & Industry"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/responsible-business.htm",
+  "secretariat": "Business in the Community acts as the group's secretariat.https://www.bitc.org.uk/",
+  "website": "https://www.apcrg.org.uk/",
+  "registered_contact_name": "Dame Harriett Baldwin MP",
+  "date_of_most_recent_agm": "2024-12-17 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "responsible-business",
+      "mnis_id": 5203,
+      "name": "Alison Griffiths",
+      "canon_name": "Alison Griffiths",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/responsible-business.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "responsible-business",
+      "mnis_id": null,
+      "name": "Baroness Wilcox of Newport",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/responsible-business.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "responsible-business",
+      "mnis_id": 4107,
+      "name": "Dame Harriett Baldwin",
+      "canon_name": "Harriett Baldwin",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/responsible-business.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "responsible-business",
+      "mnis_id": 3898,
+      "name": "Lord Aberdare",
+      "canon_name": "Lord Aberdare",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/responsible-business.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "responsible-business",
+      "mnis_id": 5203,
+      "name": "Alison Griffiths",
+      "canon_name": "Alison Griffiths",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/responsible-business.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "responsible-business",
+      "mnis_id": null,
+      "name": "Baroness Wilcox of Newport",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/responsible-business.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "responsible-business",
+      "mnis_id": 4107,
+      "name": "Dame Harriett Baldwin",
+      "canon_name": "Harriett Baldwin",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/responsible-business.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "responsible-business",
+      "mnis_id": 3898,
+      "name": "Lord Aberdare",
+      "canon_name": "Lord Aberdare",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/responsible-business.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

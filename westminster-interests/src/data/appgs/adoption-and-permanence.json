@@ -1,0 +1,164 @@
+{
+  "slug": "adoption-and-permanence",
+  "title": "All-Party Parliamentary Group on Adoption and Permanence",
+  "purpose": "To amplify the voices and experiences of adoptees and those in other forms of permanence and their families and use that to inform parliamentarians on issues around adoption and permanence and promote the development and implementation of effective policy and practice. To provide an opportunity for the ambitious exploration of innovative solutions to enable adoptees and those in other forms of permanence and their families to thrive.",
+  "categories": [
+    "Social Care, Welfare & Family Support"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/adoption-and-permanence.htm",
+  "secretariat": "Home for Good and Adoption UK jointly act as the group's secretariat.https://www.homeforgood.org.uk/andhttps://www.adoptionuk.org/",
+  "website": "https://appgap.info/",
+  "registered_contact_name": "Rachael Maskell MP",
+  "date_of_most_recent_agm": "2025-03-04 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "adoption-and-permanence",
+      "mnis_id": 4218,
+      "name": "Baroness Berridge",
+      "canon_name": "Baroness Berridge",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/adoption-and-permanence.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "adoption-and-permanence",
+      "mnis_id": 4061,
+      "name": "Bill Esterson",
+      "canon_name": "Bill Esterson",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/adoption-and-permanence.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "adoption-and-permanence",
+      "mnis_id": null,
+      "name": "Lord Russell of Liverpool",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/adoption-and-permanence.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "adoption-and-permanence",
+      "mnis_id": 4471,
+      "name": "Rachael Maskell",
+      "canon_name": "Rachael Maskell",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/adoption-and-permanence.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "adoption-and-permanence",
+      "mnis_id": 4218,
+      "name": "Baroness Berridge",
+      "canon_name": "Baroness Berridge",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/adoption-and-permanence.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "adoption-and-permanence",
+      "mnis_id": 4061,
+      "name": "Bill Esterson",
+      "canon_name": "Bill Esterson",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/adoption-and-permanence.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "adoption-and-permanence",
+      "mnis_id": null,
+      "name": "Lord Russell of Liverpool",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/adoption-and-permanence.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "adoption-and-permanence",
+      "mnis_id": 4471,
+      "name": "Rachael Maskell",
+      "canon_name": "Rachael Maskell",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/adoption-and-permanence.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

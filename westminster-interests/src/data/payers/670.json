@@ -1,0 +1,99 @@
+{
+  "id": 670,
+  "name": "Lewes District Council",
+  "address": "6 High Street, Lewes, BN7 2AD",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 4998.54,
+      "inkind": 0.0,
+      "combined": 4998.54,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 1479.02,
+      "inkind": 0.0,
+      "combined": 1479.02,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 4998.54,
+      "inkind": 0.0,
+      "combined": 4998.54,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 5012.23,
+      "inkind": 0.0,
+      "combined": 5012.23,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "since_election": {
+      "monetary": 8956.28,
+      "inkind": 0.0,
+      "combined": 8956.28,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 14817.58,
+      "inkind": 0.0,
+      "combined": 14817.58,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    411,
+    411,
+    411,
+    411,
+    411,
+    411,
+    411,
+    411,
+    411,
+    411,
+    411,
+    411
+  ],
+  "payments": [
+    {
+      "id": 8810,
+      "date": "2024-08-01",
+      "category": "1.2",
+      "member_id": 5265,
+      "member_name": "James MacCleary",
+      "payer_id": 670,
+      "payer_name": "Lewes District Council",
+      "amount": 416.83,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": "2023-05-02",
+      "end_date": "2027-05-06",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5265/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 02 May 2023 - £416.83",
+      "description": null
+    }
+  ]
+}

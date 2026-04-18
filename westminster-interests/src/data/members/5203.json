@@ -1,0 +1,298 @@
+{
+  "mnis_id": 5203,
+  "name": "Alison Griffiths",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "Bognor Regis and Littlehampton",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5203/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 3058.8,
+      "combined": 3058.8,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 2000.0,
+      "inkind": 3778.8,
+      "combined": 5778.8,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 2000.0,
+      "inkind": 3778.8,
+      "combined": 5778.8,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "all_time": {
+      "monetary": 2000.0,
+      "inkind": 3778.8,
+      "combined": 5778.8,
+      "payment_count": 4,
+      "donor_count": 4
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 3058.8,
+        "combined": 3058.8,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 3778.8,
+        "combined": 3778.8,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 3778.8,
+        "combined": 3778.8,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 3778.8,
+        "combined": 3778.8,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    },
+    "2": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 2000.0,
+        "inkind": 0.0,
+        "combined": 2000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 2000.0,
+        "inkind": 0.0,
+        "combined": 2000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 2000.0,
+        "inkind": 0.0,
+        "combined": 2000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    420,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2639,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "beauty-and-wellbeing",
+      "appg_name": "All-Party Parliamentary Group Beauty and Wellbeing",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "deafness",
+      "appg_name": "All-Party Parliamentary Group Deafness",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "australia-and-new-zealand-anzac-and-the-pacific-islands",
+      "appg_name": "All-Party Parliamentary Group for Australia and New Zealand (ANZAC) and the Pacific Islands",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "cyber-innovation",
+      "appg_name": "All-Party Parliamentary Group for Cyber Innovation",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "data-centres",
+      "appg_name": "All-Party Parliamentary Group for Data Centres",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "responsible-business",
+      "appg_name": "All-Party Parliamentary Group for Responsible Business",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14306,
+      "date": "2025-12-03",
+      "category": "3",
+      "member_id": 5203,
+      "member_name": "Alison Griffiths",
+      "payer_id": 407,
+      "payer_name": "The Financial Times",
+      "amount": 2638.8,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5203/registeredinterests?categoryId=3",
+      "summary": "The Financial Times - £2,638.80",
+      "description": "Single VIP pass for my staff member for the FT's Cyber Resilience Summit, at which I was an expert panel member for one of the debates"
+    },
+    {
+      "id": 12765,
+      "date": "2025-06-19",
+      "category": "3",
+      "member_id": 5203,
+      "member_name": "Alison Griffiths",
+      "payer_id": 659,
+      "payer_name": "The Lawn Tennis Association Limited",
+      "amount": 420.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5203/registeredinterests?categoryId=3",
+      "summary": "Lawn Tennis Association Limited - £420.00",
+      "description": "Two tickets, with lunch to the HSBC Championships at The Queen's Club"
+    },
+    {
+      "id": 11972,
+      "date": "2025-03-06",
+      "category": "2",
+      "member_id": 5203,
+      "member_name": "Alison Griffiths",
+      "payer_id": 227,
+      "payer_name": "Chris Hayman",
+      "amount": 2000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5203/registeredinterests?categoryId=2",
+      "summary": "Chris Hayman - £2,000.00",
+      "description": null
+    },
+    {
+      "id": 12084,
+      "date": "2025-02-26",
+      "category": "3",
+      "member_id": 5203,
+      "member_name": "Alison Griffiths",
+      "payer_id": 163,
+      "payer_name": "British Kebab Awards/Centre for Turkey Studies",
+      "amount": 720.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5203/registeredinterests?categoryId=3",
+      "summary": "British Kebab Awards/Centre for Turkey Studies - £720.00",
+      "description": "Tickets for two of my staff to attend the British Kebab Awards 2025. I did not attend. Value £300 + VAT per person"
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "mnis_id": 5167,
+  "name": "Gregor Poynton",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Livingston",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5167/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 13000.0,
+      "inkind": 2400.0,
+      "combined": 15400.0,
+      "payment_count": 5,
+      "donor_count": 5
+    },
+    "ytd": {
+      "monetary": 1000.0,
+      "inkind": 0.0,
+      "combined": 1000.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 12000.0,
+      "inkind": 2400.0,
+      "combined": 14400.0,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 13000.0,
+      "inkind": 2400.0,
+      "combined": 15400.0,
+      "payment_count": 5,
+      "donor_count": 5
+    },
+    "all_time": {
+      "monetary": 13000.0,
+      "inkind": 2400.0,
+      "combined": 15400.0,
+      "payment_count": 5,
+      "donor_count": 5
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 13000.0,
+        "inkind": 1500.0,
+        "combined": 14500.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 1000.0,
+        "inkind": 0.0,
+        "combined": 1000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 12000.0,
+        "inkind": 1500.0,
+        "combined": 13500.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 13000.0,
+        "inkind": 1500.0,
+        "combined": 14500.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 13000.0,
+        "inkind": 1500.0,
+        "combined": 14500.0,
+        "payment_count": 4,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 900.0,
+        "combined": 900.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 900.0,
+        "combined": 900.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 900.0,
+        "combined": 900.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 900.0,
+        "combined": 900.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    900,
+    0,
+    3500,
+    0,
+    0,
+    0,
+    10000,
+    0,
+    0,
+    1000,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "industrial-strategy",
+      "appg_name": "All-Party Parliamentary Group on Industrial Strategy",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14614,
+      "date": "2026-02-10",
+      "category": "2",
+      "member_id": 5167,
+      "member_name": "Gregor Poynton",
+      "payer_id": 255,
+      "payer_name": "Community Union",
+      "amount": 1000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5167/registeredinterests?categoryId=2",
+      "summary": "Community Union - £1,000.00",
+      "description": null
+    },
+    {
+      "id": 13867,
+      "date": "2025-11-10",
+      "category": "2",
+      "member_id": 5167,
+      "member_name": "Gregor Poynton",
+      "payer_id": 290,
+      "payer_name": "Daniel Luhde-Thompson",
+      "amount": 10000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5167/registeredinterests?categoryId=2",
+      "summary": "Daniel Luhde-Thompson - £10,000.00",
+      "description": null
+    },
+    {
+      "id": 12967,
+      "date": "2025-07-17",
+      "category": "2",
+      "member_id": 5167,
+      "member_name": "Gregor Poynton",
+      "payer_id": 1052,
+      "payer_name": "Strand Partners",
+      "amount": 2000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5167/registeredinterests?categoryId=2",
+      "summary": "Strand Partners - £2,000.00",
+      "description": "Support for an event, which included 8 tickets with the total market value of £800. The support was split between Imogen Walker MP and me."
+    },
+    {
+      "id": 12968,
+      "date": "2025-06-23",
+      "category": "2",
+      "member_id": 5167,
+      "member_name": "Gregor Poynton",
+      "payer_id": 1018,
+      "payer_name": "SME4Labour Ltd",
+      "amount": 1500.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5167/registeredinterests?categoryId=2",
+      "summary": "SME4Labour LTD - £1,500.00",
+      "description": "In-kind support including event space, wine and canapés. This support is shared between Imogen Walker MP and me"
+    },
+    {
+      "id": 12576,
+      "date": "2025-05-11",
+      "category": "3",
+      "member_id": 5167,
+      "member_name": "Gregor Poynton",
+      "payer_id": 1013,
+      "payer_name": "SKY UK",
+      "amount": 900.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5167/registeredinterests?categoryId=3",
+      "summary": "SKY UK - £900.00",
+      "description": "Ticket including hospitality for the TV BAFTAs Awards"
+    }
+  ]
+}

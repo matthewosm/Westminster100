@@ -1,0 +1,99 @@
+{
+  "id": 9,
+  "name": "Abiflo Ltd",
+  "address": "142 Centenary Plaza, 18 Holliday Street, Birmingham B1 1TH",
+  "nature_of_business": "Consultancy",
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 500.0,
+      "inkind": 0.0,
+      "combined": 500.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 500.0,
+      "inkind": 0.0,
+      "combined": 500.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 500.0,
+      "inkind": 0.0,
+      "combined": 500.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 500.0,
+      "inkind": 0.0,
+      "combined": 500.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    500,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 13136,
+      "date": "2025-07-25",
+      "category": "1.1",
+      "member_id": 4798,
+      "member_name": "Gareth Bacon",
+      "payer_id": 9,
+      "payer_name": "Abiflo Ltd",
+      "amount": 500.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4798/registeredinterests?categoryId=1",
+      "summary": "Payment received on 25 July 2025 - £500.00",
+      "description": "This payment was made for opening the conference, making an introductory speech about frontier technologies and participating in a discussion panel"
+    }
+  ]
+}

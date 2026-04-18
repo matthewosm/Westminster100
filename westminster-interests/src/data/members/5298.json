@@ -1,0 +1,108 @@
+{
+  "mnis_id": 5298,
+  "name": "Lauren Edwards",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Rochester and Strood",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5298/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    }
+  },
+  "categories": {},
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "cricket",
+      "appg_name": "All-Party Parliamentary Group for Cricket",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "financial-markets-and-services",
+      "appg_name": "All-Party Parliamentary Group for Financial Markets and Services",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "skills-careers-and-employment",
+      "appg_name": "All-Party Parliamentary Group for Skills, Careers and Employment",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "digital-markets-and-digital-money",
+      "appg_name": "All-Party Parliamentary Group on Digital Markets and Digital Money",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "insurance-and-financial-services",
+      "appg_name": "All-Party Parliamentary Group on Insurance and Financial Services",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "local-growth",
+      "appg_name": "Local Growth All-Party Parliamentary Group",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": []
+}

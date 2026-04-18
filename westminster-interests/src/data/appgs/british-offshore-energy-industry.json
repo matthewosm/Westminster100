@@ -1,0 +1,165 @@
+{
+  "slug": "british-offshore-energy-industry",
+  "title": "All-Party Parliamentary Group for the British Offshore Energy Industry",
+  "purpose": "The APPG reflects the evolving UK offshore energy landscape, championing hydrogen, carbon capture, offshore wind, and oil and gas. It supports the UK's green energy leadership and net-zero goals while advocating for a just transition that protects skilled workers and meets energy needs through collaboration with governments, regulators, and communities.",
+  "categories": [
+    "Energy & Utilities",
+    "Environment, Climate & Sustainability"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-offshore-energy-industry.htm",
+  "secretariat": "Offshore Energies UK (OEUK) acts as the group's secretariat.https://oeuk.org.uk/",
+  "website": "None",
+  "registered_contact_name": "Mary Glindon MP",
+  "date_of_most_recent_agm": "2025-05-14 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "british-offshore-energy-industry",
+      "mnis_id": 924,
+      "name": "Lord Moynihan",
+      "canon_name": "Lord Moynihan",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-offshore-energy-industry.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "british-offshore-energy-industry",
+      "mnis_id": 4126,
+      "name": "Mary Glindon",
+      "canon_name": "Mary Glindon",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-offshore-energy-industry.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "british-offshore-energy-industry",
+      "mnis_id": 5362,
+      "name": "Mr Angus MacDonald",
+      "canon_name": "Angus MacDonald",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-offshore-energy-industry.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "british-offshore-energy-industry",
+      "mnis_id": 5280,
+      "name": "Seamus Logan",
+      "canon_name": "Seamus Logan",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-offshore-energy-industry.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "british-offshore-energy-industry",
+      "mnis_id": 924,
+      "name": "Lord Moynihan",
+      "canon_name": "Lord Moynihan",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-offshore-energy-industry.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "british-offshore-energy-industry",
+      "mnis_id": 4126,
+      "name": "Mary Glindon",
+      "canon_name": "Mary Glindon",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-offshore-energy-industry.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "british-offshore-energy-industry",
+      "mnis_id": 5362,
+      "name": "Mr Angus MacDonald",
+      "canon_name": "Angus MacDonald",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-offshore-energy-industry.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "british-offshore-energy-industry",
+      "mnis_id": 5280,
+      "name": "Seamus Logan",
+      "canon_name": "Seamus Logan",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-offshore-energy-industry.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

@@ -1,0 +1,99 @@
+{
+  "id": 221,
+  "name": "Chelmsford City Council",
+  "address": "Civic Centre, Duke Street, Chelmsford CM1 1JE",
+  "nature_of_business": "Chelmsford City Council",
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 1419.06,
+      "inkind": 0.0,
+      "combined": 1419.06,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 2783.53,
+      "inkind": 0.0,
+      "combined": 2783.53,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "since_election": {
+      "monetary": 4202.59,
+      "inkind": 0.0,
+      "combined": 4202.59,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 4202.59,
+      "inkind": 0.0,
+      "combined": 4202.59,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 7899,
+      "date": "2024-07-31",
+      "category": "1.2",
+      "member_id": 5073,
+      "member_name": "Marie Goldman",
+      "payer_id": 221,
+      "payer_name": "Chelmsford City Council",
+      "amount": 553.75,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": null,
+      "end_date": "2025-03-19",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5073/registeredinterests?categoryId=1",
+      "summary": "Agreement - £553.75",
+      "description": null
+    }
+  ]
+}

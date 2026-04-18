@@ -1,0 +1,188 @@
+{
+  "slug": "credit-unions",
+  "title": "All-Party Parliamentary Group on Credit Unions",
+  "purpose": "To provide a forum for discussing the work of credit unions and the need to secure a legislative and regulatory regime which will allow credit unions to scale up and provide inclusive financial services for many more people.",
+  "categories": [
+    "Finance, Markets & Consumer Affairs"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/credit-unions.htm",
+  "secretariat": "Association of British Credit Unions Limited (ABCUL) acts as the group's secretariat.https://www.abcul.coop/",
+  "website": "None",
+  "registered_contact_name": "None",
+  "date_of_most_recent_agm": "2025-09-16 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "credit-unions",
+      "mnis_id": 4595,
+      "name": "Gareth Snell",
+      "canon_name": "Gareth Snell",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/credit-unions.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "credit-unions",
+      "mnis_id": 5170,
+      "name": "John Grady",
+      "canon_name": "John Grady",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/credit-unions.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "credit-unions",
+      "mnis_id": null,
+      "name": "Lord Hunt of Wirral",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/credit-unions.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "credit-unions",
+      "mnis_id": 4642,
+      "name": "Paul J Sweeney",
+      "canon_name": "Paul Sweeney",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "credit-unions",
+      "mnis_id": 4604,
+      "name": "Stephen Kerr",
+      "canon_name": "Stephen Kerr",
+      "officer_role": "Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "credit-unions",
+      "mnis_id": 4595,
+      "name": "Gareth Snell",
+      "canon_name": "Gareth Snell",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/credit-unions.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "credit-unions",
+      "mnis_id": 5170,
+      "name": "John Grady",
+      "canon_name": "John Grady",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/credit-unions.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "credit-unions",
+      "mnis_id": null,
+      "name": "Lord Hunt of Wirral",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/credit-unions.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "credit-unions",
+      "mnis_id": 4642,
+      "name": "Paul J Sweeney",
+      "canon_name": "Paul Sweeney",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "credit-unions",
+      "mnis_id": 4604,
+      "name": "Stephen Kerr",
+      "canon_name": "Stephen Kerr",
+      "officer_role": "Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

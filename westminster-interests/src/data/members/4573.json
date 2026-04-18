@@ -1,0 +1,630 @@
+{
+  "mnis_id": 4573,
+  "name": "Dr Rosena Allin-Khan",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Tooting",
+  "house": "Commons",
+  "start_date": "2016-06-16",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4573/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 22016.1,
+      "inkind": 7743.81,
+      "combined": 29759.91,
+      "payment_count": 7,
+      "donor_count": 6
+    },
+    "ytd": {
+      "monetary": 3466.68,
+      "inkind": 0.0,
+      "combined": 3466.68,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 25566.46,
+      "inkind": 10924.45,
+      "combined": 36490.91,
+      "payment_count": 12,
+      "donor_count": 8
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 29033.14,
+      "inkind": 10924.45,
+      "combined": 39957.59,
+      "payment_count": 12,
+      "donor_count": 8
+    },
+    "all_time": {
+      "monetary": 29033.14,
+      "inkind": 10924.45,
+      "combined": 39957.59,
+      "payment_count": 12,
+      "donor_count": 8
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1000.0,
+        "combined": 1000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1000.0,
+        "combined": 1000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1000.0,
+        "combined": 1000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1000.0,
+        "combined": 1000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 6743.81,
+        "combined": 6743.81,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 9924.45,
+        "combined": 9924.45,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 9924.45,
+        "combined": 9924.45,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 9924.45,
+        "combined": 9924.45,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    },
+    "2": {
+      "12m": {
+        "monetary": 10000.0,
+        "inkind": 0.0,
+        "combined": 10000.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 13750.0,
+        "inkind": 0.0,
+        "combined": 13750.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 13750.0,
+        "inkind": 0.0,
+        "combined": 13750.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 13750.0,
+        "inkind": 0.0,
+        "combined": 13750.0,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    },
+    "1.1": {
+      "12m": {
+        "monetary": 300.0,
+        "inkind": 0.0,
+        "combined": 300.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 1930.0,
+        "inkind": 0.0,
+        "combined": 1930.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 1930.0,
+        "inkind": 0.0,
+        "combined": 1930.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 1930.0,
+        "inkind": 0.0,
+        "combined": 1930.0,
+        "payment_count": 4,
+        "donor_count": 0
+      }
+    },
+    "1.2": {
+      "12m": {
+        "monetary": 11716.1,
+        "inkind": 0.0,
+        "combined": 11716.1,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 3466.68,
+        "inkind": 0.0,
+        "combined": 3466.68,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 9886.46,
+        "inkind": 0.0,
+        "combined": 9886.46,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 13353.14,
+        "inkind": 0.0,
+        "combined": 13353.14,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 13353.14,
+        "inkind": 0.0,
+        "combined": 13353.14,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    963,
+    2804,
+    5963,
+    963,
+    5963,
+    6165,
+    963,
+    1963,
+    963,
+    963,
+    963,
+    963
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "birth-trauma",
+      "appg_name": "All-Party Parliamentary Group on Birth Trauma",
+      "officer_role": "Co-Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "emergency-care",
+      "appg_name": "All-Party Parliamentary Group on Emergency Care",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "europe",
+      "appg_name": "All-Party Parliamentary Group on Europe",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "human-trafficking-and-modern-slavery",
+      "appg_name": "All-Party Parliamentary Group on Human Trafficking and Modern Slavery",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "patient-safety",
+      "appg_name": "All-Party Parliamentary Group on Patient Safety",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "poland",
+      "appg_name": "All-Party Parliamentary Group on Poland",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14175,
+      "date": "2025-12-06",
+      "category": "3",
+      "member_id": 4573,
+      "member_name": "Dr Rosena Allin-Khan",
+      "payer_id": 464,
+      "payer_name": "Global Media and Entertainment",
+      "amount": 1000.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4573/registeredinterests?categoryId=3",
+      "summary": "Global Media and Entertainment - £1,000.00",
+      "description": "Four tickets at £250 each to the Jingle Bell Ball"
+    },
+    {
+      "id": 135681,
+      "date": "2025-09-23",
+      "category": "4",
+      "member_id": 4573,
+      "member_name": "Dr Rosena Allin-Khan",
+      "payer_id": 1030,
+      "payer_name": "Sovereign Sustainability and Development Ltd",
+      "amount": 5202.48,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4573/registeredinterests?categoryId=4",
+      "summary": "International visit to United States between 23 September 2025 and 25 September 2025 — To launch and present a report on the link between non-communicable disease and mental health at a United Nations General Assembly related event.",
+      "description": "Flights and accommodation"
+    },
+    {
+      "id": 13433,
+      "date": "2025-09-15",
+      "category": "2",
+      "member_id": 4573,
+      "member_name": "Dr Rosena Allin-Khan",
+      "payer_id": 298,
+      "payer_name": "DCD Properties",
+      "amount": 5000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4573/registeredinterests?categoryId=2",
+      "summary": "DCD Properties - £5,000.00",
+      "description": null
+    },
+    {
+      "id": 13078,
+      "date": "2025-07-15",
+      "category": "2",
+      "member_id": 4573,
+      "member_name": "Dr Rosena Allin-Khan",
+      "payer_id": 1156,
+      "payer_name": "Waheed Alli",
+      "amount": 5000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4573/registeredinterests?categoryId=2",
+      "summary": "Waheed Alli - £5,000.00",
+      "description": "To support my office and campaigns"
+    },
+    {
+      "id": 128771,
+      "date": "2025-06-18",
+      "category": "4",
+      "member_id": 4573,
+      "member_name": "Dr Rosena Allin-Khan",
+      "payer_id": 1030,
+      "payer_name": "Sovereign Sustainability and Development Ltd",
+      "amount": 1541.33,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4573/registeredinterests?categoryId=4",
+      "summary": "International visit to Switzerland between 18 June 2025 and 19 June 2025 — To speak at the World Health Organisation Health20 Summit in Geneva in my role as a rapporteur on the \"Noncommunicable Diseases and Mental Health Conditions: A Threat to Health, A Threat to Wealth\" report.",
+      "description": "Hotel (£620), flights (£801.92) and subsistence (£119.41)"
+    },
+    {
+      "id": 12818,
+      "date": "2025-06-10",
+      "category": "1.1",
+      "member_id": 4573,
+      "member_name": "Dr Rosena Allin-Khan",
+      "payer_id": 584,
+      "payer_name": "ITV PLC",
+      "amount": 300.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4573/registeredinterests?categoryId=1",
+      "summary": "Payment received on 10 June 2025 - £300.00",
+      "description": "For my appearance on the Loose Women show"
+    },
+    {
+      "id": 123191,
+      "date": "2025-04-06",
+      "category": "4",
+      "member_id": 4573,
+      "member_name": "Dr Rosena Allin-Khan",
+      "payer_id": 246,
+      "payer_name": "The Coalition for Global Prosperity (CGP)",
+      "amount": 3180.64,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4573/registeredinterests?categoryId=4",
+      "summary": "International visit to United States between 06 April 2025 and 08 April 2025 — Fact-finding political delegation to strengthen transatlantic relations and to discuss joint UK-US foreign policy challenges with US politicians, policymakers and experts.",
+      "description": "flights (£1943.27), accommodation (£670.51), transport (£380.89), food/miscellaneous (£185.97)"
+    },
+    {
+      "id": 12124,
+      "date": "2025-03-20",
+      "category": "2",
+      "member_id": 4573,
+      "member_name": "Dr Rosena Allin-Khan",
+      "payer_id": 685,
+      "payer_name": "London Hotel Group",
+      "amount": 3750.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4573/registeredinterests?categoryId=2",
+      "summary": "London Hotel Group - £3,750.00",
+      "description": null
+    },
+    {
+      "id": 11969,
+      "date": "2025-03-07",
+      "category": "1.1",
+      "member_id": 4573,
+      "member_name": "Dr Rosena Allin-Khan",
+      "payer_id": 584,
+      "payer_name": "ITV PLC",
+      "amount": 300.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4573/registeredinterests?categoryId=1",
+      "summary": "Payment received on 07 March 2025 - £300.00",
+      "description": "For my appearance on This Morning show"
+    },
+    {
+      "id": 11942,
+      "date": "2025-03-05",
+      "category": "1.2",
+      "member_id": 4573,
+      "member_name": "Dr Rosena Allin-Khan",
+      "payer_id": 1040,
+      "payer_name": "St George's Hospital NHS Trust",
+      "amount": 977.01,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": "2025-02-26",
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4573/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 26 February 2025 - £977.01",
+      "description": "Most work is at unsociable hours."
+    },
+    {
+      "id": 11919,
+      "date": "2025-02-12",
+      "category": "1.1",
+      "member_id": 4573,
+      "member_name": "Dr Rosena Allin-Khan",
+      "payer_id": 1040,
+      "payer_name": "St George's Hospital NHS Trust",
+      "amount": 665.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4573/registeredinterests?categoryId=1",
+      "summary": "Payment received on 12 February 2025 - £665.00",
+      "description": null
+    },
+    {
+      "id": 11920,
+      "date": "2025-02-05",
+      "category": "1.1",
+      "member_id": 4573,
+      "member_name": "Dr Rosena Allin-Khan",
+      "payer_id": 1040,
+      "payer_name": "St George's Hospital NHS Trust",
+      "amount": 665.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4573/registeredinterests?categoryId=1",
+      "summary": "Payment received on 05 February 2025 - £665.00",
+      "description": null
+    }
+  ]
+}

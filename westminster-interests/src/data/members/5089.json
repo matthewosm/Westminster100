@@ -1,0 +1,248 @@
+{
+  "mnis_id": 5089,
+  "name": "Ben Obese-Jecty",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "Huntingdon",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5089/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 5613.05,
+      "combined": 5613.05,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 5613.05,
+      "combined": 5613.05,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 5613.05,
+      "combined": 5613.05,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 5613.05,
+      "combined": 5613.05,
+      "payment_count": 2,
+      "donor_count": 2
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 4213.05,
+        "combined": 4213.05,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 4213.05,
+        "combined": 4213.05,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 4213.05,
+        "combined": 4213.05,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 4213.05,
+        "combined": 4213.05,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1400.0,
+        "combined": 1400.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1400.0,
+        "combined": 1400.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1400.0,
+        "combined": 1400.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1400.0,
+        "combined": 1400.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    1400,
+    0,
+    0,
+    0,
+    0,
+    4213,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "ghana",
+      "appg_name": "All-Party Parliamentary Group for Ghana",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "armed-forces",
+      "appg_name": "All-Party Parliamentary Group for the Armed Forces",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "commonwealth-war-graves-commission-and-commemoration",
+      "appg_name": "All-Party Parliamentary Group for the Commonwealth War Graves Commission and Commemoration",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "phasing-out-animal-experiments-in-medical-research",
+      "appg_name": "All-Party Parliamentary Group on Phasing Out Animal Experiments in Medical Research",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "prostate-cancer",
+      "appg_name": "All-Party Parliamentary Group on Prostate Cancer",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "armed-forces-community",
+      "appg_name": "All-Party Parliamentary Group on the Armed Forces Community",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 141541,
+      "date": "2025-11-30",
+      "category": "4",
+      "member_id": 5089,
+      "member_name": "Ben Obese-Jecty",
+      "payer_id": 246,
+      "payer_name": "The Coalition for Global Prosperity (CGP)",
+      "amount": 4213.05,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5089/registeredinterests?categoryId=4",
+      "summary": "International visit to United States between 30 November 2025 and 05 December 2025 — Cross-party delegation to strengthen transatlantic relations and to discuss UK-US foreign policy priorities, challenges, and opportunities with members of Congress and policymakers.",
+      "description": "Flights (£1,967.94), accommodation (£1,005.08), local transport (£519.86), food/miscellaneous (£720.17)"
+    },
+    {
+      "id": 12864,
+      "date": "2025-07-05",
+      "category": "3",
+      "member_id": 5089,
+      "member_name": "Ben Obese-Jecty",
+      "payer_id": 1006,
+      "payer_name": "Silverstone Circuits Limited",
+      "amount": 1400.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5089/registeredinterests?categoryId=3",
+      "summary": "Silverstone Circuits Ltd - £1,400.00",
+      "description": "Two tickets with hospitality to watch British Grand Prix for one day"
+    }
+  ]
+}

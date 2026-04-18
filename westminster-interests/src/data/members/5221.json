@@ -1,0 +1,108 @@
+{
+  "mnis_id": 5221,
+  "name": "Steve Witherden",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Montgomeryshire and Glyndŵr",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5221/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    }
+  },
+  "categories": {},
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "air-ambulances",
+      "appg_name": "All-Party Parliamentary Group for Air Ambulances",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "education",
+      "appg_name": "All-Party Parliamentary Group for Education",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "greece",
+      "appg_name": "All-Party Parliamentary Group for Greece",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "wood-panel-industry",
+      "appg_name": "All-Party Parliamentary Group for the Wood Panel Industry",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "cuba",
+      "appg_name": "All-Party Parliamentary Group on Cuba",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "gaps-in-covid-19-financial-support",
+      "appg_name": "Gaps in Covid-19 Financial Support All-Party Parliamentary Group",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": []
+}

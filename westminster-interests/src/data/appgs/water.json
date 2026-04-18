@@ -1,0 +1,164 @@
+{
+  "slug": "water",
+  "title": "All-Party Parliamentary Water Group",
+  "purpose": "Provides a forum for parliamentarians and interested stakeholders to monitor government and regulatory policy and maintain a dialogue with government, Parliament, the water sector and a wide range of other interested groups.",
+  "categories": [
+    "Environment, Climate & Sustainability"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/water.htm",
+  "secretariat": "",
+  "website": "None",
+  "registered_contact_name": "Lee Pitcher MP",
+  "date_of_most_recent_agm": "2025-09-03 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "water",
+      "mnis_id": 5263,
+      "name": "Alex Brewer",
+      "canon_name": "Alex Brewer",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/water.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "water",
+      "mnis_id": null,
+      "name": "Baroness McIntosh of Pickering",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/water.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "water",
+      "mnis_id": 5171,
+      "name": "Julia Buckley",
+      "canon_name": "Julia Buckley",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/water.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "water",
+      "mnis_id": 5233,
+      "name": "Lee Pitcher",
+      "canon_name": "Lee Pitcher",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/water.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "water",
+      "mnis_id": 5263,
+      "name": "Alex Brewer",
+      "canon_name": "Alex Brewer",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/water.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "water",
+      "mnis_id": null,
+      "name": "Baroness McIntosh of Pickering",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/water.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "water",
+      "mnis_id": 5171,
+      "name": "Julia Buckley",
+      "canon_name": "Julia Buckley",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/water.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "water",
+      "mnis_id": 5233,
+      "name": "Lee Pitcher",
+      "canon_name": "Lee Pitcher",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/water.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

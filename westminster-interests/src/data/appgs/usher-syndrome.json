@@ -1,0 +1,165 @@
+{
+  "slug": "usher-syndrome",
+  "title": "Usher Syndrome All-Party Parliamentary Group",
+  "purpose": "To raise awareness of Usher Syndrome in Parliament and the broader public, campaign for better support for people and their families living with this condition, and help to develop a cure.",
+  "categories": [
+    "Health, Medicine & Public Health",
+    "Social Care, Welfare & Family Support"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/usher-syndrome.htm",
+  "secretariat": "",
+  "website": "None",
+  "registered_contact_name": "Mark Ferguson MP",
+  "date_of_most_recent_agm": "2024-11-12 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "usher-syndrome",
+      "mnis_id": 5353,
+      "name": "Anna Gelderd",
+      "canon_name": "Anna Gelderd",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/250909/usher-syndrome.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "usher-syndrome",
+      "mnis_id": null,
+      "name": "Baroness Nicholson of Winterbourne",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/250909/usher-syndrome.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "usher-syndrome",
+      "mnis_id": 5309,
+      "name": "Katrina Murray",
+      "canon_name": "Katrina Murray",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/250909/usher-syndrome.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "usher-syndrome",
+      "mnis_id": 5031,
+      "name": "Mark Ferguson",
+      "canon_name": "Mark Ferguson",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/250909/usher-syndrome.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "usher-syndrome",
+      "mnis_id": 5353,
+      "name": "Anna Gelderd",
+      "canon_name": "Anna Gelderd",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/250909/usher-syndrome.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "usher-syndrome",
+      "mnis_id": null,
+      "name": "Baroness Nicholson of Winterbourne",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/250909/usher-syndrome.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "usher-syndrome",
+      "mnis_id": 5309,
+      "name": "Katrina Murray",
+      "canon_name": "Katrina Murray",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/250909/usher-syndrome.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "usher-syndrome",
+      "mnis_id": 5031,
+      "name": "Mark Ferguson",
+      "canon_name": "Mark Ferguson",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/250909/usher-syndrome.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

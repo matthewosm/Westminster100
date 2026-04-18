@@ -1,0 +1,165 @@
+{
+  "slug": "customer-service",
+  "title": "All-Party Parliamentary Group on Customer Service",
+  "purpose": "To raise awareness and understanding of customer service, including its impact on economic growth. To improve public services, business performance and employability through customer service skills training and provide an improved outcome for customers and citizens.",
+  "categories": [
+    "Economy, Business & Industry",
+    "Finance, Markets & Consumer Affairs"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/customer-service.htm",
+  "secretariat": "The Institute of Customer Service acts as the group's secretariat.https://www.instituteofcustomerservice.com/",
+  "website": "https://www.instituteofcustomerservice.com/media/all-party-parliamentary-group",
+  "registered_contact_name": "Mr Connor Rand MP",
+  "date_of_most_recent_agm": "2024-12-10 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "customer-service",
+      "mnis_id": null,
+      "name": "Baroness Stowell of Beeston",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/customer-service.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "customer-service",
+      "mnis_id": 4084,
+      "name": "Esther McVey",
+      "canon_name": "Esther McVey",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/customer-service.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "customer-service",
+      "mnis_id": 4963,
+      "name": "Lord Sahota",
+      "canon_name": "Lord Sahota",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/customer-service.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "customer-service",
+      "mnis_id": 5159,
+      "name": "Mr Connor Rand",
+      "canon_name": "Connor Rand",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/customer-service.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "customer-service",
+      "mnis_id": null,
+      "name": "Baroness Stowell of Beeston",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/customer-service.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "customer-service",
+      "mnis_id": 4084,
+      "name": "Esther McVey",
+      "canon_name": "Esther McVey",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/customer-service.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "customer-service",
+      "mnis_id": 4963,
+      "name": "Lord Sahota",
+      "canon_name": "Lord Sahota",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/customer-service.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "customer-service",
+      "mnis_id": 5159,
+      "name": "Mr Connor Rand",
+      "canon_name": "Connor Rand",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/customer-service.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

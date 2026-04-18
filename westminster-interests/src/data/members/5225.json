@@ -1,0 +1,149 @@
+{
+  "mnis_id": 5225,
+  "name": "Lizzi Collinge",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Morecambe and Lunesdale",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5225/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 466.49,
+      "combined": 466.49,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 466.49,
+      "combined": 466.49,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 466.49,
+      "combined": 466.49,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 466.49,
+      "combined": 466.49,
+      "payment_count": 1,
+      "donor_count": 1
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 466.49,
+        "combined": 466.49,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 466.49,
+        "combined": 466.49,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 466.49,
+        "combined": 466.49,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 466.49,
+        "combined": 466.49,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    466,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "humanist",
+      "appg_name": "All-Party Parliamentary Humanist Group",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 12635,
+      "date": "2025-06-13",
+      "category": "3",
+      "member_id": 5225,
+      "member_name": "Lizzi Collinge",
+      "payer_id": 542,
+      "payer_name": "Humanists UK",
+      "amount": 466.49,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "humanist",
+      "appg_name": "All-Party Parliamentary Humanist Group",
+      "source_url": "https://members.parliament.uk/member/5225/registeredinterests?categoryId=3",
+      "summary": "Humanists UK - £466.49",
+      "description": "Hotel bed and breakfast for two nights (£223.98 inc VAT), ticket for two days to the Humanist UK Convention (£144 inc VAT), gala dinner (£85 inc VAT) and speakers' reception (£13.51 inc VAT), for my attendance at the Hummanist UK Conference as Guest Speaker"
+    }
+  ]
+}

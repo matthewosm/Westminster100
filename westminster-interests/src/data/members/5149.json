@@ -1,0 +1,323 @@
+{
+  "mnis_id": 5149,
+  "name": "Amanda Hack",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "North West Leicestershire",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5149/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 2718.0,
+      "combined": 2718.0,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 3113.0,
+      "combined": 3113.0,
+      "payment_count": 5,
+      "donor_count": 5
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 3113.0,
+      "combined": 3113.0,
+      "payment_count": 5,
+      "donor_count": 5
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 3113.0,
+      "combined": 3113.0,
+      "payment_count": 5,
+      "donor_count": 5
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 2258.0,
+        "combined": 2258.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 2653.0,
+        "combined": 2653.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 2653.0,
+        "combined": 2653.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 2653.0,
+        "combined": 2653.0,
+        "payment_count": 4,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 460.0,
+        "combined": 460.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 460.0,
+        "combined": 460.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 460.0,
+        "combined": 460.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 460.0,
+        "combined": 460.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    525,
+    0,
+    0,
+    0,
+    2193,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "food-and-drink",
+      "appg_name": "All-Party Parliamentary Group for Food and Drink",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "public-sector-efficiency",
+      "appg_name": "All-Party Parliamentary Group for Public Sector Efficiency",
+      "officer_role": "Co-Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "cardiac-risk-in-the-young",
+      "appg_name": "All-Party Parliamentary Group on Cardiac Risk in the Young",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "equitable-governance",
+      "appg_name": "All-Party Parliamentary Group on Equitable Governance",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "financial-education-for-young-people",
+      "appg_name": "All-Party Parliamentary Group on Financial Education for Young People",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "future-homes-skills-and-innovation",
+      "appg_name": "Future Homes, Skills and Innovation All-Party Parliamentary Group",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14077,
+      "date": "2025-11-05",
+      "category": "3",
+      "member_id": 5149,
+      "member_name": "Amanda Hack",
+      "payer_id": 203,
+      "payer_name": "Ceramics UK",
+      "amount": 438.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5149/registeredinterests?categoryId=3",
+      "summary": "Ceramics UK - £438.00",
+      "description": "Invitation to the Brick Awards, with dinner"
+    },
+    {
+      "id": 140671,
+      "date": "2025-10-26",
+      "category": "4",
+      "member_id": 5149,
+      "member_name": "Amanda Hack",
+      "payer_id": 248,
+      "payer_name": "Coca-Cola Europacific Partners plc",
+      "amount": 460.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "food-and-drink",
+      "appg_name": "All-Party Parliamentary Group for Food and Drink",
+      "source_url": "https://members.parliament.uk/member/5149/registeredinterests?categoryId=4",
+      "summary": "International visit to Belgium between 26 October 2025 and 27 October 2025 — In my role as Vice Chair of the APPG, we were invited to Coca Cola to their development site",
+      "description": "Train travel via Eurostar (£300) and overnight accommodation (£160)"
+    },
+    {
+      "id": 13821,
+      "date": "2025-10-21",
+      "category": "3",
+      "member_id": 5149,
+      "member_name": "Amanda Hack",
+      "payer_id": 895,
+      "payer_name": "Premier League",
+      "amount": 1295.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5149/registeredinterests?categoryId=3",
+      "summary": "Premier League - £1,295.00",
+      "description": "Ticket with hospitality to watch Arsenal V Athletico Madrid"
+    },
+    {
+      "id": 12976,
+      "date": "2025-06-29",
+      "category": "3",
+      "member_id": 5149,
+      "member_name": "Amanda Hack",
+      "payer_id": 417,
+      "payer_name": "The Football Association Ltd",
+      "amount": 525.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-06-29",
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5149/registeredinterests?categoryId=3",
+      "summary": "Football Association Limited - £525.00",
+      "description": "Three tickets with hospitality for myself, a guest and a family member for the Women's Football friendly between England and Jamaica.  Hosted at the King Power Stadium, Leicester City"
+    },
+    {
+      "id": 12419,
+      "date": "2025-03-26",
+      "category": "3",
+      "member_id": 5149,
+      "member_name": "Amanda Hack",
+      "payer_id": 416,
+      "payer_name": "The Food and Drink Federation",
+      "amount": 395.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-03-26",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "food-and-drink",
+      "appg_name": "All-Party Parliamentary Group for Food and Drink",
+      "source_url": "https://members.parliament.uk/member/5149/registeredinterests?categoryId=3",
+      "summary": "The Food and Drink Federation - £395.00",
+      "description": "A ticket to attend the Food and Drink Industry Dinner 2025"
+    }
+  ]
+}

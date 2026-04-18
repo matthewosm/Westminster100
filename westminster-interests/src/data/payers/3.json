@@ -1,0 +1,124 @@
+{
+  "id": 3,
+  "name": "89Up Ltd",
+  "address": "64-68 Pentonville Road, London N1 9PR",
+  "nature_of_business": null,
+  "donor_status": "Company",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 6768.97,
+      "combined": 6768.97,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 6768.97,
+      "combined": 6768.97,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 6768.97,
+      "combined": 6768.97,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 6768.97,
+      "combined": 6768.97,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    5269,
+    1500,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 13431,
+      "date": "2025-10-04",
+      "category": "2",
+      "member_id": 4046,
+      "member_name": "Bridget Phillipson",
+      "payer_id": 3,
+      "payer_name": "89Up Ltd",
+      "amount": 1500.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-10-25",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4046/registeredinterests?categoryId=2",
+      "summary": "89Up Ltd - £1,500.00",
+      "description": "Staff time for designing and updating a website and associated functionality to support my campaign for the deputy leadership of the Labour Party, plus associated website service costs (estimated)"
+    },
+    {
+      "id": 13430,
+      "date": "2025-09-11",
+      "category": "2",
+      "member_id": 4046,
+      "member_name": "Bridget Phillipson",
+      "payer_id": 3,
+      "payer_name": "89Up Ltd",
+      "amount": 5268.97,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-10-03",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4046/registeredinterests?categoryId=2",
+      "summary": "89up Ltd - £5,268.97",
+      "description": "Staff time for designing and updating a website and associated functionality to support my campaign for the deputy leadership of the Labour Party, plus associated website service costs"
+    }
+  ]
+}

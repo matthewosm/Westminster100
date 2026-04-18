@@ -1,0 +1,165 @@
+{
+  "slug": "global-education",
+  "title": "All-Party Parliamentary Group on Global Education",
+  "purpose": "UK Parliamentarians working to achieve Sustainable Development Goal 4: to ensure inclusive and equitable quality education and promote lifelong learning opportunities for all.",
+  "categories": [
+    "Education, Skills & Youth",
+    "International Affairs, Development & Trade"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/global-education.htm",
+  "secretariat": "Results UK acts as the group's secretariat.https://results.org.uk/",
+  "website": "https://www.globaleducationappg.co.uk/",
+  "registered_contact_name": "Bambos Charalambous MP",
+  "date_of_most_recent_agm": "2025-11-17 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "global-education",
+      "mnis_id": 4610,
+      "name": "Bambos Charalambous",
+      "canon_name": "Bambos Charalambous",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/global-education.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "global-education",
+      "mnis_id": 4724,
+      "name": "Baroness Blower",
+      "canon_name": "Baroness Blower",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/global-education.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "global-education",
+      "mnis_id": 4163,
+      "name": "Lord German",
+      "canon_name": "Lord German",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/global-education.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "global-education",
+      "mnis_id": 4384,
+      "name": "Mike Wood",
+      "canon_name": "Mike Wood",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/global-education.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "global-education",
+      "mnis_id": 4610,
+      "name": "Bambos Charalambous",
+      "canon_name": "Bambos Charalambous",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/global-education.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "global-education",
+      "mnis_id": 4724,
+      "name": "Baroness Blower",
+      "canon_name": "Baroness Blower",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/global-education.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "global-education",
+      "mnis_id": 4163,
+      "name": "Lord German",
+      "canon_name": "Lord German",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/global-education.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "global-education",
+      "mnis_id": 4384,
+      "name": "Mike Wood",
+      "canon_name": "Mike Wood",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/global-education.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

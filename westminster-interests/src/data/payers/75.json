@@ -1,0 +1,99 @@
+{
+  "id": 75,
+  "name": "Artha Global",
+  "address": "First Floor, 10 Queen Street Place, London EC4R1BE",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 4082.95,
+      "combined": 4082.95,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 4082.95,
+      "combined": 4082.95,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 4082.95,
+      "combined": 4082.95,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 4082.95,
+      "combined": 4082.95,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    4083,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 133961,
+      "date": "2025-08-28",
+      "category": "4",
+      "member_id": 4462,
+      "member_name": "Tom Tugendhat",
+      "payer_id": 75,
+      "payer_name": "Artha Global",
+      "amount": 4082.95,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4462/registeredinterests?categoryId=4",
+      "summary": "International visit to India between 28 August 2025 and 01 September 2025 — Attendance at a conference on geopolitical issues and economic growth in Kochi, India.",
+      "description": "Flights (£2,615.78), accommodation (£649.98), food (£164.59) and visa (£598.57)"
+    }
+  ]
+}

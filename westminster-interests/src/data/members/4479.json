@@ -1,0 +1,286 @@
+{
+  "mnis_id": 4479,
+  "name": "Nick Thomas-Symonds",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Torfaen",
+  "house": "Commons",
+  "start_date": "2015-05-07",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4479/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 2088.57,
+      "inkind": 160.0,
+      "combined": 2248.57,
+      "payment_count": 5,
+      "donor_count": 4
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 2088.57,
+      "inkind": 160.0,
+      "combined": 2248.57,
+      "payment_count": 5,
+      "donor_count": 4
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 2088.57,
+      "inkind": 160.0,
+      "combined": 2248.57,
+      "payment_count": 5,
+      "donor_count": 4
+    },
+    "all_time": {
+      "monetary": 2088.57,
+      "inkind": 160.0,
+      "combined": 2248.57,
+      "payment_count": 5,
+      "donor_count": 4
+    }
+  },
+  "categories": {
+    "1.1": {
+      "12m": {
+        "monetary": 2088.57,
+        "inkind": 0.0,
+        "combined": 2088.57,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 2088.57,
+        "inkind": 0.0,
+        "combined": 2088.57,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 2088.57,
+        "inkind": 0.0,
+        "combined": 2088.57,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 2088.57,
+        "inkind": 0.0,
+        "combined": 2088.57,
+        "payment_count": 4,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 160.0,
+        "combined": 160.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 160.0,
+        "combined": 160.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 160.0,
+        "combined": 160.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 160.0,
+        "combined": 160.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    613,
+    0,
+    0,
+    946,
+    160,
+    0,
+    0,
+    529,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [],
+  "payments": [
+    {
+      "id": 14005,
+      "date": "2025-11-25",
+      "category": "1.1",
+      "member_id": 4479,
+      "member_name": "Nick Thomas-Symonds",
+      "payer_id": 1163,
+      "payer_name": "Weidenfeld & Nicolson United Kingdom, Orion Publishing Group",
+      "amount": 529.27,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": true,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4479/registeredinterests?categoryId=1",
+      "summary": "Payment received on 25 November 2025 - £529.27",
+      "description": "Royalty payments for a previously published book"
+    },
+    {
+      "id": 13170,
+      "date": "2025-08-22",
+      "category": "3",
+      "member_id": 4479,
+      "member_name": "Nick Thomas-Symonds",
+      "payer_id": 109,
+      "payer_name": "BBC",
+      "amount": 160.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4479/registeredinterests?categoryId=3",
+      "summary": "BBC - £160.00",
+      "description": "Associated with an appearance on Any Questions, car travel to and from my constituency to Stogursey and District Victory Village Hall, near Bridgwater, Somerset. Value is estimated"
+    },
+    {
+      "id": 13099,
+      "date": "2025-07-29",
+      "category": "1.1",
+      "member_id": 4479,
+      "member_name": "Nick Thomas-Symonds",
+      "payer_id": 134,
+      "payer_name": "Bloomsbury Publishing PLC",
+      "amount": 946.34,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": true,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4479/registeredinterests?categoryId=1",
+      "summary": "Payment received on 29 July 2025 - £946.34",
+      "description": "Royalties for books written before entering Parliament."
+    },
+    {
+      "id": 12334,
+      "date": "2025-04-30",
+      "category": "1.1",
+      "member_id": 4479,
+      "member_name": "Nick Thomas-Symonds",
+      "payer_id": 1163,
+      "payer_name": "Weidenfeld & Nicolson United Kingdom, Orion Publishing Group",
+      "amount": 515.35,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": true,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4479/registeredinterests?categoryId=1",
+      "summary": "Payment received on 30 April 2025 - £515.35",
+      "description": "Royalties for book written before entering Parliament."
+    },
+    {
+      "id": 12337,
+      "date": "2025-04-30",
+      "category": "1.1",
+      "member_id": 4479,
+      "member_name": "Nick Thomas-Symonds",
+      "payer_id": 134,
+      "payer_name": "Bloomsbury Publishing PLC",
+      "amount": 97.61,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": true,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4479/registeredinterests?categoryId=1",
+      "summary": "Payment received on 30 April 2025 - £97.61",
+      "description": "Royalties for book written before entering Parliament."
+    }
+  ]
+}

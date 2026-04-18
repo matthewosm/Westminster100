@@ -1,0 +1,311 @@
+{
+  "mnis_id": 5352,
+  "name": "Dr Roz Savage",
+  "party": "Liberal Democrat",
+  "party_slug": "liberal-democrat",
+  "constituency": "South Cotswolds",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5352/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 203.54,
+      "inkind": 3068.84,
+      "combined": 3272.38,
+      "payment_count": 3,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 315.38,
+      "inkind": 3068.84,
+      "combined": 3384.22,
+      "payment_count": 5,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 315.38,
+      "inkind": 3068.84,
+      "combined": 3384.22,
+      "payment_count": 5,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 315.38,
+      "inkind": 3068.84,
+      "combined": 3384.22,
+      "payment_count": 5,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 203.54,
+        "inkind": 0.0,
+        "combined": 203.54,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 315.38,
+        "inkind": 0.0,
+        "combined": 315.38,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 315.38,
+        "inkind": 0.0,
+        "combined": 315.38,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 315.38,
+        "inkind": 0.0,
+        "combined": 315.38,
+        "payment_count": 4,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 3068.84,
+        "combined": 3068.84,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 3068.84,
+        "combined": 3068.84,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 3068.84,
+        "combined": 3068.84,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 3068.84,
+        "combined": 3068.84,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    3180,
+    0,
+    0,
+    92,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "sustainable-flood-and-drought-management",
+      "appg_name": "All-Party Parliamentary Group for Sustainable Flood and Drought Management",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "international-conservation",
+      "appg_name": "All-Party Parliamentary Group on International Conservation",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "uk-food-security",
+      "appg_name": "All-Party Parliamentary Group on UK Food Security",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "local-nature-recovery",
+      "appg_name": "Local Nature Recovery All-Party Parliamentary Group",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 13898,
+      "date": "2025-11-14",
+      "category": "3",
+      "member_id": 5352,
+      "member_name": "Dr Roz Savage",
+      "payer_id": 815,
+      "payer_name": "NFU",
+      "amount": 92.12,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5352/registeredinterests?categoryId=3",
+      "summary": "NFU - £92.12",
+      "description": "Travel expenses for NFU Fellowship visits as part as my portfolio with farmers"
+    },
+    {
+      "id": 13897,
+      "date": "2025-08-08",
+      "category": "3",
+      "member_id": 5352,
+      "member_name": "Dr Roz Savage",
+      "payer_id": 815,
+      "payer_name": "NFU",
+      "amount": 111.42,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5352/registeredinterests?categoryId=3",
+      "summary": "NFU - £111.42",
+      "description": "Travel expenses for NFU Fellowship visits as part as my portfolio with farmers"
+    },
+    {
+      "id": 132511,
+      "date": "2025-08-07",
+      "category": "4",
+      "member_id": 5352,
+      "member_name": "Dr Roz Savage",
+      "payer_id": 357,
+      "payer_name": "Elected Officials to Protect America",
+      "amount": 3068.84,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5352/registeredinterests?categoryId=4",
+      "summary": "International visit to United States between 07 August 2025 and 19 August 2025 — To attend The Certificate in Public Leadership (on a scholarship basis) run by the University of San Francisco and the Elected Officials to Protect America.",
+      "description": "Flights (£1,100.00), other travel including airport transfers (£265.00), hotel (£ 512.08), course costs (£ 1,100.00) and meals (£91.76)"
+    },
+    {
+      "id": 13896,
+      "date": "2025-04-16",
+      "category": "3",
+      "member_id": 5352,
+      "member_name": "Dr Roz Savage",
+      "payer_id": 815,
+      "payer_name": "NFU",
+      "amount": 41.63,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5352/registeredinterests?categoryId=3",
+      "summary": "NFU - £41.63",
+      "description": "Travel expenses for NFU Fellowship visits as part as my portfolio with farmers"
+    },
+    {
+      "id": 13895,
+      "date": "2025-03-05",
+      "category": "3",
+      "member_id": 5352,
+      "member_name": "Dr Roz Savage",
+      "payer_id": 791,
+      "payer_name": "National Farmers' Union",
+      "amount": 70.21,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5352/registeredinterests?categoryId=3",
+      "summary": "National Farmers' Union - £70.21",
+      "description": "Travel expenses for NFU Fellowship visits as part as my portfolio with farmers"
+    }
+  ]
+}

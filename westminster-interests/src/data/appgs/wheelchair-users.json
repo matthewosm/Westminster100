@@ -1,0 +1,164 @@
+{
+  "slug": "wheelchair-users",
+  "title": "All-Party Parliamentary Group for Wheelchair Users",
+  "purpose": "To present the current state of NHS Wheelchair Services for young and adult wheelchair users in the UK and the whole system impact of poor provision. To discuss solutions to transform NHS Wheelchair Services so that wheelchair users can equitably access education, employment and society and contribute to UK productivity.",
+  "categories": [
+    "Health, Medicine & Public Health"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/wheelchair-users.htm",
+  "secretariat": "Whizz Kidz acts as the group's secretariat.https://www.whizz-kidz.org.uk/",
+  "website": "None",
+  "registered_contact_name": "Daniel Francis MP",
+  "date_of_most_recent_agm": "2025-05-20 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "wheelchair-users",
+      "mnis_id": 3862,
+      "name": "Baroness Grey-Thompson",
+      "canon_name": "Baroness Grey-Thompson",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/wheelchair-users.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "wheelchair-users",
+      "mnis_id": 5184,
+      "name": "Daniel Francis",
+      "canon_name": "Daniel Francis",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/wheelchair-users.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "wheelchair-users",
+      "mnis_id": 5334,
+      "name": "Dr Allison Gardner",
+      "canon_name": "Allison Gardner",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/wheelchair-users.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "wheelchair-users",
+      "mnis_id": 4557,
+      "name": "Lord Shinkwin",
+      "canon_name": "Lord Shinkwin",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/wheelchair-users.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "wheelchair-users",
+      "mnis_id": 3862,
+      "name": "Baroness Grey-Thompson",
+      "canon_name": "Baroness Grey-Thompson",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/wheelchair-users.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "wheelchair-users",
+      "mnis_id": 5184,
+      "name": "Daniel Francis",
+      "canon_name": "Daniel Francis",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/wheelchair-users.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "wheelchair-users",
+      "mnis_id": 5334,
+      "name": "Dr Allison Gardner",
+      "canon_name": "Allison Gardner",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/wheelchair-users.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "wheelchair-users",
+      "mnis_id": 4557,
+      "name": "Lord Shinkwin",
+      "canon_name": "Lord Shinkwin",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/wheelchair-users.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

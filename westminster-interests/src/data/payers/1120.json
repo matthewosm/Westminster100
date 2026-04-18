@@ -1,0 +1,99 @@
+{
+  "id": 1120,
+  "name": "UK Chamber of Shipping",
+  "address": "30 Park Street, London SE1 9EQ",
+  "nature_of_business": null,
+  "donor_status": "Company",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 302.4,
+      "combined": 302.4,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 302.4,
+      "combined": 302.4,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 302.4,
+      "combined": 302.4,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 302.4,
+      "combined": 302.4,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    302,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 14654,
+      "date": "2026-01-30",
+      "category": "3",
+      "member_id": 5270,
+      "member_name": "Darren Paffey",
+      "payer_id": 1120,
+      "payer_name": "UK Chamber of Shipping",
+      "amount": 302.4,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5270/registeredinterests?categoryId=3",
+      "summary": "UK Chamber of Shipping - £302.40",
+      "description": "Attendance for myself at the UK Chamber of Shipping Annual Dinner 2026. The ticket included a three-course dinner with wine"
+    }
+  ]
+}

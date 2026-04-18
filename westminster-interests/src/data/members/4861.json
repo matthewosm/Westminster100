@@ -1,0 +1,268 @@
+{
+  "mnis_id": 4861,
+  "name": "Robbie Moore",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "Keighley and Ilkley",
+  "house": "Commons",
+  "start_date": "2019-12-12",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4861/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 12500.0,
+      "inkind": 480.0,
+      "combined": 12980.0,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 480.0,
+      "combined": 480.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 12500.0,
+      "inkind": 0.0,
+      "combined": 12500.0,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 12500.0,
+      "inkind": 480.0,
+      "combined": 12980.0,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "all_time": {
+      "monetary": 12500.0,
+      "inkind": 480.0,
+      "combined": 12980.0,
+      "payment_count": 4,
+      "donor_count": 4
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 480.0,
+        "combined": 480.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 480.0,
+        "combined": 480.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 480.0,
+        "combined": 480.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 480.0,
+        "combined": 480.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "2": {
+      "12m": {
+        "monetary": 12500.0,
+        "inkind": 0.0,
+        "combined": 12500.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 12500.0,
+        "inkind": 0.0,
+        "combined": 12500.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 12500.0,
+        "inkind": 0.0,
+        "combined": 12500.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 12500.0,
+        "inkind": 0.0,
+        "combined": 12500.0,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    10000,
+    2500,
+    0,
+    480,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "islamic-and-ethical-finance",
+      "appg_name": "All-Party Parliamentary Group on Islamic and Ethical Finance",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14753,
+      "date": "2026-02-12",
+      "category": "3",
+      "member_id": 4861,
+      "member_name": "Robbie Moore",
+      "payer_id": 791,
+      "payer_name": "National Farmers' Union",
+      "amount": 480.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4861/registeredinterests?categoryId=3",
+      "summary": "National Farmers Union - £480.00",
+      "description": "NFU Day conference pass and dinner ticket"
+    },
+    {
+      "id": 14099,
+      "date": "2025-12-08",
+      "category": "2",
+      "member_id": 4861,
+      "member_name": "Robbie Moore",
+      "payer_id": 618,
+      "payer_name": "John James",
+      "amount": 2500.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4861/registeredinterests?categoryId=2",
+      "summary": "John James - £2,500.00",
+      "description": null
+    },
+    {
+      "id": 13756,
+      "date": "2025-11-04",
+      "category": "2",
+      "member_id": 4861,
+      "member_name": "Robbie Moore",
+      "payer_id": 722,
+      "payer_name": "Marco Compagnoni",
+      "amount": 5000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4861/registeredinterests?categoryId=2",
+      "summary": "Marco Compagnoni - £5,000.00",
+      "description": null
+    },
+    {
+      "id": 13757,
+      "date": "2025-11-04",
+      "category": "2",
+      "member_id": 4861,
+      "member_name": "Robbie Moore",
+      "payer_id": 962,
+      "payer_name": "Robert Harding",
+      "amount": 5000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4861/registeredinterests?categoryId=2",
+      "summary": "Robert Harding - £5,000.00",
+      "description": null
+    }
+  ]
+}

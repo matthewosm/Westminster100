@@ -1,0 +1,355 @@
+{
+  "mnis_id": 5078,
+  "name": "Pippa Heylings",
+  "party": "Liberal Democrat",
+  "party_slug": "liberal-democrat",
+  "constituency": "South Cambridgeshire",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5078/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 3195.27,
+      "combined": 3195.27,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 10000.0,
+      "inkind": 5153.27,
+      "combined": 15153.27,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 571.37,
+      "inkind": 1740.0,
+      "combined": 2311.37,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "since_election": {
+      "monetary": 10571.37,
+      "inkind": 6893.27,
+      "combined": 17464.64,
+      "payment_count": 5,
+      "donor_count": 5
+    },
+    "all_time": {
+      "monetary": 10571.37,
+      "inkind": 6893.27,
+      "combined": 17464.64,
+      "payment_count": 5,
+      "donor_count": 5
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 3195.27,
+        "combined": 3195.27,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 5153.27,
+        "combined": 5153.27,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 1740.0,
+        "combined": 1740.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 6893.27,
+        "combined": 6893.27,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 6893.27,
+        "combined": 6893.27,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    },
+    "2": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 10000.0,
+        "inkind": 0.0,
+        "combined": 10000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 10000.0,
+        "inkind": 0.0,
+        "combined": 10000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 10000.0,
+        "inkind": 0.0,
+        "combined": 10000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "1.2": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 571.37,
+        "inkind": 0.0,
+        "combined": 571.37,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 571.37,
+        "inkind": 0.0,
+        "combined": 571.37,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 571.37,
+        "inkind": 0.0,
+        "combined": 571.37,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3195,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "life-sciences",
+      "appg_name": "All-Party Parliamentary Group for Life Sciences",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "climate-change",
+      "appg_name": "All-Party Parliamentary Group on Climate Change",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "global-deforestation",
+      "appg_name": "All-Party Parliamentary Group on Global Deforestation",
+      "officer_role": "Co-Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "local-nature-recovery",
+      "appg_name": "Local Nature Recovery All-Party Parliamentary Group",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 140471,
+      "date": "2025-11-11",
+      "category": "4",
+      "member_id": 5078,
+      "member_name": "Pippa Heylings",
+      "payer_id": 372,
+      "payer_name": "Energy and Climate Intelligence Unit",
+      "amount": 3195.27,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5078/registeredinterests?categoryId=4",
+      "summary": "International visit to Brazil between 11 November 2025 and 19 November 2025 — Cross-party MP attendance of COP30 to meet legislators and experts and to gain knowledge of key issues of this next stage of the international climate process.",
+      "description": "Accommodation (£539.91), flight (£2,271.72) and maximum subsistence received (£383.64)"
+    },
+    {
+      "id": 11902,
+      "date": "2025-03-02",
+      "category": "2",
+      "member_id": 5078,
+      "member_name": "Pippa Heylings",
+      "payer_id": 351,
+      "payer_name": "Edward Powell",
+      "amount": 10000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5078/registeredinterests?categoryId=2",
+      "summary": "Edward Powell - £10,000.00",
+      "description": null
+    },
+    {
+      "id": 119051,
+      "date": "2025-02-16",
+      "category": "4",
+      "member_id": 5078,
+      "member_name": "Pippa Heylings",
+      "payer_id": 1191,
+      "payer_name": "Yachad",
+      "amount": 1958.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5078/registeredinterests?categoryId=4",
+      "summary": "International visit to Israel between 16 February 2025 and 20 February 2025 — To meet victims of violence in Israel and the West Bank, and a range of individuals and organisations, to understand the steps needed to achieve a resolution to the Israel-Palestine conflict and to respond to the humanitarian situation in Gaza.",
+      "description": "Flights, accommodation, hospitality and travel"
+    },
+    {
+      "id": 117471,
+      "date": "2024-10-21",
+      "category": "4",
+      "member_id": 5078,
+      "member_name": "Pippa Heylings",
+      "payer_id": 566,
+      "payer_name": "International Conservation Caucus Foundation",
+      "amount": 1740.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "international-conservation",
+      "appg_name": "All-Party Parliamentary Group on International Conservation",
+      "source_url": "https://members.parliament.uk/member/5078/registeredinterests?categoryId=4",
+      "summary": "International visit to Colombia between 21 October 2024 and 28 October 2024 — Cross-Party MP Delegation to the United Nations Conference on Biodiversity COP16 in Cali, Colombia",
+      "description": "Flights (£1225)\r\nAccommodation (£515)"
+    },
+    {
+      "id": 9930,
+      "date": "2024-08-03",
+      "category": "1.2",
+      "member_id": 5078,
+      "member_name": "Pippa Heylings",
+      "payer_id": 1026,
+      "payer_name": "South Cambridgeshire District Council",
+      "amount": 527.0,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": null,
+      "end_date": "2024-09-05",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5078/registeredinterests?categoryId=1",
+      "summary": "Agreement - £527.00",
+      "description": null
+    }
+  ]
+}

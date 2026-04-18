@@ -1,0 +1,99 @@
+{
+  "id": 857,
+  "name": "Palo Alto Network",
+  "address": "3000 Tannery Way, Santa Clara, California 95054",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 12873.52,
+      "combined": 12873.52,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 12873.52,
+      "combined": 12873.52,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 12873.52,
+      "combined": 12873.52,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 12873.52,
+      "combined": 12873.52,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    12874,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 131531,
+      "date": "2025-08-13",
+      "category": "4",
+      "member_id": 4359,
+      "member_name": "Stephen Kinnock",
+      "payer_id": 857,
+      "payer_name": "Palo Alto Network",
+      "amount": 12873.52,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4359/registeredinterests?categoryId=4",
+      "summary": "International visit to United States between 13 August 2025 and 17 August 2025 — Palo Alto Networks covered the costs for me to accompany my wife on a team-building trip to Napa Valley, organised for board members and their spouses/partners.",
+      "description": "Hotel room for me and my wife (£4473.00 approximately), food (£906.00 approximately), flights (£6395.02 inc. immigration and customs fee) and airport transfers (£1099.50 - return journey was shared with my wife)"
+    }
+  ]
+}

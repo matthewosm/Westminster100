@@ -1,0 +1,332 @@
+{
+  "slug": "learning-disability",
+  "title": "All-Party Parliamentary Group on Learning Disability",
+  "purpose": "To explore the issues faced by people with a learning disability and by their families. The group explores the key issues of the day, across areas including health, social care, education, employment and benefits.",
+  "categories": [
+    "Social Care, Welfare & Family Support"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/learning-disability.htm",
+  "secretariat": "Royal Mencap Society acts as the group's secretariat.https://www.mencap.org.uk/",
+  "website": "https://www.mencap.org.uk/all-party-parliamentary-group-learning-disability",
+  "registered_contact_name": "Jen Craft MP",
+  "date_of_most_recent_agm": "2025-04-02 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "learning-disability",
+      "mnis_id": 4190,
+      "name": "Baroness Hollins",
+      "canon_name": "Baroness Hollins",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/learning-disability.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "learning-disability",
+      "mnis_id": null,
+      "name": "Baroness Monckton of Dallington Forest",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/learning-disability.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "learning-disability",
+      "mnis_id": 5354,
+      "name": "Cameron Thomas",
+      "canon_name": "Cameron Thomas",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/learning-disability.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "learning-disability",
+      "mnis_id": 5056,
+      "name": "Jen Craft",
+      "canon_name": "Jennifer Craft",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/learning-disability.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "learning-disability",
+      "mnis_id": 6161,
+      "name": "Mr Colm Gildernew",
+      "canon_name": "Colm Gildernew",
+      "officer_role": "Vice-Chairperson",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=1555",
+      "removed": null
+    },
+    {
+      "appg_slug": "learning-disability",
+      "mnis_id": 8076,
+      "name": "Mr Danny Donnelly",
+      "canon_name": "Danny Donnelly",
+      "officer_role": "Chairperson",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=1555",
+      "removed": null
+    },
+    {
+      "appg_slug": "learning-disability",
+      "mnis_id": 7467,
+      "name": "Mr Pádraig Delargy",
+      "canon_name": "Pádraig Delargy",
+      "officer_role": "Secretary",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=1555",
+      "removed": null
+    },
+    {
+      "appg_slug": "learning-disability",
+      "mnis_id": 5808,
+      "name": "Mr Robbie Butler",
+      "canon_name": "Robbie Butler",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=1555",
+      "removed": null
+    },
+    {
+      "appg_slug": "learning-disability",
+      "mnis_id": null,
+      "name": "Paul O'Kane",
+      "canon_name": "Paul O'Kane",
+      "officer_role": "Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "learning-disability",
+      "mnis_id": 8670,
+      "name": "Sioned Williams",
+      "canon_name": "Sioned Williams",
+      "officer_role": "Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=851",
+      "removed": null
+    },
+    {
+      "appg_slug": "learning-disability",
+      "mnis_id": null,
+      "name": "Stephanie Callaghan",
+      "canon_name": "Stephanie Callaghan",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "learning-disability",
+      "mnis_id": 4190,
+      "name": "Baroness Hollins",
+      "canon_name": "Baroness Hollins",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/learning-disability.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "learning-disability",
+      "mnis_id": null,
+      "name": "Baroness Monckton of Dallington Forest",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/learning-disability.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "learning-disability",
+      "mnis_id": 5354,
+      "name": "Cameron Thomas",
+      "canon_name": "Cameron Thomas",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/learning-disability.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "learning-disability",
+      "mnis_id": 5056,
+      "name": "Jen Craft",
+      "canon_name": "Jennifer Craft",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/learning-disability.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "learning-disability",
+      "mnis_id": 6161,
+      "name": "Mr Colm Gildernew",
+      "canon_name": "Colm Gildernew",
+      "officer_role": "Vice-Chairperson",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=1555",
+      "removed": null
+    },
+    {
+      "appg_slug": "learning-disability",
+      "mnis_id": 8076,
+      "name": "Mr Danny Donnelly",
+      "canon_name": "Danny Donnelly",
+      "officer_role": "Chairperson",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=1555",
+      "removed": null
+    },
+    {
+      "appg_slug": "learning-disability",
+      "mnis_id": 7467,
+      "name": "Mr Pádraig Delargy",
+      "canon_name": "Pádraig Delargy",
+      "officer_role": "Secretary",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=1555",
+      "removed": null
+    },
+    {
+      "appg_slug": "learning-disability",
+      "mnis_id": 5808,
+      "name": "Mr Robbie Butler",
+      "canon_name": "Robbie Butler",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=1555",
+      "removed": null
+    },
+    {
+      "appg_slug": "learning-disability",
+      "mnis_id": null,
+      "name": "Paul O'Kane",
+      "canon_name": "Paul O'Kane",
+      "officer_role": "Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "learning-disability",
+      "mnis_id": 8670,
+      "name": "Sioned Williams",
+      "canon_name": "Sioned Williams",
+      "officer_role": "Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=851",
+      "removed": null
+    },
+    {
+      "appg_slug": "learning-disability",
+      "mnis_id": null,
+      "name": "Stephanie Callaghan",
+      "canon_name": "Stephanie Callaghan",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

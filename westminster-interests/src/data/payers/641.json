@@ -1,0 +1,124 @@
+{
+  "id": 641,
+  "name": "Knights Tailoring Ltd",
+  "address": "1 Brassey Road, Old Potts Way, Shrewsbury, Shropshire. SY3 7FA",
+  "nature_of_business": null,
+  "donor_status": "Company",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 1374.0,
+      "combined": 1374.0,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 1374.0,
+      "combined": 1374.0,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 1374.0,
+      "combined": 1374.0,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 1374.0,
+      "combined": 1374.0,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    750,
+    0,
+    0,
+    0,
+    624,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 13841,
+      "date": "2025-11-04",
+      "category": "3",
+      "member_id": 5354,
+      "member_name": "Cameron Thomas",
+      "payer_id": 641,
+      "payer_name": "Knights Tailoring Ltd",
+      "amount": 624.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5354/registeredinterests?categoryId=3",
+      "summary": "Knights Tailoring Ltd - £624.00",
+      "description": "Two tickets to the RWHA Annual Banquet for myself and a guest. Tickets include a meal & hospitality"
+    },
+    {
+      "id": 12808,
+      "date": "2025-07-02",
+      "category": "3",
+      "member_id": 4658,
+      "member_name": "Alex Sobel",
+      "payer_id": 641,
+      "payer_name": "Knights Tailoring Ltd",
+      "amount": 750.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-07-02",
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "ukraine",
+      "appg_name": "All-Party Parliamentary Group on Ukraine",
+      "source_url": "https://members.parliament.uk/member/4658/registeredinterests?categoryId=3",
+      "summary": "Knights Tailoring Ltd - £750.00",
+      "description": "Two tickets for the National Film Awards to support the Ukrainian documentary 'We are Home'  that won Best Documentary. Hospitality included drinks but no food"
+    }
+  ]
+}

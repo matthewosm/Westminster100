@@ -1,0 +1,167 @@
+{
+  "mnis_id": 4735,
+  "name": "Stephen Flynn",
+  "party": "Scottish National Party",
+  "party_slug": "scottish-national-party",
+  "constituency": "Aberdeen South",
+  "house": "Commons",
+  "start_date": "2019-12-12",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4735/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 1804.0,
+      "combined": 1804.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 900.0,
+      "combined": 900.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 904.0,
+      "combined": 904.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 1804.0,
+      "combined": 1804.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 1804.0,
+      "combined": 1804.0,
+      "payment_count": 2,
+      "donor_count": 2
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1804.0,
+        "combined": 1804.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 900.0,
+        "combined": 900.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 904.0,
+        "combined": 904.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1804.0,
+        "combined": 1804.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1804.0,
+        "combined": 1804.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    904,
+    0,
+    0,
+    0,
+    0,
+    0,
+    900,
+    0,
+    0
+  ],
+  "appg_memberships": [],
+  "payments": [
+    {
+      "id": 14450,
+      "date": "2026-01-20",
+      "category": "3",
+      "member_id": 4735,
+      "member_name": "Stephen Flynn",
+      "payer_id": 373,
+      "payer_name": "Enersoft International Limited",
+      "amount": 900.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4735/registeredinterests?categoryId=3",
+      "summary": "Enersoft International Ltd - £900.00",
+      "description": "Single ticket and matchday hospitality at Tottenham Hotspur v Borussia Dortmund"
+    },
+    {
+      "id": 13316,
+      "date": "2025-08-20",
+      "category": "3",
+      "member_id": 4735,
+      "member_name": "Stephen Flynn",
+      "payer_id": 969,
+      "payer_name": "The Royal Edinburgh Military Tattoo",
+      "amount": 904.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4735/registeredinterests?categoryId=3",
+      "summary": "The Royal Edinburgh Military Tattoo - £904.00",
+      "description": "Two tickets and hospitality for myself and a guest at the Royal Edinburgh Military Tattoo, Edinburgh Castle (estimated value of £452 per person)"
+    }
+  ]
+}

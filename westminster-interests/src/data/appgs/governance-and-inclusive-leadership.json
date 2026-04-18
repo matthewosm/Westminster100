@@ -1,0 +1,165 @@
+{
+  "slug": "governance-and-inclusive-leadership",
+  "title": "All-Party Parliamentary Group for Governance and Inclusive Leadership",
+  "purpose": "The APPG was set up to identify barriers for ethnic minority people within careers, and help businesses ensure that they are investing in diverse talent. This is an opportunity for the MPs and Peers to get together and support a plan for this agenda and particularly connect with businesses in areas such as Ethnicity Pay Gap Reporting.",
+  "categories": [
+    "Governance, Democracy & Political Reform",
+    "Human Rights, Equality & Social Justice"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/governance-and-inclusive-leadership.htm",
+  "secretariat": "Investing In Ethnicity acts as the group's secretariat.https://investinginethnicity.org/",
+  "website": "http://www.gailappg.org.uk/",
+  "registered_contact_name": "Dawn Butler MP",
+  "date_of_most_recent_agm": "2026-01-20 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "governance-and-inclusive-leadership",
+      "mnis_id": 3790,
+      "name": "Baroness Verma",
+      "canon_name": "Baroness Verma",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/governance-and-inclusive-leadership.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "governance-and-inclusive-leadership",
+      "mnis_id": 1489,
+      "name": "Dawn Butler",
+      "canon_name": "Dawn Butler",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/governance-and-inclusive-leadership.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "governance-and-inclusive-leadership",
+      "mnis_id": 4783,
+      "name": "Kate Osborne",
+      "canon_name": "Kate Osborne",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/governance-and-inclusive-leadership.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "governance-and-inclusive-leadership",
+      "mnis_id": 5328,
+      "name": "Sean Woodcock",
+      "canon_name": "Sean Woodcock",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/governance-and-inclusive-leadership.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "governance-and-inclusive-leadership",
+      "mnis_id": 3790,
+      "name": "Baroness Verma",
+      "canon_name": "Baroness Verma",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/governance-and-inclusive-leadership.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "governance-and-inclusive-leadership",
+      "mnis_id": 1489,
+      "name": "Dawn Butler",
+      "canon_name": "Dawn Butler",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/governance-and-inclusive-leadership.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "governance-and-inclusive-leadership",
+      "mnis_id": 4783,
+      "name": "Kate Osborne",
+      "canon_name": "Kate Osborne",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/governance-and-inclusive-leadership.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "governance-and-inclusive-leadership",
+      "mnis_id": 5328,
+      "name": "Sean Woodcock",
+      "canon_name": "Sean Woodcock",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/governance-and-inclusive-leadership.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

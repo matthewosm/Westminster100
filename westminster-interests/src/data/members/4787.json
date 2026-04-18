@@ -1,0 +1,204 @@
+{
+  "mnis_id": 4787,
+  "name": "James Wild",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "North West Norfolk",
+  "house": "Commons",
+  "start_date": "2019-12-12",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4787/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 2750.0,
+      "inkind": 0.0,
+      "combined": 2750.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 2750.0,
+      "inkind": 0.0,
+      "combined": 2750.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 2750.0,
+      "inkind": 0.0,
+      "combined": 2750.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "all_time": {
+      "monetary": 2750.0,
+      "inkind": 0.0,
+      "combined": 2750.0,
+      "payment_count": 2,
+      "donor_count": 2
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 2750.0,
+        "inkind": 0.0,
+        "combined": 2750.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 2750.0,
+        "inkind": 0.0,
+        "combined": 2750.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 2750.0,
+        "inkind": 0.0,
+        "combined": 2750.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 2750.0,
+        "inkind": 0.0,
+        "combined": 2750.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2750,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "dark-skies",
+      "appg_name": "All-Party Parliamentary Group for Dark Skies",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "shakespeare",
+      "appg_name": "All-Party Parliamentary Group for Shakespeare",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "shellfish-aquaculture",
+      "appg_name": "All-Party Parliamentary Group for Shellfish Aquaculture",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "fairgrounds-and-circuses",
+      "appg_name": "All-Party Parliamentary Group on Fairgrounds and Circuses",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "genetic-haemochromatosis",
+      "appg_name": "All-Party Parliamentary Group on Genetic Haemochromatosis",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "mongolia",
+      "appg_name": "All-Party Parliamentary Group on Mongolia",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 143681,
+      "date": "2025-12-26",
+      "category": "4",
+      "member_id": 4787,
+      "member_name": "James Wild",
+      "payer_id": 527,
+      "payer_name": "Horatius Advisory Limited",
+      "amount": 1375.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4787/registeredinterests?categoryId=4",
+      "summary": "International visit to Australia between 26 December 2025 and 06 January 2026 — Building inter-Parliamentary relations with Australian MPs and\r\nSenators, competing for the Parliamentary Ashes and supporting English cricket.",
+      "description": "Contribution to travel, accommodation and associated costs of The Lords & Commons Cricket team"
+    },
+    {
+      "id": 143682,
+      "date": "2025-12-26",
+      "category": "4",
+      "member_id": 4787,
+      "member_name": "James Wild",
+      "payer_id": 304,
+      "payer_name": "Deltroit Asset Management (UK) LLP",
+      "amount": 1375.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4787/registeredinterests?categoryId=4",
+      "summary": "International visit to Australia between 26 December 2025 and 06 January 2026 — Building inter-Parliamentary relations with Australian MPs and\r\nSenators, competing for the Parliamentary Ashes and supporting English cricket.",
+      "description": "Contribution to travel, accommodation and associated costs of The Lords & Commons Cricket team visit to Australia."
+    }
+  ]
+}

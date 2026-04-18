@@ -1,0 +1,99 @@
+{
+  "id": 609,
+  "name": "Jet2 Holidays",
+  "address": "Low Fare Finder House Leeds Bradford Airport, Yeadon, Leeds, West Yorkshire LS19 7TU",
+  "nature_of_business": null,
+  "donor_status": "Company",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 400.0,
+      "combined": 400.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 400.0,
+      "combined": 400.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 400.0,
+      "combined": 400.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 12054,
+      "date": "2025-02-25",
+      "category": "3",
+      "member_id": 4634,
+      "member_name": "Christine Jardine",
+      "payer_id": 609,
+      "payer_name": "Jet2 Holidays",
+      "amount": 400.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "aviation-travel-and-aerospace",
+      "appg_name": "All-Party Parliamentary Group for the Future of Aviation, Travel and Aerospace",
+      "source_url": "https://members.parliament.uk/member/4634/registeredinterests?categoryId=3",
+      "summary": "Jet2 Holidays - £400.00",
+      "description": "Ticket for the Airlines UK 2025 annual dinner (value is approximate)"
+    }
+  ]
+}

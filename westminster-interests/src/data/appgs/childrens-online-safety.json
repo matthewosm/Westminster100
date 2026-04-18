@@ -1,0 +1,166 @@
+{
+  "slug": "childrens-online-safety",
+  "title": "All-Party Parliamentary Group on Children's Online Safety",
+  "purpose": "The APPG aims to drive policy change that enhances on line safety for children and young people. It seeks to raise the political profile of digital risks and promote effective harm mitigation measures, ensuring a safer digital environment for future generations.",
+  "categories": [
+    "Education, Skills & Youth",
+    "Science, Technology & Innovation",
+    "Human Rights, Equality & Social Justice"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/childrens-online-safety.htm",
+  "secretariat": "Internet Watch Foundation acts as the group's secretariat.https://www.iwf.org.uk/",
+  "website": "https://www.childrensonlinesafetyappg.org/",
+  "registered_contact_name": "Joani Reid MP",
+  "date_of_most_recent_agm": "2026-02-10 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "childrens-online-safety",
+      "mnis_id": 4577,
+      "name": "Baroness Bertin",
+      "canon_name": "Baroness Bertin",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/childrens-online-safety.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "childrens-online-safety",
+      "mnis_id": 3969,
+      "name": "Damian Hinds",
+      "canon_name": "Damian Hinds",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/childrens-online-safety.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "childrens-online-safety",
+      "mnis_id": 5079,
+      "name": "Joani Reid",
+      "canon_name": "Joani Reid",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/childrens-online-safety.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "childrens-online-safety",
+      "mnis_id": null,
+      "name": "Lord Russell of Liverpool",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/childrens-online-safety.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "childrens-online-safety",
+      "mnis_id": 4577,
+      "name": "Baroness Bertin",
+      "canon_name": "Baroness Bertin",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/childrens-online-safety.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "childrens-online-safety",
+      "mnis_id": 3969,
+      "name": "Damian Hinds",
+      "canon_name": "Damian Hinds",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/childrens-online-safety.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "childrens-online-safety",
+      "mnis_id": 5079,
+      "name": "Joani Reid",
+      "canon_name": "Joani Reid",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/childrens-online-safety.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "childrens-online-safety",
+      "mnis_id": null,
+      "name": "Lord Russell of Liverpool",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/childrens-online-safety.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

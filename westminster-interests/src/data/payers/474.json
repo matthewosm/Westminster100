@@ -1,0 +1,124 @@
+{
+  "id": 474,
+  "name": "GMB Trade Union",
+  "address": "Mary Turner House, 22 Stephenson Way, London NW1 2HD",
+  "nature_of_business": null,
+  "donor_status": "Trade Union",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 2250.0,
+      "combined": 2250.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 2250.0,
+      "combined": 2250.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 2250.0,
+      "combined": 2250.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 2250.0,
+      "combined": 2250.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 2
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    1800,
+    450,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 13924,
+      "date": "2025-09-23",
+      "category": "3",
+      "member_id": 5159,
+      "member_name": "Mr Connor Rand",
+      "payer_id": 474,
+      "payer_name": "GMB Trade Union",
+      "amount": 450.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-09-24",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5159/registeredinterests?categoryId=3",
+      "summary": "GMB Trade Union - £450.00",
+      "description": "One night of accommodation at Labour Party Conference"
+    },
+    {
+      "id": 13465,
+      "date": "2025-09-20",
+      "category": "3",
+      "member_id": 5222,
+      "member_name": "Tom Rutland",
+      "payer_id": 474,
+      "payer_name": "GMB Trade Union",
+      "amount": 1800.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-09-24",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5222/registeredinterests?categoryId=3",
+      "summary": "GMB Trade Union - £1,800.00",
+      "description": "4 nights of accommodation at Labour Party Conference"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "slug": "bbc",
+  "title": "All-Party Parliamentary Group for the BBC",
+  "purpose": "To encourage debate and engage discussion about all elements of the Corporation's work, including the BBC World Service and the BBC’s role within the creative industries.",
+  "categories": [
+    "Arts, Culture, Heritage & Media"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bbc.htm",
+  "secretariat": "BBC acts as the group's secretariat.https://www.bbc.co.uk/",
+  "website": "None",
+  "registered_contact_name": "Jeff Smith MP",
+  "date_of_most_recent_agm": "2026-02-10 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "bbc",
+      "mnis_id": null,
+      "name": "Baroness Bonham-Carter of Yarnbury",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bbc.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "bbc",
+      "mnis_id": 4456,
+      "name": "Jeff Smith",
+      "canon_name": "Jeff Smith",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bbc.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "bbc",
+      "mnis_id": null,
+      "name": "Lord Gilbert of Panteg",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bbc.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "bbc",
+      "mnis_id": 5280,
+      "name": "Seamus Logan",
+      "canon_name": "Seamus Logan",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bbc.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "bbc",
+      "mnis_id": null,
+      "name": "Baroness Bonham-Carter of Yarnbury",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bbc.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "bbc",
+      "mnis_id": 4456,
+      "name": "Jeff Smith",
+      "canon_name": "Jeff Smith",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bbc.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "bbc",
+      "mnis_id": null,
+      "name": "Lord Gilbert of Panteg",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bbc.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "bbc",
+      "mnis_id": 5280,
+      "name": "Seamus Logan",
+      "canon_name": "Seamus Logan",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bbc.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

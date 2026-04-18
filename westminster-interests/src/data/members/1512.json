@@ -1,0 +1,367 @@
+{
+  "mnis_id": 1512,
+  "name": "David Mundell",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "Dumfriesshire, Clydesdale and Tweeddale",
+  "house": "Commons",
+  "start_date": "2005-05-05",
+  "photo_url": "https://members-api.parliament.uk/api/Members/1512/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 9500.0,
+      "inkind": 3440.47,
+      "combined": 12940.47,
+      "payment_count": 4,
+      "donor_count": 3
+    },
+    "ytd": {
+      "monetary": 6000.0,
+      "inkind": 0.0,
+      "combined": 6000.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 3500.0,
+      "inkind": 4555.47,
+      "combined": 8055.47,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 9500.0,
+      "inkind": 4555.47,
+      "combined": 14055.47,
+      "payment_count": 5,
+      "donor_count": 4
+    },
+    "all_time": {
+      "monetary": 9500.0,
+      "inkind": 4555.47,
+      "combined": 14055.47,
+      "payment_count": 5,
+      "donor_count": 4
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 9500.0,
+        "inkind": 0.0,
+        "combined": 9500.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 6000.0,
+        "inkind": 0.0,
+        "combined": 6000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 3500.0,
+        "inkind": 0.0,
+        "combined": 3500.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 9500.0,
+        "inkind": 0.0,
+        "combined": 9500.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 9500.0,
+        "inkind": 0.0,
+        "combined": 9500.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 3041.0,
+        "combined": 3041.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 4156.0,
+        "combined": 4156.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 4156.0,
+        "combined": 4156.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 4156.0,
+        "combined": 4156.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 399.47,
+        "combined": 399.47,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 399.47,
+        "combined": 399.47,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 399.47,
+        "combined": 399.47,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 399.47,
+        "combined": 399.47,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    3440,
+    3500,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    6000,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "united-nations-global-goals",
+      "appg_name": "All-Party Parliamentary Group for the United Nations Global Goals",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "hiv-aids-and-sexual-health",
+      "appg_name": "All-Party Parliamentary Group on HIV, AIDS and Sexual Health",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "latin-america",
+      "appg_name": "All-Party Parliamentary Group on Latin America",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "nuclear-energy",
+      "appg_name": "All-Party Parliamentary Group on Nuclear Energy",
+      "officer_role": "Co-Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "nutrition-for-development",
+      "appg_name": "All-Party Parliamentary Group on Nutrition for Development",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "war-crimes",
+      "appg_name": "All-Party Parliamentary Group on War Crimes",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14411,
+      "date": "2026-01-26",
+      "category": "2",
+      "member_id": 1512,
+      "member_name": "David Mundell",
+      "payer_id": 599,
+      "payer_name": "James Stewart",
+      "amount": 6000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1512/registeredinterests?categoryId=2",
+      "summary": "James Stewart - £6,000.00",
+      "description": null
+    },
+    {
+      "id": 12929,
+      "date": "2025-07-14",
+      "category": "2",
+      "member_id": 1512,
+      "member_name": "David Mundell",
+      "payer_id": 599,
+      "payer_name": "James Stewart",
+      "amount": 3500.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1512/registeredinterests?categoryId=2",
+      "summary": "James Stewart - £3,500.00",
+      "description": null
+    },
+    {
+      "id": 127721,
+      "date": "2025-06-21",
+      "category": "4",
+      "member_id": 1512,
+      "member_name": "David Mundell",
+      "payer_id": 1133,
+      "payer_name": "United Against Malnutrition and Hunger",
+      "amount": 3041.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "nutrition-for-development",
+      "appg_name": "All-Party Parliamentary Group on Nutrition for Development",
+      "source_url": "https://members.parliament.uk/member/1512/registeredinterests?categoryId=4",
+      "summary": "International visit to Tanzania between 21 June 2025 and 27 June 2025 — To attend the Agriculture, Nutrition and Health (ANH) Academy Week Conference in Dar es Salaam, to see the impact of UK overseas development in treating and preventing malnutrition in Tanzania and Zanzibar, and to understand the work of national and regional government, scientists, health workers, humanitarian organisations, charities, civil society, local businesses, and local communities in tackling malnutrition.",
+      "description": "Flights (£1,790), accommodation (£810), travel medication (£76), food, visa, transport and in-country expenses (£365)"
+    },
+    {
+      "id": 12771,
+      "date": "2025-06-10",
+      "category": "3",
+      "member_id": 1512,
+      "member_name": "David Mundell",
+      "payer_id": 703,
+      "payer_name": "LTA Operations Limited",
+      "amount": 399.47,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-06-10",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1512/registeredinterests?categoryId=3",
+      "summary": "LTA Operations Limited - £399.47",
+      "description": "Ticket for the HSBC Championships at The Queen's Club"
+    },
+    {
+      "id": 123141,
+      "date": "2025-03-26",
+      "category": "4",
+      "member_id": 1512,
+      "member_name": "David Mundell",
+      "payer_id": 1133,
+      "payer_name": "United Against Malnutrition and Hunger",
+      "amount": 1115.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "nutrition-for-development",
+      "appg_name": "All-Party Parliamentary Group on Nutrition for Development",
+      "source_url": "https://members.parliament.uk/member/1512/registeredinterests?categoryId=4",
+      "summary": "International visit to France between 26 March 2025 and 28 March 2025 — To visit Paris as Co-Chair of the All-Party Parliamentary Group on Nutrition for Development to attend the 2025 Paris Nutrition for Growth Summit.",
+      "description": "Travel (£385), accommodation (£530), food and in-country expenses (£200)"
+    }
+  ]
+}

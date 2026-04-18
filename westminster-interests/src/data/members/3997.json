@@ -1,0 +1,96 @@
+{
+  "mnis_id": 3997,
+  "name": "Sir Alec Shelbrooke",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "Wetherby and Easingwold",
+  "house": "Commons",
+  "start_date": "2010-05-06",
+  "photo_url": "https://members-api.parliament.uk/api/Members/3997/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    }
+  },
+  "categories": {},
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "first-do-no-harm---mesh-primodos-valproate",
+      "appg_name": "All-Party Parliamentary Group First Do No Harm - Mesh, Primodos, Valproate",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "classical-music",
+      "appg_name": "All-Party Parliamentary Group on Classical Music",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "endometriosis",
+      "appg_name": "All-Party Parliamentary Group on Endometriosis",
+      "officer_role": "Deputy Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "snooker",
+      "appg_name": "All-Party Parliamentary Group on Snooker",
+      "officer_role": "Co-Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": []
+}

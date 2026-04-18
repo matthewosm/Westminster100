@@ -1,0 +1,164 @@
+{
+  "slug": "access-to-medicines-and-medical-devices",
+  "title": "All-Party Parliamentary Group on Access to Medicines and Medical Devices",
+  "purpose": "To examine and develop the appraisal, funding, adoption, provision, and equality of access to medicines and medical devices in the NHS in England.",
+  "categories": [
+    "Health, Medicine & Public Health"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/access-to-medicines-and-medical-devices.htm",
+  "secretariat": "RPP Group acts as the group's secretariat.https://rpp-group.com/",
+  "website": "None",
+  "registered_contact_name": "Danny Beales MP",
+  "date_of_most_recent_agm": "2025-05-20 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "access-to-medicines-and-medical-devices",
+      "mnis_id": null,
+      "name": "Baroness Ritchie of Downpatrick",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/access-to-medicines-and-medical-devices.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "access-to-medicines-and-medical-devices",
+      "mnis_id": 5339,
+      "name": "Danny Beales",
+      "canon_name": "Danny Beales",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/access-to-medicines-and-medical-devices.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "access-to-medicines-and-medical-devices",
+      "mnis_id": 5268,
+      "name": "Iqbal Mohamed",
+      "canon_name": "Iqbal Mohamed",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/access-to-medicines-and-medical-devices.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "access-to-medicines-and-medical-devices",
+      "mnis_id": 123,
+      "name": "Lord Lansley",
+      "canon_name": "Lord Lansley",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/access-to-medicines-and-medical-devices.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "access-to-medicines-and-medical-devices",
+      "mnis_id": null,
+      "name": "Baroness Ritchie of Downpatrick",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/access-to-medicines-and-medical-devices.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "access-to-medicines-and-medical-devices",
+      "mnis_id": 5339,
+      "name": "Danny Beales",
+      "canon_name": "Danny Beales",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/access-to-medicines-and-medical-devices.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "access-to-medicines-and-medical-devices",
+      "mnis_id": 5268,
+      "name": "Iqbal Mohamed",
+      "canon_name": "Iqbal Mohamed",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/access-to-medicines-and-medical-devices.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "access-to-medicines-and-medical-devices",
+      "mnis_id": 123,
+      "name": "Lord Lansley",
+      "canon_name": "Lord Lansley",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/access-to-medicines-and-medical-devices.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

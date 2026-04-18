@@ -1,0 +1,164 @@
+{
+  "slug": "north-macedonia",
+  "title": "All-Party Parliamentary Group on North Macedonia",
+  "purpose": "To foster deeper links between the people of the UK and the Republic of North Macedonia and to work constructively on areas of mutual interest.",
+  "categories": [
+    "Country Group"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/north-macedonia.htm",
+  "secretariat": "Christopher Grozdoski acts as the group's secretariat.",
+  "website": "https://appgnorthmacedonia.com/",
+  "registered_contact_name": "Graeme Downie MP",
+  "date_of_most_recent_agm": "2025-04-30 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "north-macedonia",
+      "mnis_id": 4110,
+      "name": "Dame Karen Bradley",
+      "canon_name": "Karen Bradley",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/north-macedonia.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "north-macedonia",
+      "mnis_id": 5275,
+      "name": "Graeme Downie",
+      "canon_name": "Graeme Downie",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/north-macedonia.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "north-macedonia",
+      "mnis_id": null,
+      "name": "Lord Randall of Uxbridge",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/north-macedonia.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "north-macedonia",
+      "mnis_id": 4358,
+      "name": "Wendy Morton",
+      "canon_name": "Wendy Morton",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/north-macedonia.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "north-macedonia",
+      "mnis_id": 4110,
+      "name": "Dame Karen Bradley",
+      "canon_name": "Karen Bradley",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/north-macedonia.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "north-macedonia",
+      "mnis_id": 5275,
+      "name": "Graeme Downie",
+      "canon_name": "Graeme Downie",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/north-macedonia.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "north-macedonia",
+      "mnis_id": null,
+      "name": "Lord Randall of Uxbridge",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/north-macedonia.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "north-macedonia",
+      "mnis_id": 4358,
+      "name": "Wendy Morton",
+      "canon_name": "Wendy Morton",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/north-macedonia.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

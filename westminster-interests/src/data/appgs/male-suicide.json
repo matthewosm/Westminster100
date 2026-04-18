@@ -1,0 +1,165 @@
+{
+  "slug": "male-suicide",
+  "title": "All-Party Parliamentary Group on Male Suicide",
+  "purpose": "To raise awareness in Parliament, promote effective prevention strategies, and support policies that reduce the disproportionately high suicide rate among men in the UK.",
+  "categories": [
+    "Health, Medicine & Public Health",
+    "Social Care, Welfare & Family Support"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/male-suicide.htm",
+  "secretariat": "",
+  "website": "https://equi-law.uk/appg-menboys",
+  "registered_contact_name": "Jake Richards MP",
+  "date_of_most_recent_agm": "2025-04-28 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "male-suicide",
+      "mnis_id": 5294,
+      "name": "Amanda Martin",
+      "canon_name": "Amanda Martin",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/250909/male-suicide.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "male-suicide",
+      "mnis_id": 5106,
+      "name": "David Burton-Sampson",
+      "canon_name": "David Burton-Sampson",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/250909/male-suicide.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "male-suicide",
+      "mnis_id": 5197,
+      "name": "Dr Neil Shastri-Hurst",
+      "canon_name": "Neil Shastri-Hurst",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/250909/male-suicide.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "male-suicide",
+      "mnis_id": 5082,
+      "name": "Jake Richards",
+      "canon_name": "Jake Richards",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/250909/male-suicide.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "male-suicide",
+      "mnis_id": 5294,
+      "name": "Amanda Martin",
+      "canon_name": "Amanda Martin",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/250909/male-suicide.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "male-suicide",
+      "mnis_id": 5106,
+      "name": "David Burton-Sampson",
+      "canon_name": "David Burton-Sampson",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/250909/male-suicide.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "male-suicide",
+      "mnis_id": 5197,
+      "name": "Dr Neil Shastri-Hurst",
+      "canon_name": "Neil Shastri-Hurst",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/250909/male-suicide.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "male-suicide",
+      "mnis_id": 5082,
+      "name": "Jake Richards",
+      "canon_name": "Jake Richards",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/250909/male-suicide.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

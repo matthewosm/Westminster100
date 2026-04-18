@@ -1,0 +1,99 @@
+{
+  "id": 575,
+  "name": "Isle of Wight Council",
+  "address": "County Hall, Newport, Isle of Wight",
+  "nature_of_business": "Local Authority",
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 10086.65,
+      "inkind": 0.0,
+      "combined": 10086.65,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 2984.54,
+      "inkind": 0.0,
+      "combined": 2984.54,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 10086.65,
+      "inkind": 0.0,
+      "combined": 10086.65,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 4200.47,
+      "inkind": 0.0,
+      "combined": 4200.47,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "since_election": {
+      "monetary": 17271.66,
+      "inkind": 0.0,
+      "combined": 17271.66,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 17271.66,
+      "inkind": 0.0,
+      "combined": 17271.66,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    829,
+    829,
+    829,
+    829,
+    829,
+    829,
+    829,
+    829,
+    829,
+    829,
+    829,
+    829
+  ],
+  "payments": [
+    {
+      "id": 7077,
+      "date": "2024-08-01",
+      "category": "1.2",
+      "member_id": 5255,
+      "member_name": "Joe Robertson",
+      "payer_id": 575,
+      "payer_name": "Isle of Wight Council",
+      "amount": 841.13,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": null,
+      "end_date": "2026-05-07",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5255/registeredinterests?categoryId=1",
+      "summary": "Agreement - £841.13",
+      "description": null
+    }
+  ]
+}

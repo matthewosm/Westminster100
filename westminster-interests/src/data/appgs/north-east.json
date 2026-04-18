@@ -1,0 +1,164 @@
+{
+  "slug": "north-east",
+  "title": "North East All-Party Parliamentary Group",
+  "purpose": "To provide a strong and united voice for the North East in Westminster, gathering political and business leaders to build consensus and drive investment and growth for the benefit of communities throughout the North East region.",
+  "categories": [
+    "Regions, Nations & Devolution"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/north-east.htm",
+  "secretariat": "Stephenson-Mohl Group acts as the group's secretariat.https://www.stephenson-mohl.co.uk/",
+  "website": "https://northeastappg.org/",
+  "registered_contact_name": "Kate Osborne MP",
+  "date_of_most_recent_agm": "2026-01-20 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "north-east",
+      "mnis_id": 4783,
+      "name": "Kate Osborne",
+      "canon_name": "Kate Osborne",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/north-east.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "north-east",
+      "mnis_id": 513,
+      "name": "Lord Beith",
+      "canon_name": "Lord Beith",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/north-east.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "north-east",
+      "mnis_id": null,
+      "name": "Lord Wharton of Yarm",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/north-east.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "north-east",
+      "mnis_id": 4126,
+      "name": "Mary Glindon",
+      "canon_name": "Mary Glindon",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/north-east.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "north-east",
+      "mnis_id": 4783,
+      "name": "Kate Osborne",
+      "canon_name": "Kate Osborne",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/north-east.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "north-east",
+      "mnis_id": 513,
+      "name": "Lord Beith",
+      "canon_name": "Lord Beith",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/north-east.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "north-east",
+      "mnis_id": null,
+      "name": "Lord Wharton of Yarm",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/north-east.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "north-east",
+      "mnis_id": 4126,
+      "name": "Mary Glindon",
+      "canon_name": "Mary Glindon",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/north-east.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

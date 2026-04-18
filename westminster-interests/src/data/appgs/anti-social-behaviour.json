@@ -1,0 +1,165 @@
+{
+  "slug": "anti-social-behaviour",
+  "title": "All-Party Parliamentary Group on Anti-Social Behaviour",
+  "purpose": "The APPG will provide a forum for parliamentarians, landlords and other stakeholders to discuss anti-social behaviour and how landlords, local authorities, the police and others can effectively respond to it.",
+  "categories": [
+    "Social Care, Welfare & Family Support",
+    "Justice, Law & Security"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/anti-social-behaviour.htm",
+  "secretariat": "Resolve UK acts as the group's secretariat.https://www.resolveuk.org.uk/",
+  "website": "None",
+  "registered_contact_name": "Neil Coyle MP",
+  "date_of_most_recent_agm": "2025-10-29 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "anti-social-behaviour",
+      "mnis_id": 5348,
+      "name": "David Taylor",
+      "canon_name": "David Taylor",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/anti-social-behaviour.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "anti-social-behaviour",
+      "mnis_id": null,
+      "name": "Lord Bailey of Paddington",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/anti-social-behaviour.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "anti-social-behaviour",
+      "mnis_id": null,
+      "name": "Lord Russell of Liverpool",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/anti-social-behaviour.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "anti-social-behaviour",
+      "mnis_id": 4368,
+      "name": "Neil Coyle",
+      "canon_name": "Neil Coyle",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/anti-social-behaviour.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "anti-social-behaviour",
+      "mnis_id": 5348,
+      "name": "David Taylor",
+      "canon_name": "David Taylor",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/anti-social-behaviour.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "anti-social-behaviour",
+      "mnis_id": null,
+      "name": "Lord Bailey of Paddington",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/anti-social-behaviour.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "anti-social-behaviour",
+      "mnis_id": null,
+      "name": "Lord Russell of Liverpool",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/anti-social-behaviour.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "anti-social-behaviour",
+      "mnis_id": 4368,
+      "name": "Neil Coyle",
+      "canon_name": "Neil Coyle",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/anti-social-behaviour.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

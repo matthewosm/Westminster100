@@ -1,0 +1,164 @@
+{
+  "slug": "outdoor-learning",
+  "title": "All-Party Parliamentary Group on Outdoor Learning",
+  "purpose": "Through outdoor learning, we support the development of sustainable behaviours in children, young people and adults which lead to personal happiness, health & wellbeing and self-fulfilment; preparedness for work and economic independence; and readiness for active stewardship and citizenship. Building on distinguished heritage - responding to the challenges of today.",
+  "categories": [
+    "Environment, Climate & Sustainability"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/outdoor-learning.htm",
+  "secretariat": "Institute for Outdoor Learning acts as the group's secretariat.https://www.outdoor-learning.org/",
+  "website": "https://www.outdoor-learning.org/voice/government-engagement/appg-ol.html",
+  "registered_contact_name": "Tim Farron MP",
+  "date_of_most_recent_agm": "2025-10-29 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "outdoor-learning",
+      "mnis_id": 5128,
+      "name": "Phil Brickell",
+      "canon_name": "Phil Brickell",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/outdoor-learning.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "outdoor-learning",
+      "mnis_id": 4396,
+      "name": "Rebecca Long Bailey",
+      "canon_name": "Rebecca Long-Bailey",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/outdoor-learning.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "outdoor-learning",
+      "mnis_id": 54,
+      "name": "Sir Julian Lewis",
+      "canon_name": "Julian Lewis",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/outdoor-learning.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "outdoor-learning",
+      "mnis_id": 1591,
+      "name": "Tim Farron",
+      "canon_name": "Tim Farron",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/outdoor-learning.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "outdoor-learning",
+      "mnis_id": 5128,
+      "name": "Phil Brickell",
+      "canon_name": "Phil Brickell",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/outdoor-learning.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "outdoor-learning",
+      "mnis_id": 4396,
+      "name": "Rebecca Long Bailey",
+      "canon_name": "Rebecca Long-Bailey",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/outdoor-learning.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "outdoor-learning",
+      "mnis_id": 54,
+      "name": "Sir Julian Lewis",
+      "canon_name": "Julian Lewis",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/outdoor-learning.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "outdoor-learning",
+      "mnis_id": 1591,
+      "name": "Tim Farron",
+      "canon_name": "Tim Farron",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/outdoor-learning.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

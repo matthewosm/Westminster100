@@ -1,0 +1,99 @@
+{
+  "id": 1096,
+  "name": "Times Media Limited",
+  "address": "1 London Bridge Street, London SE1 9GF",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 55868.58,
+      "inkind": 0.0,
+      "combined": 55868.58,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 33708.42,
+      "inkind": 0.0,
+      "combined": 33708.42,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 22160.16,
+      "inkind": 0.0,
+      "combined": 22160.16,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 55868.58,
+      "inkind": 0.0,
+      "combined": 55868.58,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 55868.58,
+      "inkind": 0.0,
+      "combined": 55868.58,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    9051,
+    9363,
+    9363,
+    9363,
+    9363,
+    9363
+  ],
+  "payments": [
+    {
+      "id": 14449,
+      "date": "2026-02-02",
+      "category": "1.2",
+      "member_id": 4483,
+      "member_name": "Rishi Sunak",
+      "payer_id": 1096,
+      "payer_name": "Times Media Limited",
+      "amount": 28500.0,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Quarterly",
+      "start_date": "2025-10-21",
+      "end_date": "2027-10-12",
+      "is_sole_beneficiary": true,
+      "is_donated": true,
+      "donated_to": "Charity",
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4483/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 21 October 2025 - £28,500.00",
+      "description": null
+    }
+  ]
+}

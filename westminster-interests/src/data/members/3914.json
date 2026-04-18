@@ -1,0 +1,217 @@
+{
+  "mnis_id": 3914,
+  "name": "Shabana Mahmood",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Birmingham Ladywood",
+  "house": "Commons",
+  "start_date": "2010-05-06",
+  "photo_url": "https://members-api.parliament.uk/api/Members/3914/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 57500.0,
+      "inkind": 0.0,
+      "combined": 57500.0,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 57500.0,
+      "inkind": 0.0,
+      "combined": 57500.0,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 57500.0,
+      "inkind": 0.0,
+      "combined": 57500.0,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "all_time": {
+      "monetary": 57500.0,
+      "inkind": 0.0,
+      "combined": 57500.0,
+      "payment_count": 4,
+      "donor_count": 4
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 57500.0,
+        "inkind": 0.0,
+        "combined": 57500.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 57500.0,
+        "inkind": 0.0,
+        "combined": 57500.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 57500.0,
+        "inkind": 0.0,
+        "combined": 57500.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 57500.0,
+        "inkind": 0.0,
+        "combined": 57500.0,
+        "payment_count": 4,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    5000,
+    2500,
+    0,
+    50000,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [],
+  "payments": [
+    {
+      "id": 13429,
+      "date": "2025-10-02",
+      "category": "2",
+      "member_id": 3914,
+      "member_name": "Shabana Mahmood",
+      "payer_id": 426,
+      "payer_name": "Francesca Perrin",
+      "amount": 50000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/3914/registeredinterests?categoryId=2",
+      "summary": "Francesca Perrin - £50,000.00",
+      "description": null
+    },
+    {
+      "id": 13113,
+      "date": "2025-08-08",
+      "category": "2",
+      "member_id": 3914,
+      "member_name": "Shabana Mahmood",
+      "payer_id": 459,
+      "payer_name": "Global Foods (Birmingham) Limited",
+      "amount": 2500.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/3914/registeredinterests?categoryId=2",
+      "summary": "Global Foods (Birmingham) Limited - £2,500.00",
+      "description": null
+    },
+    {
+      "id": 12961,
+      "date": "2025-07-17",
+      "category": "2",
+      "member_id": 3914,
+      "member_name": "Shabana Mahmood",
+      "payer_id": 46,
+      "payer_name": "Andeep Mangal",
+      "amount": 2500.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/3914/registeredinterests?categoryId=2",
+      "summary": "Andeep Mangal - £2,500.00",
+      "description": null
+    },
+    {
+      "id": 12895,
+      "date": "2025-07-10",
+      "category": "2",
+      "member_id": 3914,
+      "member_name": "Shabana Mahmood",
+      "payer_id": 720,
+      "payer_name": "Manjit Jhooty",
+      "amount": 2500.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/3914/registeredinterests?categoryId=2",
+      "summary": "Manjit Jhooty - £2,500.00",
+      "description": "returned in full on 15 October 2025"
+    }
+  ]
+}

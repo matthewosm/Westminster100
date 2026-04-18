@@ -1,0 +1,99 @@
+{
+  "id": 185,
+  "name": "Carla Lockhart and Rodney Condell",
+  "address": "5 Morrow Park, Clabby, BT75 0LT",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 2498.29,
+      "inkind": 0.0,
+      "combined": 2498.29,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 739.22,
+      "inkind": 0.0,
+      "combined": 739.22,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 2498.29,
+      "inkind": 0.0,
+      "combined": 2498.29,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 2505.13,
+      "inkind": 0.0,
+      "combined": 2505.13,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "since_election": {
+      "monetary": 4476.39,
+      "inkind": 0.0,
+      "combined": 4476.39,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 15667.35,
+      "inkind": 0.0,
+      "combined": 15667.35,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    205,
+    205,
+    205,
+    205,
+    205,
+    205,
+    205,
+    205,
+    205,
+    205,
+    205,
+    205
+  ],
+  "payments": [
+    {
+      "id": 4896,
+      "date": "2020-01-11",
+      "category": "1.2",
+      "member_id": 4857,
+      "member_name": "Carla Lockhart",
+      "payer_id": 185,
+      "payer_name": "Carla Lockhart and Rodney Condell",
+      "amount": 2500.0,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Yearly",
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4857/registeredinterests?categoryId=1",
+      "summary": "Agreement - £2,500.00",
+      "description": null
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": 1137,
+  "name": "United Nations System Staff College (UNSSC)",
+  "address": "Platz der Vereinten Nationen 1, 53113 Bonn, Germany",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 1788.62,
+      "combined": 1788.62,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 1788.62,
+      "combined": 1788.62,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 1788.62,
+      "combined": 1788.62,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 1788.62,
+      "combined": 1788.62,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    1789,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 133461,
+      "date": "2025-08-24",
+      "category": "4",
+      "member_id": 4521,
+      "member_name": "Liz Saville Roberts",
+      "payer_id": 1137,
+      "payer_name": "United Nations System Staff College (UNSSC)",
+      "amount": 1788.62,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4521/registeredinterests?categoryId=4",
+      "summary": "International visit to Germany between 24 August 2025 and 29 August 2025 — To attend the UN Global Changemaker Academy for Parliamentarians (G-CAP)",
+      "description": "Return flights (£198.98) hotel accommodation (£993), a Fixed Terminal Allowance to cover taxi costs to and from Bonn Airport (£186.64), meals provided by UNSSC (£410)"
+    }
+  ]
+}

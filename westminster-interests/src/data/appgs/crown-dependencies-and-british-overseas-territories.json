@@ -1,0 +1,164 @@
+{
+  "slug": "crown-dependencies-and-british-overseas-territories",
+  "title": "All-Party Parliamentary Group on the Crown Dependencies and British Overseas Territories",
+  "purpose": "To act as a cross party forum which will discuss the issues affecting the Crown Dependencies and British Overseas Territories and promote a better understanding of the Crown Dependencies and British Overseas Territories through closer relations between British parliamentarians, the governments of the dependencies and territories and their people.",
+  "categories": [
+    "Country Group"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/crown-dependencies-and-british-overseas-territories.htm",
+  "secretariat": "",
+  "website": "None",
+  "registered_contact_name": "Andrew Rosindell MP",
+  "date_of_most_recent_agm": "2025-10-29 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "crown-dependencies-and-british-overseas-territories",
+      "mnis_id": 1447,
+      "name": "Andrew Rosindell",
+      "canon_name": "Andrew Rosindell",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/crown-dependencies-and-british-overseas-territories.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "crown-dependencies-and-british-overseas-territories",
+      "mnis_id": 5010,
+      "name": "Damien Egan",
+      "canon_name": "Damien Egan",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/crown-dependencies-and-british-overseas-territories.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "crown-dependencies-and-british-overseas-territories",
+      "mnis_id": 4651,
+      "name": "Dan Carden",
+      "canon_name": "Dan Carden",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/crown-dependencies-and-british-overseas-territories.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "crown-dependencies-and-british-overseas-territories",
+      "mnis_id": 4360,
+      "name": "Gavin Robinson",
+      "canon_name": "Gavin Robinson",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/crown-dependencies-and-british-overseas-territories.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "crown-dependencies-and-british-overseas-territories",
+      "mnis_id": 1447,
+      "name": "Andrew Rosindell",
+      "canon_name": "Andrew Rosindell",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/crown-dependencies-and-british-overseas-territories.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "crown-dependencies-and-british-overseas-territories",
+      "mnis_id": 5010,
+      "name": "Damien Egan",
+      "canon_name": "Damien Egan",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/crown-dependencies-and-british-overseas-territories.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "crown-dependencies-and-british-overseas-territories",
+      "mnis_id": 4651,
+      "name": "Dan Carden",
+      "canon_name": "Dan Carden",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/crown-dependencies-and-british-overseas-territories.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "crown-dependencies-and-british-overseas-territories",
+      "mnis_id": 4360,
+      "name": "Gavin Robinson",
+      "canon_name": "Gavin Robinson",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/crown-dependencies-and-british-overseas-territories.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

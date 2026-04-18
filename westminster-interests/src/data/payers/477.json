@@ -1,0 +1,124 @@
+{
+  "id": 477,
+  "name": "Good Faith Partnership",
+  "address": "128B The Street, Rustington, Littlehampton BN16 3DA",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 2870.0,
+      "combined": 2870.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 2870.0,
+      "combined": 2870.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 2870.0,
+      "combined": 2870.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 2870.0,
+      "combined": 2870.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 2
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    2870,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 136621,
+      "date": "2025-10-06",
+      "category": "4",
+      "member_id": 4858,
+      "member_name": "Danny Kruger",
+      "payer_id": 477,
+      "payer_name": "Good Faith Partnership",
+      "amount": 1096.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "christianity-in-the-holy-land",
+      "appg_name": "All-Party Parliamentary Group on Christianity in the Holy Land",
+      "source_url": "https://members.parliament.uk/member/4858/registeredinterests?categoryId=4",
+      "summary": "International visit to Israel between 06 October 2025 and 11 October 2025 — To meet with Heads of Churches, healthcare providers and policy analysts specialising in Freedom of Religion or Belief",
+      "description": "The cost of flights (£561) and accommodation (£535) were met by the Good Faith Partnership LLP, which provides the Secretariat to the APPG of which I am an Officer"
+    },
+    {
+      "id": 136641,
+      "date": "2025-10-06",
+      "category": "4",
+      "member_id": 4436,
+      "member_name": "Cat Smith",
+      "payer_id": 477,
+      "payer_name": "Good Faith Partnership",
+      "amount": 1774.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "christianity-in-the-holy-land",
+      "appg_name": "All-Party Parliamentary Group on Christianity in the Holy Land",
+      "source_url": "https://members.parliament.uk/member/4436/registeredinterests?categoryId=4",
+      "summary": "International visit to Israel between 06 October 2025 and 09 October 2025 — To meet with heads of churches, healthcare providers and policy analysts specialising in freedom of religion or belief",
+      "description": "The cost of flights (£1,324) and accommodation (£450) were met by the Good Faith Partnership LLP, which provides the Secretariat to the APPG of which I am an Officer"
+    }
+  ]
+}

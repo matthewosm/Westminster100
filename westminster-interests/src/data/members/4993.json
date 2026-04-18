@@ -1,0 +1,142 @@
+{
+  "mnis_id": 4993,
+  "name": "Keir Mather",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Selby",
+  "house": "Commons",
+  "start_date": "2023-07-20",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4993/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 2000.0,
+      "inkind": 0.0,
+      "combined": 2000.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 2000.0,
+      "inkind": 0.0,
+      "combined": 2000.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 2000.0,
+      "inkind": 0.0,
+      "combined": 2000.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "all_time": {
+      "monetary": 2000.0,
+      "inkind": 0.0,
+      "combined": 2000.0,
+      "payment_count": 1,
+      "donor_count": 1
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 2000.0,
+        "inkind": 0.0,
+        "combined": 2000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 2000.0,
+        "inkind": 0.0,
+        "combined": 2000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 2000.0,
+        "inkind": 0.0,
+        "combined": 2000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 2000.0,
+        "inkind": 0.0,
+        "combined": 2000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2000,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [],
+  "payments": [
+    {
+      "id": 14249,
+      "date": "2025-12-24",
+      "category": "2",
+      "member_id": 4993,
+      "member_name": "Keir Mather",
+      "payer_id": 1131,
+      "payer_name": "UNISON",
+      "amount": 2000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4993/registeredinterests?categoryId=2",
+      "summary": "Unison - £2,000.00",
+      "description": "Leaflet and direct mail for constituency campaigning"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "slug": "foreign-affairs",
+  "title": "All-Party Parliamentary Group for Foreign Affairs",
+  "purpose": "Dedicated to monitoring and reviewing UK foreign policy, acting as a forum for discussion and collecting insight on wider matters of foreign affairs.",
+  "categories": [
+    "International Affairs, Development & Trade"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/foreign-affairs.htm",
+  "secretariat": "College Green Group acts as the group's secretariat.https://collegegreengroup.com",
+  "website": "http://www.appgforeignaffairs.org/",
+  "registered_contact_name": "Adam Jogee MP",
+  "date_of_most_recent_agm": "2025-12-16 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "foreign-affairs",
+      "mnis_id": 5168,
+      "name": "Adam Jogee",
+      "canon_name": "Adam Jogee",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/foreign-affairs.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "foreign-affairs",
+      "mnis_id": 4335,
+      "name": "Baroness Mobarik",
+      "canon_name": "Baroness Mobarik",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/foreign-affairs.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "foreign-affairs",
+      "mnis_id": 5347,
+      "name": "David Reed",
+      "canon_name": "David Reed",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/foreign-affairs.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "foreign-affairs",
+      "mnis_id": 4409,
+      "name": "Naz Shah",
+      "canon_name": "Naseem Shah",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/foreign-affairs.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "foreign-affairs",
+      "mnis_id": 5168,
+      "name": "Adam Jogee",
+      "canon_name": "Adam Jogee",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/foreign-affairs.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "foreign-affairs",
+      "mnis_id": 4335,
+      "name": "Baroness Mobarik",
+      "canon_name": "Baroness Mobarik",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/foreign-affairs.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "foreign-affairs",
+      "mnis_id": 5347,
+      "name": "David Reed",
+      "canon_name": "David Reed",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/foreign-affairs.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "foreign-affairs",
+      "mnis_id": 4409,
+      "name": "Naz Shah",
+      "canon_name": "Naseem Shah",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/foreign-affairs.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

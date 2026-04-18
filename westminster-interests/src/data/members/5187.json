@@ -1,0 +1,90 @@
+{
+  "mnis_id": 5187,
+  "name": "Josh Dean",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Hertford and Stortford",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5187/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    }
+  },
+  "categories": {},
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "youth-employment",
+      "appg_name": "All-Party Parliamentary Group for Youth Employment",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "open-finance-and-payments",
+      "appg_name": "All-Party Parliamentary Group on Open Finance and Payments",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "inclusion-and-nurture-in-education",
+      "appg_name": "Inclusion and Nurture in Education All-Party Parliamentary Group",
+      "officer_role": "Treasurer",
+      "is_officer": true
+    }
+  ],
+  "payments": []
+}

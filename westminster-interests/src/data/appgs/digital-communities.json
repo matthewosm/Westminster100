@@ -1,0 +1,166 @@
+{
+  "slug": "digital-communities",
+  "title": "All-Party Parliamentary Group on Digital Communities",
+  "purpose": "To promote the delivery of digitally equipped places that support and foster a connected, healthy, and productive community. This includes the creation and maintenance of sustainable digital infrastructure and providing residents with equal opportunity to thrive in a digital world.",
+  "categories": [
+    "Science, Technology & Innovation",
+    "Infrastructure, Transport & Mobility",
+    "Economy, Business & Industry"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/digital-communities.htm",
+  "secretariat": "Local Government Association acts as the group's secretariat.https://www.local.gov.uk/",
+  "website": "None",
+  "registered_contact_name": "Helen Morgan MP",
+  "date_of_most_recent_agm": "2026-02-03 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "digital-communities",
+      "mnis_id": 5286,
+      "name": "Anna Sabine",
+      "canon_name": "Anna Sabine",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/digital-communities.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "digital-communities",
+      "mnis_id": 4934,
+      "name": "Helen Morgan",
+      "canon_name": "Helen Morgan",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/digital-communities.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "digital-communities",
+      "mnis_id": 5253,
+      "name": "Richard Baker",
+      "canon_name": "Richard Baker",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/digital-communities.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "digital-communities",
+      "mnis_id": 4939,
+      "name": "Viscount Camrose",
+      "canon_name": "Viscount Camrose",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/digital-communities.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "digital-communities",
+      "mnis_id": 5286,
+      "name": "Anna Sabine",
+      "canon_name": "Anna Sabine",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/digital-communities.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "digital-communities",
+      "mnis_id": 4934,
+      "name": "Helen Morgan",
+      "canon_name": "Helen Morgan",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/digital-communities.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "digital-communities",
+      "mnis_id": 5253,
+      "name": "Richard Baker",
+      "canon_name": "Richard Baker",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/digital-communities.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "digital-communities",
+      "mnis_id": 4939,
+      "name": "Viscount Camrose",
+      "canon_name": "Viscount Camrose",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/digital-communities.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

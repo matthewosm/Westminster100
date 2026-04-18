@@ -1,0 +1,274 @@
+{
+  "mnis_id": 4601,
+  "name": "Andrew Bowie",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "West Aberdeenshire and Kincardine",
+  "house": "Commons",
+  "start_date": "2017-06-08",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4601/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 5375.0,
+      "combined": 5375.0,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 6171.29,
+      "combined": 6171.29,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 6171.29,
+      "combined": 6171.29,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 6171.29,
+      "combined": 6171.29,
+      "payment_count": 4,
+      "donor_count": 4
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 5025.0,
+        "combined": 5025.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 5821.29,
+        "combined": 5821.29,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 5821.29,
+        "combined": 5821.29,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 5821.29,
+        "combined": 5821.29,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 350.0,
+        "combined": 350.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 350.0,
+        "combined": 350.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 350.0,
+        "combined": 350.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 350.0,
+        "combined": 350.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    350,
+    0,
+    0,
+    805,
+    4220,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "small-modular-reactors",
+      "appg_name": "All-Party Parliamentary Group on Small Modular Reactors",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "scotch-whisky",
+      "appg_name": "Scotch Whisky All-Party Parliamentary Group",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 132461,
+      "date": "2025-08-25",
+      "category": "4",
+      "member_id": 4601,
+      "member_name": "Andrew Bowie",
+      "payer_id": 264,
+      "payer_name": "Conservative Friends of Israel Ltd",
+      "amount": 4220.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4601/registeredinterests?categoryId=4",
+      "summary": "International visit to Israel between 25 August 2025 and 29 August 2025 — Fact finding political delegation",
+      "description": "Air travel, accommodation and hospitality (value has been estimated)"
+    },
+    {
+      "id": 133051,
+      "date": "2025-08-20",
+      "category": "4",
+      "member_id": 4601,
+      "member_name": "Andrew Bowie",
+      "payer_id": 1051,
+      "payer_name": "Stockholm Chamber of Commerce",
+      "amount": 805.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4601/registeredinterests?categoryId=4",
+      "summary": "International visit to Sweden between 20 August 2025 and 22 August 2025 — Engagement with Swedish businesses investing in UK",
+      "description": "Flights (£495), accommodation (£230), food and beverages at event (estimated £80)"
+    },
+    {
+      "id": 12326,
+      "date": "2025-04-27",
+      "category": "3",
+      "member_id": 4601,
+      "member_name": "Andrew Bowie",
+      "payer_id": 686,
+      "payer_name": "London Marathon Events Ltd",
+      "amount": 350.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4601/registeredinterests?categoryId=3",
+      "summary": "London Marathon Events Ltd - £350.00",
+      "description": "Hospitality at London Marathon"
+    },
+    {
+      "id": 123291,
+      "date": "2025-04-04",
+      "category": "4",
+      "member_id": 4601,
+      "member_name": "Andrew Bowie",
+      "payer_id": 643,
+      "payer_name": "Konrad Adenauer Stiftung",
+      "amount": 796.29,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4601/registeredinterests?categoryId=4",
+      "summary": "International visit to Italy between 04 April 2025 and 06 April 2025 — German British Dialogue",
+      "description": "Transfers: EUR 89\r\n\r\nAccommodation: EUR 360\r\n\r\nFood: EUR 102\r\n\r\nFlights: GBP 328"
+    }
+  ]
+}

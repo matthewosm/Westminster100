@@ -1,0 +1,242 @@
+{
+  "mnis_id": 4399,
+  "name": "Victoria Atkins",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "Louth and Horncastle",
+  "house": "Commons",
+  "start_date": "2015-05-07",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4399/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 2780.0,
+      "combined": 2780.0,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 1520.0,
+      "combined": 1520.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 1710.0,
+      "combined": 1710.0,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 3230.0,
+      "combined": 3230.0,
+      "payment_count": 5,
+      "donor_count": 4
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 3230.0,
+      "combined": 3230.0,
+      "payment_count": 5,
+      "donor_count": 4
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 2780.0,
+        "combined": 2780.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 1520.0,
+        "combined": 1520.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1710.0,
+        "combined": 1710.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 3230.0,
+        "combined": 3230.0,
+        "payment_count": 5,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 3230.0,
+        "combined": 3230.0,
+        "payment_count": 5,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    720,
+    0,
+    0,
+    0,
+    0,
+    0,
+    540,
+    0,
+    0,
+    0,
+    1520,
+    0
+  ],
+  "appg_memberships": [],
+  "payments": [
+    {
+      "id": 14795,
+      "date": "2026-03-13",
+      "category": "3",
+      "member_id": 4399,
+      "member_name": "Victoria Atkins",
+      "payer_id": 613,
+      "payer_name": "Jockey Club Racecourses Ltd",
+      "amount": 560.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4399/registeredinterests?categoryId=3",
+      "summary": "Jockey Club Racecourses Limited - £560.00",
+      "description": "Two tickets, which included hospitality, for the Cheltenham Festival 2026 for myself and a member of staff (value per ticket £280)"
+    },
+    {
+      "id": 14781,
+      "date": "2026-02-24",
+      "category": "3",
+      "member_id": 4399,
+      "member_name": "Victoria Atkins",
+      "payer_id": 791,
+      "payer_name": "National Farmers' Union",
+      "amount": 960.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4399/registeredinterests?categoryId=3",
+      "summary": "National Farmers' Union - £960.00",
+      "description": "Two tickets to attend the NFU Conference for one day and the Conference's dinner, (cost of a ticket was £400 + VAT each which covered entrance and dinner)"
+    },
+    {
+      "id": 14065,
+      "date": "2025-11-06",
+      "category": "3",
+      "member_id": 4399,
+      "member_name": "Victoria Atkins",
+      "payer_id": 17,
+      "payer_name": "Agricultural Engineers Association",
+      "amount": 540.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4399/registeredinterests?categoryId=3",
+      "summary": "Agricultural Engineers Association - £540.00",
+      "description": "Ticket including hospitality for the Agricultural Engineers\r\nAssociation 150th Anniversary Celebration at which I gave a speech"
+    },
+    {
+      "id": 12534,
+      "date": "2025-05-06",
+      "category": "3",
+      "member_id": 4399,
+      "member_name": "Victoria Atkins",
+      "payer_id": 726,
+      "payer_name": "Mark Allen Group",
+      "amount": 720.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4399/registeredinterests?categoryId=3",
+      "summary": "Mark Allen Group - £720.00",
+      "description": "Two VIP tickets for myself and member of staff to the National Women in Agriculture Awards 2025, which included dinner, to celebrate entrepreneurial women in the agricultural industry"
+    },
+    {
+      "id": 12051,
+      "date": "2025-03-14",
+      "category": "3",
+      "member_id": 4399,
+      "member_name": "Victoria Atkins",
+      "payer_id": 613,
+      "payer_name": "Jockey Club Racecourses Ltd",
+      "amount": 450.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4399/registeredinterests?categoryId=3",
+      "summary": "Jockey Club Racecourses Limited - £450.00",
+      "description": "Two tickets, which included hospitality, for the Cheltenham Festival 2025 for myself and a member of staff (value per ticket £225)"
+    }
+  ]
+}

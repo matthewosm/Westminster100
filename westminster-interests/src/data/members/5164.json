@@ -1,0 +1,274 @@
+{
+  "mnis_id": 5164,
+  "name": "Steff Aquarone",
+  "party": "Liberal Democrat",
+  "party_slug": "liberal-democrat",
+  "constituency": "North Norfolk",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5164/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 19460.47,
+      "inkind": 0.0,
+      "combined": 19460.47,
+      "payment_count": 4,
+      "donor_count": 3
+    },
+    "ytd": {
+      "monetary": 3686.93,
+      "inkind": 0.0,
+      "combined": 3686.93,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 19460.47,
+      "inkind": 0.0,
+      "combined": 19460.47,
+      "payment_count": 4,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 5086.6,
+      "inkind": 0.0,
+      "combined": 5086.6,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "since_election": {
+      "monetary": 28234.0,
+      "inkind": 0.0,
+      "combined": 28234.0,
+      "payment_count": 4,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 28234.0,
+      "inkind": 0.0,
+      "combined": 28234.0,
+      "payment_count": 4,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 7000.0,
+        "inkind": 0.0,
+        "combined": 7000.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 7000.0,
+        "inkind": 0.0,
+        "combined": 7000.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 7000.0,
+        "inkind": 0.0,
+        "combined": 7000.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 7000.0,
+        "inkind": 0.0,
+        "combined": 7000.0,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    },
+    "1.2": {
+      "12m": {
+        "monetary": 12460.47,
+        "inkind": 0.0,
+        "combined": 12460.47,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 3686.93,
+        "inkind": 0.0,
+        "combined": 3686.93,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 12460.47,
+        "inkind": 0.0,
+        "combined": 12460.47,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 5086.6,
+        "inkind": 0.0,
+        "combined": 5086.6,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 21234.0,
+        "inkind": 0.0,
+        "combined": 21234.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 21234.0,
+        "inkind": 0.0,
+        "combined": 21234.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    1024,
+    1024,
+    1024,
+    3524,
+    3024,
+    3524,
+    1024,
+    1024,
+    1024,
+    1024,
+    1024,
+    1024
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "baking-industry",
+      "appg_name": "All-Party Parliamentary Group for the Baking Industry",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "parkinsons",
+      "appg_name": "All-Party Parliamentary Group on Parkinson's",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 13394,
+      "date": "2025-09-30",
+      "category": "2",
+      "member_id": 5164,
+      "member_name": "Steff Aquarone",
+      "payer_id": 55,
+      "payer_name": "Anthony Smith",
+      "amount": 2500.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5164/registeredinterests?categoryId=2",
+      "summary": "Anthony Smith - £2,500.00",
+      "description": "To support further a video strategy"
+    },
+    {
+      "id": 13345,
+      "date": "2025-09-20",
+      "category": "2",
+      "member_id": 5164,
+      "member_name": "Steff Aquarone",
+      "payer_id": 749,
+      "payer_name": "Michael Holland",
+      "amount": 2000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5164/registeredinterests?categoryId=2",
+      "summary": "Michael Holland - £2,000.00",
+      "description": null
+    },
+    {
+      "id": 13081,
+      "date": "2025-08-06",
+      "category": "2",
+      "member_id": 5164,
+      "member_name": "Steff Aquarone",
+      "payer_id": 55,
+      "payer_name": "Anthony Smith",
+      "amount": 2500.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5164/registeredinterests?categoryId=2",
+      "summary": "Anthony Smith - £2,500.00",
+      "description": "To support development of video strategy"
+    },
+    {
+      "id": 6170,
+      "date": "2024-08-04",
+      "category": "1.2",
+      "member_id": 5164,
+      "member_name": "Steff Aquarone",
+      "payer_id": 826,
+      "payer_name": "Norfolk County Councillor",
+      "amount": 12469.0,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Yearly",
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5164/registeredinterests?categoryId=1",
+      "summary": "Agreement - £12,469.00",
+      "description": null
+    }
+  ]
+}

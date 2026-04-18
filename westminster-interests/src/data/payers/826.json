@@ -1,0 +1,99 @@
+{
+  "id": 826,
+  "name": "Norfolk County Councillor",
+  "address": "Martinuea Lane, Norwich NR1 2DH",
+  "nature_of_business": "Elected member",
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 12460.47,
+      "inkind": 0.0,
+      "combined": 12460.47,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 3686.93,
+      "inkind": 0.0,
+      "combined": 3686.93,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 12460.47,
+      "inkind": 0.0,
+      "combined": 12460.47,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 5086.6,
+      "inkind": 0.0,
+      "combined": 5086.6,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "since_election": {
+      "monetary": 21234.0,
+      "inkind": 0.0,
+      "combined": 21234.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 21234.0,
+      "inkind": 0.0,
+      "combined": 21234.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    1024,
+    1024,
+    1024,
+    1024,
+    1024,
+    1024,
+    1024,
+    1024,
+    1024,
+    1024,
+    1024,
+    1024
+  ],
+  "payments": [
+    {
+      "id": 6170,
+      "date": "2024-08-04",
+      "category": "1.2",
+      "member_id": 5164,
+      "member_name": "Steff Aquarone",
+      "payer_id": 826,
+      "payer_name": "Norfolk County Councillor",
+      "amount": 12469.0,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Yearly",
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5164/registeredinterests?categoryId=1",
+      "summary": "Agreement - £12,469.00",
+      "description": null
+    }
+  ]
+}

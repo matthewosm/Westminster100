@@ -1,0 +1,155 @@
+{
+  "mnis_id": 5328,
+  "name": "Sean Woodcock",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Banbury",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5328/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 1803.13,
+      "combined": 1803.13,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 1803.13,
+      "combined": 1803.13,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 1803.13,
+      "combined": 1803.13,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 1803.13,
+      "combined": 1803.13,
+      "payment_count": 1,
+      "donor_count": 1
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1803.13,
+        "combined": 1803.13,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1803.13,
+        "combined": 1803.13,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1803.13,
+        "combined": 1803.13,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1803.13,
+        "combined": 1803.13,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    1803,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "governance-and-inclusive-leadership",
+      "appg_name": "All-Party Parliamentary Group for Governance and Inclusive Leadership",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "multiple-sclerosis",
+      "appg_name": "All-Party Parliamentary Group for Multiple Sclerosis",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 131281,
+      "date": "2025-07-20",
+      "category": "4",
+      "member_id": 5328,
+      "member_name": "Sean Woodcock",
+      "payer_id": 246,
+      "payer_name": "The Coalition for Global Prosperity (CGP)",
+      "amount": 1803.13,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5328/registeredinterests?categoryId=4",
+      "summary": "International visit to Jordan between 20 July 2025 and 25 July 2025 — Overseas visit to Jordan to see UK Development programmes 'in-action' and meet with development experts and partners.",
+      "description": "Flights (£883), accommodation (£649.90), food and refreshments (£270.23)"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": 1086,
+  "name": "THI Investments UK Ltd",
+  "address": "17 Grosvenor Street, London W1K 4QG",
+  "nature_of_business": "an investment company",
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 33876.8,
+      "inkind": 0.0,
+      "combined": 33876.8,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 10023.82,
+      "inkind": 0.0,
+      "combined": 10023.82,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 33876.8,
+      "inkind": 0.0,
+      "combined": 33876.8,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 33969.61,
+      "inkind": 0.0,
+      "combined": 33969.61,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "since_election": {
+      "monetary": 60699.79,
+      "inkind": 0.0,
+      "combined": 60699.79,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 216254.62,
+      "inkind": 0.0,
+      "combined": 216254.62,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    2784,
+    2784,
+    2784,
+    2784,
+    2784,
+    2784,
+    2784,
+    2784,
+    2784,
+    2784,
+    2784,
+    2784
+  ],
+  "payments": [
+    {
+      "id": 4197,
+      "date": "2020-01-09",
+      "category": "1.2",
+      "member_id": 373,
+      "member_name": "David Davis",
+      "payer_id": 1086,
+      "payer_name": "THI Investments UK Ltd",
+      "amount": 33900.0,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Yearly",
+      "start_date": "2019-12-01",
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/373/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 01 December 2019 - £33,900.00",
+      "description": "paid quarterly"
+    }
+  ]
+}

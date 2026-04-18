@@ -1,0 +1,124 @@
+{
+  "id": 87,
+  "name": "Attestor Limited",
+  "address": "7 Seymour Street, London W1H 7JW",
+  "nature_of_business": null,
+  "donor_status": "Company",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 15000.0,
+      "inkind": 0.0,
+      "combined": 15000.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 40000.0,
+      "inkind": 0.0,
+      "combined": 40000.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 40000.0,
+      "inkind": 0.0,
+      "combined": 40000.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 40000.0,
+      "inkind": 0.0,
+      "combined": 40000.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    15000,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 13353,
+      "date": "2025-09-19",
+      "category": "2",
+      "member_id": 4320,
+      "member_name": "Robert Jenrick",
+      "payer_id": 87,
+      "payer_name": "Attestor Limited",
+      "amount": 15000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4320/registeredinterests?categoryId=2",
+      "summary": "Attestor Limited - £15,000.00",
+      "description": "to support my duties as an MP"
+    },
+    {
+      "id": 12230,
+      "date": "2025-03-31",
+      "category": "2",
+      "member_id": 4320,
+      "member_name": "Robert Jenrick",
+      "payer_id": 87,
+      "payer_name": "Attestor Limited",
+      "amount": 25000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4320/registeredinterests?categoryId=2",
+      "summary": "Attestor Limited - £25,000.00",
+      "description": "To support duties as an MP"
+    }
+  ]
+}

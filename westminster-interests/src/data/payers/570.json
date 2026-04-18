@@ -1,0 +1,99 @@
+{
+  "id": 570,
+  "name": "Investcorp Securities Ltd",
+  "address": "48 Grosvenor St, London W1K 3HW",
+  "nature_of_business": "a venture capital company",
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 24982.89,
+      "inkind": 0.0,
+      "combined": 24982.89,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 7392.2,
+      "inkind": 0.0,
+      "combined": 7392.2,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 24982.89,
+      "inkind": 0.0,
+      "combined": 24982.89,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 25051.33,
+      "inkind": 0.0,
+      "combined": 25051.33,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "since_election": {
+      "monetary": 44763.86,
+      "inkind": 0.0,
+      "combined": 44763.86,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 76180.7,
+      "inkind": 0.0,
+      "combined": 76180.7,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    2053,
+    2053,
+    2053,
+    2053,
+    2053,
+    2053,
+    2053,
+    2053,
+    2053,
+    2053,
+    2053,
+    2053
+  ],
+  "payments": [
+    {
+      "id": 4221,
+      "date": "2023-04-14",
+      "category": "1.2",
+      "member_id": 3912,
+      "member_name": "Richard Fuller",
+      "payer_id": 570,
+      "payer_name": "Investcorp Securities Ltd",
+      "amount": 25000.0,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Yearly",
+      "start_date": "2023-04-01",
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/3912/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 01 April 2023 - £25,000.00",
+      "description": "paid quarterly"
+    }
+  ]
+}

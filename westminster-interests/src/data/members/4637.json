@@ -1,0 +1,255 @@
+{
+  "mnis_id": 4637,
+  "name": "Mr James Frith",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Bury North",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4637/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 7670.0,
+      "combined": 7670.0,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 3432.0,
+      "combined": 3432.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 7358.0,
+      "combined": 7358.0,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 10790.0,
+      "combined": 10790.0,
+      "payment_count": 5,
+      "donor_count": 5
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 10790.0,
+      "combined": 10790.0,
+      "payment_count": 5,
+      "donor_count": 5
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 7670.0,
+        "combined": 7670.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 3432.0,
+        "combined": 3432.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 7358.0,
+        "combined": 7358.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 10790.0,
+        "combined": 10790.0,
+        "payment_count": 5,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 10790.0,
+        "combined": 10790.0,
+        "payment_count": 5,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    684,
+    0,
+    3122,
+    432,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3432,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "advertising",
+      "appg_name": "All-Party Parliamentary Group on Advertising",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "pans-pandas",
+      "appg_name": "All-Party Parliamentary Group on PANS PANDAS",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14696,
+      "date": "2026-02-28",
+      "category": "3",
+      "member_id": 4637,
+      "member_name": "Mr James Frith",
+      "payer_id": 144,
+      "payer_name": "BPI (British Recorded Music Industry) Ltd",
+      "amount": 3432.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4637/registeredinterests?categoryId=3",
+      "summary": "BPI (British Recorded Music Industry) Ltd - £3,432.00",
+      "description": "Two tickets and hospitality for The BRITs, in Manchester"
+    },
+    {
+      "id": 13191,
+      "date": "2025-08-03",
+      "category": "3",
+      "member_id": 4637,
+      "member_name": "Mr James Frith",
+      "payer_id": 1014,
+      "payer_name": "Sky UK Limited",
+      "amount": 432.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4637/registeredinterests?categoryId=3",
+      "summary": "Sky UK Ltd - £432.00",
+      "description": "Two tickets to the Oval Cricket Ground for England versus India with food"
+    },
+    {
+      "id": 12936,
+      "date": "2025-06-27",
+      "category": "3",
+      "member_id": 4637,
+      "member_name": "Mr James Frith",
+      "payer_id": 907,
+      "payer_name": "PRS for Music Limited",
+      "amount": 3122.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-06-30",
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4637/registeredinterests?categoryId=3",
+      "summary": "PRS for Music Limited - £3,122.00",
+      "description": "2 tickets for Glastonbury and accommodation"
+    },
+    {
+      "id": 12623,
+      "date": "2025-05-22",
+      "category": "3",
+      "member_id": 4637,
+      "member_name": "Mr James Frith",
+      "payer_id": 1126,
+      "payer_name": "UK Music",
+      "amount": 684.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "music",
+      "appg_name": "All-Party Parliamentary Group on Music",
+      "source_url": "https://members.parliament.uk/member/4637/registeredinterests?categoryId=3",
+      "summary": "UK Music - £684.00",
+      "description": "Attendance at the Ivor Novello Awards"
+    },
+    {
+      "id": 12099,
+      "date": "2025-03-01",
+      "category": "3",
+      "member_id": 4637,
+      "member_name": "Mr James Frith",
+      "payer_id": 144,
+      "payer_name": "BPI (British Recorded Music Industry) Ltd",
+      "amount": 3120.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4637/registeredinterests?categoryId=3",
+      "summary": "BPI (British Recorded Music Industry) Ltd - £3,120.00",
+      "description": "Attendance, with a guest, to the BRIT Awards (two tickets at £1560 each)"
+    }
+  ]
+}

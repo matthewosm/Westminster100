@@ -1,0 +1,141 @@
+{
+  "slug": "floating-offshore-wind",
+  "title": "All-Party Parliamentary Group on Floating Offshore Wind",
+  "purpose": "To raise the opportunity of floating offshore wind  in the UK and increase parliamentarians knowledge of the sector.",
+  "categories": [
+    "Energy & Utilities",
+    "Environment, Climate & Sustainability"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/floating-offshore-wind.htm",
+  "secretariat": "RenewableUK acts as the group's secretariat.https://www.renewableuk.com/",
+  "website": "None",
+  "registered_contact_name": "Tracy Gilbert MP",
+  "date_of_most_recent_agm": "2024-11-20 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "floating-offshore-wind",
+      "mnis_id": 5279,
+      "name": "Jayne Kirkham",
+      "canon_name": "Jayne Kirkham",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/floating-offshore-wind.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "floating-offshore-wind",
+      "mnis_id": 4957,
+      "name": "Lord Ashcombe",
+      "canon_name": "Lord Ashcombe",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/floating-offshore-wind.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "floating-offshore-wind",
+      "mnis_id": 5188,
+      "name": "Tracy Gilbert",
+      "canon_name": "Tracy Gilbert",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/floating-offshore-wind.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "floating-offshore-wind",
+      "mnis_id": 5279,
+      "name": "Jayne Kirkham",
+      "canon_name": "Jayne Kirkham",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/floating-offshore-wind.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "floating-offshore-wind",
+      "mnis_id": 4957,
+      "name": "Lord Ashcombe",
+      "canon_name": "Lord Ashcombe",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/floating-offshore-wind.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "floating-offshore-wind",
+      "mnis_id": 5188,
+      "name": "Tracy Gilbert",
+      "canon_name": "Tracy Gilbert",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/floating-offshore-wind.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

@@ -1,0 +1,224 @@
+{
+  "mnis_id": 5268,
+  "name": "Iqbal Mohamed",
+  "party": "Independent",
+  "party_slug": "independent",
+  "constituency": "Dewsbury and Batley",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5268/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 46300.0,
+      "combined": 46300.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 40000.0,
+      "combined": 40000.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 6300.0,
+      "combined": 6300.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 46300.0,
+      "combined": 46300.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 46300.0,
+      "combined": 46300.0,
+      "payment_count": 2,
+      "donor_count": 2
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 40000.0,
+        "combined": 40000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 40000.0,
+        "combined": 40000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 40000.0,
+        "combined": 40000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 40000.0,
+        "combined": 40000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 6300.0,
+        "combined": 6300.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 6300.0,
+        "combined": 6300.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 6300.0,
+        "combined": 6300.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 6300.0,
+        "combined": 6300.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    6300,
+    40000,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "access-to-medicines-and-medical-devices",
+      "appg_name": "All-Party Parliamentary Group on Access to Medicines and Medical Devices",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "islamic-and-ethical-finance",
+      "appg_name": "All-Party Parliamentary Group on Islamic and Ethical Finance",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14438,
+      "date": "2026-01-07",
+      "category": "2",
+      "member_id": 5268,
+      "member_name": "Iqbal Mohamed",
+      "payer_id": 565,
+      "payer_name": "International Centre of Justice for Palestinians (ICJP)",
+      "amount": 40000.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2026-12-31",
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5268/registeredinterests?categoryId=2",
+      "summary": "International Centre of Justice for Palestinians (ICJP) - £40,000.00",
+      "description": "Full time research assistant provided to the five Independent Alliance MPs to support their work in parliament"
+    },
+    {
+      "id": 142151,
+      "date": "2025-12-05",
+      "category": "4",
+      "member_id": 5268,
+      "member_name": "Iqbal Mohamed",
+      "payer_id": 319,
+      "payer_name": "Doha Forum",
+      "amount": 6300.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5268/registeredinterests?categoryId=4",
+      "summary": "International visit to Qatar between 05 December 2025 and 09 December 2025 — To attend the annual Doha Forum 2025, to participate at the Doha Forum 2025 on Diplomacy, Dialogue and Diversity, including meetings with fellow cross-party Parliamentarians, political representatives of other countries and Qatari Ministers to discuss Qatar's role in seeking to resolve current regional conflicts.",
+      "description": "Flights (LHR to Doha), accommodation (4 nights) and food"
+    }
+  ]
+}

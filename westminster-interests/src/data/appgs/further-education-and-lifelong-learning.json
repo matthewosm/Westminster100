@@ -1,0 +1,164 @@
+{
+  "slug": "further-education-and-lifelong-learning",
+  "title": "All-Party Parliamentary Group on Further Education and Lifelong Learning",
+  "purpose": "To promote and advance the interests of further education, adult learning, and skills and apprenticeships, while providing informed advice to parliamentarians and government ministers on key issues, opportunities and concerns affecting these areas.",
+  "categories": [
+    "Education, Skills & Youth"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/further-education-and-lifelong-learning.htm",
+  "secretariat": "Association of Colleges acts as the group's secretariat.https://www.aoc.co.uk/",
+  "website": "https://www.aoc.co.uk/news-campaigns-parliament/work-in-parliament/appg",
+  "registered_contact_name": "Mr Jonathan Brash MP",
+  "date_of_most_recent_agm": "2025-01-21 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "further-education-and-lifelong-learning",
+      "mnis_id": null,
+      "name": "Baroness Garden of Frognal",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/further-education-and-lifelong-learning.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "further-education-and-lifelong-learning",
+      "mnis_id": 5183,
+      "name": "Frank McNally",
+      "canon_name": "Frank McNally",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/further-education-and-lifelong-learning.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "further-education-and-lifelong-learning",
+      "mnis_id": null,
+      "name": "Lord Johnson of Marylebone",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/further-education-and-lifelong-learning.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "further-education-and-lifelong-learning",
+      "mnis_id": 5045,
+      "name": "Mr Jonathan Brash",
+      "canon_name": "Jonathan Brash",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/further-education-and-lifelong-learning.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "further-education-and-lifelong-learning",
+      "mnis_id": null,
+      "name": "Baroness Garden of Frognal",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/further-education-and-lifelong-learning.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "further-education-and-lifelong-learning",
+      "mnis_id": 5183,
+      "name": "Frank McNally",
+      "canon_name": "Frank McNally",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/further-education-and-lifelong-learning.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "further-education-and-lifelong-learning",
+      "mnis_id": null,
+      "name": "Lord Johnson of Marylebone",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/further-education-and-lifelong-learning.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "further-education-and-lifelong-learning",
+      "mnis_id": 5045,
+      "name": "Mr Jonathan Brash",
+      "canon_name": "Jonathan Brash",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/further-education-and-lifelong-learning.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

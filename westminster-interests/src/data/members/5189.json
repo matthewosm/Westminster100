@@ -1,0 +1,155 @@
+{
+  "mnis_id": 5189,
+  "name": "Gordon McKee",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Glasgow South",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5189/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 3000.0,
+      "inkind": 0.0,
+      "combined": 3000.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 3000.0,
+      "inkind": 0.0,
+      "combined": 3000.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 3000.0,
+      "inkind": 0.0,
+      "combined": 3000.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "all_time": {
+      "monetary": 3000.0,
+      "inkind": 0.0,
+      "combined": 3000.0,
+      "payment_count": 1,
+      "donor_count": 1
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 3000.0,
+        "inkind": 0.0,
+        "combined": 3000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 3000.0,
+        "inkind": 0.0,
+        "combined": 3000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 3000.0,
+        "inkind": 0.0,
+        "combined": 3000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 3000.0,
+        "inkind": 0.0,
+        "combined": 3000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3000,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "self-driving-vehicles",
+      "appg_name": "All-Party Parliamentary Group for Self-Driving Vehicles",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "democratic-republic-of-congo",
+      "appg_name": "All-Party Parliamentary Group on the Democratic Republic of Congo",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14158,
+      "date": "2025-12-05",
+      "category": "2",
+      "member_id": 5189,
+      "member_name": "Gordon McKee",
+      "payer_id": 449,
+      "payer_name": "George James McGowan",
+      "amount": 3000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5189/registeredinterests?categoryId=2",
+      "summary": "George James McGowan - £3,000.00",
+      "description": null
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": 462,
+  "name": "Global Health Partnerships (formerly THET)",
+  "address": "86 - 90 Paul Street, London EC2A 4NE",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 4512.78,
+      "combined": 4512.78,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 4512.78,
+      "combined": 4512.78,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 4512.78,
+      "combined": 4512.78,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 4512.78,
+      "combined": 4512.78,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    4513,
+    0
+  ],
+  "payments": [
+    {
+      "id": 146741,
+      "date": "2026-02-21",
+      "category": "4",
+      "member_id": 1211,
+      "member_name": "Sir Andrew Mitchell",
+      "payer_id": 462,
+      "payer_name": "Global Health Partnerships (formerly THET)",
+      "amount": 4512.78,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1211/registeredinterests?categoryId=4",
+      "summary": "International visit to Zimbabwe between 21 February 2026 and 25 February 2026 — High-level meetings with Government of Zimbabwe representatives and health system stakeholders, site visit to project funded through the UK-Zimbabwe Health Partnership Pilot at Sally Mugabe Hospital, and attendance at UK-Zimbabwe Health Partnership Pilot celebration event hosted by the British Ambassador to Zimbabwe.",
+      "description": "Flights (£2,652.78), accommodation (£870.00), local transport (£730.00) and estimated value of meals and hospitality (£260.00), for myself and an International Development Advisor"
+    }
+  ]
+}

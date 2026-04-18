@@ -1,0 +1,99 @@
+{
+  "id": 519,
+  "name": "High Commissioner of India in the UK",
+  "address": "High Commission of India, India House, Aldwych, London WC2B 4NA.",
+  "nature_of_business": null,
+  "donor_status": "Other",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 600.0,
+      "combined": 600.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 600.0,
+      "combined": 600.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 600.0,
+      "combined": 600.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 600.0,
+      "combined": 600.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    600,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 13093,
+      "date": "2025-07-19",
+      "category": "3",
+      "member_id": 4066,
+      "member_name": "Priti Patel",
+      "payer_id": 519,
+      "payer_name": "High Commissioner of India in the UK",
+      "amount": 600.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4066/registeredinterests?categoryId=3",
+      "summary": "High Commissioner of India in the UK - £600.00",
+      "description": "Two tickets and hospitality for me and a family member as a guest of the High Commissioner to attend the England v India Women's One Day International at Lord's in the ECB Chair's Suite (NB: this is not commercially available, but each ticket has an estimated face value of £250-£300)"
+    }
+  ]
+}

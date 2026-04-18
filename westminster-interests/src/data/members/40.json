@@ -1,0 +1,293 @@
+{
+  "mnis_id": 40,
+  "name": "Sir Bernard Jenkin",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "Harwich and North Essex",
+  "house": "Commons",
+  "start_date": "1992-04-09",
+  "photo_url": "https://members-api.parliament.uk/api/Members/40/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 698.0,
+      "combined": 698.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 398.0,
+      "combined": 398.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 325.0,
+      "inkind": 300.0,
+      "combined": 625.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 325.0,
+      "inkind": 698.0,
+      "combined": 1023.0,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 325.0,
+      "inkind": 698.0,
+      "combined": 1023.0,
+      "payment_count": 3,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 398.0,
+        "combined": 398.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 398.0,
+        "combined": 398.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 398.0,
+        "combined": 398.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 398.0,
+        "combined": 398.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 300.0,
+        "combined": 300.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 300.0,
+        "combined": 300.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 300.0,
+        "combined": 300.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 300.0,
+        "combined": 300.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "1.1": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 325.0,
+        "inkind": 0.0,
+        "combined": 325.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 325.0,
+        "inkind": 0.0,
+        "combined": 325.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 325.0,
+        "inkind": 0.0,
+        "combined": 325.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    300,
+    0,
+    398,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "patient-safety",
+      "appg_name": "All-Party Parliamentary Group on Patient Safety",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "russia-and-democracy",
+      "appg_name": "All-Party Parliamentary Group on Russia and Democracy",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 148091,
+      "date": "2026-02-19",
+      "category": "4",
+      "member_id": 40,
+      "member_name": "Sir Bernard Jenkin",
+      "payer_id": 1122,
+      "payer_name": "UK Friends of Ukraine",
+      "amount": 398.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/40/registeredinterests?categoryId=4",
+      "summary": "International visit to Moldova between 19 February 2026 and 25 February 2026 — Visit for briefings and meetings in Moldova, Odessa and Kiev, and to attend fourth anniversary event to commemorate the 2022 full scale invasion of Ukraine by Russia, with President Zelenskyy and other heads of state.",
+      "description": "Meals and bus transport."
+    },
+    {
+      "id": 14300,
+      "date": "2025-12-23",
+      "category": "3",
+      "member_id": 40,
+      "member_name": "Sir Bernard Jenkin",
+      "payer_id": 949,
+      "payer_name": "Richard Matthews",
+      "amount": 300.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/40/registeredinterests?categoryId=3",
+      "summary": "Richard Matthews - £300.00",
+      "description": "Day's shooting"
+    },
+    {
+      "id": 11952,
+      "date": "2025-02-27",
+      "category": "1.1",
+      "member_id": 40,
+      "member_name": "Sir Bernard Jenkin",
+      "payer_id": 72,
+      "payer_name": "Aros Corporation Ltd",
+      "amount": 325.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/40/registeredinterests?categoryId=1",
+      "summary": "Payment received on 27 February 2025 - £325.00",
+      "description": "Article for Diplomat Magazine"
+    }
+  ]
+}

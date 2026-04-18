@@ -1,0 +1,99 @@
+{
+  "id": 1043,
+  "name": "States of Guernsey",
+  "address": "Sir Charles Frossard House, La Charotterie, Guernsey GY1 1FH",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 1031.0,
+      "combined": 1031.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 1031.0,
+      "combined": 1031.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 1031.0,
+      "combined": 1031.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 1031.0,
+      "combined": 1031.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    1031,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 128272,
+      "date": "2025-06-24",
+      "category": "4",
+      "member_id": 4267,
+      "member_name": "Sarah Champion",
+      "payer_id": 1043,
+      "payer_name": "States of Guernsey",
+      "amount": 1031.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "channel-islands",
+      "appg_name": "Channel Islands All-Party Parliamentary Group",
+      "source_url": "https://members.parliament.uk/member/4267/registeredinterests?categoryId=4",
+      "summary": "International visit to Jersey between 24 June 2025 and 30 June 2025 — Orientation and research trip as Chair of APPG Channel Islands, with Senior Researcher",
+      "description": "Flights (£435), local transportation (approx £480) and food (approx. £116)"
+    }
+  ]
+}

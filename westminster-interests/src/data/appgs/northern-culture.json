@@ -1,0 +1,165 @@
+{
+  "slug": "northern-culture",
+  "title": "Northern Culture All-Party Parliamentary Group",
+  "purpose": "The APPG champions the huge economic contribution made by the North’s cultural sector, providing a united voice on pan-northern cultural priorities in order to shape and influence future government decision-making and promoting the need for investment in the North’s strong cultural talent pipeline and heritage.",
+  "categories": [
+    "Arts, Culture, Heritage & Media",
+    "Regions, Nations & Devolution"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/northern-culture.htm",
+  "secretariat": "Devo Agency acts as the group's secretariat.https://www.devoagency.co.uk",
+  "website": "https://curiousminds.org.uk/northern-culture-appg/",
+  "registered_contact_name": "Patrick Hurley MP",
+  "date_of_most_recent_agm": "2026-01-27 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "northern-culture",
+      "mnis_id": null,
+      "name": "Lord Vaizey of Didcot",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/northern-culture.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "northern-culture",
+      "mnis_id": null,
+      "name": "Lord Watson of Wyre Forest",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/northern-culture.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "northern-culture",
+      "mnis_id": 5052,
+      "name": "Patrick Hurley",
+      "canon_name": "Patrick Hurley",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/northern-culture.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "northern-culture",
+      "mnis_id": 5090,
+      "name": "Tom Morrison",
+      "canon_name": "Tom Morrison",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/northern-culture.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "northern-culture",
+      "mnis_id": null,
+      "name": "Lord Vaizey of Didcot",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/northern-culture.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "northern-culture",
+      "mnis_id": null,
+      "name": "Lord Watson of Wyre Forest",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/northern-culture.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "northern-culture",
+      "mnis_id": 5052,
+      "name": "Patrick Hurley",
+      "canon_name": "Patrick Hurley",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/northern-culture.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "northern-culture",
+      "mnis_id": 5090,
+      "name": "Tom Morrison",
+      "canon_name": "Tom Morrison",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/northern-culture.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

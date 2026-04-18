@@ -1,0 +1,164 @@
+{
+  "slug": "greece",
+  "title": "All-Party Parliamentary Group for Greece",
+  "purpose": "To further UK-Greece relations and discuss issues affecting both countries.",
+  "categories": [
+    "Country Group"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/greece.htm",
+  "secretariat": "",
+  "website": "None",
+  "registered_contact_name": "Alberto Costa MP",
+  "date_of_most_recent_agm": "2025-11-04 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "greece",
+      "mnis_id": 4439,
+      "name": "Alberto Costa",
+      "canon_name": "Alberto Costa",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/greece.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "greece",
+      "mnis_id": 4986,
+      "name": "Lord Gascoigne",
+      "canon_name": "Lord Gascoigne",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/greece.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "greece",
+      "mnis_id": null,
+      "name": "Lord Goddard of Stockport",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/greece.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "greece",
+      "mnis_id": 5221,
+      "name": "Steve Witherden",
+      "canon_name": "Steve Witherden",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/greece.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "greece",
+      "mnis_id": 4439,
+      "name": "Alberto Costa",
+      "canon_name": "Alberto Costa",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/greece.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "greece",
+      "mnis_id": 4986,
+      "name": "Lord Gascoigne",
+      "canon_name": "Lord Gascoigne",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/greece.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "greece",
+      "mnis_id": null,
+      "name": "Lord Goddard of Stockport",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/greece.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "greece",
+      "mnis_id": 5221,
+      "name": "Steve Witherden",
+      "canon_name": "Steve Witherden",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/greece.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

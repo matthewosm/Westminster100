@@ -1,0 +1,217 @@
+{
+  "mnis_id": 5131,
+  "name": "Jack Abbott",
+  "party": "Labour (Co-op)",
+  "party_slug": "labour-co-op",
+  "constituency": "Ipswich",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5131/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 3923.0,
+      "combined": 3923.0,
+      "payment_count": 4,
+      "donor_count": 3
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 3923.0,
+      "combined": 3923.0,
+      "payment_count": 4,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 3923.0,
+      "combined": 3923.0,
+      "payment_count": 4,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 3923.0,
+      "combined": 3923.0,
+      "payment_count": 4,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 3923.0,
+        "combined": 3923.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 3923.0,
+        "combined": 3923.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 3923.0,
+        "combined": 3923.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 3923.0,
+        "combined": 3923.0,
+        "payment_count": 4,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    1195,
+    1060,
+    1128,
+    0,
+    0,
+    0,
+    540,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [],
+  "payments": [
+    {
+      "id": 13972,
+      "date": "2025-11-04",
+      "category": "3",
+      "member_id": 5131,
+      "member_name": "Jack Abbott",
+      "payer_id": 573,
+      "payer_name": "Ipswich Town Football Club Company Limited",
+      "amount": 540.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5131/registeredinterests?categoryId=3",
+      "summary": "Ipswich Town Football Club Company Limited - £540.00",
+      "description": "One ticket to the Ipswich Town F.C. vs Watford F.C. Championship fixture"
+    },
+    {
+      "id": 12979,
+      "date": "2025-07-13",
+      "category": "3",
+      "member_id": 5131,
+      "member_name": "Jack Abbott",
+      "payer_id": 573,
+      "payer_name": "Ipswich Town Football Club Company Limited",
+      "amount": 1128.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5131/registeredinterests?categoryId=3",
+      "summary": "Ipswich Town Football Club Company Limited - £1,128.00",
+      "description": "Two tickets to an Ed Sheeran concert at Portman Road"
+    },
+    {
+      "id": 12709,
+      "date": "2025-06-07",
+      "category": "3",
+      "member_id": 5131,
+      "member_name": "Jack Abbott",
+      "payer_id": 573,
+      "payer_name": "Ipswich Town Football Club Company Limited",
+      "amount": 1060.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5131/registeredinterests?categoryId=3",
+      "summary": "Ipswich Town Football Club Company Limited - £1,060.00",
+      "description": "Two tickets to Fabio Wardley's interim WBA World Heavyweight Championship fight at Portman Road"
+    },
+    {
+      "id": 12668,
+      "date": "2025-05-21",
+      "category": "3",
+      "member_id": 5131,
+      "member_name": "Jack Abbott",
+      "payer_id": 181,
+      "payer_name": "Cambridgeshire and Peterborough Combined Authority",
+      "amount": 1195.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5131/registeredinterests?categoryId=3",
+      "summary": "Cambridgeshire and Peterborough Combined Authority - £1,195.00",
+      "description": "Ticket to attend UKREiiF - The UK's Real Estate Investment and Infrastructure Forum"
+    }
+  ]
+}

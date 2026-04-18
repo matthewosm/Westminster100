@@ -1,0 +1,405 @@
+{
+  "mnis_id": 5065,
+  "name": "Rachel Taylor",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "North Warwickshire and Bedworth",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5065/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 15624.0,
+      "inkind": 3612.15,
+      "combined": 19236.15,
+      "payment_count": 6,
+      "donor_count": 6
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 15624.0,
+      "inkind": 6811.95,
+      "combined": 22435.95,
+      "payment_count": 7,
+      "donor_count": 7
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 15624.0,
+      "inkind": 6811.95,
+      "combined": 22435.95,
+      "payment_count": 7,
+      "donor_count": 7
+    },
+    "all_time": {
+      "monetary": 15624.0,
+      "inkind": 6811.95,
+      "combined": 22435.95,
+      "payment_count": 7,
+      "donor_count": 7
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 3066.47,
+        "combined": 3066.47,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 3066.47,
+        "combined": 3066.47,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 3066.47,
+        "combined": 3066.47,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 3066.47,
+        "combined": 3066.47,
+        "payment_count": 4,
+        "donor_count": 0
+      }
+    },
+    "1.1": {
+      "12m": {
+        "monetary": 15624.0,
+        "inkind": 0.0,
+        "combined": 15624.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 15624.0,
+        "inkind": 0.0,
+        "combined": 15624.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 15624.0,
+        "inkind": 0.0,
+        "combined": 15624.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 15624.0,
+        "inkind": 0.0,
+        "combined": 15624.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 545.68,
+        "combined": 545.68,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 3745.48,
+        "combined": 3745.48,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 3745.48,
+        "combined": 3745.48,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 3745.48,
+        "combined": 3745.48,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    2197,
+    540,
+    16170,
+    0,
+    0,
+    329,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "sport-and-physical-activity",
+      "appg_name": "All-Party Parliamentary Group for Sport and Physical Activity",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "endometriosis",
+      "appg_name": "All-Party Parliamentary Group on Endometriosis",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "freight-and-logistics",
+      "appg_name": "All-Party Parliamentary Group on Freight and Logistics",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "south-africa",
+      "appg_name": "All-Party Parliamentary Group on South Africa",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 13902,
+      "date": "2025-11-15",
+      "category": "3",
+      "member_id": 5065,
+      "member_name": "Rachel Taylor",
+      "payer_id": 983,
+      "payer_name": "Rugby Football Union",
+      "amount": 329.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "sport-and-physical-activity",
+      "appg_name": "All-Party Parliamentary Group for Sport and Physical Activity",
+      "source_url": "https://members.parliament.uk/member/5065/registeredinterests?categoryId=3",
+      "summary": "Rugby Football Union - £329.00",
+      "description": "One ticket and lunch at the England v New Zealand match on 15 November 2025"
+    },
+    {
+      "id": 13072,
+      "date": "2025-07-31",
+      "category": "1.1",
+      "member_id": 5065,
+      "member_name": "Rachel Taylor",
+      "payer_id": 921,
+      "payer_name": "Rachel Taylor Consultancy Limited",
+      "amount": 15624.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5065/registeredinterests?categoryId=1",
+      "summary": "Payment received on 31 July 2025 - £15,624.00",
+      "description": "Dividends declared to cancel Director Loan account in order to wind up company."
+    },
+    {
+      "id": 131681,
+      "date": "2025-07-29",
+      "category": "4",
+      "member_id": 5065,
+      "member_name": "Rachel Taylor",
+      "payer_id": 680,
+      "payer_name": "LKQ Group (UK) Limited",
+      "amount": 545.68,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5065/registeredinterests?categoryId=4",
+      "summary": "International visit to Poland between 29 July 2025 and 03 August 2025 — My partner and I drove a decommissioned ambulance full of medical supplies to the Poland/ Ukraine Border as part of a humanitarian mission organised by LKQ. The trip covered 1,300 miles and consisted of overnight stays along the route with a return flight once the ambulance was handed over to Ukranian medics.",
+      "description": "Flights £216.08, accommodation £329.60. \r\nPer person cost (£272.84)"
+    },
+    {
+      "id": 13016,
+      "date": "2025-07-11",
+      "category": "3",
+      "member_id": 5065,
+      "member_name": "Rachel Taylor",
+      "payer_id": 659,
+      "payer_name": "The Lawn Tennis Association Limited",
+      "amount": 540.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "tennis",
+      "appg_name": "All-Party Parliamentary Group on Tennis",
+      "source_url": "https://members.parliament.uk/member/5065/registeredinterests?categoryId=3",
+      "summary": "The Lawn Tennis Association Limited - £540.00",
+      "description": "Two tickets for Centre Court at Wimbledon during week 2 of the Championships"
+    },
+    {
+      "id": 12786,
+      "date": "2025-06-20",
+      "category": "3",
+      "member_id": 5065,
+      "member_name": "Rachel Taylor",
+      "payer_id": 895,
+      "payer_name": "Premier League",
+      "amount": 1798.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5065/registeredinterests?categoryId=3",
+      "summary": "The Premier League - £1,798.00",
+      "description": "Two tickets and hospitality for the Dua Lipa concert at Wembley Stadium"
+    },
+    {
+      "id": 12782,
+      "date": "2025-06-12",
+      "category": "3",
+      "member_id": 5065,
+      "member_name": "Rachel Taylor",
+      "payer_id": 658,
+      "payer_name": "The Lawn Tennis Association",
+      "amount": 399.47,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "tennis",
+      "appg_name": "All-Party Parliamentary Group on Tennis",
+      "source_url": "https://members.parliament.uk/member/5065/registeredinterests?categoryId=3",
+      "summary": "Lawn Tennis Association - £399.47",
+      "description": "Centre Court ticket and lunch at The Queens Club during the Ladies HSBC Championships"
+    },
+    {
+      "id": 120061,
+      "date": "2025-02-15",
+      "category": "4",
+      "member_id": 5065,
+      "member_name": "Rachel Taylor",
+      "payer_id": 246,
+      "payer_name": "The Coalition for Global Prosperity (CGP)",
+      "amount": 3199.8,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5065/registeredinterests?categoryId=4",
+      "summary": "International visit to Zimbabwe between 15 February 2025 and 21 February 2025 — Overseas visit to Zimbabwe to see UK Development Projects \"in action\" and meet with development experts and partners",
+      "description": "Visa (£43.25), flights and travel (£2182.98), food and refreshments (£131.90), accommodation (£711.67)"
+    }
+  ]
+}

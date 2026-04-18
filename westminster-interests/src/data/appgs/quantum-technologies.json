@@ -1,0 +1,165 @@
+{
+  "slug": "quantum-technologies",
+  "title": "All-Party Parliamentary Group on Quantum Technologies",
+  "purpose": "Promote understanding of quantum technologies, including computing, sensing, timing and secure communications, through informed engagement between parliamentarians and experts in the quantum ecosystem. Support the continued development of UK quantum capability across academia, industry and government, in the national interest. Examine the dual role of quantum, across defence and civil.",
+  "categories": [
+    "Science, Technology & Innovation",
+    "Economy, Business & Industry"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/quantum-technologies.htm",
+  "secretariat": "TYI acts as the group's secretariat.https://tyistrategy.co.uk/",
+  "website": "None",
+  "registered_contact_name": "Dave Robertson MP",
+  "date_of_most_recent_agm": "2026-02-04 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "quantum-technologies",
+      "mnis_id": 4874,
+      "name": "Andrew Griffith",
+      "canon_name": "Andrew Griffith",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/quantum-technologies.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "quantum-technologies",
+      "mnis_id": 5126,
+      "name": "Dave Robertson",
+      "canon_name": "Dave Robertson",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/quantum-technologies.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "quantum-technologies",
+      "mnis_id": 5334,
+      "name": "Dr Allison Gardner",
+      "canon_name": "Allison Gardner",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/quantum-technologies.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "quantum-technologies",
+      "mnis_id": 5111,
+      "name": "Martin Wrigley",
+      "canon_name": "Martin Wrigley",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/quantum-technologies.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "quantum-technologies",
+      "mnis_id": 4874,
+      "name": "Andrew Griffith",
+      "canon_name": "Andrew Griffith",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/quantum-technologies.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "quantum-technologies",
+      "mnis_id": 5126,
+      "name": "Dave Robertson",
+      "canon_name": "Dave Robertson",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/quantum-technologies.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "quantum-technologies",
+      "mnis_id": 5334,
+      "name": "Dr Allison Gardner",
+      "canon_name": "Allison Gardner",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/quantum-technologies.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "quantum-technologies",
+      "mnis_id": 5111,
+      "name": "Martin Wrigley",
+      "canon_name": "Martin Wrigley",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/quantum-technologies.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

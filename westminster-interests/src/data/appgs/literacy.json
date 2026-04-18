@@ -1,0 +1,164 @@
+{
+  "slug": "literacy",
+  "title": "All-Party Parliamentary Group on Literacy",
+  "purpose": "The APPG is committed to promoting parliamentary understanding and support for the latest national research, policies, and best practices in literacy across the early years, schools and criminal justice system. It will raise awareness of the importance of improving literacy levels and advocates for a targeted, place-based, collaborative, cross-sector approach to achieving this goal.",
+  "categories": [
+    "Education, Skills & Youth"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/literacy.htm",
+  "secretariat": "National Literacy Trust acts as the group's secretariat.https://literacytrust.org.uk/",
+  "website": "None",
+  "registered_contact_name": "Gareth Snell MP",
+  "date_of_most_recent_agm": "2025-10-15 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "literacy",
+      "mnis_id": 4167,
+      "name": "Baroness Benjamin",
+      "canon_name": "Baroness Benjamin",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/literacy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "literacy",
+      "mnis_id": 4724,
+      "name": "Baroness Blower",
+      "canon_name": "Baroness Blower",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/literacy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "literacy",
+      "mnis_id": 4595,
+      "name": "Gareth Snell",
+      "canon_name": "Gareth Snell",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/literacy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "literacy",
+      "mnis_id": 4462,
+      "name": "Tom Tugendhat",
+      "canon_name": "Thomas Tugendhat",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/literacy.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "literacy",
+      "mnis_id": 4167,
+      "name": "Baroness Benjamin",
+      "canon_name": "Baroness Benjamin",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/literacy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "literacy",
+      "mnis_id": 4724,
+      "name": "Baroness Blower",
+      "canon_name": "Baroness Blower",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/literacy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "literacy",
+      "mnis_id": 4595,
+      "name": "Gareth Snell",
+      "canon_name": "Gareth Snell",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/literacy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "literacy",
+      "mnis_id": 4462,
+      "name": "Tom Tugendhat",
+      "canon_name": "Thomas Tugendhat",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/literacy.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

@@ -1,0 +1,506 @@
+{
+  "mnis_id": 5161,
+  "name": "Richard Tice",
+  "party": "Reform UK",
+  "party_slug": "reform-uk",
+  "constituency": "Boston and Skegness",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5161/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 54445.73,
+      "inkind": 8100.0,
+      "combined": 62545.73,
+      "payment_count": 10,
+      "donor_count": 5
+    },
+    "ytd": {
+      "monetary": 23340.71,
+      "inkind": 0.0,
+      "combined": 23340.71,
+      "payment_count": 4,
+      "donor_count": 2
+    },
+    "2025": {
+      "monetary": 43251.88,
+      "inkind": 8100.0,
+      "combined": 51351.88,
+      "payment_count": 7,
+      "donor_count": 5
+    },
+    "2024": {
+      "monetary": 17995.35,
+      "inkind": 0.0,
+      "combined": 17995.35,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "since_election": {
+      "monetary": 84587.94,
+      "inkind": 8100.0,
+      "combined": 92687.94,
+      "payment_count": 10,
+      "donor_count": 5
+    },
+    "all_time": {
+      "monetary": 84587.94,
+      "inkind": 8100.0,
+      "combined": 92687.94,
+      "payment_count": 10,
+      "donor_count": 5
+    }
+  },
+  "categories": {
+    "1.2": {
+      "12m": {
+        "monetary": 51703.67,
+        "inkind": 0.0,
+        "combined": 51703.67,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 22798.65,
+        "inkind": 0.0,
+        "combined": 22798.65,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 41051.88,
+        "inkind": 0.0,
+        "combined": 41051.88,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 17995.35,
+        "inkind": 0.0,
+        "combined": 17995.35,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 81845.88,
+        "inkind": 0.0,
+        "combined": 81845.88,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 81845.88,
+        "inkind": 0.0,
+        "combined": 81845.88,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "1.1": {
+      "12m": {
+        "monetary": 2742.06,
+        "inkind": 0.0,
+        "combined": 2742.06,
+        "payment_count": 5,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 542.06,
+        "inkind": 0.0,
+        "combined": 542.06,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 2200.0,
+        "inkind": 0.0,
+        "combined": 2200.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 2742.06,
+        "inkind": 0.0,
+        "combined": 2742.06,
+        "payment_count": 5,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 2742.06,
+        "inkind": 0.0,
+        "combined": 2742.06,
+        "payment_count": 5,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 450.0,
+        "combined": 450.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 450.0,
+        "combined": 450.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 450.0,
+        "combined": 450.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 450.0,
+        "combined": 450.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 7650.0,
+        "combined": 7650.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 7650.0,
+        "combined": 7650.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 7650.0,
+        "combined": 7650.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 7650.0,
+        "combined": 7650.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    4473,
+    3374,
+    3374,
+    5234,
+    4015,
+    10074,
+    3374,
+    3374,
+    5475,
+    6549,
+    6333,
+    6333
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "uk-fresh-produce-network",
+      "appg_name": "All-Party Parliamentary Group on the UK Fresh Produce Network",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14498,
+      "date": "2026-02-04",
+      "category": "1.2",
+      "member_id": 5161,
+      "member_name": "Richard Tice",
+      "payer_id": 916,
+      "payer_name": "Quidnet REIT Ltd",
+      "amount": 9005.94,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Quarterly",
+      "start_date": "2025-12-31",
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5161/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 31 December 2025 - £9,005.94",
+      "description": "(management fee)"
+    },
+    {
+      "id": 14497,
+      "date": "2026-02-03",
+      "category": "1.1",
+      "member_id": 5161,
+      "member_name": "Richard Tice",
+      "payer_id": 1190,
+      "payer_name": "X formerly Twitter",
+      "amount": 216.21,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5161/registeredinterests?categoryId=1",
+      "summary": "Payment received on 03 February 2026 - £216.21",
+      "description": null
+    },
+    {
+      "id": 14101,
+      "date": "2026-01-09",
+      "category": "1.1",
+      "member_id": 5161,
+      "member_name": "Richard Tice",
+      "payer_id": 1190,
+      "payer_name": "X formerly Twitter",
+      "amount": 325.85,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5161/registeredinterests?categoryId=1",
+      "summary": "Payment received on 09 January 2026 - £325.85",
+      "description": null
+    },
+    {
+      "id": 13578,
+      "date": "2025-10-13",
+      "category": "3",
+      "member_id": 5161,
+      "member_name": "Richard Tice",
+      "payer_id": 952,
+      "payer_name": "Richard Thoburn",
+      "amount": 450.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5161/registeredinterests?categoryId=3",
+      "summary": "Richard Thoburn - £450.00",
+      "description": "Dinner at Margaret Thatcher Centennial Anniversary"
+    },
+    {
+      "id": 135771,
+      "date": "2025-09-26",
+      "category": "4",
+      "member_id": 5161,
+      "member_name": "Richard Tice",
+      "payer_id": 944,
+      "payer_name": "RFOI Ltd",
+      "amount": 6250.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5161/registeredinterests?categoryId=4",
+      "summary": "International visit to Israel between 26 September 2025 and 30 September 2025 — Education and meetings with President and Foreign Minister",
+      "description": "Flights (£2500), accommodation (£2,000), transport (£1000) and hospitality (£750) for two people"
+    },
+    {
+      "id": 13292,
+      "date": "2025-09-13",
+      "category": "1.1",
+      "member_id": 5161,
+      "member_name": "Richard Tice",
+      "payer_id": 1190,
+      "payer_name": "X formerly Twitter",
+      "amount": 641.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5161/registeredinterests?categoryId=1",
+      "summary": "Payment received on 13 September 2025 - £641.00",
+      "description": "X monetisation formerly Twitter"
+    },
+    {
+      "id": 132371,
+      "date": "2025-08-04",
+      "category": "4",
+      "member_id": 5161,
+      "member_name": "Richard Tice",
+      "payer_id": 704,
+      "payer_name": "Lubov Chernukhin",
+      "amount": 1400.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5161/registeredinterests?categoryId=4",
+      "summary": "International visit to France between 04 August 2025 and 06 August 2025 — Discuss Gas Power in UK",
+      "description": "Accommodation (£1,000), meals (£400)"
+    },
+    {
+      "id": 13061,
+      "date": "2025-08-01",
+      "category": "1.1",
+      "member_id": 5161,
+      "member_name": "Richard Tice",
+      "payer_id": 1190,
+      "payer_name": "X formerly Twitter",
+      "amount": 460.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5161/registeredinterests?categoryId=1",
+      "summary": "Payment received on 01 August 2025 - £460.00",
+      "description": null
+    },
+    {
+      "id": 12504,
+      "date": "2025-05-09",
+      "category": "1.1",
+      "member_id": 5161,
+      "member_name": "Richard Tice",
+      "payer_id": 1190,
+      "payer_name": "X formerly Twitter",
+      "amount": 1099.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5161/registeredinterests?categoryId=1",
+      "summary": "Payment received on 09 May 2025 - £1,099.00",
+      "description": "For social media posts"
+    },
+    {
+      "id": 6657,
+      "date": "2024-07-24",
+      "category": "1.2",
+      "member_id": 5161,
+      "member_name": "Richard Tice",
+      "payer_id": 916,
+      "payer_name": "Quidnet REIT Ltd",
+      "amount": 10270.0,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Quarterly",
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5161/registeredinterests?categoryId=1",
+      "summary": "Agreement - £10,270.00",
+      "description": "It is variable depending on rent roll"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": 348,
+  "name": "Edinburgh Book Festival",
+  "address": "121 George Street, Edinburgh EH2 4YN",
+  "nature_of_business": null,
+  "donor_status": "Company",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 973.5,
+      "combined": 973.5,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 973.5,
+      "combined": 973.5,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 973.5,
+      "combined": 973.5,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 973.5,
+      "combined": 973.5,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    600,
+    0,
+    0,
+    374,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 13950,
+      "date": "2025-11-17",
+      "category": "3",
+      "member_id": 5267,
+      "member_name": "Yuan Yang",
+      "payer_id": 348,
+      "payer_name": "Edinburgh Book Festival",
+      "amount": 373.5,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5267/registeredinterests?categoryId=3",
+      "summary": "Edinburgh Book Festival - £373.50",
+      "description": "Train travel to and from Edinburgh Festival covered by the festival as a reimbursement"
+    },
+    {
+      "id": 13307,
+      "date": "2025-08-18",
+      "category": "3",
+      "member_id": 5267,
+      "member_name": "Yuan Yang",
+      "payer_id": 348,
+      "payer_name": "Edinburgh Book Festival",
+      "amount": 600.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-08-19",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5267/registeredinterests?categoryId=3",
+      "summary": "Edinburgh Book Festival - £600.00",
+      "description": "Two nights hotel accommodation paid for appearance at the festival"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": 435,
+  "name": "Friends of Ukraine",
+  "address": "81 High Street, Cosham, Portsmouth P06 3BL",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 17.24,
+      "combined": 17.24,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 17.24,
+      "combined": 17.24,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 17.24,
+      "combined": 17.24,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 121201,
+      "date": "2025-02-18",
+      "category": "4",
+      "member_id": 5354,
+      "member_name": "Cameron Thomas",
+      "payer_id": 435,
+      "payer_name": "Friends of Ukraine",
+      "amount": 17.24,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "ukraine",
+      "appg_name": "All-Party Parliamentary Group on Ukraine",
+      "source_url": "https://members.parliament.uk/member/5354/registeredinterests?categoryId=4",
+      "summary": "International visit to Ukraine between 18 February 2025 and 28 March 2025 — Support, aid, and to highlight areas that have been devastated by the war.",
+      "description": "Transportation £17.24"
+    }
+  ]
+}

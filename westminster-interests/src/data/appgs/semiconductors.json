@@ -1,0 +1,164 @@
+{
+  "slug": "semiconductors",
+  "title": "All-Party Parliamentary Group for Semiconductors",
+  "purpose": "To champion the UK’s semiconductors industry while advocating the role of national domestic capacity within the global supply chain. The group will engage with government decision-makers to push forward the policy agenda surrounding semiconductor design and manufacturing in the UK while highlighting the economic and skills benefits.",
+  "categories": [
+    "Economy, Business & Industry"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/semiconductors.htm",
+  "secretariat": "CalComms acts as the group's secretariat.https://www.calcomms.co.uk/",
+  "website": "https://www.appgsemcon.co.uk/",
+  "registered_contact_name": "Ruth Jones MP",
+  "date_of_most_recent_agm": "2025-11-04 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "semiconductors",
+      "mnis_id": 5059,
+      "name": "Gurinder Singh Josan",
+      "canon_name": "Gurinder Josan",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/semiconductors.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "semiconductors",
+      "mnis_id": 5340,
+      "name": "Jack Rankin",
+      "canon_name": "Jack Rankin",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/semiconductors.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "semiconductors",
+      "mnis_id": null,
+      "name": "Lord Jackson of Peterborough",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/semiconductors.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "semiconductors",
+      "mnis_id": 4716,
+      "name": "Ruth Jones",
+      "canon_name": "Ruth Jones",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/semiconductors.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "semiconductors",
+      "mnis_id": 5059,
+      "name": "Gurinder Singh Josan",
+      "canon_name": "Gurinder Josan",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/semiconductors.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "semiconductors",
+      "mnis_id": 5340,
+      "name": "Jack Rankin",
+      "canon_name": "Jack Rankin",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/semiconductors.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "semiconductors",
+      "mnis_id": null,
+      "name": "Lord Jackson of Peterborough",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/semiconductors.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "semiconductors",
+      "mnis_id": 4716,
+      "name": "Ruth Jones",
+      "canon_name": "Ruth Jones",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/semiconductors.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

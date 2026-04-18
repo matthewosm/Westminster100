@@ -1,0 +1,124 @@
+{
+  "id": 96,
+  "name": "Bakers, Food and Allied Workers Union",
+  "address": "Stanborough House, Great North Road, Stanborough, Welwyn Garden City AL8 7TA",
+  "nature_of_business": null,
+  "donor_status": "Trade Union",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 19440.0,
+      "combined": 19440.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 19440.0,
+      "combined": 19440.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 18516.0,
+      "combined": 18516.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 37956.0,
+      "combined": 37956.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 37956.0,
+      "combined": 37956.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    19440,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 13929,
+      "date": "2025-10-30",
+      "category": "2",
+      "member_id": 4396,
+      "member_name": "Rebecca Long Bailey",
+      "payer_id": 96,
+      "payer_name": "Bakers, Food and Allied Workers Union",
+      "amount": 19440.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2026-10-29",
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4396/registeredinterests?categoryId=2",
+      "summary": "Bakers, Food and Allied Workers Union - £19,440.00",
+      "description": "Administration and coordination of the BFAWU Parliamentary Group, which I chair, provided by Solidarity Consulting Ltd"
+    },
+    {
+      "id": 11214,
+      "date": "2024-10-29",
+      "category": "2",
+      "member_id": 4396,
+      "member_name": "Rebecca Long Bailey",
+      "payer_id": 96,
+      "payer_name": "Bakers, Food and Allied Workers Union",
+      "amount": 18516.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-10-28",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4396/registeredinterests?categoryId=2",
+      "summary": "Bakers, Food and Allied Workers Union - £18,516.00",
+      "description": "Administration and coordination of the BFAWU Parliamentary Group, which I chair, provided by Solidarity Consulting Ltd"
+    }
+  ]
+}

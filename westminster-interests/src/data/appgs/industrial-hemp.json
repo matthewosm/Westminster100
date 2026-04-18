@@ -1,0 +1,164 @@
+{
+  "slug": "industrial-hemp",
+  "title": "All-Party Parliamentary Group on Industrial Hemp",
+  "purpose": "The APPG is established to promote the growth and development of the industrial hemp sector in the United Kingdom. It seeks to bring together policymakers, industry representatives, investors, and other stakeholders to support legislative reform and create a conducive environment for the industrial hemp industry to flourish.",
+  "categories": [
+    "Economy, Business & Industry"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/industrial-hemp.htm",
+  "secretariat": "",
+  "website": "https://www.appgcbd.org/",
+  "registered_contact_name": "Ben Lake MP",
+  "date_of_most_recent_agm": "2025-03-04 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "industrial-hemp",
+      "mnis_id": 4630,
+      "name": "Ben Lake",
+      "canon_name": "Ben Lake",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/industrial-hemp.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "industrial-hemp",
+      "mnis_id": 5227,
+      "name": "Jas Athwal",
+      "canon_name": "Jas Athwal",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/industrial-hemp.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "industrial-hemp",
+      "mnis_id": null,
+      "name": "Lord Jones of Penybont",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/industrial-hemp.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "industrial-hemp",
+      "mnis_id": null,
+      "name": "Lord Sewell of Sanderstead",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/industrial-hemp.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "industrial-hemp",
+      "mnis_id": 4630,
+      "name": "Ben Lake",
+      "canon_name": "Ben Lake",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/industrial-hemp.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "industrial-hemp",
+      "mnis_id": 5227,
+      "name": "Jas Athwal",
+      "canon_name": "Jas Athwal",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/industrial-hemp.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "industrial-hemp",
+      "mnis_id": null,
+      "name": "Lord Jones of Penybont",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/industrial-hemp.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "industrial-hemp",
+      "mnis_id": null,
+      "name": "Lord Sewell of Sanderstead",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/industrial-hemp.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

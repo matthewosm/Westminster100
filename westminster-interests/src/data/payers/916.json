@@ -1,0 +1,124 @@
+{
+  "id": 916,
+  "name": "Quidnet REIT Ltd",
+  "address": "24 Berkeley Square",
+  "nature_of_business": "Property Investment",
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 51703.67,
+      "inkind": 0.0,
+      "combined": 51703.67,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 22798.65,
+      "inkind": 0.0,
+      "combined": 22798.65,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 41051.88,
+      "inkind": 0.0,
+      "combined": 41051.88,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 17995.35,
+      "inkind": 0.0,
+      "combined": 17995.35,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "since_election": {
+      "monetary": 81845.88,
+      "inkind": 0.0,
+      "combined": 81845.88,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 81845.88,
+      "inkind": 0.0,
+      "combined": 81845.88,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    3374,
+    3374,
+    3374,
+    3374,
+    3374,
+    3374,
+    3374,
+    3374,
+    5149,
+    6333,
+    6333,
+    6333
+  ],
+  "payments": [
+    {
+      "id": 14498,
+      "date": "2026-02-04",
+      "category": "1.2",
+      "member_id": 5161,
+      "member_name": "Richard Tice",
+      "payer_id": 916,
+      "payer_name": "Quidnet REIT Ltd",
+      "amount": 9005.94,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Quarterly",
+      "start_date": "2025-12-31",
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5161/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 31 December 2025 - £9,005.94",
+      "description": "(management fee)"
+    },
+    {
+      "id": 6657,
+      "date": "2024-07-24",
+      "category": "1.2",
+      "member_id": 5161,
+      "member_name": "Richard Tice",
+      "payer_id": 916,
+      "payer_name": "Quidnet REIT Ltd",
+      "amount": 10270.0,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Quarterly",
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5161/registeredinterests?categoryId=1",
+      "summary": "Agreement - £10,270.00",
+      "description": "It is variable depending on rent roll"
+    }
+  ]
+}

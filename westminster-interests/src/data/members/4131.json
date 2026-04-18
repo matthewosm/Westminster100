@@ -1,0 +1,204 @@
+{
+  "mnis_id": 4131,
+  "name": "Jim Shannon",
+  "party": "Democratic Unionist Party",
+  "party_slug": "democratic-unionist-party",
+  "constituency": "Strangford",
+  "house": "Commons",
+  "start_date": "2010-05-06",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4131/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 1409.74,
+      "combined": 1409.74,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 847.74,
+      "combined": 847.74,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 562.0,
+      "combined": 562.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 1409.74,
+      "combined": 1409.74,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 1409.74,
+      "combined": 1409.74,
+      "payment_count": 2,
+      "donor_count": 2
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1409.74,
+        "combined": 1409.74,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 847.74,
+        "combined": 847.74,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 562.0,
+        "combined": 562.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1409.74,
+        "combined": 1409.74,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1409.74,
+        "combined": 1409.74,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    562,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    848,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "international-freedom-of-religion-or-belief",
+      "appg_name": "All-Party Parliamentary Group for International Freedom of Religion or Belief",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "pakistani-minorities",
+      "appg_name": "All-Party Parliamentary Group for Pakistani Minorities",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "respiratory-health",
+      "appg_name": "All-Party Parliamentary Group for Respiratory Health",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "vascular-and-venous-disease",
+      "appg_name": "All-Party Parliamentary Group on Vascular and Venous Disease",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "bahai-faith",
+      "appg_name": "All-Party Parliamentary Group on the Baha'i Faith",
+      "officer_role": "Secretary",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "healthy-homes-and-buildings",
+      "appg_name": "Healthy Homes and Buildings All-Party Parliamentary Group",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 146821,
+      "date": "2026-02-15",
+      "category": "4",
+      "member_id": 4131,
+      "member_name": "Jim Shannon",
+      "payer_id": 421,
+      "payer_name": "THE FORB FOUNDATION, Matthew Jones, Secretariat to APPG FoRB",
+      "amount": 847.74,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "international-freedom-of-religion-or-belief",
+      "appg_name": "All-Party Parliamentary Group for International Freedom of Religion or Belief",
+      "source_url": "https://members.parliament.uk/member/4131/registeredinterests?categoryId=4",
+      "summary": "International visit to Iraq between 15 February 2026 and 20 February 2026 — Part of a delegation to Iraq to look at the state of FoRB in Kurdistan, from the perspective of churches that are registered there.  We met the Prime minister and Minister of Foreign affairs who is responsible for FoRB.  We also looked at the economy and how faiths are looked after as refugees within Kurdistan.",
+      "description": "Accommodation including some meals (£320), flights (£305.53) and other food (£222.21)"
+    },
+    {
+      "id": 123971,
+      "date": "2025-05-02",
+      "category": "4",
+      "member_id": 4131,
+      "member_name": "Jim Shannon",
+      "payer_id": 422,
+      "payer_name": "The FORB Foundation (Secretariat to APPG FoRB)",
+      "amount": 562.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "international-freedom-of-religion-or-belief",
+      "appg_name": "All-Party Parliamentary Group for International Freedom of Religion or Belief",
+      "source_url": "https://members.parliament.uk/member/4131/registeredinterests?categoryId=4",
+      "summary": "International visit to Egypt between 02 May 2025 and 05 May 2025 — I was attending as member of the APPG for the Freedom of Religious Belief. The delegation to Egypt was to look at the state of FoRB in Egypt from the perspective of churches that are registered there.  Minister of Foreign affairs who is responsible for FoRB and NGOs working with faith groups on the ground.  We also looked at the registration process and how to have an even balance within faiths.",
+      "description": "Accommodation for three nights (£430), flights (£110), food (£22), all other food was included in the hotel price"
+    }
+  ]
+}

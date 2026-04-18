@@ -1,0 +1,165 @@
+{
+  "slug": "drugs-alcohol-and-justice",
+  "title": "Drugs, Alcohol and Justice All-Party Parliamentary Group",
+  "purpose": "To provide a policy forum for frontline drug and alcohol treatment sector providers and interested parliamentarians with a focus on evidence-based harm reduction, treatment and recovery. We believe in evidence, not prejudice, in policy - and treatment, not punishment, in practice.",
+  "categories": [
+    "Health, Medicine & Public Health",
+    "Justice, Law & Security"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/drugs-alcohol-and-justice.htm",
+  "secretariat": "Solidarity Consulting acts as the group's secretariat.https://solidarityconsulting.org.uk/",
+  "website": "https://www.wearewithyou.org.uk/about-us/policy-and-research/drugs-alcohol-and-justice-all-party-parliamentary-group",
+  "registered_contact_name": "Grahame Morris MP",
+  "date_of_most_recent_agm": "2025-11-25 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "drugs-alcohol-and-justice",
+      "mnis_id": 3973,
+      "name": "Grahame Morris",
+      "canon_name": "Grahame Morris",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/drugs-alcohol-and-justice.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "drugs-alcohol-and-justice",
+      "mnis_id": 178,
+      "name": "John McDonnell",
+      "canon_name": "John Martin McDonnell",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/drugs-alcohol-and-justice.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "drugs-alcohol-and-justice",
+      "mnis_id": 4302,
+      "name": "Lord Balfe",
+      "canon_name": "Lord Balfe",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/drugs-alcohol-and-justice.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "drugs-alcohol-and-justice",
+      "mnis_id": 4471,
+      "name": "Rachael Maskell",
+      "canon_name": "Rachael Maskell",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/drugs-alcohol-and-justice.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "drugs-alcohol-and-justice",
+      "mnis_id": 3973,
+      "name": "Grahame Morris",
+      "canon_name": "Grahame Morris",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/drugs-alcohol-and-justice.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "drugs-alcohol-and-justice",
+      "mnis_id": 178,
+      "name": "John McDonnell",
+      "canon_name": "John Martin McDonnell",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/drugs-alcohol-and-justice.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "drugs-alcohol-and-justice",
+      "mnis_id": 4302,
+      "name": "Lord Balfe",
+      "canon_name": "Lord Balfe",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/drugs-alcohol-and-justice.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "drugs-alcohol-and-justice",
+      "mnis_id": 4471,
+      "name": "Rachael Maskell",
+      "canon_name": "Rachael Maskell",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/drugs-alcohol-and-justice.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

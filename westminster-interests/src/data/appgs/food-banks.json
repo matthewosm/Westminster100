@@ -1,0 +1,165 @@
+{
+  "slug": "food-banks",
+  "title": "All-Party Parliamentary Group on Ending the Need for Food Banks",
+  "purpose": "To bring together parliamentarians with a shared interest in and commitment to ending the need for food banks and the deep financial hardship that causes it; discussing the solutions that are needed; making recommendations to the relevant government departments that are key to achieving this.",
+  "categories": [
+    "Social Care, Welfare & Family Support",
+    "Economy, Business & Industry"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/food-banks.htm",
+  "secretariat": "Trussell acts as the group's secretariat.https://www.trussell.org.uk/",
+  "website": "None",
+  "registered_contact_name": "Johanna Baxter MP",
+  "date_of_most_recent_agm": "2025-11-12 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "food-banks",
+      "mnis_id": 5063,
+      "name": "Johanna Baxter",
+      "canon_name": "Johanna Baxter",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/food-banks.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "food-banks",
+      "mnis_id": 4051,
+      "name": "John Glen",
+      "canon_name": "John Glen",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/food-banks.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "food-banks",
+      "mnis_id": 4368,
+      "name": "Neil Coyle",
+      "canon_name": "Neil Coyle",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/food-banks.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "food-banks",
+      "mnis_id": null,
+      "name": "The Lord Bishop of Manchester",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/food-banks.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "food-banks",
+      "mnis_id": 5063,
+      "name": "Johanna Baxter",
+      "canon_name": "Johanna Baxter",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/food-banks.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "food-banks",
+      "mnis_id": 4051,
+      "name": "John Glen",
+      "canon_name": "John Glen",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/food-banks.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "food-banks",
+      "mnis_id": 4368,
+      "name": "Neil Coyle",
+      "canon_name": "Neil Coyle",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/food-banks.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "food-banks",
+      "mnis_id": null,
+      "name": "The Lord Bishop of Manchester",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/food-banks.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

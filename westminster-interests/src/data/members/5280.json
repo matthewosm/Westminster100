@@ -1,0 +1,255 @@
+{
+  "mnis_id": 5280,
+  "name": "Seamus Logan",
+  "party": "Scottish National Party",
+  "party_slug": "scottish-national-party",
+  "constituency": "Aberdeenshire North and Moray East",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5280/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 1135.86,
+      "combined": 1135.86,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 385.86,
+      "combined": 385.86,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 3954.14,
+      "combined": 3954.14,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 4340.0,
+      "combined": 4340.0,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 4340.0,
+      "combined": 4340.0,
+      "payment_count": 3,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 385.86,
+        "combined": 385.86,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 385.86,
+        "combined": 385.86,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 3204.14,
+        "combined": 3204.14,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 3590.0,
+        "combined": 3590.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 3590.0,
+        "combined": 3590.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 750.0,
+        "combined": 750.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 750.0,
+        "combined": 750.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 750.0,
+        "combined": 750.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 750.0,
+        "combined": 750.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    750,
+    0,
+    0,
+    0,
+    0,
+    0,
+    386,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "bbc",
+      "appg_name": "All-Party Parliamentary Group for the BBC",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "british-offshore-energy-industry",
+      "appg_name": "All-Party Parliamentary Group for the British Offshore Energy Industry",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "fisheries",
+      "appg_name": "All-Party Parliamentary Group on Fisheries",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 143561,
+      "date": "2026-01-08",
+      "category": "4",
+      "member_id": 5280,
+      "member_name": "Seamus Logan",
+      "payer_id": 76,
+      "payer_name": "Artsawonder",
+      "amount": 385.86,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5280/registeredinterests?categoryId=4",
+      "summary": "International visit to Ireland between 08 January 2026 and 11 January 2026 — Peace and Reconciliation Conference",
+      "description": "Accommodation ( bed and breakfast), two meals and two taxi's"
+    },
+    {
+      "id": 12892,
+      "date": "2025-07-17",
+      "category": "3",
+      "member_id": 5280,
+      "member_name": "Seamus Logan",
+      "payer_id": 918,
+      "payer_name": "R & A Championships Limited",
+      "amount": 750.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5280/registeredinterests?categoryId=3",
+      "summary": "R&A Championships Limited - £750.00",
+      "description": "Attendance with a guest at the first day's play of the 153rd Open Championship at Royal Portrush Golf Club, Northern Ireland on July 17th, 2025"
+    },
+    {
+      "id": 119011,
+      "date": "2025-02-16",
+      "category": "4",
+      "member_id": 5280,
+      "member_name": "Seamus Logan",
+      "payer_id": 395,
+      "payer_name": "Falkland Islands Government",
+      "amount": 3204.14,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5280/registeredinterests?categoryId=4",
+      "summary": "International visit to Falkland Islands between 16 February 2025 and 22 February 2025 — To develop a better understanding of issues affecting the Falkland Islands",
+      "description": "Flights (£1,572.00), accommodation (£636.00), UK taxis (£390.80), Falkland Islands transport (£218.68), meals (£235.28), wreaths (£28.08), insurance (£25.00), Wi-Fi access (£56.00), gifts (£37.30), museum (£5.00)"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "slug": "romania",
+  "title": "All-Party Parliamentary Group for Romania",
+  "purpose": "To promote better relations between the UK and Romania and between their parliaments.",
+  "categories": [
+    "Country Group"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/romania.htm",
+  "secretariat": "UK/Romania Business acts as the group's secretariat.https://www.uk-romania.business/",
+  "website": "https://www.uk-romania.business/appg",
+  "registered_contact_name": "Gareth Thomas MP",
+  "date_of_most_recent_agm": "2026-01-21 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "romania",
+      "mnis_id": null,
+      "name": "Baroness Smith of Newnham",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/romania.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "romania",
+      "mnis_id": 4480,
+      "name": "Carolyn Harris",
+      "canon_name": "Carolyn Harris",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/romania.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "romania",
+      "mnis_id": 177,
+      "name": "Gareth Thomas",
+      "canon_name": "Gareth Thomas",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/romania.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "romania",
+      "mnis_id": null,
+      "name": "Lord Davies of Gower",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/romania.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "romania",
+      "mnis_id": null,
+      "name": "Baroness Smith of Newnham",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/romania.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "romania",
+      "mnis_id": 4480,
+      "name": "Carolyn Harris",
+      "canon_name": "Carolyn Harris",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/romania.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "romania",
+      "mnis_id": 177,
+      "name": "Gareth Thomas",
+      "canon_name": "Gareth Thomas",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/romania.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "romania",
+      "mnis_id": null,
+      "name": "Lord Davies of Gower",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/romania.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

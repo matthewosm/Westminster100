@@ -1,0 +1,179 @@
+{
+  "mnis_id": 5295,
+  "name": "Josh Fenton-Glynn",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Calder Valley",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5295/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 26350.75,
+      "inkind": 0.0,
+      "combined": 26350.75,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 7796.93,
+      "inkind": 0.0,
+      "combined": 7796.93,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 26350.75,
+      "inkind": 0.0,
+      "combined": 26350.75,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 11406.63,
+      "inkind": 0.0,
+      "combined": 11406.63,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "since_election": {
+      "monetary": 45554.31,
+      "inkind": 0.0,
+      "combined": 45554.31,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "all_time": {
+      "monetary": 45554.31,
+      "inkind": 0.0,
+      "combined": 45554.31,
+      "payment_count": 1,
+      "donor_count": 1
+    }
+  },
+  "categories": {
+    "1.2": {
+      "12m": {
+        "monetary": 26350.75,
+        "inkind": 0.0,
+        "combined": 26350.75,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 7796.93,
+        "inkind": 0.0,
+        "combined": 7796.93,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 26350.75,
+        "inkind": 0.0,
+        "combined": 26350.75,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 11406.63,
+        "inkind": 0.0,
+        "combined": 11406.63,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 45554.31,
+        "inkind": 0.0,
+        "combined": 45554.31,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 45554.31,
+        "inkind": 0.0,
+        "combined": 45554.31,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    2166,
+    2166,
+    2166,
+    2166,
+    2166,
+    2166,
+    2166,
+    2166,
+    2166,
+    2166,
+    2166,
+    2166
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "assistive-and-accessible-technology",
+      "appg_name": "All-Party Parliamentary Group for Assistive and Accessible Technology",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "infant-feeding",
+      "appg_name": "All-Party Parliamentary Group for Infant Feeding",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "infant-feeding-and-inequalities",
+      "appg_name": "All-Party Parliamentary Group for Infant Feeding and Inequalities",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "cancer",
+      "appg_name": "All-Party Parliamentary Group on Cancer",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "running",
+      "appg_name": "All-Party Parliamentary Group on Running",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "single-parent-families",
+      "appg_name": "All-Party Parliamentary Group on Single-Parent Families",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 6487,
+      "date": "2024-07-26",
+      "category": "1.2",
+      "member_id": 5295,
+      "member_name": "Josh Fenton-Glynn",
+      "payer_id": 180,
+      "payer_name": "Calderdale Council",
+      "amount": 2197.4,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5295/registeredinterests?categoryId=1",
+      "summary": "Agreement - £2,197.40",
+      "description": null
+    }
+  ]
+}

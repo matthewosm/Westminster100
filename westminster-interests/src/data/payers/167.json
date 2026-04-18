@@ -1,0 +1,124 @@
+{
+  "id": 167,
+  "name": "The British Society for Antimicrobial Chemotherapy",
+  "address": "53 Regent Place, Birmingham B1 3NJ",
+  "nature_of_business": null,
+  "donor_status": "Other",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 12380.94,
+      "combined": 12380.94,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 12380.94,
+      "combined": 12380.94,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 12380.94,
+      "combined": 12380.94,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 12380.94,
+      "combined": 12380.94,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 2
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    12381,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 14160,
+      "date": "2025-10-06",
+      "category": "2",
+      "member_id": 5307,
+      "member_name": "Dr Beccy Cooper",
+      "payer_id": 167,
+      "payer_name": "The British Society for Antimicrobial Chemotherapy",
+      "amount": 10158.72,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2026-10-05",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5307/registeredinterests?categoryId=2",
+      "summary": "The British Society for Antimicrobial Chemotherapy - £10,158.72",
+      "description": "Salary paid to two interns for one day a week. 8 hours per day at the Living Wage of £12.21 per hour"
+    },
+    {
+      "id": 14378,
+      "date": "2025-10-06",
+      "category": "2",
+      "member_id": 5304,
+      "member_name": "Dr Danny Chambers",
+      "payer_id": 167,
+      "payer_name": "The British Society for Antimicrobial Chemotherapy",
+      "amount": 2222.22,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2026-03-31",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5304/registeredinterests?categoryId=2",
+      "summary": "The British Society for Antimicrobial Chemotherapy - £2,222.22",
+      "description": "Salary paid to an intern for one day a week. 7 hours per day at the Living Wage of £12.21 per hour, (value is estimated)"
+    }
+  ]
+}

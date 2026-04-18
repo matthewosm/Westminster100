@@ -1,0 +1,124 @@
+{
+  "id": 226,
+  "name": "Chosun Media",
+  "address": "30 Sejong-daero 21-gil, Jung-gu, Seoul, South Korea",
+  "nature_of_business": "South Korea Media organisation",
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 217651.95,
+      "inkind": 0.0,
+      "combined": 217651.95,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 217651.95,
+      "inkind": 0.0,
+      "combined": 217651.95,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 217651.95,
+      "inkind": 0.0,
+      "combined": 217651.95,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "all_time": {
+      "monetary": 217651.95,
+      "inkind": 0.0,
+      "combined": 217651.95,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    }
+  },
+  "trend_12m": [
+    217652,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 12537,
+      "date": "2025-05-23",
+      "category": "1.1",
+      "member_id": 4475,
+      "member_name": "Suella Braverman",
+      "payer_id": 226,
+      "payer_name": "Chosun Media",
+      "amount": 29175.75,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": true,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4475/registeredinterests?categoryId=1",
+      "summary": "Payment received on 23 May 2025 - £29,175.75",
+      "description": "Speaking at a conference. (This includes £5482.70 to cover return flights, three nights accommodation in Seoul and airport transfers for me.)"
+    },
+    {
+      "id": 12615,
+      "date": "2025-05-19",
+      "category": "1.1",
+      "member_id": 4483,
+      "member_name": "Rishi Sunak",
+      "payer_id": 226,
+      "payer_name": "Chosun Media",
+      "amount": 188476.2,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": true,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4483/registeredinterests?categoryId=1",
+      "summary": "Payment received on 19 May 2025 - £188,476.20",
+      "description": null
+    }
+  ]
+}

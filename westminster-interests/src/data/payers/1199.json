@@ -1,0 +1,99 @@
+{
+  "id": 1199,
+  "name": "YPO United Mosaic Inc",
+  "address": "191 North Wacker Drive, Chicago IL, 60606",
+  "nature_of_business": "Non-profit organisation, education",
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 3700.0,
+      "inkind": 0.0,
+      "combined": 3700.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 3700.0,
+      "inkind": 0.0,
+      "combined": 3700.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 3700.0,
+      "inkind": 0.0,
+      "combined": 3700.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 12174,
+      "date": "2025-04-01",
+      "category": "1.1",
+      "member_id": 4462,
+      "member_name": "Tom Tugendhat",
+      "payer_id": 1199,
+      "payer_name": "YPO United Mosaic Inc",
+      "amount": 3700.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4462/registeredinterests?categoryId=1",
+      "summary": "Payment received on 01 April 2025 - £3,700.00",
+      "description": "used to offset office costs."
+    }
+  ]
+}

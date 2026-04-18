@@ -1,0 +1,164 @@
+{
+  "slug": "fair-elections",
+  "title": "All-Party Parliamentary Group for Fair Elections",
+  "purpose": "To enhance the integrity of UK democracy by: replacing First Past the Post with a proportional electoral system; eliminating dark money and undemocratic influence from politics; countering disinformation in public discourse. The APPG's goal is to deliver clean and fair elections where all votes count.",
+  "categories": [
+    "Governance, Democracy & Political Reform"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fair-elections.htm",
+  "secretariat": "Make Votes Matter and Unlock Democracy jointly act as the group's secretariat.https://makevotesmatter.org.uk/andhttps://unlockdemocracy.org.uk/",
+  "website": "https://www.fairelections.uk/",
+  "registered_contact_name": "Alex Sobel MP",
+  "date_of_most_recent_agm": "2025-12-16 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "fair-elections",
+      "mnis_id": 4658,
+      "name": "Alex Sobel",
+      "canon_name": "Alex Sobel",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fair-elections.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "fair-elections",
+      "mnis_id": 5249,
+      "name": "Dr Ellie Chowns",
+      "canon_name": "Ellie Chowns",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fair-elections.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "fair-elections",
+      "mnis_id": 5070,
+      "name": "Lisa Smart",
+      "canon_name": "Lisa Smart",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fair-elections.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "fair-elections",
+      "mnis_id": 4302,
+      "name": "Lord Balfe",
+      "canon_name": "Lord Balfe",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fair-elections.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "fair-elections",
+      "mnis_id": 4658,
+      "name": "Alex Sobel",
+      "canon_name": "Alex Sobel",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fair-elections.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "fair-elections",
+      "mnis_id": 5249,
+      "name": "Dr Ellie Chowns",
+      "canon_name": "Ellie Chowns",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fair-elections.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "fair-elections",
+      "mnis_id": 5070,
+      "name": "Lisa Smart",
+      "canon_name": "Lisa Smart",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fair-elections.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "fair-elections",
+      "mnis_id": 4302,
+      "name": "Lord Balfe",
+      "canon_name": "Lord Balfe",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fair-elections.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

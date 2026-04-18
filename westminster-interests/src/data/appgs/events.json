@@ -1,0 +1,164 @@
+{
+  "slug": "events",
+  "title": "All-Party Parliamentary Group for Events",
+  "purpose": "The APPG works to strengthen ties between the world leading UK events industry and policymakers, with the aim of creating a stronger event economy within all communities.",
+  "categories": [
+    "Economy, Business & Industry"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/events.htm",
+  "secretariat": "Davies Tanner acts as the group's secretariat.https://daviestanner.com/",
+  "website": "https://appgevents.com/",
+  "registered_contact_name": "Martin Rhodes MP",
+  "date_of_most_recent_agm": "2024-12-17 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "events",
+      "mnis_id": 5057,
+      "name": "Douglas McAllister",
+      "canon_name": "Douglas McAllister",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/events.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "events",
+      "mnis_id": 5340,
+      "name": "Jack Rankin",
+      "canon_name": "Jack Rankin",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/events.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "events",
+      "mnis_id": 5211,
+      "name": "James Asser",
+      "canon_name": "James Asser",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/events.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "events",
+      "mnis_id": 5251,
+      "name": "Martin Rhodes",
+      "canon_name": "Martin Rhodes",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/events.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "events",
+      "mnis_id": 5057,
+      "name": "Douglas McAllister",
+      "canon_name": "Douglas McAllister",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/events.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "events",
+      "mnis_id": 5340,
+      "name": "Jack Rankin",
+      "canon_name": "Jack Rankin",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/events.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "events",
+      "mnis_id": 5211,
+      "name": "James Asser",
+      "canon_name": "James Asser",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/events.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "events",
+      "mnis_id": 5251,
+      "name": "Martin Rhodes",
+      "canon_name": "Martin Rhodes",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/events.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

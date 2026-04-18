@@ -1,0 +1,99 @@
+{
+  "id": 374,
+  "name": "EngageMalvern",
+  "address": "7 Willow Grove, Malvern, Worcestershire WR14 2SE",
+  "nature_of_business": null,
+  "donor_status": "Other",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 375.99,
+      "combined": 375.99,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 375.99,
+      "combined": 375.99,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 375.99,
+      "combined": 375.99,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 12017,
+      "date": "2025-03-08",
+      "category": "3",
+      "member_id": 185,
+      "member_name": "Jeremy Corbyn",
+      "payer_id": 374,
+      "payer_name": "EngageMalvern",
+      "amount": 375.99,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-03-09",
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/185/registeredinterests?categoryId=3",
+      "summary": "EngageMalvern - £375.99",
+      "description": "Speaker at the Malvern Festival of Ideas, these costs covered myself and one other person for travel (£220.99), accommodation (£115) and meals (£40 estimated)"
+    }
+  ]
+}

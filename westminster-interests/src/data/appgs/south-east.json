@@ -1,0 +1,165 @@
+{
+  "slug": "south-east",
+  "title": "All-Party Parliamentary Group for the South East",
+  "purpose": "To provide a forum for parliamentarians to discuss, with others, how to promote and develop the South East region as a great place to live, work and do business.",
+  "categories": [
+    "Regions, Nations & Devolution",
+    "Economy, Business & Industry"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/south-east.htm",
+  "secretariat": "South East Councils acts as the group's secretariat.https://www.secouncils.gov.uk",
+  "website": "https://www.secouncils.gov.uk/appg-south-east",
+  "registered_contact_name": "Mr Tanmanjeet Singh Dhesi MP",
+  "date_of_most_recent_agm": "2025-12-09 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "south-east",
+      "mnis_id": 5343,
+      "name": "Mr Joshua Reynolds",
+      "canon_name": "Joshua Reynolds",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/south-east.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "south-east",
+      "mnis_id": 4638,
+      "name": "Mr Tanmanjeet Singh Dhesi",
+      "canon_name": "Tan Dhesi",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/south-east.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "south-east",
+      "mnis_id": 4803,
+      "name": "Paul Holmes",
+      "canon_name": "Paul Holmes",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/south-east.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "south-east",
+      "mnis_id": 5165,
+      "name": "Peter Swallow",
+      "canon_name": "Peter Swallow",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/south-east.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "south-east",
+      "mnis_id": 5343,
+      "name": "Mr Joshua Reynolds",
+      "canon_name": "Joshua Reynolds",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/south-east.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "south-east",
+      "mnis_id": 4638,
+      "name": "Mr Tanmanjeet Singh Dhesi",
+      "canon_name": "Tan Dhesi",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/south-east.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "south-east",
+      "mnis_id": 4803,
+      "name": "Paul Holmes",
+      "canon_name": "Paul Holmes",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/south-east.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "south-east",
+      "mnis_id": 5165,
+      "name": "Peter Swallow",
+      "canon_name": "Peter Swallow",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/south-east.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

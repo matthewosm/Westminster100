@@ -1,0 +1,312 @@
+{
+  "mnis_id": 5265,
+  "name": "James MacCleary",
+  "party": "Liberal Democrat",
+  "party_slug": "liberal-democrat",
+  "constituency": "Lewes",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5265/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 13626.63,
+      "inkind": 889.45,
+      "combined": 14516.08,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "ytd": {
+      "monetary": 4031.99,
+      "inkind": 0.0,
+      "combined": 4031.99,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2025": {
+      "monetary": 13626.63,
+      "inkind": 889.45,
+      "combined": 14516.08,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 8605.3,
+      "inkind": 1578.5,
+      "combined": 10183.8,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "since_election": {
+      "monetary": 23730.41,
+      "inkind": 2467.95,
+      "combined": 26198.36,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "all_time": {
+      "monetary": 29591.71,
+      "inkind": 2467.95,
+      "combined": 32059.66,
+      "payment_count": 4,
+      "donor_count": 4
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 889.45,
+        "combined": 889.45,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 889.45,
+        "combined": 889.45,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 889.45,
+        "combined": 889.45,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 889.45,
+        "combined": 889.45,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 1578.5,
+        "combined": 1578.5,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1578.5,
+        "combined": 1578.5,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1578.5,
+        "combined": 1578.5,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "1.2": {
+      "12m": {
+        "monetary": 13626.63,
+        "inkind": 0.0,
+        "combined": 13626.63,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 4031.99,
+        "inkind": 0.0,
+        "combined": 4031.99,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 13626.63,
+        "inkind": 0.0,
+        "combined": 13626.63,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 8605.3,
+        "inkind": 0.0,
+        "combined": 8605.3,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 23730.41,
+        "inkind": 0.0,
+        "combined": 23730.41,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 29591.71,
+        "inkind": 0.0,
+        "combined": 29591.71,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    1120,
+    1120,
+    1120,
+    1120,
+    1120,
+    1120,
+    2009,
+    1120,
+    1120,
+    1120,
+    1120,
+    1120
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "early-education-and-childcare",
+      "appg_name": "All-Party Parliamentary Group for Early Education and Childcare",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 141491,
+      "date": "2025-10-24",
+      "category": "4",
+      "member_id": 5265,
+      "member_name": "James MacCleary",
+      "payer_id": 643,
+      "payer_name": "Konrad Adenauer Stiftung",
+      "amount": 889.45,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5265/registeredinterests?categoryId=4",
+      "summary": "International visit to Italy between 24 October 2025 and 26 October 2025 — To attend the Economic and Finance Conference by invitation",
+      "description": "Flights, accommodation and transfers"
+    },
+    {
+      "id": 10893,
+      "date": "2024-09-02",
+      "category": "3",
+      "member_id": 5265,
+      "member_name": "James MacCleary",
+      "payer_id": 793,
+      "payer_name": "National Liberal Club Ltd",
+      "amount": 1578.5,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-12-31",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5265/registeredinterests?categoryId=3",
+      "summary": "National Liberal Club Ltd - £1,578.50",
+      "description": "Honorary membership until the end of 2025, as a new Liberal Democrat MP"
+    },
+    {
+      "id": 6169,
+      "date": "2024-08-01",
+      "category": "1.2",
+      "member_id": 5265,
+      "member_name": "James MacCleary",
+      "payer_id": 340,
+      "payer_name": "East Sussex County Council",
+      "amount": 719.5,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": null,
+      "end_date": "2026-05-07",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5265/registeredinterests?categoryId=1",
+      "summary": "Agreement - £719.50",
+      "description": null
+    },
+    {
+      "id": 8810,
+      "date": "2024-08-01",
+      "category": "1.2",
+      "member_id": 5265,
+      "member_name": "James MacCleary",
+      "payer_id": 670,
+      "payer_name": "Lewes District Council",
+      "amount": 416.83,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": "2023-05-02",
+      "end_date": "2027-05-06",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5265/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 02 May 2023 - £416.83",
+      "description": null
+    }
+  ]
+}

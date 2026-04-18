@@ -1,0 +1,332 @@
+{
+  "slug": "cancer",
+  "title": "All-Party Parliamentary Group on Cancer",
+  "purpose": "The APPG seeks to keep cancer at the top of the political agenda and to ensure that policymaking remains firmly patient-centred, bringing together Parliamentarians from across the political spectrum to debate key issues and campaign together to improve cancer services.",
+  "categories": [
+    "Health, Medicine & Public Health"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cancer.htm",
+  "secretariat": "Macmillan Cancer Support acts as the group's secretariat.https://www.macmillan.org.uk/",
+  "website": "https://www.macmillan.org.uk/advocacy/our-work/government/appgc",
+  "registered_contact_name": "Navendu Mishra MP",
+  "date_of_most_recent_agm": "2025-12-02 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "cancer",
+      "mnis_id": 4098,
+      "name": "Baroness Coffey",
+      "canon_name": "Baroness Coffey",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cancer.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "cancer",
+      "mnis_id": 5207,
+      "name": "Clive Jones",
+      "canon_name": "Clive Jones",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cancer.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "cancer",
+      "mnis_id": 205,
+      "name": "David Rees",
+      "canon_name": "David Rees",
+      "officer_role": "Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=731",
+      "removed": null
+    },
+    {
+      "appg_slug": "cancer",
+      "mnis_id": null,
+      "name": "Jackie Baillie",
+      "canon_name": "Jackie Baillie",
+      "officer_role": "Co-Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "cancer",
+      "mnis_id": 5295,
+      "name": "Josh Fenton-Glynn",
+      "canon_name": "Josh Fenton-Glynn",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cancer.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "cancer",
+      "mnis_id": null,
+      "name": "Miles Briggs",
+      "canon_name": "Miles Briggs",
+      "officer_role": "Co-Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "cancer",
+      "mnis_id": 287,
+      "name": "Mr Mark Durkan",
+      "canon_name": "Mark Durkan",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=273",
+      "removed": null
+    },
+    {
+      "appg_slug": "cancer",
+      "mnis_id": 303,
+      "name": "Mr Stewart Dickson",
+      "canon_name": "Stewart Dickson",
+      "officer_role": "Chairperson",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=273",
+      "removed": null
+    },
+    {
+      "appg_slug": "cancer",
+      "mnis_id": 7468,
+      "name": "Mrs Ciara Ferguson",
+      "canon_name": "Ciara Ferguson",
+      "officer_role": "Vice-Chairperson",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=273",
+      "removed": null
+    },
+    {
+      "appg_slug": "cancer",
+      "mnis_id": 124,
+      "name": "Mrs Diane Dodds",
+      "canon_name": "Diane Dodds",
+      "officer_role": "Secretary",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=273",
+      "removed": null
+    },
+    {
+      "appg_slug": "cancer",
+      "mnis_id": 4811,
+      "name": "Navendu Mishra",
+      "canon_name": "Navendu Mishra",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cancer.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "cancer",
+      "mnis_id": 4098,
+      "name": "Baroness Coffey",
+      "canon_name": "Baroness Coffey",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cancer.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "cancer",
+      "mnis_id": 5207,
+      "name": "Clive Jones",
+      "canon_name": "Clive Jones",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cancer.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "cancer",
+      "mnis_id": 205,
+      "name": "David Rees",
+      "canon_name": "David Rees",
+      "officer_role": "Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=731",
+      "removed": null
+    },
+    {
+      "appg_slug": "cancer",
+      "mnis_id": null,
+      "name": "Jackie Baillie",
+      "canon_name": "Jackie Baillie",
+      "officer_role": "Co-Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "cancer",
+      "mnis_id": 5295,
+      "name": "Josh Fenton-Glynn",
+      "canon_name": "Josh Fenton-Glynn",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cancer.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "cancer",
+      "mnis_id": null,
+      "name": "Miles Briggs",
+      "canon_name": "Miles Briggs",
+      "officer_role": "Co-Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "cancer",
+      "mnis_id": 287,
+      "name": "Mr Mark Durkan",
+      "canon_name": "Mark Durkan",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=273",
+      "removed": null
+    },
+    {
+      "appg_slug": "cancer",
+      "mnis_id": 303,
+      "name": "Mr Stewart Dickson",
+      "canon_name": "Stewart Dickson",
+      "officer_role": "Chairperson",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=273",
+      "removed": null
+    },
+    {
+      "appg_slug": "cancer",
+      "mnis_id": 7468,
+      "name": "Mrs Ciara Ferguson",
+      "canon_name": "Ciara Ferguson",
+      "officer_role": "Vice-Chairperson",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=273",
+      "removed": null
+    },
+    {
+      "appg_slug": "cancer",
+      "mnis_id": 124,
+      "name": "Mrs Diane Dodds",
+      "canon_name": "Diane Dodds",
+      "officer_role": "Secretary",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=273",
+      "removed": null
+    },
+    {
+      "appg_slug": "cancer",
+      "mnis_id": 4811,
+      "name": "Navendu Mishra",
+      "canon_name": "Navendu Mishra",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cancer.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

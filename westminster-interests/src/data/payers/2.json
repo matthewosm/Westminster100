@@ -1,0 +1,99 @@
+{
+  "id": 2,
+  "name": "25 Seven Talent Solutions Limited",
+  "address": "38-39 The Chubb Buildings, Fryer Street, Wolverhampton, West Midlands WV1 1HT",
+  "nature_of_business": null,
+  "donor_status": "Company",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 3024.0,
+      "inkind": 0.0,
+      "combined": 3024.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 3024.0,
+      "inkind": 0.0,
+      "combined": 3024.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 3024.0,
+      "inkind": 0.0,
+      "combined": 3024.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 3024.0,
+      "inkind": 0.0,
+      "combined": 3024.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3024,
+    0
+  ],
+  "payments": [
+    {
+      "id": 14791,
+      "date": "2026-03-11",
+      "category": "2",
+      "member_id": 5041,
+      "member_name": "Shaun Davies",
+      "payer_id": 2,
+      "payer_name": "25 Seven Talent Solutions Limited",
+      "amount": 3024.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5041/registeredinterests?categoryId=2",
+      "summary": "25 Seven Talent Solutions Limited - £3,024.00",
+      "description": "Sponsorship for a Constituency event, including venue hire and hospitality."
+    }
+  ]
+}

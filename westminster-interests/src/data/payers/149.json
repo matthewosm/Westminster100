@@ -1,0 +1,99 @@
+{
+  "id": 149,
+  "name": "Brecon & Radnorshire Lib Dem 49 Club",
+  "address": "The Mews, Brecon, LD3 9AR",
+  "nature_of_business": null,
+  "donor_status": "Unincorporated association",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 4100.0,
+      "inkind": 0.0,
+      "combined": 4100.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 4100.0,
+      "inkind": 0.0,
+      "combined": 4100.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 4100.0,
+      "inkind": 0.0,
+      "combined": 4100.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 4100.0,
+      "inkind": 0.0,
+      "combined": 4100.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    4100,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 14392,
+      "date": "2026-01-22",
+      "category": "2",
+      "member_id": 5284,
+      "member_name": "David Chadwick",
+      "payer_id": 149,
+      "payer_name": "Brecon & Radnorshire Lib Dem 49 Club",
+      "amount": 4100.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5284/registeredinterests?categoryId=2",
+      "summary": "Brecon & Radnorshire Lib Dem 49 Club - £4,100.00",
+      "description": "Jane Dodds, Member of the Senedd for Mid & West Wales"
+    }
+  ]
+}

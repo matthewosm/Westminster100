@@ -1,0 +1,124 @@
+{
+  "id": 765,
+  "name": "MOFA Taiwan",
+  "address": "50 Grosvenor Gardens, London SW1W 0EB",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 14468.0,
+      "combined": 14468.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 14468.0,
+      "combined": 14468.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 14468.0,
+      "combined": 14468.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 2
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 119501,
+      "date": "2025-02-15",
+      "category": "4",
+      "member_id": 4267,
+      "member_name": "Sarah Champion",
+      "payer_id": 765,
+      "payer_name": "MOFA Taiwan",
+      "amount": 6947.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "taiwan",
+      "appg_name": "British-Taiwanese All-Party Parliamentary Group",
+      "source_url": "https://members.parliament.uk/member/4267/registeredinterests?categoryId=4",
+      "summary": "International visit to Taiwan between 15 February 2025 and 22 February 2025 — To lead an APPG Taiwan cross party delegation as Co-Chair of the APPG",
+      "description": "Flights (£4,130), hotel (approx. £1,404), local transportation (approx £552) and food (approx. £861) (the costs are for me and my partner)"
+    },
+    {
+      "id": 120321,
+      "date": "2025-02-14",
+      "category": "4",
+      "member_id": 5347,
+      "member_name": "David Reed",
+      "payer_id": 765,
+      "payer_name": "MOFA Taiwan",
+      "amount": 7521.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "taiwan",
+      "appg_name": "British-Taiwanese All-Party Parliamentary Group",
+      "source_url": "https://members.parliament.uk/member/5347/registeredinterests?categoryId=4",
+      "summary": "International visit to Taiwan between 14 February 2025 and 22 February 2025 — Visit to Taiwan with a delegation from the Taiwan APPG to discuss UK-Taiwan relations, including trade and regional security, and to meet with Taiwanese political and economic leaders.",
+      "description": "Flights (£5325), hotel (£1404), local transportation (£300) and food (£492)"
+    }
+  ]
+}

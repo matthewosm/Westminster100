@@ -1,0 +1,332 @@
+{
+  "slug": "disability",
+  "title": "All-Party Parliamentary Group on Disability",
+  "purpose": "A cross-party group of members of Parliament from both the commons and the lords. Focusing on the issues that affect all disabled people regardless of their disability, impairment, health condition or other protected characteristics.",
+  "categories": [
+    "Human Rights, Equality & Social Justice"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/disability.htm",
+  "secretariat": "Disability Rights UK acts as the group's secretariat.https://www.disabilityrightsuk.org/",
+  "website": "https://www.disabilityrightsuk.org/policy-campaigns/all-party-parliamentary-disability-group-appdg",
+  "registered_contact_name": "Marsha De Cordova MP",
+  "date_of_most_recent_agm": "2025-05-14 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "disability",
+      "mnis_id": null,
+      "name": "Baroness Brown of Silvertown",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/disability.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "disability",
+      "mnis_id": null,
+      "name": "Jeremy Balfour",
+      "canon_name": "Jeremy Balfour",
+      "officer_role": "Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "disability",
+      "mnis_id": 157,
+      "name": "Mark Isherwood",
+      "canon_name": "Mark Isherwood",
+      "officer_role": "Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=797",
+      "removed": null
+    },
+    {
+      "appg_slug": "disability",
+      "mnis_id": 4676,
+      "name": "Marsha De Cordova",
+      "canon_name": "Marsha de Cordova",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/disability.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "disability",
+      "mnis_id": 8080,
+      "name": "Mr Brian Kingston",
+      "canon_name": "Brian Kingston",
+      "officer_role": "Secretary",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=269",
+      "removed": null
+    },
+    {
+      "appg_slug": "disability",
+      "mnis_id": 5793,
+      "name": "Mr Colin McGrath",
+      "canon_name": "Colin McGrath",
+      "officer_role": "Vice-Chairperson",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=269",
+      "removed": null
+    },
+    {
+      "appg_slug": "disability",
+      "mnis_id": 8076,
+      "name": "Mr Danny Donnelly",
+      "canon_name": "Danny Donnelly",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=269",
+      "removed": null
+    },
+    {
+      "appg_slug": "disability",
+      "mnis_id": 5808,
+      "name": "Mr Robbie Butler",
+      "canon_name": "Robbie Butler",
+      "officer_role": "Chairperson",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=269",
+      "removed": null
+    },
+    {
+      "appg_slug": "disability",
+      "mnis_id": null,
+      "name": "Pam Duncan-Glancy",
+      "canon_name": "Pam Duncan-Glancy",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "disability",
+      "mnis_id": 54,
+      "name": "Sir Julian Lewis",
+      "canon_name": "Julian Lewis",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/disability.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "disability",
+      "mnis_id": 5066,
+      "name": "Steve Darling",
+      "canon_name": "Steve Darling",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/disability.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "disability",
+      "mnis_id": null,
+      "name": "Baroness Brown of Silvertown",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/disability.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "disability",
+      "mnis_id": null,
+      "name": "Jeremy Balfour",
+      "canon_name": "Jeremy Balfour",
+      "officer_role": "Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "disability",
+      "mnis_id": 157,
+      "name": "Mark Isherwood",
+      "canon_name": "Mark Isherwood",
+      "officer_role": "Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=797",
+      "removed": null
+    },
+    {
+      "appg_slug": "disability",
+      "mnis_id": 4676,
+      "name": "Marsha De Cordova",
+      "canon_name": "Marsha de Cordova",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/disability.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "disability",
+      "mnis_id": 8080,
+      "name": "Mr Brian Kingston",
+      "canon_name": "Brian Kingston",
+      "officer_role": "Secretary",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=269",
+      "removed": null
+    },
+    {
+      "appg_slug": "disability",
+      "mnis_id": 5793,
+      "name": "Mr Colin McGrath",
+      "canon_name": "Colin McGrath",
+      "officer_role": "Vice-Chairperson",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=269",
+      "removed": null
+    },
+    {
+      "appg_slug": "disability",
+      "mnis_id": 8076,
+      "name": "Mr Danny Donnelly",
+      "canon_name": "Danny Donnelly",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=269",
+      "removed": null
+    },
+    {
+      "appg_slug": "disability",
+      "mnis_id": 5808,
+      "name": "Mr Robbie Butler",
+      "canon_name": "Robbie Butler",
+      "officer_role": "Chairperson",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=269",
+      "removed": null
+    },
+    {
+      "appg_slug": "disability",
+      "mnis_id": null,
+      "name": "Pam Duncan-Glancy",
+      "canon_name": "Pam Duncan-Glancy",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "disability",
+      "mnis_id": 54,
+      "name": "Sir Julian Lewis",
+      "canon_name": "Julian Lewis",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/disability.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "disability",
+      "mnis_id": 5066,
+      "name": "Steve Darling",
+      "canon_name": "Steve Darling",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/disability.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

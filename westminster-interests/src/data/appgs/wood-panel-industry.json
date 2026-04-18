@@ -1,0 +1,261 @@
+{
+  "slug": "wood-panel-industry",
+  "title": "All-Party Parliamentary Group for the Wood Panel Industry",
+  "purpose": "To highlight the vital contribution that wood panel manufacturers make to the regional and national economies within the UK and to ensure growth for this domestic industry by addressing concerns about the supply of raw materials.",
+  "categories": [
+    "Economy, Business & Industry",
+    "Environment, Climate & Sustainability"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/wood-panel-industry.htm",
+  "secretariat": "Invicta Public Affairs acts as the group's secretariat.https://www.invictapa.co.uk/",
+  "website": "http://www.appgwoodpanelindustry.org/",
+  "registered_contact_name": "Lillian Jones MP",
+  "date_of_most_recent_agm": "2026-01-28 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "wood-panel-industry",
+      "mnis_id": null,
+      "name": "Colin Smyth",
+      "canon_name": "Colin Smyth",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "wood-panel-industry",
+      "mnis_id": null,
+      "name": "Elena Whitham",
+      "canon_name": "Elena Whitham",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "wood-panel-industry",
+      "mnis_id": null,
+      "name": "Fergus Ewing",
+      "canon_name": "Fergus Ewing",
+      "officer_role": "Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "wood-panel-industry",
+      "mnis_id": 5277,
+      "name": "Graham Leadbitter",
+      "canon_name": "Graham Leadbitter",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/wood-panel-industry.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "wood-panel-industry",
+      "mnis_id": 5311,
+      "name": "Harriet Cross",
+      "canon_name": "Harriet Cross",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/wood-panel-industry.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "wood-panel-industry",
+      "mnis_id": 5043,
+      "name": "Lillian Jones",
+      "canon_name": "Lillian Jones",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/wood-panel-industry.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "wood-panel-industry",
+      "mnis_id": null,
+      "name": "Sharon Dowey",
+      "canon_name": "Sharon Dowey",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "wood-panel-industry",
+      "mnis_id": 5221,
+      "name": "Steve Witherden",
+      "canon_name": "Steve Witherden",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/wood-panel-industry.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "wood-panel-industry",
+      "mnis_id": null,
+      "name": "Colin Smyth",
+      "canon_name": "Colin Smyth",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "wood-panel-industry",
+      "mnis_id": null,
+      "name": "Elena Whitham",
+      "canon_name": "Elena Whitham",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "wood-panel-industry",
+      "mnis_id": null,
+      "name": "Fergus Ewing",
+      "canon_name": "Fergus Ewing",
+      "officer_role": "Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "wood-panel-industry",
+      "mnis_id": 5277,
+      "name": "Graham Leadbitter",
+      "canon_name": "Graham Leadbitter",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/wood-panel-industry.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "wood-panel-industry",
+      "mnis_id": 5311,
+      "name": "Harriet Cross",
+      "canon_name": "Harriet Cross",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/wood-panel-industry.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "wood-panel-industry",
+      "mnis_id": 5043,
+      "name": "Lillian Jones",
+      "canon_name": "Lillian Jones",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/wood-panel-industry.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "wood-panel-industry",
+      "mnis_id": null,
+      "name": "Sharon Dowey",
+      "canon_name": "Sharon Dowey",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "wood-panel-industry",
+      "mnis_id": 5221,
+      "name": "Steve Witherden",
+      "canon_name": "Steve Witherden",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/wood-panel-industry.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

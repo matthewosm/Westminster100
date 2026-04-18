@@ -1,0 +1,99 @@
+{
+  "id": 1201,
+  "name": "Zero Hour Ltd",
+  "address": "Second Floor, 123 Promenade, Cheltenham, England, GL50 1NW",
+  "nature_of_business": null,
+  "donor_status": "Company",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 9147.0,
+      "combined": 9147.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 9147.0,
+      "combined": 9147.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 9147.0,
+      "combined": 9147.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 9147.0,
+      "combined": 9147.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    9147,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 13111,
+      "date": "2025-07-15",
+      "category": "2",
+      "member_id": 4864,
+      "member_name": "Olivia Blake",
+      "payer_id": 1201,
+      "payer_name": "Zero Hour Ltd",
+      "amount": 9147.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2026-07-15",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4864/registeredinterests?categoryId=2",
+      "summary": "Zero Hour Ltd - £9,147.00",
+      "description": "Amount of donation or nature and value if donation in kind: Administration and\r\ncoordination of the Climate and Nature Crisis Caucus, which I chair, provided by\r\nZero Hour Ltd"
+    }
+  ]
+}

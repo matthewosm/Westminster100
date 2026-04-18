@@ -1,0 +1,99 @@
+{
+  "id": 470,
+  "name": "The Globe and Mail",
+  "address": "351 King Street East, Suite 1600, Toronto, ON, M5A 0N1",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 3280.69,
+      "combined": 3280.69,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 3280.69,
+      "combined": 3280.69,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 3280.69,
+      "combined": 3280.69,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 3280.69,
+      "combined": 3280.69,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3281,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 145391,
+      "date": "2026-01-12",
+      "category": "4",
+      "member_id": 4462,
+      "member_name": "Tom Tugendhat",
+      "payer_id": 470,
+      "payer_name": "The Globe and Mail",
+      "amount": 3280.69,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4462/registeredinterests?categoryId=4",
+      "summary": "International visit to Canada between 12 January 2026 and 17 January 2026 — Meeting with journalists and political leaders",
+      "description": "Flights £2,120.70, Accommodation £1,032.16, Travel £127.83"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "slug": "archives-and-history",
+  "title": "All-Party Parliamentary Group for Archives and History",
+  "purpose": "To promote the importance of the work of archivists and historians, and recognise outstanding contributions to the archiving and historical professions.",
+  "categories": [
+    "Arts, Culture, Heritage & Media"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/archives-and-history.htm",
+  "secretariat": "Archives and Records Association acts as the group's secretariat.https://www.archives.org.uk/",
+  "website": "None",
+  "registered_contact_name": "Chris Evans MP",
+  "date_of_most_recent_agm": "2026-01-28 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "archives-and-history",
+      "mnis_id": 4040,
+      "name": "Chris Evans",
+      "canon_name": "Chris Evans",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/archives-and-history.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "archives-and-history",
+      "mnis_id": 5234,
+      "name": "Laurence Turner",
+      "canon_name": "Laurence Turner",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/archives-and-history.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "archives-and-history",
+      "mnis_id": null,
+      "name": "Lord Clark of Windermere",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/archives-and-history.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "archives-and-history",
+      "mnis_id": null,
+      "name": "Lord Roberts of Belgravia",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/archives-and-history.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "archives-and-history",
+      "mnis_id": 4040,
+      "name": "Chris Evans",
+      "canon_name": "Chris Evans",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/archives-and-history.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "archives-and-history",
+      "mnis_id": 5234,
+      "name": "Laurence Turner",
+      "canon_name": "Laurence Turner",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/archives-and-history.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "archives-and-history",
+      "mnis_id": null,
+      "name": "Lord Clark of Windermere",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/archives-and-history.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "archives-and-history",
+      "mnis_id": null,
+      "name": "Lord Roberts of Belgravia",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/archives-and-history.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

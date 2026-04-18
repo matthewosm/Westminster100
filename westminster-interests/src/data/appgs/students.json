@@ -1,0 +1,164 @@
+{
+  "slug": "students",
+  "title": "All-Party Parliamentary Group on Students",
+  "purpose": "To bring HE and FE (higher and further education) students’ issues to Westminster, connecting students’ unions, students and decision-makers to better understand student life today.",
+  "categories": [
+    "Education, Skills & Youth"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/students.htm",
+  "secretariat": "National Union of Students UK acts as the group's secretariat.https://www.nus.org.uk/",
+  "website": "None",
+  "registered_contact_name": "Abtisam Mohamed MP",
+  "date_of_most_recent_agm": "2025-12-15 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "students",
+      "mnis_id": 5142,
+      "name": "Abtisam Mohamed",
+      "canon_name": "Abtisam Mohamed",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/students.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "students",
+      "mnis_id": 4658,
+      "name": "Alex Sobel",
+      "canon_name": "Alex Sobel",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/students.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "students",
+      "mnis_id": 5250,
+      "name": "Gideon Amos",
+      "canon_name": "Gideon Amos",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/students.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "students",
+      "mnis_id": 53,
+      "name": "Lord Willetts",
+      "canon_name": "Lord Willetts",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/students.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "students",
+      "mnis_id": 5142,
+      "name": "Abtisam Mohamed",
+      "canon_name": "Abtisam Mohamed",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/students.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "students",
+      "mnis_id": 4658,
+      "name": "Alex Sobel",
+      "canon_name": "Alex Sobel",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/students.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "students",
+      "mnis_id": 5250,
+      "name": "Gideon Amos",
+      "canon_name": "Gideon Amos",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/students.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "students",
+      "mnis_id": 53,
+      "name": "Lord Willetts",
+      "canon_name": "Lord Willetts",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/students.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

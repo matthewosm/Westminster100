@@ -1,0 +1,165 @@
+{
+  "slug": "british-hindus",
+  "title": "All-Party Parliamentary Group for British Hindus",
+  "purpose": "To discuss and promote interests and concerns of Hindus in the UK and to facilitate greater understanding and engagement between Hindus, parliamentarians and wider British society.",
+  "categories": [
+    "Religion, Faith & Belief Communities",
+    "Human Rights, Equality & Social Justice"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-hindus.htm",
+  "secretariat": "Advocacy for British Hindus and Indians UK acts as the group's secretariat.",
+  "website": "https://appgbritishhindus.com/",
+  "registered_contact_name": "Bob Blackman MP",
+  "date_of_most_recent_agm": "2025-12-16 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "british-hindus",
+      "mnis_id": 4005,
+      "name": "Bob Blackman",
+      "canon_name": "Bob Blackman",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-hindus.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "british-hindus",
+      "mnis_id": 5103,
+      "name": "Luke Taylor",
+      "canon_name": "Luke Taylor",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-hindus.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "british-hindus",
+      "mnis_id": 4811,
+      "name": "Navendu Mishra",
+      "canon_name": "Navendu Mishra",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-hindus.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "british-hindus",
+      "mnis_id": 5068,
+      "name": "Shivani Raja",
+      "canon_name": "Shivani Raja",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-hindus.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "british-hindus",
+      "mnis_id": 4005,
+      "name": "Bob Blackman",
+      "canon_name": "Bob Blackman",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-hindus.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "british-hindus",
+      "mnis_id": 5103,
+      "name": "Luke Taylor",
+      "canon_name": "Luke Taylor",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-hindus.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "british-hindus",
+      "mnis_id": 4811,
+      "name": "Navendu Mishra",
+      "canon_name": "Navendu Mishra",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-hindus.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "british-hindus",
+      "mnis_id": 5068,
+      "name": "Shivani Raja",
+      "canon_name": "Shivani Raja",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-hindus.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

@@ -1,0 +1,164 @@
+{
+  "slug": "mongolia",
+  "title": "All-Party Parliamentary Group on Mongolia",
+  "purpose": "To promote and strengthen relations between the UK and Mongolia, and their parliaments, and people.",
+  "categories": [
+    "Country Group"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/mongolia.htm",
+  "secretariat": "",
+  "website": "None",
+  "registered_contact_name": "James Wild MP",
+  "date_of_most_recent_agm": "2026-02-02 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "mongolia",
+      "mnis_id": 2539,
+      "name": "Baroness Northover",
+      "canon_name": "Baroness Northover",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/mongolia.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "mongolia",
+      "mnis_id": 4523,
+      "name": "Catherine West",
+      "canon_name": "Catherine West",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/mongolia.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "mongolia",
+      "mnis_id": 4736,
+      "name": "Dave Doogan",
+      "canon_name": "Dave Doogan",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/mongolia.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "mongolia",
+      "mnis_id": 4787,
+      "name": "James Wild",
+      "canon_name": "James Wild",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/mongolia.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "mongolia",
+      "mnis_id": 2539,
+      "name": "Baroness Northover",
+      "canon_name": "Baroness Northover",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/mongolia.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "mongolia",
+      "mnis_id": 4523,
+      "name": "Catherine West",
+      "canon_name": "Catherine West",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/mongolia.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "mongolia",
+      "mnis_id": 4736,
+      "name": "Dave Doogan",
+      "canon_name": "Dave Doogan",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/mongolia.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "mongolia",
+      "mnis_id": 4787,
+      "name": "James Wild",
+      "canon_name": "James Wild",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/mongolia.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

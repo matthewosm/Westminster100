@@ -1,0 +1,99 @@
+{
+  "id": 1005,
+  "name": "Silverstone Circuit",
+  "address": "The Jimmy Brown Centre, Silverstone Circuit, Towcester NN12 8TN",
+  "nature_of_business": null,
+  "donor_status": "Company",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 1400.0,
+      "combined": 1400.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 1400.0,
+      "combined": 1400.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 1400.0,
+      "combined": 1400.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 1400.0,
+      "combined": 1400.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    1400,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 12980,
+      "date": "2025-07-04",
+      "category": "3",
+      "member_id": 4828,
+      "member_name": "Paula Barker",
+      "payer_id": 1005,
+      "payer_name": "Silverstone Circuit",
+      "amount": 1400.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "formula-1-and-motorsport",
+      "appg_name": "All-Party Parliamentary Group on Formula 1 and Motorsport",
+      "source_url": "https://members.parliament.uk/member/4828/registeredinterests?categoryId=3",
+      "summary": "Silverstone Circuit - £1,400.00",
+      "description": "I attended F1 qualifying at Silverstone on Friday 4 July 2025 with my son.  We were in the Directors Box and received hospitality tickets, food & drink"
+    }
+  ]
+}

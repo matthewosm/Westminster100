@@ -1,0 +1,164 @@
+{
+  "slug": "bosnia-and-herzegovina",
+  "title": "All-Party Parliamentary Group for Bosnia and Herzegovina",
+  "purpose": "To enhance relations and mutual co-operation between the UK and Bosnia and Herzegovina.",
+  "categories": [
+    "Country Group"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bosnia-and-herzegovina.htm",
+  "secretariat": "",
+  "website": "https://www.aliciakearns.com/appg-bosnia-and-herzegovina",
+  "registered_contact_name": "Alicia Kearns MP",
+  "date_of_most_recent_agm": "2025-12-03 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "bosnia-and-herzegovina",
+      "mnis_id": 4805,
+      "name": "Alicia Kearns",
+      "canon_name": "Alicia Kearns",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bosnia-and-herzegovina.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "bosnia-and-herzegovina",
+      "mnis_id": null,
+      "name": "Baroness Bakewell of Hardington Mandeville",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bosnia-and-herzegovina.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "bosnia-and-herzegovina",
+      "mnis_id": 4651,
+      "name": "Dan Carden",
+      "canon_name": "Dan Carden",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bosnia-and-herzegovina.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "bosnia-and-herzegovina",
+      "mnis_id": 4434,
+      "name": "Stephen Gethins",
+      "canon_name": "Stephen Gethins",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bosnia-and-herzegovina.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "bosnia-and-herzegovina",
+      "mnis_id": 4805,
+      "name": "Alicia Kearns",
+      "canon_name": "Alicia Kearns",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bosnia-and-herzegovina.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "bosnia-and-herzegovina",
+      "mnis_id": null,
+      "name": "Baroness Bakewell of Hardington Mandeville",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bosnia-and-herzegovina.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "bosnia-and-herzegovina",
+      "mnis_id": 4651,
+      "name": "Dan Carden",
+      "canon_name": "Dan Carden",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bosnia-and-herzegovina.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "bosnia-and-herzegovina",
+      "mnis_id": 4434,
+      "name": "Stephen Gethins",
+      "canon_name": "Stephen Gethins",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bosnia-and-herzegovina.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

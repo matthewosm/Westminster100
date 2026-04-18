@@ -1,0 +1,192 @@
+{
+  "slug": "digital-creators",
+  "title": "All-Party Parliamentary Group for Digital Creators",
+  "purpose": "To champion the digital creator economy and advocate for content creators as a profession in recognition of their profound economic and cultural contributions across the UK. Working to remove barriers to growth, helping all UK creators reach their full potential.",
+  "categories": [
+    "Economy, Business & Industry",
+    "Arts, Culture, Heritage & Media",
+    "Science, Technology & Innovation"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/digital-creators.htm",
+  "secretariat": "The Digital Creators Association and Influencer Marketing Trade Body jointly act as the group's secretariat.https://www.digitalcreatorassociation.com/andhttps://imtb.org.uk/",
+  "website": "https://digitalcommunities.inparliament.uk/",
+  "registered_contact_name": "Feryal Clark MP",
+  "date_of_most_recent_agm": "2025-09-02 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 100.0,
+      "combined": 100.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 100.0,
+      "combined": 100.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 100.0,
+      "combined": 100.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 100.0,
+      "combined": 100.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "digital-creators",
+      "mnis_id": 5109,
+      "name": "Chris Bloore",
+      "canon_name": "Christopher Bloore",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/digital-creators.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "digital-creators",
+      "mnis_id": 5118,
+      "name": "Chris Curtis",
+      "canon_name": "Chris Curtis",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/digital-creators.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "digital-creators",
+      "mnis_id": 4822,
+      "name": "Feryal Clark",
+      "canon_name": "Feryal Clark",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/digital-creators.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "digital-creators",
+      "mnis_id": null,
+      "name": "Lord Vaizey of Didcot",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/digital-creators.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "digital-creators",
+      "mnis_id": 5109,
+      "name": "Chris Bloore",
+      "canon_name": "Christopher Bloore",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/digital-creators.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "digital-creators",
+      "mnis_id": 5118,
+      "name": "Chris Curtis",
+      "canon_name": "Chris Curtis",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/digital-creators.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "digital-creators",
+      "mnis_id": 4822,
+      "name": "Feryal Clark",
+      "canon_name": "Feryal Clark",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/digital-creators.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "digital-creators",
+      "mnis_id": null,
+      "name": "Lord Vaizey of Didcot",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/digital-creators.htm",
+      "removed": null
+    }
+  ],
+  "payments": [
+    {
+      "id": 14280,
+      "date": "2025-12-09",
+      "category": "3",
+      "member_id": 5118,
+      "member_name": "Chris Curtis",
+      "payer_id": 480,
+      "payer_name": "Google UK Ltd",
+      "amount": 100.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "digital-creators",
+      "appg_name": "All-Party Parliamentary Group for Digital Creators",
+      "source_url": "https://members.parliament.uk/member/5118/registeredinterests?categoryId=3",
+      "summary": "Google UK Ltd - £100.00",
+      "description": "Hospitality as a guest of YouTube for Christmas lunch"
+    }
+  ]
+}

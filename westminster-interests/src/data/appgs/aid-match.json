@@ -1,0 +1,164 @@
+{
+  "slug": "aid-match",
+  "title": "All-Party Parliamentary Group for Aid Match",
+  "purpose": "To promote the scaling up of cost-effective aid policy and practice, namely proven aid matching mechanisms to unleash more funds, for more direct delivery to front line organisations. To inform debate and propose Real Aid recommendations and action towards reducing aid wastage to boost the impact of international development",
+  "categories": [
+    "International Affairs, Development & Trade"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/aid-match.htm",
+  "secretariat": "Real Aid acts as the group's secretariat.https://real-aid.org",
+  "website": "None",
+  "registered_contact_name": "Emily Darlington MP",
+  "date_of_most_recent_agm": "2025-02-04 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "aid-match",
+      "mnis_id": 4403,
+      "name": "Chris Law",
+      "canon_name": "Chris Law",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/aid-match.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "aid-match",
+      "mnis_id": 5139,
+      "name": "Emily Darlington",
+      "canon_name": "Emily Darlington",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/aid-match.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "aid-match",
+      "mnis_id": null,
+      "name": "Lord Bruce of Bennachie",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/aid-match.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "aid-match",
+      "mnis_id": 1211,
+      "name": "Sir Andrew Mitchell",
+      "canon_name": "Andrew Mitchell",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/aid-match.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "aid-match",
+      "mnis_id": 4403,
+      "name": "Chris Law",
+      "canon_name": "Chris Law",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/aid-match.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "aid-match",
+      "mnis_id": 5139,
+      "name": "Emily Darlington",
+      "canon_name": "Emily Darlington",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/aid-match.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "aid-match",
+      "mnis_id": null,
+      "name": "Lord Bruce of Bennachie",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/aid-match.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "aid-match",
+      "mnis_id": 1211,
+      "name": "Sir Andrew Mitchell",
+      "canon_name": "Andrew Mitchell",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/aid-match.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

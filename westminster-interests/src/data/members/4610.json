@@ -1,0 +1,298 @@
+{
+  "mnis_id": 4610,
+  "name": "Bambos Charalambous",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Southgate and Wood Green",
+  "house": "Commons",
+  "start_date": "2017-06-08",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4610/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 2623.41,
+      "combined": 2623.41,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 908.0,
+      "combined": 908.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 1715.41,
+      "combined": 1715.41,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 2623.41,
+      "combined": 2623.41,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 2623.41,
+      "combined": 2623.41,
+      "payment_count": 4,
+      "donor_count": 4
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 908.0,
+        "combined": 908.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 908.0,
+        "combined": 908.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 908.0,
+        "combined": 908.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 908.0,
+        "combined": 908.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1715.41,
+        "combined": 1715.41,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1715.41,
+        "combined": 1715.41,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1715.41,
+        "combined": 1715.41,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1715.41,
+        "combined": 1715.41,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    882,
+    0,
+    0,
+    0,
+    833,
+    0,
+    0,
+    0,
+    908,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "cyprus",
+      "appg_name": "All-Party Parliamentary Group for Cyprus",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "future-generations",
+      "appg_name": "All-Party Parliamentary Group for Future Generations",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "alevis",
+      "appg_name": "All-Party Parliamentary Group on Alevis",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "global-education",
+      "appg_name": "All-Party Parliamentary Group on Global Education",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "music-education",
+      "appg_name": "All-Party Parliamentary Group on Music Education",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "opera",
+      "appg_name": "Opera All-Party Parliamentary Group",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14551,
+      "date": "2026-02-06",
+      "category": "3",
+      "member_id": 4610,
+      "member_name": "Bambos Charalambous",
+      "payer_id": 376,
+      "payer_name": "English National Opera",
+      "amount": 358.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4610/registeredinterests?categoryId=3",
+      "summary": "English National Opera - £358.00",
+      "description": "Two tickets and hospitality for 'Cosi Fan Tutte' opera at the Coliseum on Friday 6 February 2026"
+    },
+    {
+      "id": 14532,
+      "date": "2026-01-21",
+      "category": "3",
+      "member_id": 4610,
+      "member_name": "Bambos Charalambous",
+      "payer_id": 418,
+      "payer_name": "The Football Association Premier League Ltd",
+      "amount": 550.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4610/registeredinterests?categoryId=3",
+      "summary": "The Football Association Premier League Ltd - £550.00",
+      "description": "Ticket and hospitality to watch the Champions League football match between Chelsea and Pafos on 21 January 2026"
+    },
+    {
+      "id": 137851,
+      "date": "2025-10-10",
+      "category": "4",
+      "member_id": 4610,
+      "member_name": "Bambos Charalambous",
+      "payer_id": 767,
+      "payer_name": "Morphou Municipality",
+      "amount": 832.96,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4610/registeredinterests?categoryId=4",
+      "summary": "International visit to Cyprus between 10 October 2025 and 13 October 2025 — To attend the annual Morphou Rally and associated events in Cyprus, to meet with the Mayor and councillors of the Morphou Municipality, other politicians and members from civil society.",
+      "description": "Accommodation for three nights (£482.96), transport (£200 estimate) and meals (£150 estimate)"
+    },
+    {
+      "id": 126531,
+      "date": "2025-05-26",
+      "category": "4",
+      "member_id": 4610,
+      "member_name": "Bambos Charalambous",
+      "payer_id": 529,
+      "payer_name": "House of Representatives of the Republic of Cyprus",
+      "amount": 882.45,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "cyprus",
+      "appg_name": "All-Party Parliamentary Group for Cyprus",
+      "source_url": "https://members.parliament.uk/member/4610/registeredinterests?categoryId=4",
+      "summary": "International visit to Cyprus between 26 May 2025 and 29 May 2025 — To meet the Speaker, Members of the House of Representatives of the Republic of Cyprus, the Foreign Secretary, the President of Cyprus and various NGOs and members from civil society for an update on peace talks and Cyprus relations with the UK and regional powers.",
+      "description": "Accommodation for three 3 nights (£ 471.03), transport (£ 327.46) and meals (£ 83.96)"
+    }
+  ]
+}

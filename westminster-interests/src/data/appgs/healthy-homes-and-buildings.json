@@ -1,0 +1,165 @@
+{
+  "slug": "healthy-homes-and-buildings",
+  "title": "Healthy Homes and Buildings All-Party Parliamentary Group",
+  "purpose": "To effect policy change to tackle health and wellbeing problems caused by poor quality, damp, noisy, badly lit, poorly ventilated and inefficient homes and buildings and embed health and wellbeing principles in future legislation to ensure the UK’s homes and buildings positively benefit the occupants’ health and wellbeing.",
+  "categories": [
+    "Health, Medicine & Public Health",
+    "Housing, Planning & Built Environment"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/healthy-homes-and-buildings.htm",
+  "secretariat": "Healthy Homes and Buildings Coalition (via Jade Advocacy Limited) acts as the group's secretariat.",
+  "website": "https://healthyhomesbuildings.org.uk/",
+  "registered_contact_name": "Jim Shannon MP",
+  "date_of_most_recent_agm": "2025-12-09 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "healthy-homes-and-buildings",
+      "mnis_id": 5250,
+      "name": "Gideon Amos",
+      "canon_name": "Gideon Amos",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/healthy-homes-and-buildings.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "healthy-homes-and-buildings",
+      "mnis_id": 5160,
+      "name": "Jenny Riddell-Carpenter",
+      "canon_name": "Jenny Riddell-Carpenter",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/healthy-homes-and-buildings.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "healthy-homes-and-buildings",
+      "mnis_id": 4131,
+      "name": "Jim Shannon",
+      "canon_name": "Jim Shannon",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/healthy-homes-and-buildings.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "healthy-homes-and-buildings",
+      "mnis_id": 4708,
+      "name": "Lord Bethell",
+      "canon_name": "Lord Bethell",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/healthy-homes-and-buildings.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "healthy-homes-and-buildings",
+      "mnis_id": 5250,
+      "name": "Gideon Amos",
+      "canon_name": "Gideon Amos",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/healthy-homes-and-buildings.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "healthy-homes-and-buildings",
+      "mnis_id": 5160,
+      "name": "Jenny Riddell-Carpenter",
+      "canon_name": "Jenny Riddell-Carpenter",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/healthy-homes-and-buildings.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "healthy-homes-and-buildings",
+      "mnis_id": 4131,
+      "name": "Jim Shannon",
+      "canon_name": "Jim Shannon",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/healthy-homes-and-buildings.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "healthy-homes-and-buildings",
+      "mnis_id": 4708,
+      "name": "Lord Bethell",
+      "canon_name": "Lord Bethell",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/healthy-homes-and-buildings.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

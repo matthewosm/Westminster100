@@ -1,0 +1,99 @@
+{
+  "id": 1032,
+  "name": "Space Solar Group Holdings",
+  "address": "Electron Building, Fermi Avenue, Harwell Campus, OX11 0QR",
+  "nature_of_business": "Space Based Solar Power",
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 13942,
+      "date": "2025-11-22",
+      "category": "1.2",
+      "member_id": 4074,
+      "member_name": "Mark Garnier",
+      "payer_id": 1032,
+      "payer_name": "Space Solar Group Holdings",
+      "amount": 0.0,
+      "payment_type": "In kind",
+      "is_regular": true,
+      "period": "Yearly",
+      "start_date": "2025-11-18",
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4074/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 18 November 2025 - £0.00",
+      "description": "Growth shares relating to the business, number still to be determined. This is in lieu of payment until such time as the company achieves financial targets that set the threshold for remuneration. (The contract was signed on the 18th November, but the terms are backdated to the 22 September.)"
+    }
+  ]
+}

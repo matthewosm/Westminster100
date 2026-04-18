@@ -1,0 +1,164 @@
+{
+  "slug": "croatia",
+  "title": "All-Party Parliamentary Group on Croatia",
+  "purpose": "To foster closer relations between the United Kingdom and Croatia.",
+  "categories": [
+    "Country Group"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/croatia.htm",
+  "secretariat": "",
+  "website": "None",
+  "registered_contact_name": "Sir Edward Leigh MP",
+  "date_of_most_recent_agm": "2024-11-26 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "croatia",
+      "mnis_id": null,
+      "name": "Lord Foulkes of Cumnock",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/croatia.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "croatia",
+      "mnis_id": 242,
+      "name": "Sir Christopher Chope",
+      "canon_name": "Christopher Chope",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/croatia.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "croatia",
+      "mnis_id": 345,
+      "name": "Sir Edward Leigh",
+      "canon_name": "Edward Leigh",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/croatia.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "croatia",
+      "mnis_id": null,
+      "name": "The Earl of Dundee",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/croatia.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "croatia",
+      "mnis_id": null,
+      "name": "Lord Foulkes of Cumnock",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/croatia.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "croatia",
+      "mnis_id": 242,
+      "name": "Sir Christopher Chope",
+      "canon_name": "Christopher Chope",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/croatia.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "croatia",
+      "mnis_id": 345,
+      "name": "Sir Edward Leigh",
+      "canon_name": "Edward Leigh",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/croatia.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "croatia",
+      "mnis_id": null,
+      "name": "The Earl of Dundee",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/croatia.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

@@ -1,0 +1,164 @@
+{
+  "slug": "egypt",
+  "title": "All-Party Parliamentary Group on Egypt",
+  "purpose": "To strengthen relations between British and Egyptian parliamentarians and promote UK-Egyptian relations amongst both chambers of the UK Parliament.",
+  "categories": [
+    "Country Group"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/egypt.htm",
+  "secretariat": "",
+  "website": "None",
+  "registered_contact_name": "Mark Pritchard MP",
+  "date_of_most_recent_agm": "2025-03-04 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "egypt",
+      "mnis_id": 2005,
+      "name": "Baroness Hooper",
+      "canon_name": "Baroness Hooper",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/egypt.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "egypt",
+      "mnis_id": 185,
+      "name": "Jeremy Corbyn",
+      "canon_name": "Jeremy Corbyn",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/egypt.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "egypt",
+      "mnis_id": null,
+      "name": "Lord Anderson of Swansea",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/egypt.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "egypt",
+      "mnis_id": 1576,
+      "name": "Mark Pritchard",
+      "canon_name": "Mark Pritchard",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/egypt.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "egypt",
+      "mnis_id": 2005,
+      "name": "Baroness Hooper",
+      "canon_name": "Baroness Hooper",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/egypt.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "egypt",
+      "mnis_id": 185,
+      "name": "Jeremy Corbyn",
+      "canon_name": "Jeremy Corbyn",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/egypt.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "egypt",
+      "mnis_id": null,
+      "name": "Lord Anderson of Swansea",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/egypt.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "egypt",
+      "mnis_id": 1576,
+      "name": "Mark Pritchard",
+      "canon_name": "Mark Pritchard",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/egypt.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

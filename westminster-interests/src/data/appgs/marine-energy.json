@@ -1,0 +1,164 @@
+{
+  "slug": "marine-energy",
+  "title": "All-Party Parliamentary Group on Marine Energy",
+  "purpose": "To promote the economic, supply chain and energy security benefits from the development of marine energy resources in and around the UK.",
+  "categories": [
+    "Energy & Utilities"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/marine-energy.htm",
+  "secretariat": "Marine Energy Council acts as the group's secretariat.https://www.marineenergycouncil.co.uk/",
+  "website": "https://www.marineenergycouncil.co.uk/appg",
+  "registered_contact_name": "Mr Alistair Carmichael MP",
+  "date_of_most_recent_agm": "2025-12-10 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "marine-energy",
+      "mnis_id": 5311,
+      "name": "Harriet Cross",
+      "canon_name": "Harriet Cross",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/marine-energy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "marine-energy",
+      "mnis_id": 1442,
+      "name": "Mr Alistair Carmichael",
+      "canon_name": "Alistair Carmichael",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/marine-energy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "marine-energy",
+      "mnis_id": 5362,
+      "name": "Mr Angus MacDonald",
+      "canon_name": "Angus MacDonald",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/marine-energy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "marine-energy",
+      "mnis_id": 5246,
+      "name": "Torcuil Crichton",
+      "canon_name": "Torcuil Crichton",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/marine-energy.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "marine-energy",
+      "mnis_id": 5311,
+      "name": "Harriet Cross",
+      "canon_name": "Harriet Cross",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/marine-energy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "marine-energy",
+      "mnis_id": 1442,
+      "name": "Mr Alistair Carmichael",
+      "canon_name": "Alistair Carmichael",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/marine-energy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "marine-energy",
+      "mnis_id": 5362,
+      "name": "Mr Angus MacDonald",
+      "canon_name": "Angus MacDonald",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/marine-energy.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "marine-energy",
+      "mnis_id": 5246,
+      "name": "Torcuil Crichton",
+      "canon_name": "Torcuil Crichton",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/marine-energy.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

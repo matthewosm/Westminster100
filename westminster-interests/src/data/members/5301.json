@@ -1,0 +1,442 @@
+{
+  "mnis_id": 5301,
+  "name": "Rebecca Smith",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "South West Devon",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5301/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 11955.81,
+      "inkind": 6865.0,
+      "combined": 18820.81,
+      "payment_count": 6,
+      "donor_count": 6
+    },
+    "ytd": {
+      "monetary": 3537.61,
+      "inkind": 0.0,
+      "combined": 3537.61,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 11955.81,
+      "inkind": 7040.0,
+      "combined": 18995.81,
+      "payment_count": 8,
+      "donor_count": 6
+    },
+    "2024": {
+      "monetary": 4978.86,
+      "inkind": 0.0,
+      "combined": 4978.86,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "since_election": {
+      "monetary": 20472.28,
+      "inkind": 7040.0,
+      "combined": 27512.28,
+      "payment_count": 8,
+      "donor_count": 6
+    },
+    "all_time": {
+      "monetary": 20472.28,
+      "inkind": 7040.0,
+      "combined": 27512.28,
+      "payment_count": 8,
+      "donor_count": 6
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 4500.0,
+        "combined": 4500.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 4500.0,
+        "combined": 4500.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 4500.0,
+        "combined": 4500.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 4500.0,
+        "combined": 4500.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 2365.0,
+        "combined": 2365.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 2540.0,
+        "combined": 2540.0,
+        "payment_count": 6,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 2540.0,
+        "combined": 2540.0,
+        "payment_count": 6,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 2540.0,
+        "combined": 2540.0,
+        "payment_count": 6,
+        "donor_count": 0
+      }
+    },
+    "1.2": {
+      "12m": {
+        "monetary": 11955.81,
+        "inkind": 0.0,
+        "combined": 11955.81,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 3537.61,
+        "inkind": 0.0,
+        "combined": 3537.61,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 11955.81,
+        "inkind": 0.0,
+        "combined": 11955.81,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 4978.86,
+        "inkind": 0.0,
+        "combined": 4978.86,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 20472.28,
+        "inkind": 0.0,
+        "combined": 20472.28,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 20472.28,
+        "inkind": 0.0,
+        "combined": 20472.28,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    983,
+    1008,
+    3323,
+    983,
+    5483,
+    983,
+    983,
+    983,
+    983,
+    983,
+    983,
+    983
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "celtic-sea",
+      "appg_name": "All-Party Parliamentary Group for the Celtic Sea",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "commonwealth-war-graves-commission-and-commemoration",
+      "appg_name": "All-Party Parliamentary Group for the Commonwealth War Graves Commission and Commemoration",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "environment",
+      "appg_name": "All-Party Parliamentary Group for the Environment",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "christianity-in-the-holy-land",
+      "appg_name": "All-Party Parliamentary Group on Christianity in the Holy Land",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "christians-in-parliament",
+      "appg_name": "Christians in Parliament All-Party Parliamentary Group",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "key-cities",
+      "appg_name": "Key Cities All-Party Parliamentary Group",
+      "officer_role": "Co-Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 132611,
+      "date": "2025-08-24",
+      "category": "4",
+      "member_id": 5301,
+      "member_name": "Rebecca Smith",
+      "payer_id": 264,
+      "payer_name": "Conservative Friends of Israel Ltd",
+      "amount": 4500.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5301/registeredinterests?categoryId=4",
+      "summary": "International visit to Israel between 24 August 2025 and 29 August 2025 — Fact finding political delegation to Israel and the Palestinian Authorities",
+      "description": "Air travel, accommodation and hospitality with an estimated value of £4,500"
+    },
+    {
+      "id": 12857,
+      "date": "2025-07-05",
+      "category": "3",
+      "member_id": 5301,
+      "member_name": "Rebecca Smith",
+      "payer_id": 770,
+      "payer_name": "Motorsport UK",
+      "amount": 1400.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5301/registeredinterests?categoryId=3",
+      "summary": "Motorsport UK - £1,400.00",
+      "description": "Two tickets with hospitality for the British Grand Prix on 5th July 2025"
+    },
+    {
+      "id": 12855,
+      "date": "2025-07-04",
+      "category": "3",
+      "member_id": 5301,
+      "member_name": "Rebecca Smith",
+      "payer_id": 1006,
+      "payer_name": "Silverstone Circuits Limited",
+      "amount": 800.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5301/registeredinterests?categoryId=3",
+      "summary": "Silverstone Circuits Ltd - £800.00",
+      "description": "Two tickets with hospitality to the British Grand Prix on 4 July"
+    },
+    {
+      "id": 12858,
+      "date": "2025-07-03",
+      "category": "3",
+      "member_id": 5301,
+      "member_name": "Rebecca Smith",
+      "payer_id": 91,
+      "payer_name": "Babcock International Group",
+      "amount": 140.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5301/registeredinterests?categoryId=3",
+      "summary": "Babcock International Group - £140.00",
+      "description": "Dinner and drinks"
+    },
+    {
+      "id": 12861,
+      "date": "2025-06-04",
+      "category": "3",
+      "member_id": 5301,
+      "member_name": "Rebecca Smith",
+      "payer_id": 91,
+      "payer_name": "Babcock International Group",
+      "amount": 25.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5301/registeredinterests?categoryId=3",
+      "summary": "Babcock International Group - £25.00",
+      "description": "Summer BBQ"
+    },
+    {
+      "id": 12860,
+      "date": "2025-04-09",
+      "category": "3",
+      "member_id": 5301,
+      "member_name": "Rebecca Smith",
+      "payer_id": 91,
+      "payer_name": "Babcock International Group",
+      "amount": 90.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5301/registeredinterests?categoryId=3",
+      "summary": "Babcock International Group - £90.00",
+      "description": "Dinner and drinks ahead of constituency visit"
+    },
+    {
+      "id": 12859,
+      "date": "2025-03-05",
+      "category": "3",
+      "member_id": 5301,
+      "member_name": "Rebecca Smith",
+      "payer_id": 91,
+      "payer_name": "Babcock International Group",
+      "amount": 85.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5301/registeredinterests?categoryId=3",
+      "summary": "Babcock International Group - £85.00",
+      "description": "Annual dinner and drinks in Parliament with MPs who have a constituency link to Babcock"
+    },
+    {
+      "id": 8910,
+      "date": "2024-08-01",
+      "category": "1.2",
+      "member_id": 5301,
+      "member_name": "Rebecca Smith",
+      "payer_id": 886,
+      "payer_name": "Plymouth City Council",
+      "amount": 997.0,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": true,
+      "donated_to": "Community organisation",
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5301/registeredinterests?categoryId=1",
+      "summary": "Agreement - £997.00",
+      "description": null
+    }
+  ]
+}

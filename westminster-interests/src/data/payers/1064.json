@@ -1,0 +1,124 @@
+{
+  "id": 1064,
+  "name": "Surrey County Council",
+  "address": "Woodhatch Place, 11 Cockshot Hill, Reigate RH2 8EF",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 15989.58,
+      "inkind": 0.0,
+      "combined": 15989.58,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "ytd": {
+      "monetary": 4260.85,
+      "inkind": 0.0,
+      "combined": 4260.85,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 20176.52,
+      "inkind": 0.0,
+      "combined": 20176.52,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "2024": {
+      "monetary": 12785.94,
+      "inkind": 0.0,
+      "combined": 12785.94,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "since_election": {
+      "monetary": 37223.31,
+      "inkind": 0.0,
+      "combined": 37223.31,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "all_time": {
+      "monetary": 37223.31,
+      "inkind": 0.0,
+      "combined": 37223.31,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    }
+  },
+  "trend_12m": [
+    2347,
+    1416,
+    1184,
+    1184,
+    1184,
+    1184,
+    1184,
+    1184,
+    1184,
+    1184,
+    1184,
+    1184
+  ],
+  "payments": [
+    {
+      "id": 7061,
+      "date": "2024-07-25",
+      "category": "1.2",
+      "member_id": 5297,
+      "member_name": "Rebecca Paul",
+      "payer_id": 1064,
+      "payer_name": "Surrey County Council",
+      "amount": 1200.83,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5297/registeredinterests?categoryId=1",
+      "summary": "Agreement - £1,200.83",
+      "description": null
+    },
+    {
+      "id": 6355,
+      "date": "2024-07-16",
+      "category": "1.2",
+      "member_id": 5322,
+      "member_name": "Mr Will Forster",
+      "payer_id": 1064,
+      "payer_name": "Surrey County Council",
+      "amount": 1180.0,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": null,
+      "end_date": "2025-05-29",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5322/registeredinterests?categoryId=1",
+      "summary": "Agreement - £1,180.00",
+      "description": null
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "mnis_id": 4051,
+  "name": "John Glen",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "Salisbury",
+  "house": "Commons",
+  "start_date": "2010-05-06",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4051/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 134045.17,
+      "inkind": 2393.13,
+      "combined": 136438.3,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "ytd": {
+      "monetary": 134045.17,
+      "inkind": 0.0,
+      "combined": 134045.17,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 2393.13,
+      "combined": 2393.13,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 134045.17,
+      "inkind": 2393.13,
+      "combined": 136438.3,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 134045.17,
+      "inkind": 2393.13,
+      "combined": 136438.3,
+      "payment_count": 3,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "1.2": {
+      "12m": {
+        "monetary": 134045.17,
+        "inkind": 0.0,
+        "combined": 134045.17,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 134045.17,
+        "inkind": 0.0,
+        "combined": 134045.17,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 134045.17,
+        "inkind": 0.0,
+        "combined": 134045.17,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 134045.17,
+        "inkind": 0.0,
+        "combined": 134045.17,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1803.13,
+        "combined": 1803.13,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1803.13,
+        "combined": 1803.13,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1803.13,
+        "combined": 1803.13,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1803.13,
+        "combined": 1803.13,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 590.0,
+        "combined": 590.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 590.0,
+        "combined": 590.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 590.0,
+        "combined": 590.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 590.0,
+        "combined": 590.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    590,
+    1803,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    15770,
+    59138,
+    59138
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "debt-and-financial-inclusion",
+      "appg_name": "All-Party Parliamentary Group on Debt and Financial Inclusion",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "food-banks",
+      "appg_name": "All-Party Parliamentary Group on Ending the Need for Food Banks",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "financial-education-for-young-people",
+      "appg_name": "All-Party Parliamentary Group on Financial Education for Young People",
+      "officer_role": "Co-Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "pans-pandas",
+      "appg_name": "All-Party Parliamentary Group on PANS PANDAS",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "spinal-cord-injury",
+      "appg_name": "All-Party Parliamentary Group on Spinal Cord Injury",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "stem-cell-transplantation-and-advanced-cellular-therapies",
+      "appg_name": "All-Party Parliamentary Group on Stem Cell Transplantation and Advanced Cellular Therapies",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14520,
+      "date": "2026-02-09",
+      "category": "1.2",
+      "member_id": 4051,
+      "member_name": "John Glen",
+      "payer_id": 842,
+      "payer_name": "Open Banking Limited",
+      "amount": 60000.0,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": "2026-02-09",
+      "end_date": "2027-02-08",
+      "is_sole_beneficiary": true,
+      "is_donated": true,
+      "donated_to": "Community organisation",
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4051/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 09 February 2026 - £60,000.00",
+      "description": null
+    },
+    {
+      "id": 131371,
+      "date": "2025-07-20",
+      "category": "4",
+      "member_id": 4051,
+      "member_name": "John Glen",
+      "payer_id": 246,
+      "payer_name": "The Coalition for Global Prosperity (CGP)",
+      "amount": 1803.13,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4051/registeredinterests?categoryId=4",
+      "summary": "International visit to Jordan between 20 July 2025 and 25 July 2025 — Overseas visit to Jordan to see UK Development programmes 'in action' and meet with development experts and partners",
+      "description": "Flights ( £883), accommodation ( £649.9), food and Refreshments (£270.23)"
+    },
+    {
+      "id": 12863,
+      "date": "2025-06-19",
+      "category": "3",
+      "member_id": 4051,
+      "member_name": "John Glen",
+      "payer_id": 80,
+      "payer_name": "Ascot Racecourse Limited",
+      "amount": 590.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4051/registeredinterests?categoryId=3",
+      "summary": "Ascot Racecourse Limited - £590.00",
+      "description": "Two tickets for myself and a guest to attend Ascot Races"
+    }
+  ]
+}

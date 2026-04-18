@@ -1,0 +1,164 @@
+{
+  "slug": "west-papua",
+  "title": "All-Party Parliamentary Group on West Papua",
+  "purpose": "To promote human rights in West Papua, including the right to self-determination.",
+  "categories": [
+    "Country Group"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/west-papua.htm",
+  "secretariat": "International Parliamentarians for West Papua acts as the group's secretariat.https://www.ipwp.org/",
+  "website": "https://www.ipwp.org/uk-all-party-parliamentary-group-appg-on-west-papua/",
+  "registered_contact_name": "Alex Sobel MP",
+  "date_of_most_recent_agm": "2025-12-16 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "west-papua",
+      "mnis_id": 4658,
+      "name": "Alex Sobel",
+      "canon_name": "Alex Sobel",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/west-papua.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "west-papua",
+      "mnis_id": 4657,
+      "name": "Anneliese Dodds",
+      "canon_name": "Anneliese Dodds",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/west-papua.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "west-papua",
+      "mnis_id": null,
+      "name": "Lord Harries of Pentregarth",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/west-papua.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "west-papua",
+      "mnis_id": 4202,
+      "name": "Lord Lexden",
+      "canon_name": "Lord Lexden",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/west-papua.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "west-papua",
+      "mnis_id": 4658,
+      "name": "Alex Sobel",
+      "canon_name": "Alex Sobel",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/west-papua.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "west-papua",
+      "mnis_id": 4657,
+      "name": "Anneliese Dodds",
+      "canon_name": "Anneliese Dodds",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/west-papua.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "west-papua",
+      "mnis_id": null,
+      "name": "Lord Harries of Pentregarth",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/west-papua.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "west-papua",
+      "mnis_id": 4202,
+      "name": "Lord Lexden",
+      "canon_name": "Lord Lexden",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/west-papua.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

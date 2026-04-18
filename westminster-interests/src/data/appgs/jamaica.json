@@ -1,0 +1,164 @@
+{
+  "slug": "jamaica",
+  "title": "All-Party Parliamentary Group for Jamaica",
+  "purpose": "The purpose of the APPG is to encourage positive relations between Jamaica and the UK. It aims to promote dialogue on shared interests, enhance trade, cultural ties, and cooperation, while addressing key issues affecting the Jamaican diaspora and advocating for mutual prosperity and development.",
+  "categories": [
+    "Country Group"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/jamaica.htm",
+  "secretariat": "DMA Invest acts as the group's secretariat.https://www.developingmarkets.com/",
+  "website": "None",
+  "registered_contact_name": "Dawn Butler MP",
+  "date_of_most_recent_agm": "2026-01-14 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "jamaica",
+      "mnis_id": null,
+      "name": "Baroness Lawrence of Clarendon",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/jamaica.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "jamaica",
+      "mnis_id": 1489,
+      "name": "Dawn Butler",
+      "canon_name": "Dawn Butler",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/jamaica.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "jamaica",
+      "mnis_id": 4018,
+      "name": "Helen Grant",
+      "canon_name": "Helen Grant",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/jamaica.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "jamaica",
+      "mnis_id": 4676,
+      "name": "Marsha De Cordova",
+      "canon_name": "Marsha de Cordova",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/jamaica.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "jamaica",
+      "mnis_id": null,
+      "name": "Baroness Lawrence of Clarendon",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/jamaica.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "jamaica",
+      "mnis_id": 1489,
+      "name": "Dawn Butler",
+      "canon_name": "Dawn Butler",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/jamaica.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "jamaica",
+      "mnis_id": 4018,
+      "name": "Helen Grant",
+      "canon_name": "Helen Grant",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/jamaica.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "jamaica",
+      "mnis_id": 4676,
+      "name": "Marsha De Cordova",
+      "canon_name": "Marsha de Cordova",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/jamaica.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

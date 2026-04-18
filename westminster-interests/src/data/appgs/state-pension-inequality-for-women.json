@@ -1,0 +1,164 @@
+{
+  "slug": "state-pension-inequality-for-women",
+  "title": "All-Party Parliamentary Group on State Pension Inequality for Women",
+  "purpose": "To provide a cross-party forum in which to hold the government to account on the issue of transitional arrangements to compensate 1950's-born women who are affected by changes to the state pension age and to campaign on issues around the state pension age.",
+  "categories": [
+    "Social Care, Welfare & Family Support"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/state-pension-inequality-for-women.htm",
+  "secretariat": "",
+  "website": "https://rebeccalongbailey.com/spifwlist/",
+  "registered_contact_name": "Rebecca Long Bailey MP",
+  "date_of_most_recent_agm": "2025-11-17 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "state-pension-inequality-for-women",
+      "mnis_id": 5040,
+      "name": "Liz Jarvis",
+      "canon_name": "Liz Jarvis",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/state-pension-inequality-for-women.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "state-pension-inequality-for-women",
+      "mnis_id": null,
+      "name": "Lord Davies of Brixton",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/state-pension-inequality-for-women.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "state-pension-inequality-for-women",
+      "mnis_id": 4396,
+      "name": "Rebecca Long Bailey",
+      "canon_name": "Rebecca Long-Bailey",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/state-pension-inequality-for-women.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "state-pension-inequality-for-women",
+      "mnis_id": 54,
+      "name": "Sir Julian Lewis",
+      "canon_name": "Julian Lewis",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/state-pension-inequality-for-women.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "state-pension-inequality-for-women",
+      "mnis_id": 5040,
+      "name": "Liz Jarvis",
+      "canon_name": "Liz Jarvis",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/state-pension-inequality-for-women.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "state-pension-inequality-for-women",
+      "mnis_id": null,
+      "name": "Lord Davies of Brixton",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/state-pension-inequality-for-women.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "state-pension-inequality-for-women",
+      "mnis_id": 4396,
+      "name": "Rebecca Long Bailey",
+      "canon_name": "Rebecca Long-Bailey",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/state-pension-inequality-for-women.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "state-pension-inequality-for-women",
+      "mnis_id": 54,
+      "name": "Sir Julian Lewis",
+      "canon_name": "Julian Lewis",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/state-pension-inequality-for-women.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

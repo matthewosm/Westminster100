@@ -1,0 +1,164 @@
+{
+  "slug": "menopause",
+  "title": "All-Party Parliamentary Group on Menopause",
+  "purpose": "To provide a platform to tackle the lack of understanding around Menopause amongst policymakers, the public and employers. The Group also provides a platform in Parliament that highlights the issues and challenges around menopause that deserve attention, as well as acting as a forum for discussion.",
+  "categories": [
+    "Health, Medicine & Public Health"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/menopause.htm",
+  "secretariat": "",
+  "website": "https://menopause-appg.co.uk/",
+  "registered_contact_name": "Carolyn Harris MP",
+  "date_of_most_recent_agm": "2024-10-22 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "menopause",
+      "mnis_id": 4480,
+      "name": "Carolyn Harris",
+      "canon_name": "Carolyn Harris",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/menopause.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "menopause",
+      "mnis_id": 5179,
+      "name": "Kirsteen Sullivan",
+      "canon_name": "Kirsteen Sullivan",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/menopause.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "menopause",
+      "mnis_id": 4494,
+      "name": "Simon Hoare",
+      "canon_name": "Simon Hoare",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/menopause.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "menopause",
+      "mnis_id": 5157,
+      "name": "Susan Murray",
+      "canon_name": "Susan Murray",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/menopause.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "menopause",
+      "mnis_id": 4480,
+      "name": "Carolyn Harris",
+      "canon_name": "Carolyn Harris",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/menopause.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "menopause",
+      "mnis_id": 5179,
+      "name": "Kirsteen Sullivan",
+      "canon_name": "Kirsteen Sullivan",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/menopause.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "menopause",
+      "mnis_id": 4494,
+      "name": "Simon Hoare",
+      "canon_name": "Simon Hoare",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/menopause.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "menopause",
+      "mnis_id": 5157,
+      "name": "Susan Murray",
+      "canon_name": "Susan Murray",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/menopause.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

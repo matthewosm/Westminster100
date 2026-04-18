@@ -1,0 +1,211 @@
+{
+  "mnis_id": 1536,
+  "name": "Emily Thornberry",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Islington South and Finsbury",
+  "house": "Commons",
+  "start_date": "2005-05-05",
+  "photo_url": "https://members-api.parliament.uk/api/Members/1536/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 1000.0,
+      "inkind": 0.0,
+      "combined": 1000.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 1000.0,
+      "inkind": 3120.0,
+      "combined": 4120.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 1000.0,
+      "inkind": 3120.0,
+      "combined": 4120.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "all_time": {
+      "monetary": 1000.0,
+      "inkind": 3120.0,
+      "combined": 4120.0,
+      "payment_count": 2,
+      "donor_count": 2
+    }
+  },
+  "categories": {
+    "1.1": {
+      "12m": {
+        "monetary": 1000.0,
+        "inkind": 0.0,
+        "combined": 1000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 1000.0,
+        "inkind": 0.0,
+        "combined": 1000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 1000.0,
+        "inkind": 0.0,
+        "combined": 1000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 1000.0,
+        "inkind": 0.0,
+        "combined": 1000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 3120.0,
+        "combined": 3120.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 3120.0,
+        "combined": 3120.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 3120.0,
+        "combined": 3120.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    1000,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [],
+  "payments": [
+    {
+      "id": 12421,
+      "date": "2025-04-25",
+      "category": "1.1",
+      "member_id": 1536,
+      "member_name": "Emily Thornberry",
+      "payer_id": 465,
+      "payer_name": "Global Media Group",
+      "amount": 1000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": true,
+      "donated_to": "Charity",
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1536/registeredinterests?categoryId=1",
+      "summary": "Payment received on 25 April 2025 - £1,000.00",
+      "description": null
+    },
+    {
+      "id": 11932,
+      "date": "2025-03-01",
+      "category": "3",
+      "member_id": 1536,
+      "member_name": "Emily Thornberry",
+      "payer_id": 144,
+      "payer_name": "BPI (British Recorded Music Industry) Ltd",
+      "amount": 3120.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1536/registeredinterests?categoryId=3",
+      "summary": "BPI (British Recorded Music Industry) Ltd - £3,120.00",
+      "description": "two tickets to the BRIT Awards.  Value per ticket is £1,300 plus VAT.  This gives guests access to the BPI Suite, food and drinks, before watching the show. It also includes access to the BRITs after show"
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "mnis_id": 4870,
+  "name": "Florence Eshalomi",
+  "party": "Labour (Co-op)",
+  "party_slug": "labour-co-op",
+  "constituency": "Vauxhall and Camberwell Green",
+  "house": "Commons",
+  "start_date": "2019-12-12",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4870/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 5957.0,
+      "combined": 5957.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 5957.0,
+      "combined": 5957.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 5957.0,
+      "combined": 5957.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 5957.0,
+      "combined": 5957.0,
+      "payment_count": 1,
+      "donor_count": 1
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 5957.0,
+        "combined": 5957.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 5957.0,
+        "combined": 5957.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 5957.0,
+        "combined": 5957.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 5957.0,
+        "combined": 5957.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    5957,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "london",
+      "appg_name": "All-Party Parliamentary Group for London",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "eye-health-and-visual-impairment",
+      "appg_name": "All-Party Parliamentary Group on Eye Health and Visual Impairment",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "hiv-aids-and-sexual-health",
+      "appg_name": "All-Party Parliamentary Group on HIV, AIDS and Sexual Health",
+      "officer_role": "Co-Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "nigeria",
+      "appg_name": "All-Party Parliamentary Group on Nigeria",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "portugal",
+      "appg_name": "All-Party Parliamentary Group on Portugal",
+      "officer_role": "Treasurer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "cafod",
+      "appg_name": "Friends of CAFOD (Catholic Agency for Overseas Development) All-Party Parliamentary Group",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 141971,
+      "date": "2025-12-05",
+      "category": "4",
+      "member_id": 4870,
+      "member_name": "Florence Eshalomi",
+      "payer_id": 319,
+      "payer_name": "Doha Forum",
+      "amount": 5957.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4870/registeredinterests?categoryId=4",
+      "summary": "International visit to Qatar between 05 December 2025 and 08 December 2025 — To participate in the annual Doha Forum 2025 on diplomacy, dialogue and diversity, including meetings with fellow cross-party parliamentarians, political representatives of other countries and Qatari ministers to discuss Qatar's role in seeking to resolve current regional conflicts.",
+      "description": "Flights (£5555.00), accommodation and food (£402.00)"
+    }
+  ]
+}

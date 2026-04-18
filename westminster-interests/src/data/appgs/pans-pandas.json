@@ -1,0 +1,164 @@
+{
+  "slug": "pans-pandas",
+  "title": "All-Party Parliamentary Group on PANS PANDAS",
+  "purpose": "To raise awareness of the conditions PANS (Pediatric Acute-onset Neuropsychiatric Syndrome) and PANDAS (Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal Infections) and advocate for support for PANS PANDAS children and their families.",
+  "categories": [
+    "Health, Medicine & Public Health"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/pans-pandas.htm",
+  "secretariat": "PANS PANDAS UK acts as the group's secretariat.https://panspandasuk.org/",
+  "website": "https://panspandasuk.org/support-resources/pans-pandas-all-party-parliamentary-group/",
+  "registered_contact_name": "Wendy Chamberlain MP",
+  "date_of_most_recent_agm": "2025-01-08 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "pans-pandas",
+      "mnis_id": 4051,
+      "name": "John Glen",
+      "canon_name": "John Glen",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/pans-pandas.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "pans-pandas",
+      "mnis_id": 5049,
+      "name": "Michelle Scrogham",
+      "canon_name": "Michelle Scrogham",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/pans-pandas.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "pans-pandas",
+      "mnis_id": 4637,
+      "name": "Mr James Frith",
+      "canon_name": "James Frith",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/pans-pandas.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "pans-pandas",
+      "mnis_id": 4765,
+      "name": "Wendy Chamberlain",
+      "canon_name": "Wendy Chamberlain",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/pans-pandas.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "pans-pandas",
+      "mnis_id": 4051,
+      "name": "John Glen",
+      "canon_name": "John Glen",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/pans-pandas.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "pans-pandas",
+      "mnis_id": 5049,
+      "name": "Michelle Scrogham",
+      "canon_name": "Michelle Scrogham",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/pans-pandas.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "pans-pandas",
+      "mnis_id": 4637,
+      "name": "Mr James Frith",
+      "canon_name": "James Frith",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/pans-pandas.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "pans-pandas",
+      "mnis_id": 4765,
+      "name": "Wendy Chamberlain",
+      "canon_name": "Wendy Chamberlain",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/pans-pandas.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

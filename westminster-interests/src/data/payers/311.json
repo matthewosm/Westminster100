@@ -1,0 +1,124 @@
+{
+  "id": 311,
+  "name": "Devon County Council",
+  "address": "Devon County Council, Topsham Road County Hall, Exeter EX2 4QD",
+  "nature_of_business": "County Council",
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 1197.12,
+      "inkind": 0.0,
+      "combined": 1197.12,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 10113.28,
+      "inkind": 0.0,
+      "combined": 10113.28,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "2024": {
+      "monetary": 12548.67,
+      "inkind": 0.0,
+      "combined": 12548.67,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "since_election": {
+      "monetary": 22661.95,
+      "inkind": 0.0,
+      "combined": 22661.95,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "all_time": {
+      "monetary": 22661.95,
+      "inkind": 0.0,
+      "combined": 22661.95,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    }
+  },
+  "trend_12m": [
+    784,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 10594,
+      "date": "2024-08-29",
+      "category": "1.2",
+      "member_id": 5111,
+      "member_name": "Martin Wrigley",
+      "payer_id": 311,
+      "payer_name": "Devon County Council",
+      "amount": 1256.83,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": "2024-08-01",
+      "end_date": "2025-05-04",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5111/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 01 August 2024 - £1,256.83",
+      "description": null
+    },
+    {
+      "id": 8635,
+      "date": "2024-08-01",
+      "category": "1.2",
+      "member_id": 5138,
+      "member_name": "Ian Roome",
+      "payer_id": 311,
+      "payer_name": "Devon County Council",
+      "amount": 1256.0,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": null,
+      "end_date": "2025-05-01",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5138/registeredinterests?categoryId=1",
+      "summary": "Agreement - £1,256.00",
+      "description": null
+    }
+  ]
+}

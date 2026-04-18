@@ -1,0 +1,164 @@
+{
+  "slug": "cyber-innovation",
+  "title": "All-Party Parliamentary Group for Cyber Innovation",
+  "purpose": "To provide a forum for discussion of ideas, solutions and policies to unlock innovation, growth, and diversity in the cyber sector. The APPG brings together parliamentarians, industry professionals, academia, media and civil society to facilitate mutual learning, change perceptions and develop new and innovative policy recommendations.",
+  "categories": [
+    "Science, Technology & Innovation"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cyber-innovation.htm",
+  "secretariat": "Cybersecurity Business Network acts as the group's secretariat.https://cb-network.org/",
+  "website": "None",
+  "registered_contact_name": "Dan Aldridge MP",
+  "date_of_most_recent_agm": "2026-02-11 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "cyber-innovation",
+      "mnis_id": 5203,
+      "name": "Alison Griffiths",
+      "canon_name": "Alison Griffiths",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cyber-innovation.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "cyber-innovation",
+      "mnis_id": 5172,
+      "name": "Dan Aldridge",
+      "canon_name": "Dan Aldridge",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cyber-innovation.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "cyber-innovation",
+      "mnis_id": 5055,
+      "name": "Max Wilkinson",
+      "canon_name": "Max Wilkinson",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cyber-innovation.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "cyber-innovation",
+      "mnis_id": 5001,
+      "name": "Sarah Edwards",
+      "canon_name": "Sarah Edwards",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cyber-innovation.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "cyber-innovation",
+      "mnis_id": 5203,
+      "name": "Alison Griffiths",
+      "canon_name": "Alison Griffiths",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cyber-innovation.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "cyber-innovation",
+      "mnis_id": 5172,
+      "name": "Dan Aldridge",
+      "canon_name": "Dan Aldridge",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cyber-innovation.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "cyber-innovation",
+      "mnis_id": 5055,
+      "name": "Max Wilkinson",
+      "canon_name": "Max Wilkinson",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cyber-innovation.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "cyber-innovation",
+      "mnis_id": 5001,
+      "name": "Sarah Edwards",
+      "canon_name": "Sarah Edwards",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cyber-innovation.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

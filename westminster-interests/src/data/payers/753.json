@@ -1,0 +1,99 @@
+{
+  "id": 753,
+  "name": "Mid Devon District Council",
+  "address": "Phoenix House, Phoenix Lane, Tiverton, Devon EX16 6PP",
+  "nature_of_business": "Local Government",
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 1199.18,
+      "inkind": 0.0,
+      "combined": 1199.18,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 2940.45,
+      "inkind": 0.0,
+      "combined": 2940.45,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "since_election": {
+      "monetary": 4139.63,
+      "inkind": 0.0,
+      "combined": 4139.63,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 4139.63,
+      "inkind": 0.0,
+      "combined": 4139.63,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 7267,
+      "date": "2024-07-24",
+      "category": "1.2",
+      "member_id": 5252,
+      "member_name": "Rachel Gilmour",
+      "payer_id": 753,
+      "payer_name": "Mid Devon District Council",
+      "amount": 500.0,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": "2024-07-05",
+      "end_date": "2025-03-14",
+      "is_sole_beneficiary": true,
+      "is_donated": true,
+      "donated_to": "Charity",
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5252/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 05 July 2024 - £500.00",
+      "description": null
+    }
+  ]
+}

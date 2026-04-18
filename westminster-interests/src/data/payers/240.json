@@ -1,0 +1,124 @@
+{
+  "id": 240,
+  "name": "Climate Parliament",
+  "address": "167-169 Great Portland Street, 5th Floor, London W1W 5PF",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 7250.08,
+      "combined": 7250.08,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 7250.08,
+      "combined": 7250.08,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 7250.08,
+      "combined": 7250.08,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 7250.08,
+      "combined": 7250.08,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    7250,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 141911,
+      "date": "2025-11-02",
+      "category": "4",
+      "member_id": 5353,
+      "member_name": "Anna Gelderd",
+      "payer_id": 240,
+      "payer_name": "Climate Parliament",
+      "amount": 4125.2,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5353/registeredinterests?categoryId=4",
+      "summary": "International visit to Brazil between 02 November 2025 and 07 November 2025 — Climate change conferences in Rio De Janeiro in preparation for COP 30.",
+      "description": "Travel, including flights (£2445.11), accommodation (£1470.27) and sundry costs (£209.82)"
+    },
+    {
+      "id": 139093,
+      "date": "2025-10-25",
+      "category": "4",
+      "member_id": 146,
+      "member_name": "Barry Gardiner",
+      "payer_id": 240,
+      "payer_name": "Climate Parliament",
+      "amount": 3124.88,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/146/registeredinterests?categoryId=4",
+      "summary": "International visit to United States between 25 October 2025 and 05 November 2025 — Climate change conferences in Washington and Rio De Janeiro in preparation for COP 30",
+      "description": "Return flights Washington to Rio De Janeiro (£1394.88), accommodation (£1730)"
+    }
+  ]
+}

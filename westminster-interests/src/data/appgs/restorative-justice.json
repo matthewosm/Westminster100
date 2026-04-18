@@ -1,0 +1,140 @@
+{
+  "slug": "restorative-justice",
+  "title": "All-Party Parliamentary Group for Restorative Justice",
+  "purpose": "To examine the use of restorative justice principles within the UK justice system; to raise the profile of restorative justice principles within parliament; and to provide opportunities for policy discussion and consultation.",
+  "categories": [
+    "Justice, Law & Security"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/restorative-justice.htm",
+  "secretariat": "CalComms acts as the group's secretariat.https://calcomms.co.uk/",
+  "website": "https://rjappg.co.uk/",
+  "registered_contact_name": "Gavin Robinson MP",
+  "date_of_most_recent_agm": "2024-07-23 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "restorative-justice",
+      "mnis_id": null,
+      "name": "Baroness Jones of Moulsecoomb",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/250731/restorative-justice.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "restorative-justice",
+      "mnis_id": 4360,
+      "name": "Gavin Robinson",
+      "canon_name": "Gavin Robinson",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/250731/restorative-justice.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "restorative-justice",
+      "mnis_id": 1560,
+      "name": "Sir Jeremy Wright",
+      "canon_name": "Jeremy Wright",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/250731/restorative-justice.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "restorative-justice",
+      "mnis_id": null,
+      "name": "Baroness Jones of Moulsecoomb",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/250731/restorative-justice.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "restorative-justice",
+      "mnis_id": 4360,
+      "name": "Gavin Robinson",
+      "canon_name": "Gavin Robinson",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/250731/restorative-justice.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "restorative-justice",
+      "mnis_id": 1560,
+      "name": "Sir Jeremy Wright",
+      "canon_name": "Jeremy Wright",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/250731/restorative-justice.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

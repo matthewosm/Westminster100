@@ -1,0 +1,280 @@
+{
+  "mnis_id": 5050,
+  "name": "Lewis Cocking",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "Broxbourne",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5050/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 11742.96,
+      "inkind": 464.36,
+      "combined": 12207.32,
+      "payment_count": 4,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 3474.63,
+      "inkind": 0.0,
+      "combined": 3474.63,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 11742.96,
+      "inkind": 464.36,
+      "combined": 12207.32,
+      "payment_count": 4,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 5437.15,
+      "inkind": 0.0,
+      "combined": 5437.15,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "since_election": {
+      "monetary": 20654.74,
+      "inkind": 464.36,
+      "combined": 21119.1,
+      "payment_count": 4,
+      "donor_count": 2
+    },
+    "all_time": {
+      "monetary": 20654.74,
+      "inkind": 464.36,
+      "combined": 21119.1,
+      "payment_count": 4,
+      "donor_count": 2
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 464.36,
+        "combined": 464.36,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 464.36,
+        "combined": 464.36,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 464.36,
+        "combined": 464.36,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 464.36,
+        "combined": 464.36,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    },
+    "1.2": {
+      "12m": {
+        "monetary": 11742.96,
+        "inkind": 0.0,
+        "combined": 11742.96,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 3474.63,
+        "inkind": 0.0,
+        "combined": 3474.63,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 11742.96,
+        "inkind": 0.0,
+        "combined": 11742.96,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 5437.15,
+        "inkind": 0.0,
+        "combined": 5437.15,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 20654.74,
+        "inkind": 0.0,
+        "combined": 20654.74,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 20654.74,
+        "inkind": 0.0,
+        "combined": 20654.74,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    965,
+    965,
+    1146,
+    965,
+    1146,
+    965,
+    1067,
+    965,
+    965,
+    965,
+    965,
+    965
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "better-roads",
+      "appg_name": "All-Party Parliamentary Group for Better Roads",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "baking-industry",
+      "appg_name": "All-Party Parliamentary Group for the Baking Industry",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "future-of-financial-services",
+      "appg_name": "All-Party Parliamentary Group on the Future of Financial Services",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 13888,
+      "date": "2025-11-17",
+      "category": "3",
+      "member_id": 5050,
+      "member_name": "Lewis Cocking",
+      "payer_id": 583,
+      "payer_name": "ITV Breakfast Broadcasting Ltd",
+      "amount": 101.84,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-11-17",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5050/registeredinterests?categoryId=3",
+      "summary": "ITV Breakfast Broadcasting Ltd - £101.84",
+      "description": "Taxi travel provided to and from studios - to go on Good Morning Britain"
+    },
+    {
+      "id": 13188,
+      "date": "2025-08-25",
+      "category": "3",
+      "member_id": 5050,
+      "member_name": "Lewis Cocking",
+      "payer_id": 583,
+      "payer_name": "ITV Breakfast Broadcasting Ltd",
+      "amount": 181.26,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-08-25",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5050/registeredinterests?categoryId=3",
+      "summary": "ITV Breakfast Broadcasting Ltd - £181.26",
+      "description": "Taxi travel provided to and from studios - to go on Good Morning Britain"
+    },
+    {
+      "id": 13187,
+      "date": "2025-07-11",
+      "category": "3",
+      "member_id": 5050,
+      "member_name": "Lewis Cocking",
+      "payer_id": 583,
+      "payer_name": "ITV Breakfast Broadcasting Ltd",
+      "amount": 181.26,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-07-11",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5050/registeredinterests?categoryId=3",
+      "summary": "ITV Breakfast Broadcasting Ltd - £181.26",
+      "description": "Taxi travel provided to and from studios - to go on Good Morning Britain"
+    },
+    {
+      "id": 6267,
+      "date": "2024-07-15",
+      "category": "1.2",
+      "member_id": 5050,
+      "member_name": "Lewis Cocking",
+      "payer_id": 515,
+      "payer_name": "Hertfordshire County Council",
+      "amount": 11751.0,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Yearly",
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5050/registeredinterests?categoryId=1",
+      "summary": "Agreement - £11,751.00",
+      "description": null
+    }
+  ]
+}

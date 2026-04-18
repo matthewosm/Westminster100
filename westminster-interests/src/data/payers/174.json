@@ -1,0 +1,124 @@
+{
+  "id": 174,
+  "name": "Burghley House Preservation Trust Ltd",
+  "address": "Burghley Estate Office, 61 St. Martins, Stamford, Lincolnshire PE9 2LQ",
+  "nature_of_business": null,
+  "donor_status": "Trust",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 588.5,
+      "combined": 588.5,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 588.5,
+      "combined": 588.5,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 588.5,
+      "combined": 588.5,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 588.5,
+      "combined": 588.5,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    588,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 13978,
+      "date": "2025-09-19",
+      "category": "3",
+      "member_id": 5308,
+      "member_name": "Sam Carling",
+      "payer_id": 174,
+      "payer_name": "Burghley House Preservation Trust Ltd",
+      "amount": 27.5,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5308/registeredinterests?categoryId=3",
+      "summary": "Burghley House Preservation Trust Ltd - £27.50",
+      "description": "Cost of an informal lunch for me and a member of my staff as part of a visit to discuss the work of the Burghley House Preservation Trust"
+    },
+    {
+      "id": 13977,
+      "date": "2025-09-07",
+      "category": "3",
+      "member_id": 5308,
+      "member_name": "Sam Carling",
+      "payer_id": 174,
+      "payer_name": "Burghley House Preservation Trust Ltd",
+      "amount": 561.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5308/registeredinterests?categoryId=3",
+      "summary": "Burghley House Preservation Trust Ltd - £561.00",
+      "description": "Two sets of tickets (one for me and one for a member of my staff) to attend a formal lunch and show jumping event at the 2025 Burghley House Trials in my constituency"
+    }
+  ]
+}

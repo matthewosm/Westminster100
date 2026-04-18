@@ -1,0 +1,405 @@
+{
+  "mnis_id": 3935,
+  "name": "Sir Mel Stride",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "Central Devon",
+  "house": "Commons",
+  "start_date": "2010-05-06",
+  "photo_url": "https://members-api.parliament.uk/api/Members/3935/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 44000.0,
+      "inkind": 340.0,
+      "combined": 44340.0,
+      "payment_count": 6,
+      "donor_count": 5
+    },
+    "ytd": {
+      "monetary": 4000.0,
+      "inkind": 0.0,
+      "combined": 4000.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2025": {
+      "monetary": 90000.0,
+      "inkind": 340.0,
+      "combined": 90340.0,
+      "payment_count": 6,
+      "donor_count": 4
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 94000.0,
+      "inkind": 340.0,
+      "combined": 94340.0,
+      "payment_count": 8,
+      "donor_count": 6
+    },
+    "all_time": {
+      "monetary": 94000.0,
+      "inkind": 340.0,
+      "combined": 94340.0,
+      "payment_count": 8,
+      "donor_count": 6
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 33000.0,
+        "inkind": 0.0,
+        "combined": 33000.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 4000.0,
+        "inkind": 0.0,
+        "combined": 4000.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 79000.0,
+        "inkind": 0.0,
+        "combined": 79000.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 83000.0,
+        "inkind": 0.0,
+        "combined": 83000.0,
+        "payment_count": 6,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 83000.0,
+        "inkind": 0.0,
+        "combined": 83000.0,
+        "payment_count": 6,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 340.0,
+        "combined": 340.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 340.0,
+        "combined": 340.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 340.0,
+        "combined": 340.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 340.0,
+        "combined": 340.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 11000.0,
+        "inkind": 0.0,
+        "combined": 11000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 11000.0,
+        "inkind": 0.0,
+        "combined": 11000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 11000.0,
+        "inkind": 0.0,
+        "combined": 11000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 11000.0,
+        "inkind": 0.0,
+        "combined": 11000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    15000,
+    0,
+    0,
+    25340,
+    0,
+    4000,
+    0,
+    0
+  ],
+  "appg_memberships": [],
+  "payments": [
+    {
+      "id": 14535,
+      "date": "2026-01-21",
+      "category": "2",
+      "member_id": 3935,
+      "member_name": "Sir Mel Stride",
+      "payer_id": 1067,
+      "payer_name": "Susan Green",
+      "amount": 2000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/3935/registeredinterests?categoryId=2",
+      "summary": "Susan Green - £2,000.00",
+      "description": "Political activity"
+    },
+    {
+      "id": 14537,
+      "date": "2026-01-21",
+      "category": "2",
+      "member_id": 3935,
+      "member_name": "Sir Mel Stride",
+      "payer_id": 571,
+      "payer_name": "IPGL Limited",
+      "amount": 2000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/3935/registeredinterests?categoryId=2",
+      "summary": "IPGL Limited - £2,000.00",
+      "description": "Political activity"
+    },
+    {
+      "id": 14181,
+      "date": "2025-11-24",
+      "category": "3",
+      "member_id": 3935,
+      "member_name": "Sir Mel Stride",
+      "payer_id": 631,
+      "payer_name": "Kensington, Bayswater, Chelsea & Fulham Conservatives",
+      "amount": 340.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/3935/registeredinterests?categoryId=3",
+      "summary": "Kensington, Bayswater, Chelsea & Fulham Conservatives - £340.00",
+      "description": "Two ticekts for myself and Lady Stride to attend a gala fundraising event, where I was also a guest speaker"
+    },
+    {
+      "id": 13932,
+      "date": "2025-11-20",
+      "category": "2",
+      "member_id": 3935,
+      "member_name": "Sir Mel Stride",
+      "payer_id": 590,
+      "payer_name": "J.C. Bamford Excavators Ltd",
+      "amount": 25000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/3935/registeredinterests?categoryId=2",
+      "summary": "J. C. Bamford Excavators Limited - £25,000.00",
+      "description": "for the provision of staff"
+    },
+    {
+      "id": 13377,
+      "date": "2025-09-12",
+      "category": "2",
+      "member_id": 3935,
+      "member_name": "Sir Mel Stride",
+      "payer_id": 485,
+      "payer_name": "Graham Edwards",
+      "amount": 4000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/3935/registeredinterests?categoryId=2",
+      "summary": "Graham Edwards - £4,000.00",
+      "description": "Policy research/visits"
+    },
+    {
+      "id": 133471,
+      "date": "2025-09-06",
+      "category": "4",
+      "member_id": 3935,
+      "member_name": "Sir Mel Stride",
+      "payer_id": 485,
+      "payer_name": "Graham Edwards",
+      "amount": 11000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/3935/registeredinterests?categoryId=4",
+      "summary": "International visit to United States between 06 September 2025 and 10 September 2025 — Economic research and business visits",
+      "description": "Trip to USA and accompanied by Parliamentary Adviser. Donation received 12 September 2025"
+    },
+    {
+      "id": 12050,
+      "date": "2025-03-24",
+      "category": "2",
+      "member_id": 3935,
+      "member_name": "Sir Mel Stride",
+      "payer_id": 571,
+      "payer_name": "IPGL Limited",
+      "amount": 25000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/3935/registeredinterests?categoryId=2",
+      "summary": "IPGL Limited - £25,000.00",
+      "description": "Support towards staff salary"
+    },
+    {
+      "id": 12073,
+      "date": "2025-03-24",
+      "category": "2",
+      "member_id": 3935,
+      "member_name": "Sir Mel Stride",
+      "payer_id": 590,
+      "payer_name": "J.C. Bamford Excavators Ltd",
+      "amount": 25000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/3935/registeredinterests?categoryId=2",
+      "summary": "J. C. Bamford Excavators Limited - £25,000.00",
+      "description": "Support towards staff salary"
+    }
+  ]
+}

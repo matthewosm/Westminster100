@@ -1,0 +1,342 @@
+{
+  "mnis_id": 4778,
+  "name": "Greg Smith",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "Mid Buckinghamshire",
+  "house": "Commons",
+  "start_date": "2019-12-12",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4778/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 11328.81,
+      "combined": 11328.81,
+      "payment_count": 6,
+      "donor_count": 6
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 4400.0,
+      "combined": 4400.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 6928.81,
+      "combined": 6928.81,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 11328.81,
+      "combined": 11328.81,
+      "payment_count": 6,
+      "donor_count": 6
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 11328.81,
+      "combined": 11328.81,
+      "payment_count": 6,
+      "donor_count": 6
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 6820.0,
+        "combined": 6820.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 1200.0,
+        "combined": 1200.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 5620.0,
+        "combined": 5620.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 6820.0,
+        "combined": 6820.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 6820.0,
+        "combined": 6820.0,
+        "payment_count": 4,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 4508.81,
+        "combined": 4508.81,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 3200.0,
+        "combined": 3200.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1308.81,
+        "combined": 1308.81,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 4508.81,
+        "combined": 4508.81,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 4508.81,
+        "combined": 4508.81,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    590,
+    4590,
+    0,
+    1309,
+    0,
+    0,
+    440,
+    3200,
+    1200,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "beer",
+      "appg_name": "All-Party Parliamentary Beer Group",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "formula-1-and-motorsport",
+      "appg_name": "All-Party Parliamentary Group on Formula 1 and Motorsport",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "furniture-industry",
+      "appg_name": "All-Party Parliamentary Group on Furniture Industry",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "broadcasting-entertainment-and-arts-unions",
+      "appg_name": "Broadcasting, Entertainment and Arts Unions All-Party Parliamentary Group",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "loan-charge-and-taxpayer-fairness",
+      "appg_name": "Loan Charge and Taxpayer Fairness All-Party Parliamentary Group",
+      "officer_role": "Co-Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14430,
+      "date": "2026-01-24",
+      "category": "3",
+      "member_id": 4778,
+      "member_name": "Greg Smith",
+      "payer_id": 770,
+      "payer_name": "Motorsport UK",
+      "amount": 1200.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2026-01-24",
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4778/registeredinterests?categoryId=3",
+      "summary": "Motorsport UK - £1,200.00",
+      "description": "Two tickets to the Night of Champions Award Dinner"
+    },
+    {
+      "id": 144311,
+      "date": "2026-01-04",
+      "category": "4",
+      "member_id": 4778,
+      "member_name": "Greg Smith",
+      "payer_id": 264,
+      "payer_name": "Conservative Friends of Israel Ltd",
+      "amount": 3200.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4778/registeredinterests?categoryId=4",
+      "summary": "International visit to Israel between 04 January 2026 and 09 January 2026 — Fact finding political delegation",
+      "description": "Air travel, accommodation and hospitality"
+    },
+    {
+      "id": 14329,
+      "date": "2025-12-18",
+      "category": "3",
+      "member_id": 4778,
+      "member_name": "Greg Smith",
+      "payer_id": 157,
+      "payer_name": "British Association for Shooting and Conservation",
+      "amount": 440.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-12-19",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4778/registeredinterests?categoryId=3",
+      "summary": "British Association for Shooting and Conservation - £440.00",
+      "description": "Educational visit in the UK to learn about deer management and conservation including lunch, dinner, overnight accommodation and breakfast"
+    },
+    {
+      "id": 134461,
+      "date": "2025-09-08",
+      "category": "4",
+      "member_id": 4778,
+      "member_name": "Greg Smith",
+      "payer_id": 359,
+      "payer_name": "ELENT UK Ltd",
+      "amount": 1308.81,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4778/registeredinterests?categoryId=4",
+      "summary": "International visit to United Arab Emirates between 08 September 2025 and 10 September 2025 — To join as a delegate and speak at a policy forum conference.",
+      "description": "Flights £739.46, accomodation, meals and transfers provided £569.25"
+    },
+    {
+      "id": 12911,
+      "date": "2025-07-04",
+      "category": "3",
+      "member_id": 4778,
+      "member_name": "Greg Smith",
+      "payer_id": 1006,
+      "payer_name": "Silverstone Circuits Limited",
+      "amount": 4590.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "formula-1-and-motorsport",
+      "appg_name": "All-Party Parliamentary Group on Formula 1 and Motorsport",
+      "source_url": "https://members.parliament.uk/member/4778/registeredinterests?categoryId=3",
+      "summary": "Silverstone Circuits Ltd - £4,590.00",
+      "description": "Two tickets with hospitality to watch British Grand Prix for three days"
+    },
+    {
+      "id": 12754,
+      "date": "2025-06-19",
+      "category": "3",
+      "member_id": 4778,
+      "member_name": "Greg Smith",
+      "payer_id": 80,
+      "payer_name": "Ascot Racecourse Limited",
+      "amount": 590.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4778/registeredinterests?categoryId=3",
+      "summary": "Ascot Racecourse Limited - £590.00",
+      "description": "Two tickets for myself and a family member to attend Ascot Races"
+    }
+  ]
+}

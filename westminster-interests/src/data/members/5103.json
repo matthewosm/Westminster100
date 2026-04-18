@@ -1,0 +1,204 @@
+{
+  "mnis_id": 5103,
+  "name": "Luke Taylor",
+  "party": "Liberal Democrat",
+  "party_slug": "liberal-democrat",
+  "constituency": "Sutton and Cheam",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5103/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 1140.0,
+      "combined": 1140.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 1140.0,
+      "combined": 1140.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 1552.86,
+      "combined": 1552.86,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 2692.86,
+      "combined": 2692.86,
+      "payment_count": 2,
+      "donor_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 2692.86,
+      "combined": 2692.86,
+      "payment_count": 2,
+      "donor_count": 1
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1140.0,
+        "combined": 1140.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 1140.0,
+        "combined": 1140.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 1552.86,
+        "combined": 1552.86,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 2692.86,
+        "combined": 2692.86,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 2692.86,
+        "combined": 2692.86,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1140,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "british-hindus",
+      "appg_name": "All-Party Parliamentary Group for British Hindus",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "ahmadiyya-muslim-community",
+      "appg_name": "All-Party Parliamentary Group for the Ahmadiyya Muslim Community",
+      "officer_role": "Treasurer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "aviation-travel-and-aerospace",
+      "appg_name": "All-Party Parliamentary Group for the Future of Aviation, Travel and Aerospace",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "hospice-and-end-of-life-care",
+      "appg_name": "All-Party Parliamentary Group on Hospice and End of Life Care",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "infrastructure",
+      "appg_name": "All-Party Parliamentary Group on Infrastructure",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "urinary-tract-infections",
+      "appg_name": "All-Party Parliamentary Group on Urinary Tract Infections",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14360,
+      "date": "2026-01-01",
+      "category": "3",
+      "member_id": 5103,
+      "member_name": "Luke Taylor",
+      "payer_id": 792,
+      "payer_name": "National Liberal Club",
+      "amount": 1140.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2026-12-31",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5103/registeredinterests?categoryId=3",
+      "summary": "National Liberal Club - £1,140.00",
+      "description": "Free annual membership of the National Liberal Club"
+    },
+    {
+      "id": 10758,
+      "date": "2024-08-15",
+      "category": "3",
+      "member_id": 5103,
+      "member_name": "Luke Taylor",
+      "payer_id": 792,
+      "payer_name": "National Liberal Club",
+      "amount": 1552.86,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-12-31",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5103/registeredinterests?categoryId=3",
+      "summary": "National Liberal Club - £1,552.86",
+      "description": "Honorary membership of the National Liberal Club as newly elected MP"
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "mnis_id": 4396,
+  "name": "Rebecca Long Bailey",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Salford",
+  "house": "Commons",
+  "start_date": "2015-05-07",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4396/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 40713.0,
+      "combined": 40713.0,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 1667.0,
+      "combined": 1667.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 39046.0,
+      "combined": 39046.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 37188.0,
+      "combined": 37188.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 59229.0,
+      "combined": 59229.0,
+      "payment_count": 4,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 77901.0,
+      "combined": 77901.0,
+      "payment_count": 5,
+      "donor_count": 4
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 40713.0,
+        "combined": 40713.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 1667.0,
+        "combined": 1667.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 39046.0,
+        "combined": 39046.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 37188.0,
+        "combined": 37188.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 59229.0,
+        "combined": 59229.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 77901.0,
+        "combined": 77901.0,
+        "payment_count": 5,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    39046,
+    0,
+    1667,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "water-safety-education",
+      "appg_name": "All-Party Parliamentary Group for Water Safety Education",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "outdoor-learning",
+      "appg_name": "All-Party Parliamentary Group on Outdoor Learning",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "state-pension-inequality-for-women",
+      "appg_name": "All-Party Parliamentary Group on State Pension Inequality for Women",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "key-cities",
+      "appg_name": "Key Cities All-Party Parliamentary Group",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14436,
+      "date": "2026-01-05",
+      "category": "2",
+      "member_id": 4396,
+      "member_name": "Rebecca Long Bailey",
+      "payer_id": 633,
+      "payer_name": "Key Cities (Network)",
+      "amount": 1667.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2026-02-10",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4396/registeredinterests?categoryId=2",
+      "summary": "Key Cities (Network) - £1,667.00",
+      "description": "Estimated amount for services in kind comprising the administration and coordination to re-establish the Key Cities APPG of which I was previously the Co-Chair"
+    },
+    {
+      "id": 13929,
+      "date": "2025-10-30",
+      "category": "2",
+      "member_id": 4396,
+      "member_name": "Rebecca Long Bailey",
+      "payer_id": 96,
+      "payer_name": "Bakers, Food and Allied Workers Union",
+      "amount": 19440.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2026-10-29",
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4396/registeredinterests?categoryId=2",
+      "summary": "Bakers, Food and Allied Workers Union - £19,440.00",
+      "description": "Administration and coordination of the BFAWU Parliamentary Group, which I chair, provided by Solidarity Consulting Ltd"
+    },
+    {
+      "id": 13928,
+      "date": "2025-10-22",
+      "category": "2",
+      "member_id": 4396,
+      "member_name": "Rebecca Long Bailey",
+      "payer_id": 796,
+      "payer_name": "National Union of Journalists (NUJ)",
+      "amount": 19606.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2026-10-21",
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4396/registeredinterests?categoryId=2",
+      "summary": "National Union of Journalists - £19,606.00",
+      "description": "The administration and coordination of the NUJ Parliamentary Group of which I am the Co-Chair, provided by Solidarity Consulting Ltd between 22 October 2025 to 21 October 2026"
+    },
+    {
+      "id": 11214,
+      "date": "2024-10-29",
+      "category": "2",
+      "member_id": 4396,
+      "member_name": "Rebecca Long Bailey",
+      "payer_id": 96,
+      "payer_name": "Bakers, Food and Allied Workers Union",
+      "amount": 18516.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-10-28",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4396/registeredinterests?categoryId=2",
+      "summary": "Bakers, Food and Allied Workers Union - £18,516.00",
+      "description": "Administration and coordination of the BFAWU Parliamentary Group, which I chair, provided by Solidarity Consulting Ltd"
+    },
+    {
+      "id": 11213,
+      "date": "2024-04-01",
+      "category": "2",
+      "member_id": 4396,
+      "member_name": "Rebecca Long Bailey",
+      "payer_id": 796,
+      "payer_name": "National Union of Journalists (NUJ)",
+      "amount": 18672.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-03-31",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4396/registeredinterests?categoryId=2",
+      "summary": "National Union of Journalists (NUJ) - £18,672.00",
+      "description": "the administration and coordination of the NUJ Parliamentary Group of which I am the Co-Chair, provided by Solidarity Consulting Ltd between 22  October 2024 to 21 October 2025"
+    }
+  ]
+}

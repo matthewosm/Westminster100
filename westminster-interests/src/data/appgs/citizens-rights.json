@@ -1,0 +1,165 @@
+{
+  "slug": "citizens-rights",
+  "title": "All-Party Parliamentary Group on Citizens' Rights",
+  "purpose": "The APPG aims to raise awareness of the challenges facing EU citizens in the UK and Britons abroad. We work cross-party to help secure immigration status and the rights set out under the Withdrawal Agreement after Brexit, and to improve voting rights and representation.",
+  "categories": [
+    "Human Rights, Equality & Social Justice",
+    "International Affairs, Development & Trade"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/citizens-rights.htm",
+  "secretariat": "New Europeans UK acts as the group's secretariat.https://neweuropeans.uk/",
+  "website": "None",
+  "registered_contact_name": "Manuela Perteghella MP",
+  "date_of_most_recent_agm": "2025-01-15 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "citizens-rights",
+      "mnis_id": 3575,
+      "name": "Baroness Goudie",
+      "canon_name": "Baroness Goudie",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/citizens-rights.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "citizens-rights",
+      "mnis_id": 5211,
+      "name": "James Asser",
+      "canon_name": "James Asser",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/citizens-rights.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "citizens-rights",
+      "mnis_id": 4302,
+      "name": "Lord Balfe",
+      "canon_name": "Lord Balfe",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/citizens-rights.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "citizens-rights",
+      "mnis_id": 5122,
+      "name": "Manuela Perteghella",
+      "canon_name": "Manuela Perteghella",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/citizens-rights.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "citizens-rights",
+      "mnis_id": 3575,
+      "name": "Baroness Goudie",
+      "canon_name": "Baroness Goudie",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/citizens-rights.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "citizens-rights",
+      "mnis_id": 5211,
+      "name": "James Asser",
+      "canon_name": "James Asser",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/citizens-rights.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "citizens-rights",
+      "mnis_id": 4302,
+      "name": "Lord Balfe",
+      "canon_name": "Lord Balfe",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/citizens-rights.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "citizens-rights",
+      "mnis_id": 5122,
+      "name": "Manuela Perteghella",
+      "canon_name": "Manuela Perteghella",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/citizens-rights.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

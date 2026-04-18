@@ -1,0 +1,164 @@
+{
+  "slug": "uk-spirits",
+  "title": "All-Party Parliamentary Group on UK Spirits",
+  "purpose": "To promote understanding of the value of the spirits sector to the UK economy and wider society; boost awareness of the economic, cultural, and community benefits of the UK spirits trade; support members of the iconic spirits industry, including the vital network of SME distillers driving innovation and local growth; and to introduce parliamentarians to trade representatives and distillers from their constituencies.",
+  "categories": [
+    "Economy, Business & Industry"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/uk-spirits.htm",
+  "secretariat": "UK Spirits Alliance acts as the group's secretariat.https://spiritsuk.co.uk/",
+  "website": "https://spiritsuk.co.uk/APPG/",
+  "registered_contact_name": "Carolyn Harris MP",
+  "date_of_most_recent_agm": "2025-07-01 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "uk-spirits",
+      "mnis_id": 4480,
+      "name": "Carolyn Harris",
+      "canon_name": "Carolyn Harris",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/uk-spirits.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "uk-spirits",
+      "mnis_id": 5255,
+      "name": "Joe Robertson",
+      "canon_name": "Joe Robertson",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/uk-spirits.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "uk-spirits",
+      "mnis_id": 5316,
+      "name": "Mike Reader",
+      "canon_name": "Mike Reader",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/uk-spirits.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "uk-spirits",
+      "mnis_id": 4397,
+      "name": "Peter Dowd",
+      "canon_name": "Peter Dowd",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/uk-spirits.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "uk-spirits",
+      "mnis_id": 4480,
+      "name": "Carolyn Harris",
+      "canon_name": "Carolyn Harris",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/uk-spirits.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "uk-spirits",
+      "mnis_id": 5255,
+      "name": "Joe Robertson",
+      "canon_name": "Joe Robertson",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/uk-spirits.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "uk-spirits",
+      "mnis_id": 5316,
+      "name": "Mike Reader",
+      "canon_name": "Mike Reader",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/uk-spirits.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "uk-spirits",
+      "mnis_id": 4397,
+      "name": "Peter Dowd",
+      "canon_name": "Peter Dowd",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/uk-spirits.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

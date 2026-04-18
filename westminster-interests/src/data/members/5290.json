@@ -1,0 +1,224 @@
+{
+  "mnis_id": 5290,
+  "name": "Leigh Ingham",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Stafford",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5290/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 2908.02,
+      "combined": 2908.02,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 5902.19,
+      "combined": 5902.19,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 5902.19,
+      "combined": 5902.19,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 5902.19,
+      "combined": 5902.19,
+      "payment_count": 2,
+      "donor_count": 2
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 2908.02,
+        "combined": 2908.02,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 2908.02,
+        "combined": 2908.02,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 2908.02,
+        "combined": 2908.02,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 2908.02,
+        "combined": 2908.02,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 2994.17,
+        "combined": 2994.17,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 2994.17,
+        "combined": 2994.17,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 2994.17,
+        "combined": 2994.17,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    2908,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "women-and-enterprise",
+      "appg_name": "All-Party Parliamentary Group for Women and Enterprise",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "theatre",
+      "appg_name": "All-Party Parliamentary Group on Theatre",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 12882,
+      "date": "2025-06-27",
+      "category": "2",
+      "member_id": 5290,
+      "member_name": "Leigh Ingham",
+      "payer_id": 480,
+      "payer_name": "Google UK Ltd",
+      "amount": 2908.02,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5290/registeredinterests?categoryId=2",
+      "summary": "Google UK Ltd - £2,908.02",
+      "description": "Hospitality as a guest of YouTube at Glastonbury Festival 2025"
+    },
+    {
+      "id": 123761,
+      "date": "2025-04-08",
+      "category": "4",
+      "member_id": 5290,
+      "member_name": "Leigh Ingham",
+      "payer_id": 1135,
+      "payer_name": "United Nations Population Fund",
+      "amount": 2994.17,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "global-sexual-and-reproductive-health-and-rights",
+      "appg_name": "All-Party Parliamentary Group on Global Sexual and Reproductive Health and Rights",
+      "source_url": "https://members.parliament.uk/member/5290/registeredinterests?categoryId=4",
+      "summary": "International visit to Kenya between 08 April 2025 and 12 April 2025 — Study tour on Sexual and Reproductive Health and Rights and International Development",
+      "description": "Flights & visa (£1,789.41), accommodation (£486.41), other travel (£220.08), food and drink (£371.130), per diem and misc (127.14)"
+    }
+  ]
+}

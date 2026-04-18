@@ -1,0 +1,165 @@
+{
+  "slug": "critical-minerals",
+  "title": "All-Party Parliamentary Group on Critical Minerals",
+  "purpose": "To support the better understanding of the role of critical minerals within the supply chain of the future green economy and defence. To help identify the UK’s offering in the critical minerals sector and what challenges and opportunities exist.",
+  "categories": [
+    "Economy, Business & Industry",
+    "Environment, Climate & Sustainability"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/critical-minerals.htm",
+  "secretariat": "Critical Minerals Association acts as the group's secretariat.https://www.criticalmineral.org/",
+  "website": "None",
+  "registered_contact_name": "Noah Law MP",
+  "date_of_most_recent_agm": "2025-10-29 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "critical-minerals",
+      "mnis_id": 2539,
+      "name": "Baroness Northover",
+      "canon_name": "Baroness Northover",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/critical-minerals.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "critical-minerals",
+      "mnis_id": null,
+      "name": "Lord Lancaster of Kimbolton",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/critical-minerals.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "critical-minerals",
+      "mnis_id": 5302,
+      "name": "Noah Law",
+      "canon_name": "Noah Law",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/critical-minerals.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "critical-minerals",
+      "mnis_id": 5208,
+      "name": "Perran Moon",
+      "canon_name": "Perran Moon",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/critical-minerals.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "critical-minerals",
+      "mnis_id": 2539,
+      "name": "Baroness Northover",
+      "canon_name": "Baroness Northover",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/critical-minerals.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "critical-minerals",
+      "mnis_id": null,
+      "name": "Lord Lancaster of Kimbolton",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/critical-minerals.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "critical-minerals",
+      "mnis_id": 5302,
+      "name": "Noah Law",
+      "canon_name": "Noah Law",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/critical-minerals.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "critical-minerals",
+      "mnis_id": 5208,
+      "name": "Perran Moon",
+      "canon_name": "Perran Moon",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/critical-minerals.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

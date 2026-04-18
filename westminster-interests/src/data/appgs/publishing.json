@@ -1,0 +1,165 @@
+{
+  "slug": "publishing",
+  "title": "All-Party Parliamentary Group on Publishing",
+  "purpose": "To promote the value of high quality publishing to UK society, culture and the economy.  To foster a better understanding among parliamentarians about publishers, booksellers and associated fields, all of whom contribute to a world-leading publishing sector.",
+  "categories": [
+    "Arts, Culture, Heritage & Media",
+    "Economy, Business & Industry"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/publishing.htm",
+  "secretariat": "Publishers Association acts as the group's secretariat.https://www.publishers.org.uk/",
+  "website": "https://www.publishers.org.uk/all-party-parliamentary-group-on-publishing/",
+  "registered_contact_name": "Valerie Vaz MP",
+  "date_of_most_recent_agm": "2025-11-24 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "publishing",
+      "mnis_id": null,
+      "name": "Baroness Bonham-Carter of Yarnbury",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/publishing.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "publishing",
+      "mnis_id": 4332,
+      "name": "Baroness Rebuck",
+      "canon_name": "Baroness Rebuck",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/publishing.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "publishing",
+      "mnis_id": 54,
+      "name": "Sir Julian Lewis",
+      "canon_name": "Julian Lewis",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/publishing.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "publishing",
+      "mnis_id": 4076,
+      "name": "Valerie Vaz",
+      "canon_name": "Valerie Vaz",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/publishing.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "publishing",
+      "mnis_id": null,
+      "name": "Baroness Bonham-Carter of Yarnbury",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/publishing.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "publishing",
+      "mnis_id": 4332,
+      "name": "Baroness Rebuck",
+      "canon_name": "Baroness Rebuck",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/publishing.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "publishing",
+      "mnis_id": 54,
+      "name": "Sir Julian Lewis",
+      "canon_name": "Julian Lewis",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/publishing.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "publishing",
+      "mnis_id": 4076,
+      "name": "Valerie Vaz",
+      "canon_name": "Valerie Vaz",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/publishing.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

@@ -1,0 +1,99 @@
+{
+  "id": 578,
+  "name": "Italian Inter Parliamentary Union",
+  "address": "Piazza Montecitorio, 00186 ROMA",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 160.96,
+      "combined": 160.96,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 160.96,
+      "combined": 160.96,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 160.96,
+      "combined": 160.96,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 160.96,
+      "combined": 160.96,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    161,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 136892,
+      "date": "2025-10-05",
+      "category": "4",
+      "member_id": 345,
+      "member_name": "Sir Edward Leigh",
+      "payer_id": 578,
+      "payer_name": "Italian Inter Parliamentary Union",
+      "amount": 160.96,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "italy",
+      "appg_name": "All-Party Parliamentary Group on Italy",
+      "source_url": "https://members.parliament.uk/member/345/registeredinterests?categoryId=4",
+      "summary": "International visit to Italy between 05 October 2025 and 08 October 2025 — Fostering closer relations between Italy and the United Kingdom",
+      "description": "Tour of the Colosseum for myself and my staff memeber (£113.20) and lunch for myself (£47.76)"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": 476,
+  "name": "Goldman Sachs International",
+  "address": "Plumtree Court, 25 Shoe Lane, London EC4A 4AU",
+  "nature_of_business": "Investment Bank",
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 852617.48,
+      "inkind": 0.0,
+      "combined": 852617.48,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 324234.81,
+      "inkind": 0.0,
+      "combined": 324234.81,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 528382.66,
+      "inkind": 0.0,
+      "combined": 528382.66,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 852617.48,
+      "inkind": 0.0,
+      "combined": 852617.48,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 852617.48,
+      "inkind": 0.0,
+      "combined": 852617.48,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    42030,
+    90065,
+    90065,
+    90065,
+    90065,
+    90065,
+    90065,
+    90065,
+    90065,
+    90065
+  ],
+  "payments": [
+    {
+      "id": 14453,
+      "date": "2026-02-16",
+      "category": "1.2",
+      "member_id": 4483,
+      "member_name": "Rishi Sunak",
+      "payer_id": 476,
+      "payer_name": "Goldman Sachs International",
+      "amount": 1096544.13,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Yearly",
+      "start_date": "2025-07-08",
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": true,
+      "donated_to": "Charity",
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4483/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 08 July 2025 - £1,096,544.13",
+      "description": "This amount has been converted from the original currency of dollars into pound sterling (GBP) using the spot rate on 02 February 2026 and is for services provided for the first 6 months period of the contract (i.e. July - December 2025)"
+    }
+  ]
+}

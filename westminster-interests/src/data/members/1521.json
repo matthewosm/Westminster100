@@ -1,0 +1,298 @@
+{
+  "mnis_id": 1521,
+  "name": "Mrs Sharon Hodgson",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Washington and Gateshead South",
+  "house": "Commons",
+  "start_date": "2005-05-05",
+  "photo_url": "https://members-api.parliament.uk/api/Members/1521/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 1774.0,
+      "combined": 1774.0,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 4274.0,
+      "combined": 4274.0,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 4274.0,
+      "combined": 4274.0,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 4274.0,
+      "combined": 4274.0,
+      "payment_count": 4,
+      "donor_count": 4
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1774.0,
+        "combined": 1774.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1774.0,
+        "combined": 1774.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1774.0,
+        "combined": 1774.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1774.0,
+        "combined": 1774.0,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 2500.0,
+        "combined": 2500.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 2500.0,
+        "combined": 2500.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 2500.0,
+        "combined": 2500.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    522,
+    0,
+    0,
+    1252,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "beauty-and-wellbeing",
+      "appg_name": "All-Party Parliamentary Group Beauty and Wellbeing",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "first-do-no-harm---mesh-primodos-valproate",
+      "appg_name": "All-Party Parliamentary Group First Do No Harm - Mesh, Primodos, Valproate",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "parents",
+      "appg_name": "All-Party Parliamentary Group for Parents",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "school-food",
+      "appg_name": "All-Party Parliamentary Group on School Food",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "ticket-abuse",
+      "appg_name": "All-Party Parliamentary Group on Ticket Abuse",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "leamside-line",
+      "appg_name": "All-Party Parliamentary Group on the Leamside Line",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 13605,
+      "date": "2025-10-16",
+      "category": "3",
+      "member_id": 1521,
+      "member_name": "Mrs Sharon Hodgson",
+      "payer_id": 144,
+      "payer_name": "BPI (British Recorded Music Industry) Ltd",
+      "amount": 660.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1521/registeredinterests?categoryId=3",
+      "summary": "British Recorded Music Industry - £660.00",
+      "description": "Two tickets to attend the Mercury Prize Awards 2025. The tickets included entry to the event, two seats at the BPI table, food and drink"
+    },
+    {
+      "id": 13606,
+      "date": "2025-10-15",
+      "category": "3",
+      "member_id": 1521,
+      "member_name": "Mrs Sharon Hodgson",
+      "payer_id": 966,
+      "payer_name": "Royal Albert Hall",
+      "amount": 592.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1521/registeredinterests?categoryId=3",
+      "summary": "Royal Albert Hall - £592.00",
+      "description": "Two tickets to the opening night of the Grand Sumo Tournament 2025 held in the Royal Albert Hall"
+    },
+    {
+      "id": 13018,
+      "date": "2025-07-08",
+      "category": "3",
+      "member_id": 1521,
+      "member_name": "Mrs Sharon Hodgson",
+      "payer_id": 656,
+      "payer_name": "LACA Ltd",
+      "amount": 522.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-07-10",
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1521/registeredinterests?categoryId=3",
+      "summary": "LACA Ltd - £522.00",
+      "description": "Accommodation and meals at the LACA Main Event 2025 alongside Parliamentary Assistant"
+    },
+    {
+      "id": 119031,
+      "date": "2025-02-22",
+      "category": "4",
+      "member_id": 1521,
+      "member_name": "Mrs Sharon Hodgson",
+      "payer_id": 654,
+      "payer_name": "Labour Friends of Israel",
+      "amount": 2500.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1521/registeredinterests?categoryId=4",
+      "summary": "International visit to United States between 22 February 2025 and 26 February 2025 — Delegation to Washington DC. Meetings with US politicians and civil servants. Attending AIPAC Congressional Summit 2025.",
+      "description": "Flights, accommodation, and meals (value £2,500)"
+    }
+  ]
+}

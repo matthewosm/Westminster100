@@ -1,0 +1,461 @@
+{
+  "mnis_id": 1482,
+  "name": "Graham Stuart",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "Beverley and Holderness",
+  "house": "Commons",
+  "start_date": "2005-05-05",
+  "photo_url": "https://members-api.parliament.uk/api/Members/1482/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 3750.0,
+      "inkind": 5336.4,
+      "combined": 9086.4,
+      "payment_count": 8,
+      "donor_count": 6
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 398.0,
+      "combined": 398.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 3750.0,
+      "inkind": 5438.4,
+      "combined": 9188.4,
+      "payment_count": 8,
+      "donor_count": 6
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 3750.0,
+      "inkind": 5836.4,
+      "combined": 9586.4,
+      "payment_count": 9,
+      "donor_count": 7
+    },
+    "all_time": {
+      "monetary": 3750.0,
+      "inkind": 5836.4,
+      "combined": 9586.4,
+      "payment_count": 9,
+      "donor_count": 7
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 2750.0,
+        "inkind": 3398.0,
+        "combined": 6148.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 398.0,
+        "combined": 398.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 2750.0,
+        "inkind": 3000.0,
+        "combined": 5750.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 2750.0,
+        "inkind": 3398.0,
+        "combined": 6148.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 2750.0,
+        "inkind": 3398.0,
+        "combined": 6148.0,
+        "payment_count": 4,
+        "donor_count": 0
+      }
+    },
+    "1.1": {
+      "12m": {
+        "monetary": 1000.0,
+        "inkind": 0.0,
+        "combined": 1000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 1000.0,
+        "inkind": 0.0,
+        "combined": 1000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 1000.0,
+        "inkind": 0.0,
+        "combined": 1000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 1000.0,
+        "inkind": 0.0,
+        "combined": 1000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1938.4,
+        "combined": 1938.4,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 2438.4,
+        "combined": 2438.4,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 2438.4,
+        "combined": 2438.4,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 2438.4,
+        "combined": 2438.4,
+        "payment_count": 4,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    4198,
+    740,
+    1000,
+    0,
+    0,
+    0,
+    0,
+    2750,
+    0,
+    398,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "british-buses",
+      "appg_name": "All-Party Parliamentary Group for British Buses",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "indonesia",
+      "appg_name": "All-Party Parliamentary Group for Indonesia",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "community-development-finance-institutions",
+      "appg_name": "All-Party Parliamentary Group on Community Development Finance Institutions (CDFIs)",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "hydrogen",
+      "appg_name": "All-Party Parliamentary Group on Hydrogen",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "mexico",
+      "appg_name": "All-Party Parliamentary Group on Mexico",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 147251,
+      "date": "2026-02-19",
+      "category": "4",
+      "member_id": 1482,
+      "member_name": "Graham Stuart",
+      "payer_id": 1122,
+      "payer_name": "UK Friends of Ukraine",
+      "amount": 398.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1482/registeredinterests?categoryId=4",
+      "summary": "International visit to Ukraine between 19 February 2026 and 25 February 2026 — To attend the 4th anniversary ceremony of the war with Russia",
+      "description": "Internal transfers and meals etc"
+    },
+    {
+      "id": 143491,
+      "date": "2025-12-26",
+      "category": "4",
+      "member_id": 1482,
+      "member_name": "Graham Stuart",
+      "payer_id": 527,
+      "payer_name": "Horatius Advisory Limited",
+      "amount": 1375.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1482/registeredinterests?categoryId=4",
+      "summary": "International visit to Australia between 26 December 2025 and 06 January 2026 — Building inter-Parliamentary relations with Australian MPs and Senators, competing for the Parliamentary Ashes and supporting English cricket.",
+      "description": "Contribution to travel, accommodation and associated costs of The Lords & Commons Cricket team"
+    },
+    {
+      "id": 143492,
+      "date": "2025-12-26",
+      "category": "4",
+      "member_id": 1482,
+      "member_name": "Graham Stuart",
+      "payer_id": 304,
+      "payer_name": "Deltroit Asset Management (UK) LLP",
+      "amount": 1375.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1482/registeredinterests?categoryId=4",
+      "summary": "International visit to Australia between 26 December 2025 and 06 January 2026 — Building inter-Parliamentary relations with Australian MPs and Senators, competing for the Parliamentary Ashes and supporting English cricket.",
+      "description": "Contribution to travel, accommodation and associated costs of The Lords & Commons Cricket team"
+    },
+    {
+      "id": 13175,
+      "date": "2025-08-07",
+      "category": "1.1",
+      "member_id": 1482,
+      "member_name": "Graham Stuart",
+      "payer_id": 1085,
+      "payer_name": "These Executive Minds (TEXEM) Limited",
+      "amount": 1000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1482/registeredinterests?categoryId=1",
+      "summary": "Payment received on 07 August 2025 - £1,000.00",
+      "description": null
+    },
+    {
+      "id": 12899,
+      "date": "2025-07-11",
+      "category": "3",
+      "member_id": 1482,
+      "member_name": "Graham Stuart",
+      "payer_id": 701,
+      "payer_name": "LTA",
+      "amount": 540.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1482/registeredinterests?categoryId=3",
+      "summary": "LTA - £540.00",
+      "description": "The Championships, Wimbledon. 2 tickets. No hospitality"
+    },
+    {
+      "id": 12893,
+      "date": "2025-07-07",
+      "category": "3",
+      "member_id": 1482,
+      "member_name": "Graham Stuart",
+      "payer_id": 701,
+      "payer_name": "LTA",
+      "amount": 200.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1482/registeredinterests?categoryId=3",
+      "summary": "LTA - £200.00",
+      "description": "The Championships, Wimbledon. Ticket. No hospitality"
+    },
+    {
+      "id": 12745,
+      "date": "2025-06-12",
+      "category": "3",
+      "member_id": 1482,
+      "member_name": "Graham Stuart",
+      "payer_id": 701,
+      "payer_name": "LTA",
+      "amount": 1198.4,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1482/registeredinterests?categoryId=3",
+      "summary": "LTA - £1,198.40",
+      "description": "Three tickets and hospitality at the HSBC Championships for myself and two guests"
+    },
+    {
+      "id": 125831,
+      "date": "2025-05-26",
+      "category": "4",
+      "member_id": 1482,
+      "member_name": "Graham Stuart",
+      "payer_id": 264,
+      "payer_name": "Conservative Friends of Israel Ltd",
+      "amount": 3000.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1482/registeredinterests?categoryId=4",
+      "summary": "International visit to Israel between 26 May 2025 and 30 May 2025 — Fact-finding delegation",
+      "description": "Air travel, accommodation and hospitality"
+    },
+    {
+      "id": 12286,
+      "date": "2025-04-09",
+      "category": "3",
+      "member_id": 1482,
+      "member_name": "Graham Stuart",
+      "payer_id": 378,
+      "payer_name": "Equatorise Ltd",
+      "amount": 500.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1482/registeredinterests?categoryId=3",
+      "summary": "Equatorise Ltd - £500.00",
+      "description": "To attend Eid-Al-Fitr Dinner hosted by The Lord Mayor and Lady Mayoress of City of London"
+    }
+  ]
+}

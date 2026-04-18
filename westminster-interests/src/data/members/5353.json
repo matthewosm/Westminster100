@@ -1,0 +1,205 @@
+{
+  "mnis_id": 5353,
+  "name": "Anna Gelderd",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "South East Cornwall",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5353/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 10289.86,
+      "combined": 10289.86,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 10289.86,
+      "combined": 10289.86,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 10289.86,
+      "combined": 10289.86,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 10289.86,
+      "combined": 10289.86,
+      "payment_count": 3,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 10289.86,
+        "combined": 10289.86,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 10289.86,
+        "combined": 10289.86,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 10289.86,
+        "combined": 10289.86,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 10289.86,
+        "combined": 10289.86,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    1310,
+    0,
+    0,
+    0,
+    4855,
+    4125,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "defence-technology",
+      "appg_name": "All-Party Parliamentary Group for Defence Technology",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "usher-syndrome",
+      "appg_name": "Usher Syndrome All-Party Parliamentary Group",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 141911,
+      "date": "2025-11-02",
+      "category": "4",
+      "member_id": 5353,
+      "member_name": "Anna Gelderd",
+      "payer_id": 240,
+      "payer_name": "Climate Parliament",
+      "amount": 4125.2,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5353/registeredinterests?categoryId=4",
+      "summary": "International visit to Brazil between 02 November 2025 and 07 November 2025 — Climate change conferences in Rio De Janeiro in preparation for COP 30.",
+      "description": "Travel, including flights (£2445.11), accommodation (£1470.27) and sundry costs (£209.82)"
+    },
+    {
+      "id": 138741,
+      "date": "2025-10-09",
+      "category": "4",
+      "member_id": 5353,
+      "member_name": "Anna Gelderd",
+      "payer_id": 601,
+      "payer_name": "Japan APPG",
+      "amount": 4854.66,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5353/registeredinterests?categoryId=4",
+      "summary": "International visit to Japan between 09 October 2025 and 17 October 2025 — Delegation member of the APPG Japan visit to strengthen relationships with Japanese Parliamentarians, businesses and organisations with an interest in the UK and South East Cornwall.",
+      "description": "Flights (£2,911.52) and accommodation (£1,943.14)"
+    },
+    {
+      "id": 127111,
+      "date": "2025-06-07",
+      "category": "4",
+      "member_id": 5353,
+      "member_name": "Anna Gelderd",
+      "payer_id": 566,
+      "payer_name": "International Conservation Caucus Foundation",
+      "amount": 1310.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "international-conservation",
+      "appg_name": "All-Party Parliamentary Group on International Conservation",
+      "source_url": "https://members.parliament.uk/member/5353/registeredinterests?categoryId=4",
+      "summary": "International visit to France between 07 June 2025 and 11 June 2025 — Attending United Nations Ocean Conference",
+      "description": "Accommodation (£1310)"
+    }
+  ]
+}

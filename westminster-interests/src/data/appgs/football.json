@@ -1,0 +1,286 @@
+{
+  "slug": "football",
+  "title": "Football All-Party Parliamentary Group",
+  "purpose": "To hold meetings for parliamentarians about football issues and raise matters of importance with the football authorities.",
+  "categories": [
+    "Sport, Recreation & Physical Activity"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/football.htm",
+  "secretariat": "Fair Game acts as the group's secretariat.",
+  "website": "None",
+  "registered_contact_name": "Mr Clive Betts MP",
+  "date_of_most_recent_agm": "2025-10-28 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 555.0,
+      "combined": 555.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 555.0,
+      "combined": 555.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 555.0,
+      "combined": 555.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 555.0,
+      "combined": 555.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "football",
+      "mnis_id": null,
+      "name": "Baroness Taylor of Bolton",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/football.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "football",
+      "mnis_id": null,
+      "name": "Lord Evans of Rainow",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/football.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "football",
+      "mnis_id": 4676,
+      "name": "Marsha De Cordova",
+      "canon_name": "Marsha de Cordova",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/football.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "football",
+      "mnis_id": 394,
+      "name": "Mr Clive Betts",
+      "canon_name": "Clive Betts",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/football.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "football",
+      "mnis_id": 8071,
+      "name": "Mr David Brooks",
+      "canon_name": "David Brooks",
+      "officer_role": "Chairperson",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=2220",
+      "removed": null
+    },
+    {
+      "appg_slug": "football",
+      "mnis_id": 8077,
+      "name": "Mr David Honeyford",
+      "canon_name": "David Honeyford",
+      "officer_role": "Vice-Chairperson",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=2220",
+      "removed": null
+    },
+    {
+      "appg_slug": "football",
+      "mnis_id": 6169,
+      "name": "Mr Harry Harvey",
+      "canon_name": "Harry Harvey",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=2220",
+      "removed": null
+    },
+    {
+      "appg_slug": "football",
+      "mnis_id": 8541,
+      "name": "Mr Peter Martin",
+      "canon_name": "Peter Martin",
+      "officer_role": "Secretary",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=2220",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "football",
+      "mnis_id": null,
+      "name": "Baroness Taylor of Bolton",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/football.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "football",
+      "mnis_id": null,
+      "name": "Lord Evans of Rainow",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/football.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "football",
+      "mnis_id": 4676,
+      "name": "Marsha De Cordova",
+      "canon_name": "Marsha de Cordova",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/football.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "football",
+      "mnis_id": 394,
+      "name": "Mr Clive Betts",
+      "canon_name": "Clive Betts",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/football.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "football",
+      "mnis_id": 8071,
+      "name": "Mr David Brooks",
+      "canon_name": "David Brooks",
+      "officer_role": "Chairperson",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=2220",
+      "removed": null
+    },
+    {
+      "appg_slug": "football",
+      "mnis_id": 8077,
+      "name": "Mr David Honeyford",
+      "canon_name": "David Honeyford",
+      "officer_role": "Vice-Chairperson",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=2220",
+      "removed": null
+    },
+    {
+      "appg_slug": "football",
+      "mnis_id": 6169,
+      "name": "Mr Harry Harvey",
+      "canon_name": "Harry Harvey",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=2220",
+      "removed": null
+    },
+    {
+      "appg_slug": "football",
+      "mnis_id": 8541,
+      "name": "Mr Peter Martin",
+      "canon_name": "Peter Martin",
+      "officer_role": "Secretary",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=2220",
+      "removed": null
+    }
+  ],
+  "payments": [
+    {
+      "id": 14563,
+      "date": "2026-01-21",
+      "category": "3",
+      "member_id": 5040,
+      "member_name": "Liz Jarvis",
+      "payer_id": 418,
+      "payer_name": "The Football Association Premier League Ltd",
+      "amount": 555.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "football",
+      "appg_name": "Football All-Party Parliamentary Group",
+      "source_url": "https://members.parliament.uk/member/5040/registeredinterests?categoryId=3",
+      "summary": "The Football Association Premier League - £555.00",
+      "description": "Ticket and hospitality at the Champions League match between Chelsea and Pafos."
+    }
+  ]
+}

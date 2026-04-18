@@ -1,0 +1,165 @@
+{
+  "slug": "malaria-and-neglected-tropical-diseases",
+  "title": "All-Party Parliamentary Group on Malaria and Neglected Tropical Diseases",
+  "purpose": "To raise the profile of malaria and neglected tropical diseases in Parliament, to champion solutions and tools to prevent, treat, control, and eliminate them, and to strengthen cross-party Parliamentary support for UK leadership, investment, and mobilisation of political will as the world works towards the shared 2030 Sustainable Development Goals.",
+  "categories": [
+    "Health, Medicine & Public Health",
+    "International Affairs, Development & Trade"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/malaria-and-neglected-tropical-diseases.htm",
+  "secretariat": "Malaria No More UK acts as the group's secretariat.https://malarianomore.org.uk/",
+  "website": "https://appgmalariantds.org.uk/",
+  "registered_contact_name": "Dr Lauren Sullivan MP",
+  "date_of_most_recent_agm": "2026-02-04 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "malaria-and-neglected-tropical-diseases",
+      "mnis_id": null,
+      "name": "Baroness Hodgson of Abinger",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/malaria-and-neglected-tropical-diseases.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "malaria-and-neglected-tropical-diseases",
+      "mnis_id": 5269,
+      "name": "Dr Lauren Sullivan",
+      "canon_name": "Lauren Sullivan",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/malaria-and-neglected-tropical-diseases.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "malaria-and-neglected-tropical-diseases",
+      "mnis_id": 4260,
+      "name": "Lord Trees",
+      "canon_name": "Lord Trees",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/malaria-and-neglected-tropical-diseases.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "malaria-and-neglected-tropical-diseases",
+      "mnis_id": 4638,
+      "name": "Mr Tanmanjeet Singh Dhesi",
+      "canon_name": "Tan Dhesi",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/malaria-and-neglected-tropical-diseases.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "malaria-and-neglected-tropical-diseases",
+      "mnis_id": null,
+      "name": "Baroness Hodgson of Abinger",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/malaria-and-neglected-tropical-diseases.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "malaria-and-neglected-tropical-diseases",
+      "mnis_id": 5269,
+      "name": "Dr Lauren Sullivan",
+      "canon_name": "Lauren Sullivan",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/malaria-and-neglected-tropical-diseases.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "malaria-and-neglected-tropical-diseases",
+      "mnis_id": 4260,
+      "name": "Lord Trees",
+      "canon_name": "Lord Trees",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/malaria-and-neglected-tropical-diseases.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "malaria-and-neglected-tropical-diseases",
+      "mnis_id": 4638,
+      "name": "Mr Tanmanjeet Singh Dhesi",
+      "canon_name": "Tan Dhesi",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/malaria-and-neglected-tropical-diseases.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

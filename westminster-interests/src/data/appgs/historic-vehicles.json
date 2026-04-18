@@ -1,0 +1,164 @@
+{
+  "slug": "historic-vehicles",
+  "title": "All-Party Parliamentary Group for Historic Vehicles",
+  "purpose": "To encourage interest in, and the promotion and use of, vintage historic and classic vehicles.",
+  "categories": [
+    "Arts, Culture, Heritage & Media"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/historic-vehicles.htm",
+  "secretariat": "",
+  "website": "None",
+  "registered_contact_name": "David Simmonds MP",
+  "date_of_most_recent_agm": "2025-07-21 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "historic-vehicles",
+      "mnis_id": 4872,
+      "name": "David Simmonds",
+      "canon_name": "David Simmonds",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/historic-vehicles.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "historic-vehicles",
+      "mnis_id": 181,
+      "name": "Lord Cryer",
+      "canon_name": "Lord Cryer",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/historic-vehicles.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "historic-vehicles",
+      "mnis_id": null,
+      "name": "Lord Kirkhope of Harrogate",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/historic-vehicles.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "historic-vehicles",
+      "mnis_id": 5310,
+      "name": "Mr Lee Dillon",
+      "canon_name": "Lee Dillon",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/historic-vehicles.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "historic-vehicles",
+      "mnis_id": 4872,
+      "name": "David Simmonds",
+      "canon_name": "David Simmonds",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/historic-vehicles.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "historic-vehicles",
+      "mnis_id": 181,
+      "name": "Lord Cryer",
+      "canon_name": "Lord Cryer",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/historic-vehicles.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "historic-vehicles",
+      "mnis_id": null,
+      "name": "Lord Kirkhope of Harrogate",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/historic-vehicles.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "historic-vehicles",
+      "mnis_id": 5310,
+      "name": "Mr Lee Dillon",
+      "canon_name": "Lee Dillon",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/historic-vehicles.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

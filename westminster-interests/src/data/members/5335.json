@@ -1,0 +1,430 @@
+{
+  "mnis_id": 5335,
+  "name": "Jess Brown-Fuller",
+  "party": "Liberal Democrat",
+  "party_slug": "liberal-democrat",
+  "constituency": "Chichester",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5335/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 15000.0,
+      "inkind": 4932.5,
+      "combined": 19932.5,
+      "payment_count": 7,
+      "donor_count": 7
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 16079.72,
+      "inkind": 4932.5,
+      "combined": 21012.22,
+      "payment_count": 8,
+      "donor_count": 8
+    },
+    "2024": {
+      "monetary": 2036.44,
+      "inkind": 0.0,
+      "combined": 2036.44,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "since_election": {
+      "monetary": 18116.16,
+      "inkind": 4932.5,
+      "combined": 23048.66,
+      "payment_count": 8,
+      "donor_count": 8
+    },
+    "all_time": {
+      "monetary": 18116.16,
+      "inkind": 4932.5,
+      "combined": 23048.66,
+      "payment_count": 8,
+      "donor_count": 8
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 15000.0,
+        "inkind": 2182.5,
+        "combined": 17182.5,
+        "payment_count": 5,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 15000.0,
+        "inkind": 2182.5,
+        "combined": 17182.5,
+        "payment_count": 5,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 15000.0,
+        "inkind": 2182.5,
+        "combined": 17182.5,
+        "payment_count": 5,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 15000.0,
+        "inkind": 2182.5,
+        "combined": 17182.5,
+        "payment_count": 5,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 2750.0,
+        "combined": 2750.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 2750.0,
+        "combined": 2750.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 2750.0,
+        "combined": 2750.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 2750.0,
+        "combined": 2750.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "1.2": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 1079.72,
+        "inkind": 0.0,
+        "combined": 1079.72,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 2036.44,
+        "inkind": 0.0,
+        "combined": 2036.44,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 3116.16,
+        "inkind": 0.0,
+        "combined": 3116.16,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 3116.16,
+        "inkind": 0.0,
+        "combined": 3116.16,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    360,
+    0,
+    2390,
+    0,
+    10000,
+    5000,
+    0,
+    2182,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "infant-feeding",
+      "appg_name": "All-Party Parliamentary Group for Infant Feeding",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "infant-feeding-and-inequalities",
+      "appg_name": "All-Party Parliamentary Group for Infant Feeding and Inequalities",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "performing-arts-education-and-training",
+      "appg_name": "All-Party Parliamentary Group for Performing Arts Education and Training",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "grief-support-and-the-impact-of-death-on-society",
+      "appg_name": "All-Party Parliamentary Group on Grief Support and the Impact of Death on Society",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14190,
+      "date": "2025-12-19",
+      "category": "2",
+      "member_id": 5335,
+      "member_name": "Jess Brown-Fuller",
+      "payer_id": 923,
+      "payer_name": "Ramesh Dewan",
+      "amount": 2182.5,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5335/registeredinterests?categoryId=2",
+      "summary": "Ramesh Dewan - £2,182.50",
+      "description": "Funding for a dinner for the Chichester Liberal Democrats"
+    },
+    {
+      "id": 13938,
+      "date": "2025-10-14",
+      "category": "2",
+      "member_id": 5335,
+      "member_name": "Jess Brown-Fuller",
+      "payer_id": 12,
+      "payer_name": "Adam Management Holdings Limited",
+      "amount": 5000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5335/registeredinterests?categoryId=2",
+      "summary": "Adam Management Holdings Ltd - £5,000.00",
+      "description": null
+    },
+    {
+      "id": 13106,
+      "date": "2025-09-11",
+      "category": "2",
+      "member_id": 5335,
+      "member_name": "Jess Brown-Fuller",
+      "payer_id": 596,
+      "payer_name": "James Moore",
+      "amount": 5000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5335/registeredinterests?categoryId=2",
+      "summary": "James Moore - £5,000.00",
+      "description": null
+    },
+    {
+      "id": 13281,
+      "date": "2025-09-11",
+      "category": "2",
+      "member_id": 5335,
+      "member_name": "Jess Brown-Fuller",
+      "payer_id": 222,
+      "payer_name": "Cherie Robertson",
+      "amount": 2000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5335/registeredinterests?categoryId=2",
+      "summary": "Cherie Robertson - £2,000.00",
+      "description": null
+    },
+    {
+      "id": 13282,
+      "date": "2025-09-11",
+      "category": "2",
+      "member_id": 5335,
+      "member_name": "Jess Brown-Fuller",
+      "payer_id": 947,
+      "payer_name": "Richard Evans",
+      "amount": 3000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5335/registeredinterests?categoryId=2",
+      "summary": "Richard Evans - £3,000.00",
+      "description": null
+    },
+    {
+      "id": 12904,
+      "date": "2025-07-06",
+      "category": "3",
+      "member_id": 5335,
+      "member_name": "Jess Brown-Fuller",
+      "payer_id": 1006,
+      "payer_name": "Silverstone Circuits Limited",
+      "amount": 2390.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "formula-1-and-motorsport",
+      "appg_name": "All-Party Parliamentary Group on Formula 1 and Motorsport",
+      "source_url": "https://members.parliament.uk/member/5335/registeredinterests?categoryId=3",
+      "summary": "Silverstone Circuits Ltd - £2,390.00",
+      "description": "Two tickets with hospitality to the Legends Suite at Silverstone to watch the British Grand Prix (£1,195 each). Invited as Co-Chair the APPG for Formula 1 and Motorsport"
+    },
+    {
+      "id": 12458,
+      "date": "2025-05-02",
+      "category": "3",
+      "member_id": 5335,
+      "member_name": "Jess Brown-Fuller",
+      "payer_id": 1127,
+      "payer_name": "UKHarvest",
+      "amount": 360.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5335/registeredinterests?categoryId=3",
+      "summary": "UKHarvest - £360.00",
+      "description": "I was invited as a guest of UKHarvest to their corporate box at Goodwood Racecourse. I attended for 90 minutes to present an award to the winning owner in the UKHarvest charity race"
+    },
+    {
+      "id": 10100,
+      "date": "2024-08-04",
+      "category": "1.2",
+      "member_id": 5335,
+      "member_name": "Jess Brown-Fuller",
+      "payer_id": 225,
+      "payer_name": "Chichester District Council",
+      "amount": 416.0,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": null,
+      "end_date": "2025-03-20",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5335/registeredinterests?categoryId=1",
+      "summary": "Agreement - £416.00",
+      "description": "Standard Councillor allowance"
+    }
+  ]
+}

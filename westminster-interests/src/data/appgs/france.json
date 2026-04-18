@@ -1,0 +1,212 @@
+{
+  "slug": "france",
+  "title": "All-Party Parliamentary Group on France",
+  "purpose": "The APPG on France is dedicated to promoting and enhancing relations between the UK and France.",
+  "categories": [
+    "Country Group"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/france.htm",
+  "secretariat": "",
+  "website": "None",
+  "registered_contact_name": "Ben Lake MP",
+  "date_of_most_recent_agm": "2026-01-13 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "france",
+      "mnis_id": 4337,
+      "name": "Baroness Janke",
+      "canon_name": "Baroness Janke",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/france.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "france",
+      "mnis_id": 4630,
+      "name": "Ben Lake",
+      "canon_name": "Ben Lake",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/france.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "france",
+      "mnis_id": null,
+      "name": "Daniel Johnson",
+      "canon_name": "Daniel Johnson",
+      "officer_role": "Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "france",
+      "mnis_id": null,
+      "name": "Karen Adam",
+      "canon_name": "Karen Adam",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "france",
+      "mnis_id": 542,
+      "name": "Lord Touhig",
+      "canon_name": "Lord Touhig",
+      "officer_role": "Secretary",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/france.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "france",
+      "mnis_id": 345,
+      "name": "Sir Edward Leigh",
+      "canon_name": "Edward Leigh",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/france.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "france",
+      "mnis_id": 4337,
+      "name": "Baroness Janke",
+      "canon_name": "Baroness Janke",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/france.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "france",
+      "mnis_id": 4630,
+      "name": "Ben Lake",
+      "canon_name": "Ben Lake",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/france.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "france",
+      "mnis_id": null,
+      "name": "Daniel Johnson",
+      "canon_name": "Daniel Johnson",
+      "officer_role": "Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "france",
+      "mnis_id": null,
+      "name": "Karen Adam",
+      "canon_name": "Karen Adam",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "france",
+      "mnis_id": 542,
+      "name": "Lord Touhig",
+      "canon_name": "Lord Touhig",
+      "officer_role": "Secretary",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/france.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "france",
+      "mnis_id": 345,
+      "name": "Sir Edward Leigh",
+      "canon_name": "Edward Leigh",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/france.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

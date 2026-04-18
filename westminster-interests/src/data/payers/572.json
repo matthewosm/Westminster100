@@ -1,0 +1,99 @@
+{
+  "id": 572,
+  "name": "IPSA",
+  "address": "House of Commons, London SW1A 0AA",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 237.18,
+      "combined": 237.18,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 237.18,
+      "combined": 237.18,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 237.18,
+      "combined": 237.18,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 237.18,
+      "combined": 237.18,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    237,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 146602,
+      "date": "2026-02-13",
+      "category": "4",
+      "member_id": 5074,
+      "member_name": "Mr Paul Foster",
+      "payer_id": 572,
+      "payer_name": "IPSA",
+      "amount": 237.18,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "kosovo-and-albania",
+      "appg_name": "All-Party Parliamentary Group on Kosovo and Albania",
+      "source_url": "https://members.parliament.uk/member/5074/registeredinterests?categoryId=4",
+      "summary": "International visit to Albania between 13 February 2026 and 18 February 2026 — Mentoring new Albanian MP's on behalf of the Westminster Foundation for Democracy and then joining the cross party APPG delegation meeting members of the Kosovan Government for their Independence Day parade and celebrations.",
+      "description": "Hotel (£221.13), train from airport (£16.05)"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": 1141,
+  "name": "University of Greater Manchester",
+  "address": "Deane Road, Bolton BL3 5AB",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 41685.05,
+      "inkind": 0.0,
+      "combined": 41685.05,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 12334.21,
+      "inkind": 0.0,
+      "combined": 12334.21,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 41685.05,
+      "inkind": 0.0,
+      "combined": 41685.05,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 41799.25,
+      "inkind": 0.0,
+      "combined": 41799.25,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "since_election": {
+      "monetary": 74690.47,
+      "inkind": 0.0,
+      "combined": 74690.47,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 252165.99,
+      "inkind": 0.0,
+      "combined": 252165.99,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    3426,
+    3426,
+    3426,
+    3426,
+    3426,
+    3426,
+    3426,
+    3426,
+    3426,
+    3426,
+    3426,
+    3426
+  ],
+  "payments": [
+    {
+      "id": 4856,
+      "date": "2020-04-29",
+      "category": "1.2",
+      "member_id": 350,
+      "member_name": "Sir John Hayes",
+      "payer_id": 1141,
+      "payer_name": "University of Greater Manchester",
+      "amount": 41713.6,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Yearly",
+      "start_date": "2020-04-01",
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/350/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 01 April 2020 - £41,713.60",
+      "description": "paid monthly"
+    }
+  ]
+}

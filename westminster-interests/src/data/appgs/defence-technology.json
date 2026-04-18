@@ -1,0 +1,143 @@
+{
+  "slug": "defence-technology",
+  "title": "All-Party Parliamentary Group for Defence Technology",
+  "purpose": "The APPG promotes engagement with the UK's defence tech sector, fostering collaboration among parliamentarians, industry, and stakeholders. It explores technological developments, assesses their impact on national security, and addresses policy challenges, supporting innovation and growth to enhance the UK's defence capabilities.",
+  "categories": [
+    "Science, Technology & Innovation",
+    "Justice, Law & Security"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/defence-technology.htm",
+  "secretariat": "APPG Secretariat Services Ltd acts as the group's secretariat.",
+  "website": "https://www.defencetechappg.org.uk/",
+  "registered_contact_name": "Fred Thomas MP",
+  "date_of_most_recent_agm": "2024-11-19 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 324.33,
+      "inkind": 0.0,
+      "combined": 324.33,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 324.33,
+      "inkind": 0.0,
+      "combined": 324.33,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 324.33,
+      "inkind": 0.0,
+      "combined": 324.33,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 324.33,
+      "inkind": 0.0,
+      "combined": 324.33,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "defence-technology",
+      "mnis_id": 5353,
+      "name": "Anna Gelderd",
+      "canon_name": "Anna Gelderd",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/250731/defence-technology.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "defence-technology",
+      "mnis_id": 5174,
+      "name": "Fred Thomas",
+      "canon_name": "Fred Thomas",
+      "officer_role": "Acting Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/250731/defence-technology.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "defence-technology",
+      "mnis_id": 5353,
+      "name": "Anna Gelderd",
+      "canon_name": "Anna Gelderd",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/250731/defence-technology.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "defence-technology",
+      "mnis_id": 5174,
+      "name": "Fred Thomas",
+      "canon_name": "Fred Thomas",
+      "officer_role": "Acting Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/250731/defence-technology.htm",
+      "removed": null
+    }
+  ],
+  "payments": [
+    {
+      "id": 126281,
+      "date": "2025-05-30",
+      "category": "4",
+      "member_id": 5174,
+      "member_name": "Fred Thomas",
+      "payer_id": 63,
+      "payer_name": "APPG for Defence Technology",
+      "amount": 324.33,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "defence-technology",
+      "appg_name": "All-Party Parliamentary Group for Defence Technology",
+      "source_url": "https://members.parliament.uk/member/5174/registeredinterests?categoryId=4",
+      "summary": "International visit to Ukraine between 30 May 2025 and 01 June 2025 — To attend the Black Sea Security Forum in Odesa.",
+      "description": "Flights reimbursed on 13 June 2025"
+    }
+  ]
+}

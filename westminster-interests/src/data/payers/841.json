@@ -1,0 +1,124 @@
+{
+  "id": 841,
+  "name": "OPD Group Ltd (a company controlled by Peter Hearn)",
+  "address": "Grenville House, 4 Grenville Avenue, Broxbourne, Hertfordshire EN10 7DH",
+  "nature_of_business": null,
+  "donor_status": "Company",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 55000.0,
+      "inkind": 0.0,
+      "combined": 55000.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 55000.0,
+      "inkind": 0.0,
+      "combined": 55000.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 53000.0,
+      "inkind": 0.0,
+      "combined": 53000.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 108000.0,
+      "inkind": 0.0,
+      "combined": 108000.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 108000.0,
+      "inkind": 0.0,
+      "combined": 108000.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    55000,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 14513,
+      "date": "2026-01-22",
+      "category": "2",
+      "member_id": 4504,
+      "member_name": "Wes Streeting",
+      "payer_id": 841,
+      "payer_name": "OPD Group Ltd (a company controlled by Peter Hearn)",
+      "amount": 55000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2026-12-31",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4504/registeredinterests?categoryId=2",
+      "summary": "OPD Group Ltd (a company controlled by Peter Hearn) - £55,000.00",
+      "description": "Towards staffing costs in my constituency office, to be paid in four instalments between 22 January 2026 and December 2026"
+    },
+    {
+      "id": 11746,
+      "date": "2025-01-13",
+      "category": "2",
+      "member_id": 4504,
+      "member_name": "Wes Streeting",
+      "payer_id": 841,
+      "payer_name": "OPD Group Ltd (a company controlled by Peter Hearn)",
+      "amount": 53000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-12-31",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4504/registeredinterests?categoryId=2",
+      "summary": "OPD Group Ltd (a company controlled by Peter Hearn) - £53,000.00",
+      "description": "Towards staffing costs in my constituency office, to be paid in four instalments between 13 January 2025 and December 2025"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "mnis_id": 5277,
+  "name": "Graham Leadbitter",
+  "party": "Scottish National Party",
+  "party_slug": "scottish-national-party",
+  "constituency": "Moray West, Nairn and Strathspey",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5277/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 2708.0,
+      "combined": 2708.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 2708.0,
+      "combined": 2708.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 2708.0,
+      "combined": 2708.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 2708.0,
+      "combined": 2708.0,
+      "payment_count": 2,
+      "donor_count": 2
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 2708.0,
+        "combined": 2708.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 2708.0,
+        "combined": 2708.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 2708.0,
+        "combined": 2708.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 2708.0,
+        "combined": 2708.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2708,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "space",
+      "appg_name": "All-Party Parliamentary Group for Space",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "wood-panel-industry",
+      "appg_name": "All-Party Parliamentary Group for the Wood Panel Industry",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "scotch-whisky",
+      "appg_name": "Scotch Whisky All-Party Parliamentary Group",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 138871,
+      "date": "2025-11-05",
+      "category": "4",
+      "member_id": 5277,
+      "member_name": "Graham Leadbitter",
+      "payer_id": 399,
+      "payer_name": "Federal Department of Foreign Affairs, Switzerland",
+      "amount": 1900.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5277/registeredinterests?categoryId=4",
+      "summary": "International visit to Switzerland between 05 November 2025 and 08 November 2025 — Cross Party MP delegation visit with focus on Switzerland's rail and transport network and Vocational and Professional Education and Training (VPET) system.",
+      "description": "Travel (£380), accommodation (£990), in-country travel (£290) and meals (£240)"
+    },
+    {
+      "id": 137211,
+      "date": "2025-10-23",
+      "category": "4",
+      "member_id": 5277,
+      "member_name": "Graham Leadbitter",
+      "payer_id": 860,
+      "payer_name": "Parliamentary Renewable & Sustainable Energy Group (PRASEG) Secretariat for the APPG for Renewable & Sustainable Energy",
+      "amount": 808.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "renewable-and-sustainable-energy",
+      "appg_name": "All-Party Parliamentary Group for Renewable and Sustainable Energy",
+      "source_url": "https://members.parliament.uk/member/5277/registeredinterests?categoryId=4",
+      "summary": "International visit to Denmark between 23 October 2025 and 24 October 2025 — APPG visit to high-level meetings and site visits in Copenhagen cross-channel cooperation for decarbonising heat and energy.",
+      "description": "Accommodation, return flights and subsistence"
+    }
+  ]
+}

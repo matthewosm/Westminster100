@@ -1,0 +1,99 @@
+{
+  "id": 1017,
+  "name": "Small Axe Communications Ltd",
+  "address": "Office 1, The Warehouse, Anchor Quay, Penryn, Cornwall TR10 8GZ",
+  "nature_of_business": null,
+  "donor_status": "Company",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 20000.0,
+      "combined": 20000.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 20000.0,
+      "combined": 20000.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 20000.0,
+      "combined": 20000.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 20000.0,
+      "combined": 20000.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    20000,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 13641,
+      "date": "2025-09-29",
+      "category": "2",
+      "member_id": 4263,
+      "member_name": "Lucy Powell",
+      "payer_id": 1017,
+      "payer_name": "Small Axe Communications Ltd",
+      "amount": 20000.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-10-24",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4263/registeredinterests?categoryId=2",
+      "summary": "Small Axe Communications Ltd - £20,000.00",
+      "description": "In kind donation of staff time, for communications and administrative services in relation to my campaign to become the Deputy Leader of the Labour Party. In addition to paid for services between 29 September 2025 and 24 October 2025"
+    }
+  ]
+}

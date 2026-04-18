@@ -1,0 +1,164 @@
+{
+  "slug": "women-in-parliament",
+  "title": "All-Party Parliamentary Group on Women in Parliament",
+  "purpose": "Brings together MPs and peers to celebrate progress in women's representation and advocate for more women in parliament across all parties, aiming for a diverse, gender-equal parliament by 2028 - the centenary of equal franchise. Supports women in parliament and those standing for public office.",
+  "categories": [
+    "Human Rights, Equality & Social Justice"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/women-in-parliament.htm",
+  "secretariat": "Centenary Action acts as the group's secretariat.https://centenaryaction.org.uk/",
+  "website": "https://centenaryaction.org.uk/appg-women-in-parliament/",
+  "registered_contact_name": "Mims Davies MP",
+  "date_of_most_recent_agm": "2024-10-23 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "women-in-parliament",
+      "mnis_id": 3862,
+      "name": "Baroness Grey-Thompson",
+      "canon_name": "Baroness Grey-Thompson",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/women-in-parliament.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "women-in-parliament",
+      "mnis_id": 1489,
+      "name": "Dawn Butler",
+      "canon_name": "Dawn Butler",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/women-in-parliament.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "women-in-parliament",
+      "mnis_id": 4513,
+      "name": "Mims Davies",
+      "canon_name": "Mims Davies",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/women-in-parliament.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "women-in-parliament",
+      "mnis_id": 4995,
+      "name": "Sarah Dyke",
+      "canon_name": "Sarah Dyke",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/women-in-parliament.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "women-in-parliament",
+      "mnis_id": 3862,
+      "name": "Baroness Grey-Thompson",
+      "canon_name": "Baroness Grey-Thompson",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/women-in-parliament.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "women-in-parliament",
+      "mnis_id": 1489,
+      "name": "Dawn Butler",
+      "canon_name": "Dawn Butler",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/women-in-parliament.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "women-in-parliament",
+      "mnis_id": 4513,
+      "name": "Mims Davies",
+      "canon_name": "Mims Davies",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/women-in-parliament.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "women-in-parliament",
+      "mnis_id": 4995,
+      "name": "Sarah Dyke",
+      "canon_name": "Sarah Dyke",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/women-in-parliament.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

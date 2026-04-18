@@ -1,0 +1,140 @@
+{
+  "slug": "small-modular-reactors",
+  "title": "All-Party Parliamentary Group on Small Modular Reactors",
+  "purpose": "Support the roll-out of small modular nuclear reactors (SMRs) to sites across the UK, to champion the SMR model, to encourage a diversity of design and providers and to engage UK nuclear industry in the development of SMRs including supporting engineering jobs in the UK and developing nuclear skills.",
+  "categories": [
+    "Energy & Utilities"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/small-modular-reactors.htm",
+  "secretariat": "Barndoor Strategy Ltd acts as the group's secretariat.https://www.barndoorstrategy.com/",
+  "website": "https://www.smrappg.com/",
+  "registered_contact_name": "Baggy Shanker MP",
+  "date_of_most_recent_agm": "2024-11-19 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "small-modular-reactors",
+      "mnis_id": 4601,
+      "name": "Andrew Bowie",
+      "canon_name": "Andrew Bowie",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/small-modular-reactors.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "small-modular-reactors",
+      "mnis_id": 5176,
+      "name": "Baggy Shanker",
+      "canon_name": "Baggy Shanker",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/small-modular-reactors.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "small-modular-reactors",
+      "mnis_id": 3917,
+      "name": "Lord Walney",
+      "canon_name": "Lord Walney",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/small-modular-reactors.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "small-modular-reactors",
+      "mnis_id": 4601,
+      "name": "Andrew Bowie",
+      "canon_name": "Andrew Bowie",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/small-modular-reactors.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "small-modular-reactors",
+      "mnis_id": 5176,
+      "name": "Baggy Shanker",
+      "canon_name": "Baggy Shanker",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/small-modular-reactors.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "small-modular-reactors",
+      "mnis_id": 3917,
+      "name": "Lord Walney",
+      "canon_name": "Lord Walney",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/small-modular-reactors.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

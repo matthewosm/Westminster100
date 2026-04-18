@@ -1,0 +1,204 @@
+{
+  "mnis_id": 5128,
+  "name": "Phil Brickell",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Bolton West",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5128/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 815.0,
+      "combined": 815.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 3655.0,
+      "combined": 3655.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 3655.0,
+      "combined": 3655.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 3655.0,
+      "combined": 3655.0,
+      "payment_count": 2,
+      "donor_count": 2
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 815.0,
+        "combined": 815.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 3655.0,
+        "combined": 3655.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 3655.0,
+        "combined": 3655.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 3655.0,
+        "combined": 3655.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    815,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "anti-corruption-and-responsible-tax",
+      "appg_name": "All-Party Parliamentary Group on Anti-Corruption and Responsible Tax",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "germany",
+      "appg_name": "All-Party Parliamentary Group on Germany",
+      "officer_role": "Secretary",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "magnitsky-sanctions-and-reparation",
+      "appg_name": "All-Party Parliamentary Group on Magnitsky Sanctions and Reparation",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "outdoor-learning",
+      "appg_name": "All-Party Parliamentary Group on Outdoor Learning",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "outdoor-recreation-and-access-to-nature",
+      "appg_name": "All-Party Parliamentary Group on Outdoor Recreation and Access to Nature",
+      "officer_role": "Co-Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "russia-and-democracy",
+      "appg_name": "All-Party Parliamentary Group on Russia and Democracy",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 137191,
+      "date": "2025-10-14",
+      "category": "4",
+      "member_id": 5128,
+      "member_name": "Phil Brickell",
+      "payer_id": 431,
+      "payer_name": "Friedrich-Ebert-Stiftung",
+      "amount": 815.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5128/registeredinterests?categoryId=4",
+      "summary": "International visit to Germany between 14 October 2025 and 16 October 2025 — Participation in annual UK-German Parliamentary Dialogue organised by the Friedrich-Ebert-Stiftung",
+      "description": "International travel, accommodation, and meals"
+    },
+    {
+      "id": 119651,
+      "date": "2025-02-17",
+      "category": "4",
+      "member_id": 5128,
+      "member_name": "Phil Brickell",
+      "payer_id": 408,
+      "payer_name": "Fincordtech Management",
+      "amount": 2840.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5128/registeredinterests?categoryId=4",
+      "summary": "International visit to Ukraine between 17 February 2025 and 22 February 2025 — The visit was dedicated to the Ukraine-UK 100 Year Partnership Agreement, and involved briefings with state officials, civil society, scientific institutions and business on economic, security, anticorruption and sanctions issues.",
+      "description": "International travel, accommodation, and meals (value is approximate)"
+    }
+  ]
+}

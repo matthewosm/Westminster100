@@ -1,0 +1,188 @@
+{
+  "slug": "liver-disease-and-liver-cancer",
+  "title": "All-Party Parliamentary Group on Liver Disease and Liver Cancer",
+  "purpose": "To raise awareness of liver disease and liver cancer with parliamentarians and government, and to advocate for policy change to transform outcomes for liver patients, reduce health inequalities, and ensure the voices of people with lived experience are heard at Westminster.",
+  "categories": [
+    "Health, Medicine & Public Health"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/liver-disease-and-liver-cancer.htm",
+  "secretariat": "British Liver Trust acts as the group's secretariat.https://britishlivertrust.org.uk/",
+  "website": "None",
+  "registered_contact_name": "Dr Beccy Cooper MP",
+  "date_of_most_recent_agm": "2026-02-11 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "liver-disease-and-liver-cancer",
+      "mnis_id": 5307,
+      "name": "Dr Beccy Cooper",
+      "canon_name": "Beccy Cooper",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/liver-disease-and-liver-cancer.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "liver-disease-and-liver-cancer",
+      "mnis_id": 8687,
+      "name": "Joel James",
+      "canon_name": "Joel James",
+      "officer_role": "Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=849",
+      "removed": null
+    },
+    {
+      "appg_slug": "liver-disease-and-liver-cancer",
+      "mnis_id": 5232,
+      "name": "Lorraine Beavers",
+      "canon_name": "Lorraine Beavers",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/liver-disease-and-liver-cancer.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "liver-disease-and-liver-cancer",
+      "mnis_id": 5330,
+      "name": "Mr Peter Bedford",
+      "canon_name": "Peter Bedford",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/liver-disease-and-liver-cancer.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "liver-disease-and-liver-cancer",
+      "mnis_id": 5319,
+      "name": "Robin Swann",
+      "canon_name": "Robin Swann",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/liver-disease-and-liver-cancer.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "liver-disease-and-liver-cancer",
+      "mnis_id": 5307,
+      "name": "Dr Beccy Cooper",
+      "canon_name": "Beccy Cooper",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/liver-disease-and-liver-cancer.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "liver-disease-and-liver-cancer",
+      "mnis_id": 8687,
+      "name": "Joel James",
+      "canon_name": "Joel James",
+      "officer_role": "Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=849",
+      "removed": null
+    },
+    {
+      "appg_slug": "liver-disease-and-liver-cancer",
+      "mnis_id": 5232,
+      "name": "Lorraine Beavers",
+      "canon_name": "Lorraine Beavers",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/liver-disease-and-liver-cancer.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "liver-disease-and-liver-cancer",
+      "mnis_id": 5330,
+      "name": "Mr Peter Bedford",
+      "canon_name": "Peter Bedford",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/liver-disease-and-liver-cancer.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "liver-disease-and-liver-cancer",
+      "mnis_id": 5319,
+      "name": "Robin Swann",
+      "canon_name": "Robin Swann",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/liver-disease-and-liver-cancer.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

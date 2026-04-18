@@ -1,0 +1,166 @@
+{
+  "slug": "sovereign-wealth-funds",
+  "title": "All-Party Parliamentary Group on Sovereign Wealth Funds",
+  "purpose": "To highlight the role of sovereign wealth funds in global economies, to engage with sovereign wealth funds and to help drive foreign investment into the UK.",
+  "categories": [
+    "Economy, Business & Industry",
+    "Finance, Markets & Consumer Affairs",
+    "International Affairs, Development & Trade"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sovereign-wealth-funds.htm",
+  "secretariat": "",
+  "website": "None",
+  "registered_contact_name": "Mark Garnier MP",
+  "date_of_most_recent_agm": "2025-06-10 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "sovereign-wealth-funds",
+      "mnis_id": null,
+      "name": "Lord Vaizey of Didcot",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sovereign-wealth-funds.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "sovereign-wealth-funds",
+      "mnis_id": 4074,
+      "name": "Mark Garnier",
+      "canon_name": "Mark Garnier",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sovereign-wealth-funds.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "sovereign-wealth-funds",
+      "mnis_id": 4818,
+      "name": "Saqib Bhatti",
+      "canon_name": "Saqib Bhatti",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sovereign-wealth-funds.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "sovereign-wealth-funds",
+      "mnis_id": 5067,
+      "name": "Tony Vaughan",
+      "canon_name": "Tony Vaughan",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sovereign-wealth-funds.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "sovereign-wealth-funds",
+      "mnis_id": null,
+      "name": "Lord Vaizey of Didcot",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sovereign-wealth-funds.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "sovereign-wealth-funds",
+      "mnis_id": 4074,
+      "name": "Mark Garnier",
+      "canon_name": "Mark Garnier",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sovereign-wealth-funds.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "sovereign-wealth-funds",
+      "mnis_id": 4818,
+      "name": "Saqib Bhatti",
+      "canon_name": "Saqib Bhatti",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sovereign-wealth-funds.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "sovereign-wealth-funds",
+      "mnis_id": 5067,
+      "name": "Tony Vaughan",
+      "canon_name": "Tony Vaughan",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sovereign-wealth-funds.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

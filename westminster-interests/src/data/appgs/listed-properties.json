@@ -1,0 +1,165 @@
+{
+  "slug": "listed-properties",
+  "title": "All-Party Parliamentary Group on Listed Properties",
+  "purpose": "To speak up for listed properties in the UK and raise awareness in parliament of the role played by their owners in protecting the nation's heritage; and to advocate policies that support owners in preserving listed properties, including tax and planning reform.",
+  "categories": [
+    "Arts, Culture, Heritage & Media",
+    "Housing, Planning & Built Environment"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/listed-properties.htm",
+  "secretariat": "Listed Property Owners' Club acts as the group's secretariat.https://www.lpoc.co.uk/",
+  "website": "None",
+  "registered_contact_name": "Sir James Cleverly MP",
+  "date_of_most_recent_agm": "2025-02-11 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "listed-properties",
+      "mnis_id": 3808,
+      "name": "Lord Dear",
+      "canon_name": "Lord Dear",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/listed-properties.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "listed-properties",
+      "mnis_id": null,
+      "name": "Lord Mackinlay of Richborough",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/listed-properties.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "listed-properties",
+      "mnis_id": 5163,
+      "name": "Peter Prinsley",
+      "canon_name": "Peter Prinsley",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/listed-properties.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "listed-properties",
+      "mnis_id": 4366,
+      "name": "Sir James Cleverly",
+      "canon_name": "James Cleverly",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/listed-properties.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "listed-properties",
+      "mnis_id": 3808,
+      "name": "Lord Dear",
+      "canon_name": "Lord Dear",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/listed-properties.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "listed-properties",
+      "mnis_id": null,
+      "name": "Lord Mackinlay of Richborough",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/listed-properties.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "listed-properties",
+      "mnis_id": 5163,
+      "name": "Peter Prinsley",
+      "canon_name": "Peter Prinsley",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/listed-properties.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "listed-properties",
+      "mnis_id": 4366,
+      "name": "Sir James Cleverly",
+      "canon_name": "James Cleverly",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/listed-properties.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

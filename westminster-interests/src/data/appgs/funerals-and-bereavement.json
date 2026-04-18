@@ -1,0 +1,332 @@
+{
+  "slug": "funerals-and-bereavement",
+  "title": "All-Party Parliamentary Group for Funerals and Bereavement",
+  "purpose": "To raise awareness and discuss policy issues affecting the funerals sector and the bereaved.",
+  "categories": [
+    "Social Care, Welfare & Family Support"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/funerals-and-bereavement.htm",
+  "secretariat": "GK Strategy acts as the group's secretariat.https://gkstrategy.com/",
+  "website": "None",
+  "registered_contact_name": "Cat Smith MP",
+  "date_of_most_recent_agm": "2024-11-04 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "funerals-and-bereavement",
+      "mnis_id": null,
+      "name": "Alexander Burnett",
+      "canon_name": "Alexander Burnett",
+      "officer_role": "Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "funerals-and-bereavement",
+      "mnis_id": null,
+      "name": "Baroness Garden of Frognal",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/funerals-and-bereavement.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "funerals-and-bereavement",
+      "mnis_id": 4436,
+      "name": "Cat Smith",
+      "canon_name": "Cat Smith",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/funerals-and-bereavement.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "funerals-and-bereavement",
+      "mnis_id": 5183,
+      "name": "Frank McNally",
+      "canon_name": "Frank McNally",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/funerals-and-bereavement.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "funerals-and-bereavement",
+      "mnis_id": null,
+      "name": "Jeremy Balfour",
+      "canon_name": "Jeremy Balfour",
+      "officer_role": "Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "funerals-and-bereavement",
+      "mnis_id": 2202,
+      "name": "Lord De Mauley",
+      "canon_name": "Lord de Mauley",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/funerals-and-bereavement.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "funerals-and-bereavement",
+      "mnis_id": 157,
+      "name": "Mark Isherwood",
+      "canon_name": "Mark Isherwood",
+      "officer_role": "Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=792",
+      "removed": null
+    },
+    {
+      "appg_slug": "funerals-and-bereavement",
+      "mnis_id": 203,
+      "name": "Miss Michelle McIlveen",
+      "canon_name": "Michelle McIlveen",
+      "officer_role": "Vice-Chairperson",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=2370",
+      "removed": null
+    },
+    {
+      "appg_slug": "funerals-and-bereavement",
+      "mnis_id": 5786,
+      "name": "Mr Doug Beattie MC",
+      "canon_name": "Doug Beattie",
+      "officer_role": "Chairperson",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=2370",
+      "removed": null
+    },
+    {
+      "appg_slug": "funerals-and-bereavement",
+      "mnis_id": 6155,
+      "name": "Mr Jonathan Buckley",
+      "canon_name": "Jonathan Buckley",
+      "officer_role": "Secretary",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=2370",
+      "removed": null
+    },
+    {
+      "appg_slug": "funerals-and-bereavement",
+      "mnis_id": 8542,
+      "name": "Mr Timothy Gaston",
+      "canon_name": "Timothy Gaston",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=2370",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "funerals-and-bereavement",
+      "mnis_id": null,
+      "name": "Alexander Burnett",
+      "canon_name": "Alexander Burnett",
+      "officer_role": "Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "funerals-and-bereavement",
+      "mnis_id": null,
+      "name": "Baroness Garden of Frognal",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/funerals-and-bereavement.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "funerals-and-bereavement",
+      "mnis_id": 4436,
+      "name": "Cat Smith",
+      "canon_name": "Cat Smith",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/funerals-and-bereavement.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "funerals-and-bereavement",
+      "mnis_id": 5183,
+      "name": "Frank McNally",
+      "canon_name": "Frank McNally",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/funerals-and-bereavement.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "funerals-and-bereavement",
+      "mnis_id": null,
+      "name": "Jeremy Balfour",
+      "canon_name": "Jeremy Balfour",
+      "officer_role": "Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "funerals-and-bereavement",
+      "mnis_id": 2202,
+      "name": "Lord De Mauley",
+      "canon_name": "Lord de Mauley",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/funerals-and-bereavement.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "funerals-and-bereavement",
+      "mnis_id": 157,
+      "name": "Mark Isherwood",
+      "canon_name": "Mark Isherwood",
+      "officer_role": "Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=792",
+      "removed": null
+    },
+    {
+      "appg_slug": "funerals-and-bereavement",
+      "mnis_id": 203,
+      "name": "Miss Michelle McIlveen",
+      "canon_name": "Michelle McIlveen",
+      "officer_role": "Vice-Chairperson",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=2370",
+      "removed": null
+    },
+    {
+      "appg_slug": "funerals-and-bereavement",
+      "mnis_id": 5786,
+      "name": "Mr Doug Beattie MC",
+      "canon_name": "Doug Beattie",
+      "officer_role": "Chairperson",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=2370",
+      "removed": null
+    },
+    {
+      "appg_slug": "funerals-and-bereavement",
+      "mnis_id": 6155,
+      "name": "Mr Jonathan Buckley",
+      "canon_name": "Jonathan Buckley",
+      "officer_role": "Secretary",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=2370",
+      "removed": null
+    },
+    {
+      "appg_slug": "funerals-and-bereavement",
+      "mnis_id": 8542,
+      "name": "Mr Timothy Gaston",
+      "canon_name": "Timothy Gaston",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=2370",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

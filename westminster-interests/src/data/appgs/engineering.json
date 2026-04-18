@@ -1,0 +1,165 @@
+{
+  "slug": "engineering",
+  "title": "All-Party Parliamentary Engineering Group",
+  "purpose": "The APPG is a innovative group which collaborates between parliamentarians, schools, future engineers, and the engineering profession.",
+  "categories": [
+    "Education, Skills & Youth",
+    "Science, Technology & Innovation"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/engineering.htm",
+  "secretariat": "JBP Associates acts as the group's secretariat.https://jbp.co.uk/",
+  "website": "https://appeg.co.uk/",
+  "registered_contact_name": "Dave Doogan MP",
+  "date_of_most_recent_agm": "2026-01-07 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "engineering",
+      "mnis_id": 4124,
+      "name": "Dame Chi Onwurah",
+      "canon_name": "Chi Onwurah",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/engineering.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "engineering",
+      "mnis_id": 4736,
+      "name": "Dave Doogan",
+      "canon_name": "Dave Doogan",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/engineering.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "engineering",
+      "mnis_id": null,
+      "name": "Lord Baker of Dorking",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/engineering.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "engineering",
+      "mnis_id": 4563,
+      "name": "Lord Mair",
+      "canon_name": "Lord Mair",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/engineering.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "engineering",
+      "mnis_id": 4124,
+      "name": "Dame Chi Onwurah",
+      "canon_name": "Chi Onwurah",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/engineering.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "engineering",
+      "mnis_id": 4736,
+      "name": "Dave Doogan",
+      "canon_name": "Dave Doogan",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/engineering.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "engineering",
+      "mnis_id": null,
+      "name": "Lord Baker of Dorking",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/engineering.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "engineering",
+      "mnis_id": 4563,
+      "name": "Lord Mair",
+      "canon_name": "Lord Mair",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/engineering.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

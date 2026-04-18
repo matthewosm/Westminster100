@@ -1,0 +1,161 @@
+{
+  "mnis_id": 4618,
+  "name": "Liz Twist",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Blaydon and Consett",
+  "house": "Commons",
+  "start_date": "2017-06-08",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4618/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 2000.0,
+      "inkind": 0.0,
+      "combined": 2000.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 2000.0,
+      "inkind": 0.0,
+      "combined": 2000.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 2000.0,
+      "inkind": 0.0,
+      "combined": 2000.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "all_time": {
+      "monetary": 2000.0,
+      "inkind": 0.0,
+      "combined": 2000.0,
+      "payment_count": 1,
+      "donor_count": 1
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 2000.0,
+        "inkind": 0.0,
+        "combined": 2000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 2000.0,
+        "inkind": 0.0,
+        "combined": 2000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 2000.0,
+        "inkind": 0.0,
+        "combined": 2000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 2000.0,
+        "inkind": 0.0,
+        "combined": 2000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2000,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "grid-networks",
+      "appg_name": "All-Party Parliamentary Group for Grid Networks",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "respiratory-health",
+      "appg_name": "All-Party Parliamentary Group for Respiratory Health",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "suicide-and-self-harm-prevention",
+      "appg_name": "All-Party Parliamentary Group on Suicide and Self-Harm Prevention",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14405,
+      "date": "2026-01-26",
+      "category": "2",
+      "member_id": 4618,
+      "member_name": "Liz Twist",
+      "payer_id": 1131,
+      "payer_name": "UNISON",
+      "amount": 2000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4618/registeredinterests?categoryId=2",
+      "summary": "UNISON - £2,000.00",
+      "description": "Contribution towards printing costs for publication."
+    }
+  ]
+}

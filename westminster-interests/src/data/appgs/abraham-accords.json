@@ -1,0 +1,164 @@
+{
+  "slug": "abraham-accords",
+  "title": "All-Party Parliamentary Group on the Abraham Accords",
+  "purpose": "The APPG will champion the historic peace agreements known as the Abraham Accords.",
+  "categories": [
+    "International Affairs, Development & Trade"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/abraham-accords.htm",
+  "secretariat": "UK Abraham Accords Group  acts as the group's secretariat.https://www.abraham-accords.uk",
+  "website": "None",
+  "registered_contact_name": "Sir Andrew Mitchell MP",
+  "date_of_most_recent_agm": "2025-03-24 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "abraham-accords",
+      "mnis_id": 5169,
+      "name": "Charlie Dewhirst",
+      "canon_name": "Charlie Dewhirst",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/abraham-accords.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "abraham-accords",
+      "mnis_id": 4286,
+      "name": "Lord Mendelsohn",
+      "canon_name": "Lord Mendelsohn",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/abraham-accords.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "abraham-accords",
+      "mnis_id": 4547,
+      "name": "Lord Polak",
+      "canon_name": "Lord Polak",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/abraham-accords.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "abraham-accords",
+      "mnis_id": 1211,
+      "name": "Sir Andrew Mitchell",
+      "canon_name": "Andrew Mitchell",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/abraham-accords.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "abraham-accords",
+      "mnis_id": 5169,
+      "name": "Charlie Dewhirst",
+      "canon_name": "Charlie Dewhirst",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/abraham-accords.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "abraham-accords",
+      "mnis_id": 4286,
+      "name": "Lord Mendelsohn",
+      "canon_name": "Lord Mendelsohn",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/abraham-accords.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "abraham-accords",
+      "mnis_id": 4547,
+      "name": "Lord Polak",
+      "canon_name": "Lord Polak",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/abraham-accords.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "abraham-accords",
+      "mnis_id": 1211,
+      "name": "Sir Andrew Mitchell",
+      "canon_name": "Andrew Mitchell",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/abraham-accords.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

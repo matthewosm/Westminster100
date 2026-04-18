@@ -1,0 +1,96 @@
+{
+  "mnis_id": 5049,
+  "name": "Michelle Scrogham",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Barrow and Furness",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5049/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    }
+  },
+  "categories": {},
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "australia-united-kingdom-and-united-states-of-america-aukus",
+      "appg_name": "All-Party Parliamentary Group on Australia, United Kingdom and United States of America (AUKUS)",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "cardiac-risk-in-the-young",
+      "appg_name": "All-Party Parliamentary Group on Cardiac Risk in the Young",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "pans-pandas",
+      "appg_name": "All-Party Parliamentary Group on PANS PANDAS",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "defence-and-security-sectors-supporting-local-communities",
+      "appg_name": "All-Party Parliamentary Group on the Defence and Security Sectors Supporting Local Communities",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": []
+}

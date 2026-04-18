@@ -1,0 +1,174 @@
+{
+  "mnis_id": 5037,
+  "name": "Lola McEvoy",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Darlington",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5037/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 8499.99,
+      "combined": 8499.99,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 8499.99,
+      "combined": 8499.99,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 8499.99,
+      "combined": 8499.99,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 8499.99,
+      "combined": 8499.99,
+      "payment_count": 2,
+      "donor_count": 2
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 8499.99,
+        "combined": 8499.99,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 8499.99,
+        "combined": 8499.99,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 8499.99,
+        "combined": 8499.99,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 8499.99,
+        "combined": 8499.99,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    5667,
+    2833,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "industrial-strategy",
+      "appg_name": "All-Party Parliamentary Group on Industrial Strategy",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 13280,
+      "date": "2025-07-26",
+      "category": "2",
+      "member_id": 5037,
+      "member_name": "Lola McEvoy",
+      "payer_id": 1195,
+      "payer_name": "The YIMBY Initiative Ltd",
+      "amount": 2833.33,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-09-29",
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5037/registeredinterests?categoryId=2",
+      "summary": "The YIMBY Initiative Ltd - £2,833.33",
+      "description": "Provision of a member of staff to support my role as Co-Chair of the Labour Growth Group, shared with Chris Curtis MP"
+    },
+    {
+      "id": 13095,
+      "date": "2025-06-27",
+      "category": "2",
+      "member_id": 5037,
+      "member_name": "Lola McEvoy",
+      "payer_id": 1195,
+      "payer_name": "The YIMBY Initiative Ltd",
+      "amount": 5666.66,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-07-25",
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5037/registeredinterests?categoryId=2",
+      "summary": "The YIMBY Initiative Ltd - £5,666.66",
+      "description": "Provision of a member of staff to support my role as Co-Chair of the Labour Growth Growth, support shared with the other Co-Chair, Chris Curtis MP"
+    }
+  ]
+}

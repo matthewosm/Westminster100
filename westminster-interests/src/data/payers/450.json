@@ -1,0 +1,99 @@
+{
+  "id": 450,
+  "name": "GHGSat Limited",
+  "address": "Albert House, 256-260 Old Street, London EC1V 9DD UK.",
+  "nature_of_business": "A private sector company that uses its own satellites and aircraft sensors to measure greenhouse gas emissions directly from industrial sites, providing actionable insights to help businesses monitor, manage, and reduce their emissions.",
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 14784.39,
+      "inkind": 0.0,
+      "combined": 14784.39,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 19876.8,
+      "inkind": 0.0,
+      "combined": 19876.8,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "since_election": {
+      "monetary": 34661.19,
+      "inkind": 0.0,
+      "combined": 34661.19,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 34661.19,
+      "inkind": 0.0,
+      "combined": 34661.19,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 8441,
+      "date": "2024-07-31",
+      "category": "1.2",
+      "member_id": 4020,
+      "member_name": "George Freeman",
+      "payer_id": 450,
+      "payer_name": "GHGSat Limited",
+      "amount": 5000.0,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": "2024-09-01",
+      "end_date": "2025-03-31",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4020/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 01 September 2024 - £5,000.00",
+      "description": null
+    }
+  ]
+}

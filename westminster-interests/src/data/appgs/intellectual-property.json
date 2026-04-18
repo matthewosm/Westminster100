@@ -1,0 +1,165 @@
+{
+  "slug": "intellectual-property",
+  "title": "All-Party Parliamentary Group on Intellectual Property",
+  "purpose": "To debate and highlight the value of intellectual property and the importance of its promotion and protection. The Group meets several times a year on topical issues relating to intellectual property.",
+  "categories": [
+    "Economy, Business & Industry",
+    "Science, Technology & Innovation"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/intellectual-property.htm",
+  "secretariat": "Luther Pendragon Ltd acts as the group's secretariat.http://www.luther.co.uk/",
+  "website": "http://www.allpartyipgroup.org.uk/",
+  "registered_contact_name": "Sir John Whittingdale MP",
+  "date_of_most_recent_agm": "2025-11-25 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "intellectual-property",
+      "mnis_id": 3396,
+      "name": "Lord Clement-Jones",
+      "canon_name": "Lord Clement-Jones",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/intellectual-property.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "intellectual-property",
+      "mnis_id": 1440,
+      "name": "Pete Wishart",
+      "canon_name": "Pete Wishart",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/intellectual-property.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "intellectual-property",
+      "mnis_id": 4716,
+      "name": "Ruth Jones",
+      "canon_name": "Ruth Jones",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/intellectual-property.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "intellectual-property",
+      "mnis_id": 39,
+      "name": "Sir John Whittingdale",
+      "canon_name": "John Whittingdale",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/intellectual-property.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "intellectual-property",
+      "mnis_id": 3396,
+      "name": "Lord Clement-Jones",
+      "canon_name": "Lord Clement-Jones",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/intellectual-property.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "intellectual-property",
+      "mnis_id": 1440,
+      "name": "Pete Wishart",
+      "canon_name": "Pete Wishart",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/intellectual-property.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "intellectual-property",
+      "mnis_id": 4716,
+      "name": "Ruth Jones",
+      "canon_name": "Ruth Jones",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/intellectual-property.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "intellectual-property",
+      "mnis_id": 39,
+      "name": "Sir John Whittingdale",
+      "canon_name": "John Whittingdale",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/intellectual-property.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

@@ -1,0 +1,191 @@
+{
+  "slug": "aviation-travel-and-aerospace",
+  "title": "All-Party Parliamentary Group for the Future of Aviation, Travel and Aerospace",
+  "purpose": "To promote and support knowledge of all aspects of the aviation, travel and aerospace sectors in parliament and government and to provide a collective space for all parliamentarians to discuss the challenges and opportunities that these industries face.",
+  "categories": [
+    "Infrastructure, Transport & Mobility",
+    "Science, Technology & Innovation"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/aviation-travel-and-aerospace.htm",
+  "secretariat": "Tendo Consulting acts as the group's secretariat.https://www.tendoconsulting.co.uk/",
+  "website": "None",
+  "registered_contact_name": "Luke Taylor MP",
+  "date_of_most_recent_agm": "2025-12-03 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 400.0,
+      "combined": 400.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 400.0,
+      "combined": 400.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 400.0,
+      "combined": 400.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "aviation-travel-and-aerospace",
+      "mnis_id": null,
+      "name": "Baroness Foster of Oxton",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/aviation-travel-and-aerospace.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "aviation-travel-and-aerospace",
+      "mnis_id": 4360,
+      "name": "Gavin Robinson",
+      "canon_name": "Gavin Robinson",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/aviation-travel-and-aerospace.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "aviation-travel-and-aerospace",
+      "mnis_id": 5275,
+      "name": "Graeme Downie",
+      "canon_name": "Graeme Downie",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/aviation-travel-and-aerospace.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "aviation-travel-and-aerospace",
+      "mnis_id": 5103,
+      "name": "Luke Taylor",
+      "canon_name": "Luke Taylor",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/aviation-travel-and-aerospace.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "aviation-travel-and-aerospace",
+      "mnis_id": null,
+      "name": "Baroness Foster of Oxton",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/aviation-travel-and-aerospace.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "aviation-travel-and-aerospace",
+      "mnis_id": 4360,
+      "name": "Gavin Robinson",
+      "canon_name": "Gavin Robinson",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/aviation-travel-and-aerospace.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "aviation-travel-and-aerospace",
+      "mnis_id": 5275,
+      "name": "Graeme Downie",
+      "canon_name": "Graeme Downie",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/aviation-travel-and-aerospace.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "aviation-travel-and-aerospace",
+      "mnis_id": 5103,
+      "name": "Luke Taylor",
+      "canon_name": "Luke Taylor",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/aviation-travel-and-aerospace.htm",
+      "removed": null
+    }
+  ],
+  "payments": [
+    {
+      "id": 12054,
+      "date": "2025-02-25",
+      "category": "3",
+      "member_id": 4634,
+      "member_name": "Christine Jardine",
+      "payer_id": 609,
+      "payer_name": "Jet2 Holidays",
+      "amount": 400.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "aviation-travel-and-aerospace",
+      "appg_name": "All-Party Parliamentary Group for the Future of Aviation, Travel and Aerospace",
+      "source_url": "https://members.parliament.uk/member/4634/registeredinterests?categoryId=3",
+      "summary": "Jet2 Holidays - £400.00",
+      "description": "Ticket for the Airlines UK 2025 annual dinner (value is approximate)"
+    }
+  ]
+}

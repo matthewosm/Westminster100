@@ -1,0 +1,165 @@
+{
+  "slug": "get-refusal",
+  "title": "All-Party Parliamentary Group on Get Refusal",
+  "purpose": "To raise awareness and promote the needs of women trapped in Jewish Religious marriage and to promote their interests. The APPG will seek to encourage the exchange of knowledge and understanding between Parliament and all relevant stakeholders and promote policies to address these needs.",
+  "categories": [
+    "Religion, Faith & Belief Communities",
+    "Human Rights, Equality & Social Justice"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/get-refusal.htm",
+  "secretariat": "",
+  "website": "None",
+  "registered_contact_name": "Alex Baker MP",
+  "date_of_most_recent_agm": "2025-11-11 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "get-refusal",
+      "mnis_id": 5173,
+      "name": "Alex Baker",
+      "canon_name": "Alex Baker",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/get-refusal.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "get-refusal",
+      "mnis_id": 4533,
+      "name": "Baroness Altmann",
+      "canon_name": "Baroness Altmann",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/get-refusal.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "get-refusal",
+      "mnis_id": 3756,
+      "name": "Baroness Deech",
+      "canon_name": "Baroness Deech",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/get-refusal.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "get-refusal",
+      "mnis_id": 3948,
+      "name": "Rebecca Harris",
+      "canon_name": "Rebecca Harris",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/get-refusal.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "get-refusal",
+      "mnis_id": 5173,
+      "name": "Alex Baker",
+      "canon_name": "Alex Baker",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/get-refusal.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "get-refusal",
+      "mnis_id": 4533,
+      "name": "Baroness Altmann",
+      "canon_name": "Baroness Altmann",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/get-refusal.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "get-refusal",
+      "mnis_id": 3756,
+      "name": "Baroness Deech",
+      "canon_name": "Baroness Deech",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/get-refusal.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "get-refusal",
+      "mnis_id": 3948,
+      "name": "Rebecca Harris",
+      "canon_name": "Rebecca Harris",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/get-refusal.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

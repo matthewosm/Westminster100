@@ -1,0 +1,165 @@
+{
+  "slug": "black-maternal-health",
+  "title": "All-Party Parliamentary Group for Black Maternal Health",
+  "purpose": "As highlighted in the 2025 MBRRACE-UK report, Black women remain up to four times more likely to die in childbirth. This APPG aims to raise awareness of this racial disparity in maternal healthcare and offer actionable solutions to ensure safer, more equitable outcomes to end this.",
+  "categories": [
+    "Health, Medicine & Public Health",
+    "Human Rights, Equality & Social Justice"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/black-maternal-health.htm",
+  "secretariat": "Five X More acts as the group's secretariat.https://fivexmore.org/",
+  "website": "https://linktr.ee/bmh_appg",
+  "registered_contact_name": "Bell Ribeiro-Addy MP",
+  "date_of_most_recent_agm": "2025-07-21 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "black-maternal-health",
+      "mnis_id": 4790,
+      "name": "Apsana Begum",
+      "canon_name": "Apsana Begum",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/black-maternal-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "black-maternal-health",
+      "mnis_id": 3790,
+      "name": "Baroness Verma",
+      "canon_name": "Baroness Verma",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/black-maternal-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "black-maternal-health",
+      "mnis_id": 4764,
+      "name": "Bell Ribeiro-Addy",
+      "canon_name": "Bell Ribeiro-Addy",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/black-maternal-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "black-maternal-health",
+      "mnis_id": 172,
+      "name": "Ms Diane Abbott",
+      "canon_name": "Diane Abbott",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/black-maternal-health.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "black-maternal-health",
+      "mnis_id": 4790,
+      "name": "Apsana Begum",
+      "canon_name": "Apsana Begum",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/black-maternal-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "black-maternal-health",
+      "mnis_id": 3790,
+      "name": "Baroness Verma",
+      "canon_name": "Baroness Verma",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/black-maternal-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "black-maternal-health",
+      "mnis_id": 4764,
+      "name": "Bell Ribeiro-Addy",
+      "canon_name": "Bell Ribeiro-Addy",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/black-maternal-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "black-maternal-health",
+      "mnis_id": 172,
+      "name": "Ms Diane Abbott",
+      "canon_name": "Diane Abbott",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/black-maternal-health.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

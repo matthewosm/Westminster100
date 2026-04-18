@@ -1,0 +1,267 @@
+{
+  "mnis_id": 5120,
+  "name": "Shockat Adam",
+  "party": "Independent",
+  "party_slug": "independent",
+  "constituency": "Leicester South",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5120/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 6167.8,
+      "combined": 6167.8,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 8258.44,
+      "combined": 8258.44,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 8258.44,
+      "combined": 8258.44,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 8258.44,
+      "combined": 8258.44,
+      "payment_count": 3,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 5843.0,
+        "combined": 5843.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 7933.64,
+        "combined": 7933.64,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 7933.64,
+        "combined": 7933.64,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 7933.64,
+        "combined": 7933.64,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 324.8,
+        "combined": 324.8,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 324.8,
+        "combined": 324.8,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 324.8,
+        "combined": 324.8,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 324.8,
+        "combined": 324.8,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    6168,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "special-educational-needs-and-disabilities",
+      "appg_name": "All-Party Parliamentary Group for Special Educational Needs and Disabilities",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "emotional-support-for-parent-carers-of-seriously-ill-and-disabled-children",
+      "appg_name": "All-Party Parliamentary Group on Emotional Support for Parent Carers of Seriously Ill and Disabled Children",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "eye-health-and-visual-impairment",
+      "appg_name": "All-Party Parliamentary Group on Eye Health and Visual Impairment",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "obstructive-sleep-apnoea",
+      "appg_name": "All-Party Parliamentary Group on Obstructive Sleep Apnoea",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "race-and-community",
+      "appg_name": "All-Party Parliamentary Group on Race and Community",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 142361,
+      "date": "2025-12-05",
+      "category": "4",
+      "member_id": 5120,
+      "member_name": "Shockat Adam",
+      "payer_id": 319,
+      "payer_name": "Doha Forum",
+      "amount": 5843.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5120/registeredinterests?categoryId=4",
+      "summary": "International visit to Qatar between 05 December 2025 and 08 December 2025 — Participation in Doha Forum",
+      "description": "Flights (£5019), accommodation (estimate £677) and food (estimate £147)"
+    },
+    {
+      "id": 14235,
+      "date": "2025-11-30",
+      "category": "3",
+      "member_id": 5120,
+      "member_name": "Shockat Adam",
+      "payer_id": 1196,
+      "payer_name": "Your Party",
+      "amount": 324.8,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5120/registeredinterests?categoryId=3",
+      "summary": "Your Party - £324.80",
+      "description": "Two night's accommodation associated with being a guest speaker at Your Party conference Liverpool"
+    },
+    {
+      "id": 124321,
+      "date": "2025-04-13",
+      "category": "4",
+      "member_id": 5120,
+      "member_name": "Shockat Adam",
+      "payer_id": 565,
+      "payer_name": "International Centre of Justice for Palestinians (ICJP)",
+      "amount": 2090.64,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5120/registeredinterests?categoryId=4",
+      "summary": "International visit to Israel between 13 April 2025 and 18 April 2025 — Delegation to the occupied West Bank, including East Jerusalem, and Israel to meet with Palestinian communities and Palestinian and Israeli politicians, \r\n journalists and civil society organisations.",
+      "description": "Flights (£465.76), accommodation meals and transfers (£1624.88)"
+    }
+  ]
+}

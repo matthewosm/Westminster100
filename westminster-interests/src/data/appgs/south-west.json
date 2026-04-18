@@ -1,0 +1,165 @@
+{
+  "slug": "south-west",
+  "title": "All-Party Parliamentary Group for the great South West",
+  "purpose": "To promote economic growth across the counties of Cornwall, Devon, Somerset and Dorset, supporting the Great South West Partnership, and providing a forum to discuss pan-regional ambitions.",
+  "categories": [
+    "Economy, Business & Industry",
+    "Regions, Nations & Devolution"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/south-west.htm",
+  "secretariat": "Henham Strategy acts as the group's secretariat.https://www.henhamstrategy.co.uk/",
+  "website": "None",
+  "registered_contact_name": "Richard Foord MP",
+  "date_of_most_recent_agm": "2025-10-29 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "south-west",
+      "mnis_id": 5347,
+      "name": "David Reed",
+      "canon_name": "David Reed",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/south-west.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "south-west",
+      "mnis_id": 5217,
+      "name": "Lloyd Hatton",
+      "canon_name": "Lloyd Hatton",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/south-west.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "south-west",
+      "mnis_id": 3789,
+      "name": "Lord Teverson",
+      "canon_name": "Lord Teverson",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/south-west.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "south-west",
+      "mnis_id": 4942,
+      "name": "Richard Foord",
+      "canon_name": "Richard Foord",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/south-west.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "south-west",
+      "mnis_id": 5347,
+      "name": "David Reed",
+      "canon_name": "David Reed",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/south-west.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "south-west",
+      "mnis_id": 5217,
+      "name": "Lloyd Hatton",
+      "canon_name": "Lloyd Hatton",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/south-west.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "south-west",
+      "mnis_id": 3789,
+      "name": "Lord Teverson",
+      "canon_name": "Lord Teverson",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/south-west.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "south-west",
+      "mnis_id": 4942,
+      "name": "Richard Foord",
+      "canon_name": "Richard Foord",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/south-west.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

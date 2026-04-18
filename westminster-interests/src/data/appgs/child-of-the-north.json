@@ -1,0 +1,166 @@
+{
+  "slug": "child-of-the-north",
+  "title": "Child of the North All-Party Parliamentary Group",
+  "purpose": "Building a fairer future for children across the North of England.",
+  "categories": [
+    "Regions, Nations & Devolution",
+    "Education, Skills & Youth",
+    "Social Care, Welfare & Family Support"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/child-of-the-north.htm",
+  "secretariat": "Health Equity North acts as the group's secretariat.https://www.healthequitynorth.co.uk/",
+  "website": "https://www.healthequitynorth.co.uk/appg-reports",
+  "registered_contact_name": "Emma Lewell MP",
+  "date_of_most_recent_agm": "2025-12-16 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "child-of-the-north",
+      "mnis_id": 5169,
+      "name": "Charlie Dewhirst",
+      "canon_name": "Charlie Dewhirst",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/child-of-the-north.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "child-of-the-north",
+      "mnis_id": 4277,
+      "name": "Emma Lewell",
+      "canon_name": "Emma Lewell",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/child-of-the-north.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "child-of-the-north",
+      "mnis_id": 4831,
+      "name": "Ian Byrne",
+      "canon_name": "Ian Byrne",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/child-of-the-north.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "child-of-the-north",
+      "mnis_id": 4471,
+      "name": "Rachael Maskell",
+      "canon_name": "Rachael Maskell",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/child-of-the-north.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "child-of-the-north",
+      "mnis_id": 5169,
+      "name": "Charlie Dewhirst",
+      "canon_name": "Charlie Dewhirst",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/child-of-the-north.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "child-of-the-north",
+      "mnis_id": 4277,
+      "name": "Emma Lewell",
+      "canon_name": "Emma Lewell",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/child-of-the-north.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "child-of-the-north",
+      "mnis_id": 4831,
+      "name": "Ian Byrne",
+      "canon_name": "Ian Byrne",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/child-of-the-north.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "child-of-the-north",
+      "mnis_id": 4471,
+      "name": "Rachael Maskell",
+      "canon_name": "Rachael Maskell",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/child-of-the-north.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

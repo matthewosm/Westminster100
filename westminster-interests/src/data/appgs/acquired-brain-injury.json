@@ -1,0 +1,164 @@
+{
+  "slug": "acquired-brain-injury",
+  "title": "All-Party Parliamentary Group for Acquired Brain Injury",
+  "purpose": "To raise awareness of Acquired Brain Injury (ABI) and seek improvements in support and services for people with ABI and their carers; to provide a voice for people with ABI in parliament; and to raise issues across health, social care and welfare which affect people living with ABI.",
+  "categories": [
+    "Health, Medicine & Public Health"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/acquired-brain-injury.htm",
+  "secretariat": "UK Acquired Brain Injury Forum acts as the group's secretariat.http://ukabif.org.uk/",
+  "website": "https://ukabif.org.uk/page/CampaignAPPG",
+  "registered_contact_name": "Sir John Hayes MP",
+  "date_of_most_recent_agm": "2025-03-05 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "acquired-brain-injury",
+      "mnis_id": 4269,
+      "name": "Andy McDonald",
+      "canon_name": "Andy McDonald",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/acquired-brain-injury.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "acquired-brain-injury",
+      "mnis_id": null,
+      "name": "Baroness Morris of Yardley",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/acquired-brain-injury.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "acquired-brain-injury",
+      "mnis_id": 4831,
+      "name": "Ian Byrne",
+      "canon_name": "Ian Byrne",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/acquired-brain-injury.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "acquired-brain-injury",
+      "mnis_id": 350,
+      "name": "Sir John Hayes",
+      "canon_name": "John Hayes",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/acquired-brain-injury.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "acquired-brain-injury",
+      "mnis_id": 4269,
+      "name": "Andy McDonald",
+      "canon_name": "Andy McDonald",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/acquired-brain-injury.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "acquired-brain-injury",
+      "mnis_id": null,
+      "name": "Baroness Morris of Yardley",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/acquired-brain-injury.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "acquired-brain-injury",
+      "mnis_id": 4831,
+      "name": "Ian Byrne",
+      "canon_name": "Ian Byrne",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/acquired-brain-injury.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "acquired-brain-injury",
+      "mnis_id": 350,
+      "name": "Sir John Hayes",
+      "canon_name": "John Hayes",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/acquired-brain-injury.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

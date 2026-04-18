@@ -1,0 +1,165 @@
+{
+  "slug": "crypto-and-digital-assets",
+  "title": "All-Party Parliamentary Group on Crypto and Digital Assets",
+  "purpose": "To provide a forum for parliamentarians to discuss the challenges and opportunities relating to the growth and competitiveness of the crypto and digital assets sector and to explore the need for future regulation.",
+  "categories": [
+    "Finance, Markets & Consumer Affairs",
+    "Economy, Business & Industry"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/crypto-and-digital-assets.htm",
+  "secretariat": "CryptoUK acts as the group's secretariat.https://cryptouk.io/",
+  "website": "https://cryptouk.io/appg",
+  "registered_contact_name": "Gurinder Singh Josan MP",
+  "date_of_most_recent_agm": "2025-07-08 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "crypto-and-digital-assets",
+      "mnis_id": 4110,
+      "name": "Dame Karen Bradley",
+      "canon_name": "Karen Bradley",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/crypto-and-digital-assets.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "crypto-and-digital-assets",
+      "mnis_id": 5059,
+      "name": "Gurinder Singh Josan",
+      "canon_name": "Gurinder Josan",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/crypto-and-digital-assets.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "crypto-and-digital-assets",
+      "mnis_id": null,
+      "name": "Lord McNicol of West Kilbride",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/crypto-and-digital-assets.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "crypto-and-digital-assets",
+      "mnis_id": null,
+      "name": "Lord Vaizey of Didcot",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/crypto-and-digital-assets.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "crypto-and-digital-assets",
+      "mnis_id": 4110,
+      "name": "Dame Karen Bradley",
+      "canon_name": "Karen Bradley",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/crypto-and-digital-assets.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "crypto-and-digital-assets",
+      "mnis_id": 5059,
+      "name": "Gurinder Singh Josan",
+      "canon_name": "Gurinder Josan",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/crypto-and-digital-assets.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "crypto-and-digital-assets",
+      "mnis_id": null,
+      "name": "Lord McNicol of West Kilbride",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/crypto-and-digital-assets.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "crypto-and-digital-assets",
+      "mnis_id": null,
+      "name": "Lord Vaizey of Didcot",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/crypto-and-digital-assets.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

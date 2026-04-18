@@ -1,0 +1,165 @@
+{
+  "slug": "occupational-safety-and-health",
+  "title": "All-Party Parliamentary Group on Occupational Safety and Health",
+  "purpose": "The APPG holds meetings, receptions and events to discuss contemporary risks and hazards in the modern workplace. We publish reports and recommendations, and regularly hear from experts on a range of issues including asbestos, fire safety, occupational stress, and regulation.",
+  "categories": [
+    "Health, Medicine & Public Health",
+    "Justice, Law & Security"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/occupational-safety-and-health.htm",
+  "secretariat": "Trades Union Congress acts as the group's secretariat.https://www.tuc.org.uk/",
+  "website": "http://www.appgosh.org/",
+  "registered_contact_name": "Ian Lavery MP",
+  "date_of_most_recent_agm": "2024-10-14 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "occupational-safety-and-health",
+      "mnis_id": 4139,
+      "name": "Ian Lavery",
+      "canon_name": "Ian Lavery",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/occupational-safety-and-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "occupational-safety-and-health",
+      "mnis_id": 4302,
+      "name": "Lord Balfe",
+      "canon_name": "Lord Balfe",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/occupational-safety-and-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "occupational-safety-and-health",
+      "mnis_id": 4723,
+      "name": "Lord Hendy",
+      "canon_name": "Lord Hendy",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/occupational-safety-and-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "occupational-safety-and-health",
+      "mnis_id": 5317,
+      "name": "Paul Davies",
+      "canon_name": "Paul Davies",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/occupational-safety-and-health.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "occupational-safety-and-health",
+      "mnis_id": 4139,
+      "name": "Ian Lavery",
+      "canon_name": "Ian Lavery",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/occupational-safety-and-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "occupational-safety-and-health",
+      "mnis_id": 4302,
+      "name": "Lord Balfe",
+      "canon_name": "Lord Balfe",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/occupational-safety-and-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "occupational-safety-and-health",
+      "mnis_id": 4723,
+      "name": "Lord Hendy",
+      "canon_name": "Lord Hendy",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/occupational-safety-and-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "occupational-safety-and-health",
+      "mnis_id": 5317,
+      "name": "Paul Davies",
+      "canon_name": "Paul Davies",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/occupational-safety-and-health.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

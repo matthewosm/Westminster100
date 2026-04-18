@@ -1,0 +1,99 @@
+{
+  "id": 363,
+  "name": "ELNET UK/ iberal Democrat Friends of Israel",
+  "address": "4th Floor, 6 Princes Street, Londo, W1B 2LG",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 2297.0,
+      "inkind": 0.0,
+      "combined": 2297.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 2297.0,
+      "inkind": 0.0,
+      "combined": 2297.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 2297.0,
+      "inkind": 0.0,
+      "combined": 2297.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 2297.0,
+      "inkind": 0.0,
+      "combined": 2297.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2297,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 147491,
+      "date": "2026-02-15",
+      "category": "4",
+      "member_id": 5346,
+      "member_name": "Calum Miller",
+      "payer_id": 363,
+      "payer_name": "ELNET UK/ iberal Democrat Friends of Israel",
+      "amount": 2297.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5346/registeredinterests?categoryId=4",
+      "summary": "International visit to Israel between 15 February 2026 and 19 February 2026 — Fact-finding visit to Israel and Ramallah. Meeting with Israeli and Palestinian co-existence campaigners, politicians, academics and diplomats.",
+      "description": "Flights (£936), accommodation (£915), food (£446)"
+    }
+  ]
+}

@@ -1,0 +1,387 @@
+{
+  "mnis_id": 5284,
+  "name": "David Chadwick",
+  "party": "Liberal Democrat",
+  "party_slug": "liberal-democrat",
+  "constituency": "Brecon, Radnor and Cwm Tawe",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5284/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 9450.0,
+      "inkind": 1978.9,
+      "combined": 11428.9,
+      "payment_count": 5,
+      "donor_count": 5
+    },
+    "ytd": {
+      "monetary": 5700.0,
+      "inkind": 0.0,
+      "combined": 5700.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2025": {
+      "monetary": 3750.0,
+      "inkind": 2398.9,
+      "combined": 6148.9,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 983.9,
+      "combined": 983.9,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "since_election": {
+      "monetary": 9450.0,
+      "inkind": 3382.8,
+      "combined": 12832.8,
+      "payment_count": 7,
+      "donor_count": 6
+    },
+    "all_time": {
+      "monetary": 9450.0,
+      "inkind": 3382.8,
+      "combined": 12832.8,
+      "payment_count": 7,
+      "donor_count": 6
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 9450.0,
+        "inkind": 0.0,
+        "combined": 9450.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 5700.0,
+        "inkind": 0.0,
+        "combined": 5700.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 3750.0,
+        "inkind": 0.0,
+        "combined": 3750.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 9450.0,
+        "inkind": 0.0,
+        "combined": 9450.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 9450.0,
+        "inkind": 0.0,
+        "combined": 9450.0,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 983.9,
+        "combined": 983.9,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1403.9,
+        "combined": 1403.9,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 983.9,
+        "combined": 983.9,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 2387.8,
+        "combined": 2387.8,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 2387.8,
+        "combined": 2387.8,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    },
+    "5": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 995.0,
+        "combined": 995.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 995.0,
+        "combined": 995.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 995.0,
+        "combined": 995.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 995.0,
+        "combined": 995.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    995,
+    0,
+    0,
+    0,
+    3750,
+    0,
+    0,
+    984,
+    5700,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "forestry-and-timber-security",
+      "appg_name": "All-Party Parliamentary Group on Forestry and Timber Security",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14384,
+      "date": "2026-01-22",
+      "category": "2",
+      "member_id": 5284,
+      "member_name": "David Chadwick",
+      "payer_id": 751,
+      "payer_name": "Michael Watson",
+      "amount": 1600.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5284/registeredinterests?categoryId=2",
+      "summary": "Michael Watson - £1,600.00",
+      "description": "Jane Dodds Member of the Senedd for Mid & West Wales"
+    },
+    {
+      "id": 14392,
+      "date": "2026-01-22",
+      "category": "2",
+      "member_id": 5284,
+      "member_name": "David Chadwick",
+      "payer_id": 149,
+      "payer_name": "Brecon & Radnorshire Lib Dem 49 Club",
+      "amount": 4100.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5284/registeredinterests?categoryId=2",
+      "summary": "Brecon & Radnorshire Lib Dem 49 Club - £4,100.00",
+      "description": "Jane Dodds, Member of the Senedd for Mid & West Wales"
+    },
+    {
+      "id": 14325,
+      "date": "2025-12-23",
+      "category": "3",
+      "member_id": 5284,
+      "member_name": "David Chadwick",
+      "payer_id": 792,
+      "payer_name": "National Liberal Club",
+      "amount": 983.9,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2026-12-31",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5284/registeredinterests?categoryId=3",
+      "summary": "National Liberal Club - £983.90",
+      "description": "Extension of honorary membership until 31 December 2026, estimated value"
+    },
+    {
+      "id": 13555,
+      "date": "2025-10-16",
+      "category": "2",
+      "member_id": 5284,
+      "member_name": "David Chadwick",
+      "payer_id": 11,
+      "payer_name": "Adam Management Holdings",
+      "amount": 3750.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5284/registeredinterests?categoryId=2",
+      "summary": "Adam Management Holdings - £3,750.00",
+      "description": "Contribution towards campaigning activities"
+    },
+    {
+      "id": 12829,
+      "date": "2025-06-10",
+      "category": "5",
+      "member_id": 5284,
+      "member_name": "David Chadwick",
+      "payer_id": 243,
+      "payer_name": "CMS Analytics",
+      "amount": 995.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5284/registeredinterests?categoryId=5",
+      "summary": "CMS Analytics - £995.00",
+      "description": "A ticket to the Cash in the UK conference"
+    },
+    {
+      "id": 12076,
+      "date": "2025-02-26",
+      "category": "3",
+      "member_id": 5284,
+      "member_name": "David Chadwick",
+      "payer_id": 200,
+      "payer_name": "Centre for Turkey Studies and Development Ltd",
+      "amount": 420.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5284/registeredinterests?categoryId=3",
+      "summary": "Centre for Turkey Studies & Development - £420.00",
+      "description": "One ticket to the 13th British Kebab Awards on Wednesday 26th February 2025, at the Park Plaza Westminster Hotel"
+    },
+    {
+      "id": 11363,
+      "date": "2024-11-25",
+      "category": "3",
+      "member_id": 5284,
+      "member_name": "David Chadwick",
+      "payer_id": 792,
+      "payer_name": "National Liberal Club",
+      "amount": 983.9,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-12-31",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5284/registeredinterests?categoryId=3",
+      "summary": "National Liberal Club - £983.90",
+      "description": "Honorary membership until 31 December 2025, estimated value"
+    }
+  ]
+}

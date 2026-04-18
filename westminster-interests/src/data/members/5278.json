@@ -1,0 +1,273 @@
+{
+  "mnis_id": 5278,
+  "name": "Uma Kumaran",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Stratford and Bow",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5278/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 10537.33,
+      "combined": 10537.33,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 10537.33,
+      "combined": 10537.33,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 10537.33,
+      "combined": 10537.33,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 10537.33,
+      "combined": 10537.33,
+      "payment_count": 3,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 10137.33,
+        "combined": 10137.33,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 10137.33,
+        "combined": 10137.33,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 10137.33,
+        "combined": 10137.33,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 10137.33,
+        "combined": 10137.33,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 400.0,
+        "combined": 400.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 400.0,
+        "combined": 400.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 400.0,
+        "combined": 400.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 400.0,
+        "combined": 400.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    400,
+    0,
+    0,
+    0,
+    4170,
+    5968,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "renewable-and-sustainable-energy",
+      "appg_name": "All-Party Parliamentary Group for Renewable and Sustainable Energy",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "tamils",
+      "appg_name": "All-Party Parliamentary Group for Tamils",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "waterways",
+      "appg_name": "All-Party Parliamentary Group for the Waterways",
+      "officer_role": "Co-Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "international-conservation",
+      "appg_name": "All-Party Parliamentary Group on International Conservation",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "media-freedom",
+      "appg_name": "All-Party Parliamentary Group on Media Freedom",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "united-nations",
+      "appg_name": "All-Party Parliamentary Group on the United Nations",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 143481,
+      "date": "2025-12-05",
+      "category": "4",
+      "member_id": 5278,
+      "member_name": "Uma Kumaran",
+      "payer_id": 319,
+      "payer_name": "Doha Forum",
+      "amount": 5967.75,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5278/registeredinterests?categoryId=4",
+      "summary": "International visit to Qatar between 05 December 2025 and 08 December 2025 — To participate in the Doha Forum 2025 on regional diplomacy and dialogue. Included meetings with Qatari ministers, ministers from other countries and key multilateral partners to discuss efforts to resolve regional conflicts. This visit is relevant to my role as a member of the Foreign Affairs Select Committee.",
+      "description": "Accommodation and F&B: £403.32\r\nFlight: £5564.43"
+    },
+    {
+      "id": 140761,
+      "date": "2025-11-10",
+      "category": "4",
+      "member_id": 5278,
+      "member_name": "Uma Kumaran",
+      "payer_id": 372,
+      "payer_name": "Energy and Climate Intelligence Unit",
+      "amount": 4169.58,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5278/registeredinterests?categoryId=4",
+      "summary": "International visit to Brazil between 10 November 2025 and 17 November 2025 — Part of the cross party delegation of members to COP30, to meet legislators, counterparts, UN officials and experts to build relations and have discussions on international climate process.",
+      "description": "Accommodation (£1,339.33), flights (£2,418.72) and subsistence received (£411.53)"
+    },
+    {
+      "id": 12945,
+      "date": "2025-07-19",
+      "category": "3",
+      "member_id": 5278,
+      "member_name": "Uma Kumaran",
+      "payer_id": 1119,
+      "payer_name": "UK Athletics Limited",
+      "amount": 400.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5278/registeredinterests?categoryId=3",
+      "summary": "UK Athletics Limited - £400.00",
+      "description": "Two tickets to the Diamond League London Athletics Meeting on 19th July at the London Stadium"
+    }
+  ]
+}

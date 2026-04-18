@@ -1,0 +1,164 @@
+{
+  "slug": "pakistan",
+  "title": "All-Party Parliamentary Group on Pakistan",
+  "purpose": "To provide a forum to discuss all matters related to Pakistan and also pertinent issues related to Pakistanis living in the UK.",
+  "categories": [
+    "Country Group"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/pakistan.htm",
+  "secretariat": "",
+  "website": "None",
+  "registered_contact_name": "Yasmin Qureshi MP",
+  "date_of_most_recent_agm": "2024-09-09 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "pakistan",
+      "mnis_id": 4671,
+      "name": "Afzal Khan",
+      "canon_name": "Afzal Khan",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/pakistan.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "pakistan",
+      "mnis_id": 4335,
+      "name": "Baroness Mobarik",
+      "canon_name": "Baroness Mobarik",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/pakistan.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "pakistan",
+      "mnis_id": 4777,
+      "name": "Sarah Owen",
+      "canon_name": "Sarah Owen",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/pakistan.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "pakistan",
+      "mnis_id": 3924,
+      "name": "Yasmin Qureshi",
+      "canon_name": "Yasmin Qureshi",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/pakistan.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "pakistan",
+      "mnis_id": 4671,
+      "name": "Afzal Khan",
+      "canon_name": "Afzal Khan",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/pakistan.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "pakistan",
+      "mnis_id": 4335,
+      "name": "Baroness Mobarik",
+      "canon_name": "Baroness Mobarik",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/pakistan.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "pakistan",
+      "mnis_id": 4777,
+      "name": "Sarah Owen",
+      "canon_name": "Sarah Owen",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/pakistan.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "pakistan",
+      "mnis_id": 3924,
+      "name": "Yasmin Qureshi",
+      "canon_name": "Yasmin Qureshi",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/pakistan.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

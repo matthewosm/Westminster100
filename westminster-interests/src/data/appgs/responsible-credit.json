@@ -1,0 +1,165 @@
+{
+  "slug": "responsible-credit",
+  "title": "All-Party Parliamentary Group on Responsible Credit",
+  "purpose": "To provide a collaborative forum for legislators, industry and consumer groups to discuss policy and regulatory approaches to ensure adequate provision of safe, regulated credit to consumers. The group will promote both responsible lending and responsible borrowing as a means to achieving financial inclusion and sustainable economic growth in the UK.",
+  "categories": [
+    "Finance, Markets & Consumer Affairs",
+    "Economy, Business & Industry"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/responsible-credit.htm",
+  "secretariat": "Credit Strategy acts as the group's secretariat.https://www.creditstrategy.co.uk/",
+  "website": "None",
+  "registered_contact_name": "Lee Pitcher MP",
+  "date_of_most_recent_agm": "2025-10-15 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "responsible-credit",
+      "mnis_id": null,
+      "name": "Baroness Evans of Bowes Park",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/responsible-credit.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "responsible-credit",
+      "mnis_id": 5207,
+      "name": "Clive Jones",
+      "canon_name": "Clive Jones",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/responsible-credit.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "responsible-credit",
+      "mnis_id": 5170,
+      "name": "John Grady",
+      "canon_name": "John Grady",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/responsible-credit.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "responsible-credit",
+      "mnis_id": 5233,
+      "name": "Lee Pitcher",
+      "canon_name": "Lee Pitcher",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/responsible-credit.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "responsible-credit",
+      "mnis_id": null,
+      "name": "Baroness Evans of Bowes Park",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/responsible-credit.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "responsible-credit",
+      "mnis_id": 5207,
+      "name": "Clive Jones",
+      "canon_name": "Clive Jones",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/responsible-credit.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "responsible-credit",
+      "mnis_id": 5170,
+      "name": "John Grady",
+      "canon_name": "John Grady",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/responsible-credit.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "responsible-credit",
+      "mnis_id": 5233,
+      "name": "Lee Pitcher",
+      "canon_name": "Lee Pitcher",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/responsible-credit.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

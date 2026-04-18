@@ -1,0 +1,99 @@
+{
+  "id": 461,
+  "name": "Global Health Partnerships",
+  "address": "89-90 Paul Street, London EC2A 4NE",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 2337.32,
+      "combined": 2337.32,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 2337.32,
+      "combined": 2337.32,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 2337.32,
+      "combined": 2337.32,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 2337.32,
+      "combined": 2337.32,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    2337,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 139621,
+      "date": "2025-10-12",
+      "category": "4",
+      "member_id": 5307,
+      "member_name": "Dr Beccy Cooper",
+      "payer_id": 461,
+      "payer_name": "Global Health Partnerships",
+      "amount": 2337.32,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "global-health-and-security",
+      "appg_name": "All-Party Parliamentary Group on Global Health and Security",
+      "source_url": "https://members.parliament.uk/member/5307/registeredinterests?categoryId=4",
+      "summary": "International visit to Kenya between 12 October 2025 and 17 October 2025 — To participate in Commonwealth Partnerships for Antimicrobial Stewardship (CwPAMS) Regional Conference, multi-stakeholder dialogues, site visits and related high-level meetings.",
+      "description": "Flights (£1,319.32), accommodation (£603.00), food, visa, taxis (£410.00)"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": 1076,
+  "name": "Team Forces Funding Ltd",
+  "address": "Lime Cottage, Tisbury Row, Salisbury SP3 6RZ",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 47442.18,
+      "combined": 47442.18,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 47442.18,
+      "combined": 47442.18,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 47442.18,
+      "combined": 47442.18,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 47442.18,
+      "combined": 47442.18,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    47442,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 143501,
+      "date": "2025-05-16",
+      "category": "4",
+      "member_id": 5235,
+      "member_name": "Al Carns",
+      "payer_id": 1076,
+      "payer_name": "Team Forces Funding Ltd",
+      "amount": 47442.18,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5235/registeredinterests?categoryId=4",
+      "summary": "International visit to Nepal between 16 May 2025 and 23 May 2025 — As part of a team of four UK veterans, I undertook a record breaking, speed ascent of Mount Everest in under a week. Their purpose was to unify the military community, raise awareness of the overwhelmingly positive contribution of veterans, and to raise critical funds for veterans' charities, especially those which support the veterans 'families whose loved ones have made the ultimate sacrifice.",
+      "description": "One return economy ticket from London to Kathmandu (£1,790.65), high altitude/cold weather expedition and summit equipment (£1,351.53), mountain operations and support, safety components, evacuation insurance and logistics (£44,300)"
+    }
+  ]
+}

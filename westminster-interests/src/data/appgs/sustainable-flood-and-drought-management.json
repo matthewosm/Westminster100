@@ -1,0 +1,165 @@
+{
+  "slug": "sustainable-flood-and-drought-management",
+  "title": "All-Party Parliamentary Group for Sustainable Flood and Drought Management",
+  "purpose": "Provides a forum for parliamentarians and interested stakeholders to discuss water level and flood risk management. With a particular interest in catchment management, sustainable drainage and water resource management, better partnership working, and the maintenance of existing flood and drought related assets.",
+  "categories": [
+    "Environment, Climate & Sustainability",
+    "Infrastructure, Transport & Mobility"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sustainable-flood-and-drought-management.htm",
+  "secretariat": "Association of Drainage Authorities acts as the group's secretariat.https://www.ada.org.uk/",
+  "website": "https://www.ada.org.uk/events/appg/",
+  "registered_contact_name": "Lee Pitcher MP",
+  "date_of_most_recent_agm": "2026-02-04 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "sustainable-flood-and-drought-management",
+      "mnis_id": 5182,
+      "name": "Charlotte Cane",
+      "canon_name": "Charlotte Cane",
+      "officer_role": "Co-Vice-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sustainable-flood-and-drought-management.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "sustainable-flood-and-drought-management",
+      "mnis_id": 5352,
+      "name": "Dr Roz Savage",
+      "canon_name": "Roz Savage",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sustainable-flood-and-drought-management.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "sustainable-flood-and-drought-management",
+      "mnis_id": 5233,
+      "name": "Lee Pitcher",
+      "canon_name": "Lee Pitcher",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sustainable-flood-and-drought-management.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "sustainable-flood-and-drought-management",
+      "mnis_id": null,
+      "name": "The Earl of Caithness",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sustainable-flood-and-drought-management.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "sustainable-flood-and-drought-management",
+      "mnis_id": 5182,
+      "name": "Charlotte Cane",
+      "canon_name": "Charlotte Cane",
+      "officer_role": "Co-Vice-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sustainable-flood-and-drought-management.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "sustainable-flood-and-drought-management",
+      "mnis_id": 5352,
+      "name": "Dr Roz Savage",
+      "canon_name": "Roz Savage",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sustainable-flood-and-drought-management.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "sustainable-flood-and-drought-management",
+      "mnis_id": 5233,
+      "name": "Lee Pitcher",
+      "canon_name": "Lee Pitcher",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sustainable-flood-and-drought-management.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "sustainable-flood-and-drought-management",
+      "mnis_id": null,
+      "name": "The Earl of Caithness",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sustainable-flood-and-drought-management.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

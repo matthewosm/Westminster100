@@ -1,0 +1,99 @@
+{
+  "id": 63,
+  "name": "APPG for Defence Technology",
+  "address": "APPG Secretariat Services Ltd, 25 The Brackens, Orpington, Kent BR6 6JH",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 324.33,
+      "inkind": 0.0,
+      "combined": 324.33,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 324.33,
+      "inkind": 0.0,
+      "combined": 324.33,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 324.33,
+      "inkind": 0.0,
+      "combined": 324.33,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 324.33,
+      "inkind": 0.0,
+      "combined": 324.33,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    324,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 126281,
+      "date": "2025-05-30",
+      "category": "4",
+      "member_id": 5174,
+      "member_name": "Fred Thomas",
+      "payer_id": 63,
+      "payer_name": "APPG for Defence Technology",
+      "amount": 324.33,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "defence-technology",
+      "appg_name": "All-Party Parliamentary Group for Defence Technology",
+      "source_url": "https://members.parliament.uk/member/5174/registeredinterests?categoryId=4",
+      "summary": "International visit to Ukraine between 30 May 2025 and 01 June 2025 — To attend the Black Sea Security Forum in Odesa.",
+      "description": "Flights reimbursed on 13 June 2025"
+    }
+  ]
+}

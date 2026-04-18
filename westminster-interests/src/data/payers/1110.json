@@ -1,0 +1,99 @@
+{
+  "id": 1110,
+  "name": "Tribune d'information des travailleurs des Alpes-Maritimes (TITAM)",
+  "address": "23 Allée de la Bergerie, 06370 Mouans-Sartoux, France",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 1131.75,
+      "combined": 1131.75,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 1131.75,
+      "combined": 1131.75,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 1131.75,
+      "combined": 1131.75,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 1131.75,
+      "combined": 1131.75,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1132,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 136021,
+      "date": "2025-10-03",
+      "category": "4",
+      "member_id": 4786,
+      "member_name": "Zarah Sultana",
+      "payer_id": 1110,
+      "payer_name": "Tribune d'information des travailleurs des Alpes-Maritimes (TITAM)",
+      "amount": 1131.75,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4786/registeredinterests?categoryId=4",
+      "summary": "International visit to France between 03 October 2025 and 06 October 2025 — International anti-war conference",
+      "description": "Costs associated with being a guest speaker at the anti-war conference in Paris. Travel (£450) and accommodation for three nights (£681.75) for myself and one other person"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": 224,
+  "name": "Chevening Industries Limited",
+  "address": "James Cowper Kreston, 8th Floor South, Reading Bridge House, George Street, Reading, RG1 8LS",
+  "nature_of_business": null,
+  "donor_status": "Company",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 11705.27,
+      "combined": 11705.27,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 11705.27,
+      "combined": 11705.27,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 11705.27,
+      "combined": 11705.27,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 11705.27,
+      "combined": 11705.27,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    11705,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 12991,
+      "date": "2025-06-30",
+      "category": "2",
+      "member_id": 4484,
+      "member_name": "Alan Mak",
+      "payer_id": 224,
+      "payer_name": "Chevening Industries Limited",
+      "amount": 11705.27,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4484/registeredinterests?categoryId=2",
+      "summary": "Chevening Industries Limited - £11,705.27",
+      "description": "Sponsorship of dinner marking my 10 years as an MP (venue hire, catering and related costs). Paid direct to venue"
+    }
+  ]
+}

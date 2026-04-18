@@ -1,0 +1,224 @@
+{
+  "mnis_id": 5155,
+  "name": "Chris Kane",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Stirling and Strathallan",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5155/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 647.52,
+      "inkind": 860.0,
+      "combined": 1507.52,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 647.52,
+      "inkind": 860.0,
+      "combined": 1507.52,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 647.52,
+      "inkind": 860.0,
+      "combined": 1507.52,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "all_time": {
+      "monetary": 647.52,
+      "inkind": 860.0,
+      "combined": 1507.52,
+      "payment_count": 2,
+      "donor_count": 2
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 860.0,
+        "combined": 860.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 860.0,
+        "combined": 860.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 860.0,
+        "combined": 860.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 860.0,
+        "combined": 860.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 647.52,
+        "inkind": 0.0,
+        "combined": 647.52,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 647.52,
+        "inkind": 0.0,
+        "combined": 647.52,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 647.52,
+        "inkind": 0.0,
+        "combined": 647.52,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 647.52,
+        "inkind": 0.0,
+        "combined": 647.52,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    648,
+    0,
+    0,
+    860,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "canada",
+      "appg_name": "All-Party Parliamentary Group on Canada",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "media",
+      "appg_name": "All-Party Parliamentary Media Group",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 13260,
+      "date": "2025-08-16",
+      "category": "3",
+      "member_id": 5155,
+      "member_name": "Chris Kane",
+      "payer_id": 403,
+      "payer_name": "Festivals Edinburgh Limited",
+      "amount": 860.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-08-16",
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5155/registeredinterests?categoryId=3",
+      "summary": "Festivals Edinburgh Limited - £860.00",
+      "description": "Two tickets to the Edinburgh Military Tattoo in August 2025"
+    },
+    {
+      "id": 123851,
+      "date": "2025-05-02",
+      "category": "4",
+      "member_id": 5155,
+      "member_name": "Chris Kane",
+      "payer_id": 70,
+      "payer_name": "Armed Forces Parliamentary Trust",
+      "amount": 647.52,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5155/registeredinterests?categoryId=4",
+      "summary": "International visit to Bahrain between 02 May 2025 and 05 May 2025 — To undertake a visit as part of my participation in the Armed Forces Parliamentary Scheme.",
+      "description": "2nd April 2025 - reimbursement payment for 1 x return flight from London to Bahrain"
+    }
+  ]
+}

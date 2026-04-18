@@ -1,0 +1,102 @@
+{
+  "mnis_id": 4212,
+  "name": "Debbie Abrahams",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Oldham East and Saddleworth",
+  "house": "Commons",
+  "start_date": "2011-01-13",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4212/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    }
+  },
+  "categories": {},
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "dementia",
+      "appg_name": "All-Party Parliamentary Group on Dementia",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "healthy-places",
+      "appg_name": "All-Party Parliamentary Group on Healthy Places",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "kashmir",
+      "appg_name": "All-Party Parliamentary Group on Kashmir",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "myalgic-encephalomyelitis-me",
+      "appg_name": "All-Party Parliamentary Group on Myalgic Encephalomyelitis (ME)",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "palestine",
+      "appg_name": "Britain-Palestine All-Party Parliamentary Group",
+      "officer_role": "Co-Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": []
+}

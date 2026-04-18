@@ -1,0 +1,164 @@
+{
+  "slug": "reserves-and-cadets",
+  "title": "All-Party Parliamentary Group for Reserves and Cadets",
+  "purpose": "To promote the interests of Reserve Forces and Cadets in Parliament.",
+  "categories": [
+    "Justice, Law & Security"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/reserves-and-cadets.htm",
+  "secretariat": "",
+  "website": "https://www.glrfca.org/about/all-party-parliamentary-group-appg-reserves-and-cadets/",
+  "registered_contact_name": "David Davis MP",
+  "date_of_most_recent_agm": "2025-07-08 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "reserves-and-cadets",
+      "mnis_id": 5044,
+      "name": "Adam Thompson",
+      "canon_name": "Adam Thompson",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/reserves-and-cadets.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "reserves-and-cadets",
+      "mnis_id": 5198,
+      "name": "Chris Coghlan",
+      "canon_name": "Chris Coghlan",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/reserves-and-cadets.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "reserves-and-cadets",
+      "mnis_id": 373,
+      "name": "David Davis",
+      "canon_name": "David Davis",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/reserves-and-cadets.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "reserves-and-cadets",
+      "mnis_id": 2202,
+      "name": "Lord De Mauley",
+      "canon_name": "Lord de Mauley",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/reserves-and-cadets.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "reserves-and-cadets",
+      "mnis_id": 5044,
+      "name": "Adam Thompson",
+      "canon_name": "Adam Thompson",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/reserves-and-cadets.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "reserves-and-cadets",
+      "mnis_id": 5198,
+      "name": "Chris Coghlan",
+      "canon_name": "Chris Coghlan",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/reserves-and-cadets.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "reserves-and-cadets",
+      "mnis_id": 373,
+      "name": "David Davis",
+      "canon_name": "David Davis",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/reserves-and-cadets.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "reserves-and-cadets",
+      "mnis_id": 2202,
+      "name": "Lord De Mauley",
+      "canon_name": "Lord de Mauley",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/reserves-and-cadets.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

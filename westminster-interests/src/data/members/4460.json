@@ -1,0 +1,192 @@
+{
+  "mnis_id": 4460,
+  "name": "Ms Nusrat Ghani",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "Sussex Weald",
+  "house": "Commons",
+  "start_date": "2015-05-07",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4460/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 1477.78,
+      "combined": 1477.78,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 2875.78,
+      "combined": 2875.78,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 2875.78,
+      "combined": 2875.78,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 2875.78,
+      "combined": 2875.78,
+      "payment_count": 3,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1477.78,
+        "combined": 1477.78,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 2875.78,
+        "combined": 2875.78,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 2875.78,
+        "combined": 2875.78,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 2875.78,
+        "combined": 2875.78,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    1058,
+    420,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [],
+  "payments": [
+    {
+      "id": 13108,
+      "date": "2025-08-01",
+      "category": "3",
+      "member_id": 4460,
+      "member_name": "Ms Nusrat Ghani",
+      "payer_id": 212,
+      "payer_name": "Charles Gordon-Lennox (The Duke of Richmond)",
+      "amount": 420.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4460/registeredinterests?categoryId=3",
+      "summary": "Charles Gordon-Lennox (The Duke of Richmond) - £420.00",
+      "description": "Three tickets and hospitality for event at Goodwood, Sussex"
+    },
+    {
+      "id": 12898,
+      "date": "2025-06-27",
+      "category": "3",
+      "member_id": 4460,
+      "member_name": "Ms Nusrat Ghani",
+      "payer_id": 480,
+      "payer_name": "Google UK Ltd",
+      "amount": 1057.78,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-06-29",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4460/registeredinterests?categoryId=3",
+      "summary": "Google UK Ltd - £1,057.78",
+      "description": "One ticket and hospitality at the Glastonbury Festival of Contemporary Arts 2025"
+    },
+    {
+      "id": 12000,
+      "date": "2025-03-01",
+      "category": "3",
+      "member_id": 4460,
+      "member_name": "Ms Nusrat Ghani",
+      "payer_id": 1198,
+      "payer_name": "YouTube Ltd",
+      "amount": 1398.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4460/registeredinterests?categoryId=3",
+      "summary": "YouTube Ltd - £1,398.00",
+      "description": "Ticket and hospitality to BRIT awards"
+    }
+  ]
+}

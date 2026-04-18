@@ -1,0 +1,267 @@
+{
+  "mnis_id": 3924,
+  "name": "Yasmin Qureshi",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Bolton South and Walkden",
+  "house": "Commons",
+  "start_date": "2010-05-06",
+  "photo_url": "https://members-api.parliament.uk/api/Members/3924/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 14260.16,
+      "combined": 14260.16,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 3303.31,
+      "combined": 3303.31,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 10956.85,
+      "combined": 10956.85,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 14260.16,
+      "combined": 14260.16,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 14260.16,
+      "combined": 14260.16,
+      "payment_count": 3,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 12860.16,
+        "combined": 12860.16,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 3303.31,
+        "combined": 3303.31,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 9556.85,
+        "combined": 9556.85,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 12860.16,
+        "combined": 12860.16,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 12860.16,
+        "combined": 12860.16,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1400.0,
+        "combined": 1400.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1400.0,
+        "combined": 1400.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1400.0,
+        "combined": 1400.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1400.0,
+        "combined": 1400.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    1400,
+    0,
+    0,
+    9557,
+    0,
+    0,
+    0,
+    3303,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "dentistry-and-oral-health",
+      "appg_name": "All-Party Parliamentary Group for Dentistry and Oral Health",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "maldives",
+      "appg_name": "All-Party Parliamentary Group on Maldives",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "obesity",
+      "appg_name": "All-Party Parliamentary Group on Obesity",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "pakistan",
+      "appg_name": "All-Party Parliamentary Group on Pakistan",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "primodos",
+      "appg_name": "All-Party Parliamentary Group on Primodos",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 145581,
+      "date": "2026-01-22",
+      "category": "4",
+      "member_id": 3924,
+      "member_name": "Yasmin Qureshi",
+      "payer_id": 540,
+      "payer_name": "Hum TV",
+      "amount": 3303.31,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/3924/registeredinterests?categoryId=4",
+      "summary": "International visit to Pakistan between 22 January 2026 and 27 January 2026 — Presentation of the HUM Women Leaders Award.",
+      "description": "Flights"
+    },
+    {
+      "id": 136571,
+      "date": "2025-10-11",
+      "category": "4",
+      "member_id": 3924,
+      "member_name": "Yasmin Qureshi",
+      "payer_id": 637,
+      "payer_name": "The Kingdom of Saudi Arabia",
+      "amount": 9556.85,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "saudi-arabia",
+      "appg_name": "All-Party Parliamentary Group on Saudi Arabia",
+      "source_url": "https://members.parliament.uk/member/3924/registeredinterests?categoryId=4",
+      "summary": "International visit to Saudi Arabia between 11 October 2025 and 14 October 2025 — Part of a delegation of MPs and Peers over four days, to meet several Saudi Ministers, royal family members and members of the Shura Council, in relation to trade, defence, tourism (Haj/Umrah), education and energy. A dinner was hosted by the Ambassodor at the British Embassy, to promote Saudi-British relations.",
+      "description": "Flights (£7,276.54), accommodation (£1,880.31), lunch and dinner across four days (£400 estimated)"
+    },
+    {
+      "id": 12833,
+      "date": "2025-07-05",
+      "category": "3",
+      "member_id": 3924,
+      "member_name": "Yasmin Qureshi",
+      "payer_id": 1006,
+      "payer_name": "Silverstone Circuits Limited",
+      "amount": 1400.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "formula-1-and-motorsport",
+      "appg_name": "All-Party Parliamentary Group on Formula 1 and Motorsport",
+      "source_url": "https://members.parliament.uk/member/3924/registeredinterests?categoryId=3",
+      "summary": "Silverstone Circuits Limited - £1,400.00",
+      "description": "Two tickets for the Formula 1 Grand Prix Qualifying at Silverstone on Saturday 5 July 2025, including refreshments"
+    }
+  ]
+}

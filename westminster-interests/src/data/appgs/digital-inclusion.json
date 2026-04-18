@@ -1,0 +1,164 @@
+{
+  "slug": "digital-inclusion",
+  "title": "Digital Inclusion All-Party Parliamentary Group",
+  "purpose": "The APPG brings together parliamentarians, industry experts and civil society to explore policies to improve digital inclusion with the aim to close the digital divide in the UK. The APPG is committed to finding and amplifying ways to enhance access to data and devices and improve digital skills.",
+  "categories": [
+    "Education, Skills & Youth"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/digital-inclusion.htm",
+  "secretariat": "Lodestone Communications acts as the group's secretariat.https://lodestonecommunications.com/",
+  "website": "https://www.datapovertyappg.co.uk/",
+  "registered_contact_name": "Dan Aldridge MP",
+  "date_of_most_recent_agm": "2026-01-14 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "digital-inclusion",
+      "mnis_id": 3790,
+      "name": "Baroness Verma",
+      "canon_name": "Baroness Verma",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/digital-inclusion.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "digital-inclusion",
+      "mnis_id": 5172,
+      "name": "Dan Aldridge",
+      "canon_name": "Dan Aldridge",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/digital-inclusion.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "digital-inclusion",
+      "mnis_id": 3396,
+      "name": "Lord Clement-Jones",
+      "canon_name": "Lord Clement-Jones",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/digital-inclusion.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "digital-inclusion",
+      "mnis_id": 5154,
+      "name": "Sarah Hall",
+      "canon_name": "Sarah Hall",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/digital-inclusion.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "digital-inclusion",
+      "mnis_id": 3790,
+      "name": "Baroness Verma",
+      "canon_name": "Baroness Verma",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/digital-inclusion.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "digital-inclusion",
+      "mnis_id": 5172,
+      "name": "Dan Aldridge",
+      "canon_name": "Dan Aldridge",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/digital-inclusion.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "digital-inclusion",
+      "mnis_id": 3396,
+      "name": "Lord Clement-Jones",
+      "canon_name": "Lord Clement-Jones",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/digital-inclusion.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "digital-inclusion",
+      "mnis_id": 5154,
+      "name": "Sarah Hall",
+      "canon_name": "Sarah Hall",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/digital-inclusion.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

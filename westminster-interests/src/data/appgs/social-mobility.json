@@ -1,0 +1,165 @@
+{
+  "slug": "social-mobility",
+  "title": "All-Party Parliamentary Group on Social Mobility",
+  "purpose": "To discuss and evaluate key issues and indicators of social mobility and barriers to it. To hold seminars and meetings to present and highlight the latest research on social mobility.",
+  "categories": [
+    "Education, Skills & Youth",
+    "Social Care, Welfare & Family Support"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/social-mobility.htm",
+  "secretariat": "The Sutton Trust acts as the group's secretariat.https://www.suttontrust.com/",
+  "website": "None",
+  "registered_contact_name": "Peter Swallow MP",
+  "date_of_most_recent_agm": "2025-04-23 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "social-mobility",
+      "mnis_id": 5170,
+      "name": "John Grady",
+      "canon_name": "John Grady",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/social-mobility.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "social-mobility",
+      "mnis_id": 1879,
+      "name": "Lord Lucas",
+      "canon_name": "Lord Lucas",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/social-mobility.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "social-mobility",
+      "mnis_id": 4238,
+      "name": "Lord Storey",
+      "canon_name": "Lord Storey",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/social-mobility.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "social-mobility",
+      "mnis_id": 5165,
+      "name": "Peter Swallow",
+      "canon_name": "Peter Swallow",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/social-mobility.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "social-mobility",
+      "mnis_id": 5170,
+      "name": "John Grady",
+      "canon_name": "John Grady",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/social-mobility.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "social-mobility",
+      "mnis_id": 1879,
+      "name": "Lord Lucas",
+      "canon_name": "Lord Lucas",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/social-mobility.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "social-mobility",
+      "mnis_id": 4238,
+      "name": "Lord Storey",
+      "canon_name": "Lord Storey",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/social-mobility.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "social-mobility",
+      "mnis_id": 5165,
+      "name": "Peter Swallow",
+      "canon_name": "Peter Swallow",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/social-mobility.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

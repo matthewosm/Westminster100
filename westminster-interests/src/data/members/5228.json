@@ -1,0 +1,102 @@
+{
+  "mnis_id": 5228,
+  "name": "Maya Ellis",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Ribble Valley",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5228/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    }
+  },
+  "categories": {},
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "fatherhood",
+      "appg_name": "All-Party Parliamentary Group for Fatherhood",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "flexible-and-family-friendly-working",
+      "appg_name": "All-Party Parliamentary Group for Flexible and Family Friendly Working",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "babies-pregnancy-to-age-2",
+      "appg_name": "All-Party Parliamentary Group on Babies (Pregnancy to Age 2)",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "lancashire",
+      "appg_name": "All-Party Parliamentary Group on Lancashire",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "sexual-and-reproductive-health-in-the-uk",
+      "appg_name": "All-Party Parliamentary Group on Sexual and Reproductive Health in the UK",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": []
+}

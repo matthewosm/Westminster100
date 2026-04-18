@@ -1,0 +1,240 @@
+{
+  "slug": "united-arab-emirates",
+  "title": "United Arab Emirates All-Party Parliamentary Group",
+  "purpose": "The primary aim of the this APPG is to strengthen the ties between the United Arab Emirates and the United Kingdom, enhancing mutual understanding and collaboration across a range of strategic sectors, including technology, business, artificial intelligence (AI), and security.",
+  "categories": [
+    "Country Group"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/united-arab-emirates.htm",
+  "secretariat": "",
+  "website": "None",
+  "registered_contact_name": "Sir Oliver Dowden MP",
+  "date_of_most_recent_agm": "2025-05-07 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 30259.0,
+      "combined": 30259.0,
+      "payment_count": 3,
+      "donor_count": 1,
+      "mp_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 23009.0,
+      "combined": 23009.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 2
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 7250.0,
+      "combined": 7250.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 30259.0,
+      "combined": 30259.0,
+      "payment_count": 3,
+      "donor_count": 1,
+      "mp_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 30259.0,
+      "combined": 30259.0,
+      "payment_count": 3,
+      "donor_count": 1,
+      "mp_count": 2
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "united-arab-emirates",
+      "mnis_id": 395,
+      "name": "Lord Blunkett",
+      "canon_name": "Lord Blunkett",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/united-arab-emirates.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "united-arab-emirates",
+      "mnis_id": 4074,
+      "name": "Mark Garnier",
+      "canon_name": "Mark Garnier",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/united-arab-emirates.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "united-arab-emirates",
+      "mnis_id": 5150,
+      "name": "Samantha Niblett",
+      "canon_name": "Samantha Niblett",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/united-arab-emirates.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "united-arab-emirates",
+      "mnis_id": 4441,
+      "name": "Sir Oliver Dowden",
+      "canon_name": "Oliver Dowden",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/united-arab-emirates.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "united-arab-emirates",
+      "mnis_id": 395,
+      "name": "Lord Blunkett",
+      "canon_name": "Lord Blunkett",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/united-arab-emirates.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "united-arab-emirates",
+      "mnis_id": 4074,
+      "name": "Mark Garnier",
+      "canon_name": "Mark Garnier",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/united-arab-emirates.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "united-arab-emirates",
+      "mnis_id": 5150,
+      "name": "Samantha Niblett",
+      "canon_name": "Samantha Niblett",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/united-arab-emirates.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "united-arab-emirates",
+      "mnis_id": 4441,
+      "name": "Sir Oliver Dowden",
+      "canon_name": "Oliver Dowden",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/united-arab-emirates.htm",
+      "removed": null
+    }
+  ],
+  "payments": [
+    {
+      "id": 145461,
+      "date": "2026-01-27",
+      "category": "4",
+      "member_id": 4441,
+      "member_name": "Sir Oliver Dowden",
+      "payer_id": 369,
+      "payer_name": "Embassy of the United Arab Emirates",
+      "amount": 13645.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "united-arab-emirates",
+      "appg_name": "United Arab Emirates All-Party Parliamentary Group",
+      "source_url": "https://members.parliament.uk/member/4441/registeredinterests?categoryId=4",
+      "summary": "International visit to United Arab Emirates between 27 January 2026 and 30 January 2026 — A cross-party visit to engage with parliamentarians and civic society representatives.",
+      "description": "Return flight: £6,950, Accommodation: £4,995, Transfers and Transport: £1700"
+    },
+    {
+      "id": 145961,
+      "date": "2026-01-27",
+      "category": "4",
+      "member_id": 4651,
+      "member_name": "Dan Carden",
+      "payer_id": 369,
+      "payer_name": "Embassy of the United Arab Emirates",
+      "amount": 9364.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "united-arab-emirates",
+      "appg_name": "United Arab Emirates All-Party Parliamentary Group",
+      "source_url": "https://members.parliament.uk/member/4651/registeredinterests?categoryId=4",
+      "summary": "International visit to United Arab Emirates between 27 January 2026 and 01 February 2026 — Cross-party visit to engage with parliamentarians and civic society representatives.",
+      "description": "Flights (£4095), food and accommodation (£2920) and in-country transport (£2349)"
+    },
+    {
+      "id": 138151,
+      "date": "2025-10-28",
+      "category": "4",
+      "member_id": 4441,
+      "member_name": "Sir Oliver Dowden",
+      "payer_id": 369,
+      "payer_name": "Embassy of the United Arab Emirates",
+      "amount": 7250.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "united-arab-emirates",
+      "appg_name": "United Arab Emirates All-Party Parliamentary Group",
+      "source_url": "https://members.parliament.uk/member/4441/registeredinterests?categoryId=4",
+      "summary": "International visit to United Arab Emirates between 28 October 2025 and 31 October 2025 — Attending the UAE-UK Business Council Plenary Conference",
+      "description": "Flights (£3,750) and accommodation (£3,500)"
+    }
+  ]
+}

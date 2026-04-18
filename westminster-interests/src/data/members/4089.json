@@ -1,0 +1,167 @@
+{
+  "mnis_id": 4089,
+  "name": "Tessa Munt",
+  "party": "Liberal Democrat",
+  "party_slug": "liberal-democrat",
+  "constituency": "Wells and Mendip Hills",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4089/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 15489.39,
+      "inkind": 0.0,
+      "combined": 15489.39,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 4583.16,
+      "inkind": 0.0,
+      "combined": 4583.16,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 15489.39,
+      "inkind": 0.0,
+      "combined": 15489.39,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 15531.83,
+      "inkind": 0.0,
+      "combined": 15531.83,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "since_election": {
+      "monetary": 27753.59,
+      "inkind": 0.0,
+      "combined": 27753.59,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "all_time": {
+      "monetary": 138767.97,
+      "inkind": 0.0,
+      "combined": 138767.97,
+      "payment_count": 1,
+      "donor_count": 1
+    }
+  },
+  "categories": {
+    "1.2": {
+      "12m": {
+        "monetary": 15489.39,
+        "inkind": 0.0,
+        "combined": 15489.39,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 4583.16,
+        "inkind": 0.0,
+        "combined": 4583.16,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 15489.39,
+        "inkind": 0.0,
+        "combined": 15489.39,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 15531.83,
+        "inkind": 0.0,
+        "combined": 15531.83,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 27753.59,
+        "inkind": 0.0,
+        "combined": 27753.59,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 138767.97,
+        "inkind": 0.0,
+        "combined": 138767.97,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    1273,
+    1273,
+    1273,
+    1273,
+    1273,
+    1273,
+    1273,
+    1273,
+    1273,
+    1273,
+    1273,
+    1273
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "access-to-disability-equipment",
+      "appg_name": "All-Party Parliamentary Group for Access to Disability Equipment",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "flooding-and-flooded-communities",
+      "appg_name": "All-Party Parliamentary Group on Flooding and Flooded Communities",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "myalgic-encephalomyelitis-me",
+      "appg_name": "All-Party Parliamentary Group on Myalgic Encephalomyelitis (ME)",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "penal-affairs",
+      "appg_name": "All-Party Parliamentary Group on Penal Affairs",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 9520,
+      "date": "2024-08-04",
+      "category": "1.2",
+      "member_id": 4089,
+      "member_name": "Tessa Munt",
+      "payer_id": 1023,
+      "payer_name": "Somerset Council",
+      "amount": 15500.0,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Yearly",
+      "start_date": "2017-05-05",
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4089/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 05 May 2017 - £15,500.00",
+      "description": null
+    }
+  ]
+}

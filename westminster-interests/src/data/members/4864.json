@@ -1,0 +1,374 @@
+{
+  "mnis_id": 4864,
+  "name": "Olivia Blake",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Sheffield Hallam",
+  "house": "Commons",
+  "start_date": "2019-12-12",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4864/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 13282.0,
+      "combined": 13282.0,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 3250.0,
+      "combined": 3250.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 35772.0,
+      "combined": 35772.0,
+      "payment_count": 5,
+      "donor_count": 4
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 39022.0,
+      "combined": 39022.0,
+      "payment_count": 6,
+      "donor_count": 4
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 39022.0,
+      "combined": 39022.0,
+      "payment_count": 6,
+      "donor_count": 4
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 12397.0,
+        "combined": 12397.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 3250.0,
+        "combined": 3250.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 34887.0,
+        "combined": 34887.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 38137.0,
+        "combined": 38137.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 38137.0,
+        "combined": 38137.0,
+        "payment_count": 4,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 450.0,
+        "combined": 450.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 450.0,
+        "combined": 450.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 450.0,
+        "combined": 450.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 450.0,
+        "combined": 450.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 435.0,
+        "combined": 435.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 435.0,
+        "combined": 435.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 435.0,
+        "combined": 435.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 435.0,
+        "combined": 435.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    435,
+    9147,
+    0,
+    0,
+    0,
+    0,
+    450,
+    3250,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "special-educational-needs-and-disabilities",
+      "appg_name": "All-Party Parliamentary Group for Special Educational Needs and Disabilities",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "migration",
+      "appg_name": "All-Party Parliamentary Group on Migration",
+      "officer_role": "Co-Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "local-nature-recovery",
+      "appg_name": "Local Nature Recovery All-Party Parliamentary Group",
+      "officer_role": "Co-Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14253,
+      "date": "2026-01-01",
+      "category": "2",
+      "member_id": 4864,
+      "member_name": "Olivia Blake",
+      "payer_id": 938,
+      "payer_name": "The Refugee, Asylum and Migration Policy Project (RAMP)",
+      "amount": 3250.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2026-03-31",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4864/registeredinterests?categoryId=2",
+      "summary": "The Refugee, Asylum and Migration Policy Project (RAMP) - £3,250.00",
+      "description": "Research services provided for two days a week between 1st January 2026 and 31st March 2026 (value stated is the maximum)"
+    },
+    {
+      "id": 14170,
+      "date": "2025-12-01",
+      "category": "3",
+      "member_id": 4864,
+      "member_name": "Olivia Blake",
+      "payer_id": 786,
+      "payer_name": "Myleene Klass",
+      "amount": 450.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4864/registeredinterests?categoryId=3",
+      "summary": "Myleene Klass - £450.00",
+      "description": "Two tickets and hospitality to see Hans Zimmer for myself and my husband"
+    },
+    {
+      "id": 13111,
+      "date": "2025-07-15",
+      "category": "2",
+      "member_id": 4864,
+      "member_name": "Olivia Blake",
+      "payer_id": 1201,
+      "payer_name": "Zero Hour Ltd",
+      "amount": 9147.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2026-07-15",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4864/registeredinterests?categoryId=2",
+      "summary": "Zero Hour Ltd - £9,147.00",
+      "description": "Amount of donation or nature and value if donation in kind: Administration and\r\ncoordination of the Climate and Nature Crisis Caucus, which I chair, provided by\r\nZero Hour Ltd"
+    },
+    {
+      "id": 128051,
+      "date": "2025-06-12",
+      "category": "4",
+      "member_id": 4864,
+      "member_name": "Olivia Blake",
+      "payer_id": 939,
+      "payer_name": "Refugee Asylum and Migration Policy (RAMP)",
+      "amount": 435.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "migration",
+      "appg_name": "All-Party Parliamentary Group on Migration",
+      "source_url": "https://members.parliament.uk/member/4864/registeredinterests?categoryId=4",
+      "summary": "International visit to France on 12 June 2025 — To learn more about UK/French cooperation to tackle Channel crossings.",
+      "description": "Transportation and food (£260 per person) and translation costs (£175 per person)"
+    },
+    {
+      "id": 12151,
+      "date": "2025-04-01",
+      "category": "2",
+      "member_id": 4864,
+      "member_name": "Olivia Blake",
+      "payer_id": 938,
+      "payer_name": "The Refugee, Asylum and Migration Policy Project (RAMP)",
+      "amount": 19500.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-12-31",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4864/registeredinterests?categoryId=2",
+      "summary": "The Refugee, Asylum and Migration Policy Project (RAMP) - £19,500.00",
+      "description": "Research services provided for two days a week for up to seventy-eight days between 1 April 2025 to 31 December 2025 (value stated is the maximum)"
+    },
+    {
+      "id": 11647,
+      "date": "2025-01-01",
+      "category": "2",
+      "member_id": 4864,
+      "member_name": "Olivia Blake",
+      "payer_id": 938,
+      "payer_name": "The Refugee, Asylum and Migration Policy Project (RAMP)",
+      "amount": 6240.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-03-31",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4864/registeredinterests?categoryId=2",
+      "summary": "The Refugee, Asylum and Migration Policy Project (RAMP) - £6,240.00",
+      "description": "Research services provided for three days a week for up to thirty-nine days between 1 January 2025 and 31 March 2025 (value stated is the maximum)"
+    }
+  ]
+}

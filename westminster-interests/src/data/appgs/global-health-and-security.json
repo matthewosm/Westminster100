@@ -1,0 +1,240 @@
+{
+  "slug": "global-health-and-security",
+  "title": "All-Party Parliamentary Group on Global Health and Security",
+  "purpose": "To unite APPGs focused on various aspects of global health to share learnings, undertake research and to make recommendations that safeguard investment in health as a cornerstone of global security and development.",
+  "categories": [
+    "Health, Medicine & Public Health"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/global-health-and-security.htm",
+  "secretariat": "Global Health Partnerships (formerly THET) acts as the group's secretariat.https://www.globalhealthpartnerships.org/",
+  "website": "None",
+  "registered_contact_name": "Dr Beccy Cooper MP",
+  "date_of_most_recent_agm": "2025-05-14 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 3929.81,
+      "combined": 3929.81,
+      "payment_count": 3,
+      "donor_count": 3,
+      "mp_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 3929.81,
+      "combined": 3929.81,
+      "payment_count": 3,
+      "donor_count": 3,
+      "mp_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 3929.81,
+      "combined": 3929.81,
+      "payment_count": 3,
+      "donor_count": 3,
+      "mp_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 3929.81,
+      "combined": 3929.81,
+      "payment_count": 3,
+      "donor_count": 3,
+      "mp_count": 2
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "global-health-and-security",
+      "mnis_id": 4584,
+      "name": "Baroness Sugg",
+      "canon_name": "Baroness Sugg",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/global-health-and-security.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "global-health-and-security",
+      "mnis_id": 5307,
+      "name": "Dr Beccy Cooper",
+      "canon_name": "Beccy Cooper",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/global-health-and-security.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "global-health-and-security",
+      "mnis_id": 5269,
+      "name": "Dr Lauren Sullivan",
+      "canon_name": "Lauren Sullivan",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/global-health-and-security.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "global-health-and-security",
+      "mnis_id": 4549,
+      "name": "Lord Oates",
+      "canon_name": "Lord Oates",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/global-health-and-security.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "global-health-and-security",
+      "mnis_id": 4584,
+      "name": "Baroness Sugg",
+      "canon_name": "Baroness Sugg",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/global-health-and-security.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "global-health-and-security",
+      "mnis_id": 5307,
+      "name": "Dr Beccy Cooper",
+      "canon_name": "Beccy Cooper",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/global-health-and-security.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "global-health-and-security",
+      "mnis_id": 5269,
+      "name": "Dr Lauren Sullivan",
+      "canon_name": "Lauren Sullivan",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/global-health-and-security.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "global-health-and-security",
+      "mnis_id": 4549,
+      "name": "Lord Oates",
+      "canon_name": "Lord Oates",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/global-health-and-security.htm",
+      "removed": null
+    }
+  ],
+  "payments": [
+    {
+      "id": 139621,
+      "date": "2025-10-12",
+      "category": "4",
+      "member_id": 5307,
+      "member_name": "Dr Beccy Cooper",
+      "payer_id": 461,
+      "payer_name": "Global Health Partnerships",
+      "amount": 2337.32,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "global-health-and-security",
+      "appg_name": "All-Party Parliamentary Group on Global Health and Security",
+      "source_url": "https://members.parliament.uk/member/5307/registeredinterests?categoryId=4",
+      "summary": "International visit to Kenya between 12 October 2025 and 17 October 2025 — To participate in Commonwealth Partnerships for Antimicrobial Stewardship (CwPAMS) Regional Conference, multi-stakeholder dialogues, site visits and related high-level meetings.",
+      "description": "Flights (£1,319.32), accommodation (£603.00), food, visa, taxis (£410.00)"
+    },
+    {
+      "id": 136791,
+      "date": "2025-10-08",
+      "category": "4",
+      "member_id": 5269,
+      "member_name": "Dr Lauren Sullivan",
+      "payer_id": 943,
+      "payer_name": "Results UK",
+      "amount": 742.72,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "global-health-and-security",
+      "appg_name": "All-Party Parliamentary Group on Global Health and Security",
+      "source_url": "https://members.parliament.uk/member/5269/registeredinterests?categoryId=4",
+      "summary": "International visit to Switzerland between 08 October 2025 and 09 October 2025 — Visit by MPs who Chair Global Health related APPGs to meet with global institutions working to end TB, malaria and HIV, improve immunisation coverage, and protect child health.",
+      "description": "Flights, hotel and subsistence"
+    },
+    {
+      "id": 139641,
+      "date": "2025-10-08",
+      "category": "4",
+      "member_id": 5307,
+      "member_name": "Dr Beccy Cooper",
+      "payer_id": 943,
+      "payer_name": "Results UK",
+      "amount": 849.77,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "global-health-and-security",
+      "appg_name": "All-Party Parliamentary Group on Global Health and Security",
+      "source_url": "https://members.parliament.uk/member/5307/registeredinterests?categoryId=4",
+      "summary": "International visit to Switzerland between 08 October 2025 and 09 October 2025 — Delegation of APPG Chairs to Geneva: Advancing UK Leadership in Global Health, Vaccines and Tuberculosis",
+      "description": "Estimate of probable value: Flights, hotel, travel to and from airport and meetings and subsistence"
+    }
+  ]
+}

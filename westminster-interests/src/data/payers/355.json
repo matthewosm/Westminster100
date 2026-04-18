@@ -1,0 +1,99 @@
+{
+  "id": 355,
+  "name": "E.I.R.P LIMITED",
+  "address": "Unit 26 Maisies Way, South Normanton, Alfreton, Derbyshire DE55 2DS",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 1500.0,
+      "combined": 1500.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 1500.0,
+      "combined": 1500.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 1500.0,
+      "combined": 1500.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 1500.0,
+      "combined": 1500.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    1500,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 131471,
+      "date": "2025-08-01",
+      "category": "4",
+      "member_id": 4743,
+      "member_name": "Lee Anderson",
+      "payer_id": 355,
+      "payer_name": "E.I.R.P LIMITED",
+      "amount": 1500.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4743/registeredinterests?categoryId=4",
+      "summary": "International visit to France between 01 August 2025 and 06 August 2025 — Visit to France as part of a group of sixteen people for a speaking engagement.",
+      "description": "Flights and accommodation"
+    }
+  ]
+}

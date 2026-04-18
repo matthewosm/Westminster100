@@ -1,0 +1,90 @@
+{
+  "mnis_id": 55,
+  "name": "Sir Desmond Swayne",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "New Forest West",
+  "house": "Commons",
+  "start_date": "1997-05-01",
+  "photo_url": "https://members-api.parliament.uk/api/Members/55/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    }
+  },
+  "categories": {},
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "national-parks-and-national-landscapes",
+      "appg_name": "All-Party Parliamentary Group for National Parks and National Landscapes",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "kidney",
+      "appg_name": "All-Party Parliamentary Kidney Group",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "pro-life",
+      "appg_name": "All-Party Parliamentary Pro-Life Group",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": []
+}

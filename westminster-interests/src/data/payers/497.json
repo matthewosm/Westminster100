@@ -1,0 +1,124 @@
+{
+  "id": 497,
+  "name": "Guartel Technologies (via Animar Travel Network)",
+  "address": "4 Ravenscroft Court Buttington Cross Enterprise Park, Buttington, Welshpool, Powys, Wales, SY21 8SL",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 1526.4,
+      "inkind": 0.0,
+      "combined": 1526.4,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 1526.4,
+      "inkind": 0.0,
+      "combined": 1526.4,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 1526.4,
+      "inkind": 0.0,
+      "combined": 1526.4,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 2
+    },
+    "all_time": {
+      "monetary": 1526.4,
+      "inkind": 0.0,
+      "combined": 1526.4,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 2
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1526,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 137312,
+      "date": "2025-10-05",
+      "category": "4",
+      "member_id": 5354,
+      "member_name": "Cameron Thomas",
+      "payer_id": 497,
+      "payer_name": "Guartel Technologies (via Animar Travel Network)",
+      "amount": 763.2,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "explosive-weapons-and-their-impact",
+      "appg_name": "All-Party Parliamentary Group on Explosive Weapons and their Impact",
+      "source_url": "https://members.parliament.uk/member/5354/registeredinterests?categoryId=4",
+      "summary": "International visit to Ukraine between 05 October 2025 and 11 October 2025 — To raise the importance of humanitarian demining on the Ukrainian political agenda through dialogue and engagement with Ukrainian parliamentarians and officials.",
+      "description": "20% of all: Flights & Train (£237.80), internal travel (£53.80), accommodation (£154.80), hospitality (£210.20), Tech Equipment (£106.60)."
+    },
+    {
+      "id": 137753,
+      "date": "2025-10-05",
+      "category": "4",
+      "member_id": 5336,
+      "member_name": "Helen Maguire",
+      "payer_id": 497,
+      "payer_name": "Guartel Technologies (via Animar Travel Network)",
+      "amount": 763.2,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "explosive-weapons-and-their-impact",
+      "appg_name": "All-Party Parliamentary Group on Explosive Weapons and their Impact",
+      "source_url": "https://members.parliament.uk/member/5336/registeredinterests?categoryId=4",
+      "summary": "International visit to Ukraine between 05 October 2025 and 11 October 2025 — To raise the importance of humanitarian demining on the Ukrainian political agenda through dialogue and engagement with Ukrainian parliamentarians and officials.",
+      "description": "20% of all: Flights & Train (£237.80), internal travel (£53.80), accommodation (£154.80), hospitality (£210.20), Tech Equipment (£106.60)."
+    }
+  ]
+}

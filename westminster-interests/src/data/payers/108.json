@@ -1,0 +1,99 @@
+{
+  "id": 108,
+  "name": "BB Energy Trading Ltd",
+  "address": "12-14 Ansdell St, London W8 5BN",
+  "nature_of_business": "an international energy company trading worldwide",
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 49965.78,
+      "inkind": 0.0,
+      "combined": 49965.78,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 14784.39,
+      "inkind": 0.0,
+      "combined": 14784.39,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 49965.78,
+      "inkind": 0.0,
+      "combined": 49965.78,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 50102.67,
+      "inkind": 0.0,
+      "combined": 50102.67,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "since_election": {
+      "monetary": 89527.72,
+      "inkind": 0.0,
+      "combined": 89527.72,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 381382.61,
+      "inkind": 0.0,
+      "combined": 381382.61,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    4107,
+    4107,
+    4107,
+    4107,
+    4107,
+    4107,
+    4107,
+    4107,
+    4107,
+    4107,
+    4107,
+    4107
+  ],
+  "payments": [
+    {
+      "id": 4850,
+      "date": "2018-09-28",
+      "category": "1.2",
+      "member_id": 350,
+      "member_name": "Sir John Hayes",
+      "payer_id": 108,
+      "payer_name": "BB Energy Trading Ltd",
+      "amount": 50000.0,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Yearly",
+      "start_date": "2018-09-01",
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/350/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 01 September 2018 - £50,000.00",
+      "description": null
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": 380,
+  "name": "Essex County Council",
+  "address": "County Hall, 19 Market Road, Chelmsford CM1 1QH",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 2932.08,
+      "inkind": 0.0,
+      "combined": 2932.08,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 5751.39,
+      "inkind": 0.0,
+      "combined": 5751.39,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "since_election": {
+      "monetary": 8683.47,
+      "inkind": 0.0,
+      "combined": 8683.47,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 8683.47,
+      "inkind": 0.0,
+      "combined": 8683.47,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 7906,
+      "date": "2024-07-31",
+      "category": "1.2",
+      "member_id": 5073,
+      "member_name": "Marie Goldman",
+      "payer_id": 380,
+      "payer_name": "Essex County Council",
+      "amount": 1144.17,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": null,
+      "end_date": "2025-03-19",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5073/registeredinterests?categoryId=1",
+      "summary": "Agreement - £1,144.17",
+      "description": null
+    }
+  ]
+}

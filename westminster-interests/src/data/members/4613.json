@@ -1,0 +1,405 @@
+{
+  "mnis_id": 4613,
+  "name": "Alex Burghart",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "Brentwood and Ongar",
+  "house": "Commons",
+  "start_date": "2017-06-08",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4613/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 2781.0,
+      "inkind": 3222.8,
+      "combined": 6003.8,
+      "payment_count": 6,
+      "donor_count": 5
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 920.8,
+      "combined": 920.8,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 2981.0,
+      "inkind": 16652.38,
+      "combined": 19633.38,
+      "payment_count": 7,
+      "donor_count": 5
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 2981.0,
+      "inkind": 17573.18,
+      "combined": 20554.18,
+      "payment_count": 8,
+      "donor_count": 6
+    },
+    "all_time": {
+      "monetary": 2981.0,
+      "inkind": 17573.18,
+      "combined": 20554.18,
+      "payment_count": 8,
+      "donor_count": 6
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 731.0,
+        "inkind": 920.8,
+        "combined": 1651.8,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 920.8,
+        "combined": 920.8,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 731.0,
+        "inkind": 0.0,
+        "combined": 731.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 731.0,
+        "inkind": 920.8,
+        "combined": 1651.8,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 731.0,
+        "inkind": 920.8,
+        "combined": 1651.8,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 2302.0,
+        "combined": 2302.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 16652.38,
+        "combined": 16652.38,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 16652.38,
+        "combined": 16652.38,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 16652.38,
+        "combined": 16652.38,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "1.1": {
+      "12m": {
+        "monetary": 2050.0,
+        "inkind": 0.0,
+        "combined": 2050.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 2250.0,
+        "inkind": 0.0,
+        "combined": 2250.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 2250.0,
+        "inkind": 0.0,
+        "combined": 2250.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 2250.0,
+        "inkind": 0.0,
+        "combined": 2250.0,
+        "payment_count": 4,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    931,
+    0,
+    0,
+    350,
+    0,
+    3802,
+    0,
+    0,
+    921,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [],
+  "payments": [
+    {
+      "id": 145331,
+      "date": "2026-01-15",
+      "category": "4",
+      "member_id": 4613,
+      "member_name": "Alex Burghart",
+      "payer_id": 429,
+      "payer_name": "Franco-British Colloque Ltd",
+      "amount": 920.8,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4613/registeredinterests?categoryId=4",
+      "summary": "International visit to France between 15 January 2026 and 17 January 2026 — Attending the Franco-British Colloque 2026 at the Trianon Palace, Versailles, a private forum for facilitating closer and more effective engagement between the UK and France.",
+      "description": "Food, accommodation and transfers to/from the hotel"
+    },
+    {
+      "id": 13740,
+      "date": "2025-10-10",
+      "category": "3",
+      "member_id": 4613,
+      "member_name": "Alex Burghart",
+      "payer_id": 241,
+      "payer_name": "Cliveden Literary Festival",
+      "amount": 2302.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4613/registeredinterests?categoryId=3",
+      "summary": "Cliveden Literary Festival - £2,302.00",
+      "description": "Two nights stay for me and my wife and two children at the Literary Festival at which I was speaking (includes dinner both nights)"
+    },
+    {
+      "id": 13393,
+      "date": "2025-09-26",
+      "category": "1.1",
+      "member_id": 4613,
+      "member_name": "Alex Burghart",
+      "payer_id": 896,
+      "payer_name": "Primary Access & Research Limited",
+      "amount": 1500.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4613/registeredinterests?categoryId=1",
+      "summary": "Payment received on 26 September 2025 - £1,500.00",
+      "description": null
+    },
+    {
+      "id": 13193,
+      "date": "2025-07-31",
+      "category": "1.1",
+      "member_id": 4613,
+      "member_name": "Alex Burghart",
+      "payer_id": 1034,
+      "payer_name": "The Spectator",
+      "amount": 350.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4613/registeredinterests?categoryId=1",
+      "summary": "Payment received on 31 July 2025 - £350.00",
+      "description": null
+    },
+    {
+      "id": 13207,
+      "date": "2025-04-30",
+      "category": "1.1",
+      "member_id": 4613,
+      "member_name": "Alex Burghart",
+      "payer_id": 1034,
+      "payer_name": "The Spectator",
+      "amount": 200.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4613/registeredinterests?categoryId=1",
+      "summary": "Payment received on 30 April 2025 - £200.00",
+      "description": null
+    },
+    {
+      "id": 124561,
+      "date": "2025-04-25",
+      "category": "4",
+      "member_id": 4613,
+      "member_name": "Alex Burghart",
+      "payer_id": 216,
+      "payer_name": "Charles McDowell",
+      "amount": 731.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4613/registeredinterests?categoryId=4",
+      "summary": "International visit to United States between 25 April 2025 and 27 April 2025 — Visit to Washington DC for White House Correspondents' Dinner",
+      "description": "(Flight (£531), hotel (£200))"
+    },
+    {
+      "id": 12447,
+      "date": "2025-02-28",
+      "category": "1.1",
+      "member_id": 4613,
+      "member_name": "Alex Burghart",
+      "payer_id": 1034,
+      "payer_name": "The Spectator",
+      "amount": 200.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4613/registeredinterests?categoryId=1",
+      "summary": "Payment received on 28 February 2025 - £200.00",
+      "description": null
+    },
+    {
+      "id": 12026,
+      "date": "2025-02-18",
+      "category": "3",
+      "member_id": 4613,
+      "member_name": "Alex Burghart",
+      "payer_id": 803,
+      "payer_name": "Neil Record",
+      "amount": 14350.38,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-02-20",
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4613/registeredinterests?categoryId=3",
+      "summary": "Neil Record - £14,350.38",
+      "description": "Provision of work space, accommodation and associated hospitality for a work residential for the Leader of the Opposition, attended by the Leader of the Opposition and others (total 16)"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": 653,
+  "name": "Labour First",
+  "address": "Labour First, 3rd Floor 86-90 Paul Street, London EC2A 4NE.",
+  "nature_of_business": null,
+  "donor_status": "Company",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 3923.0,
+      "combined": 3923.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 3923.0,
+      "combined": 3923.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 3923.0,
+      "combined": 3923.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 3923.0,
+      "combined": 3923.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    3923,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 13638,
+      "date": "2025-10-06",
+      "category": "2",
+      "member_id": 4046,
+      "member_name": "Bridget Phillipson",
+      "payer_id": 653,
+      "payer_name": "Labour First",
+      "amount": 3923.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-10-23",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4046/registeredinterests?categoryId=2",
+      "summary": "Labour First - £3,923.00",
+      "description": "Staffing support for my Labour deputy leadership bid, plus emails sent and calls made, which were supportive of my deputy leadership campaign"
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+{
+  "mnis_id": 4368,
+  "name": "Neil Coyle",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Bermondsey and Old Southwark",
+  "house": "Commons",
+  "start_date": "2015-05-07",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4368/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 12193.6,
+      "combined": 12193.6,
+      "payment_count": 5,
+      "donor_count": 5
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 398.0,
+      "combined": 398.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 12230.95,
+      "combined": 12230.95,
+      "payment_count": 5,
+      "donor_count": 5
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 12628.95,
+      "combined": 12628.95,
+      "payment_count": 6,
+      "donor_count": 6
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 12628.95,
+      "combined": 12628.95,
+      "payment_count": 6,
+      "donor_count": 6
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 398.0,
+        "combined": 398.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 398.0,
+        "combined": 398.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 398.0,
+        "combined": 398.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 398.0,
+        "combined": 398.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 2635.6,
+        "combined": 2635.6,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 3070.95,
+        "combined": 3070.95,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 3070.95,
+        "combined": 3070.95,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 3070.95,
+        "combined": 3070.95,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    },
+    "2": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 9160.0,
+        "combined": 9160.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 9160.0,
+        "combined": 9160.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 9160.0,
+        "combined": 9160.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 9160.0,
+        "combined": 9160.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    706,
+    0,
+    2500,
+    0,
+    8590,
+    0,
+    0,
+    398,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "shakespeare",
+      "appg_name": "All-Party Parliamentary Group for Shakespeare",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "anti-social-behaviour",
+      "appg_name": "All-Party Parliamentary Group on Anti-Social Behaviour",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "food-banks",
+      "appg_name": "All-Party Parliamentary Group on Ending the Need for Food Banks",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "housing-and-care-for-older-people",
+      "appg_name": "All-Party Parliamentary Group on Housing and Care for Older People",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "terrorism-and-security",
+      "appg_name": "All-Party Parliamentary Group on Terrorism and Security",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 147391,
+      "date": "2026-02-19",
+      "category": "4",
+      "member_id": 4368,
+      "member_name": "Neil Coyle",
+      "payer_id": 1122,
+      "payer_name": "UK Friends of Ukraine",
+      "amount": 398.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4368/registeredinterests?categoryId=4",
+      "summary": "International visit to Ukraine between 19 February 2026 and 25 February 2026 — To commemorate the 4th anniversary of Russia's full-scale invasion of Ukraine and attend the YES Conference.",
+      "description": "Costs of meals, services, transfers and visit to Chernobyl"
+    },
+    {
+      "id": 14119,
+      "date": "2025-12-08",
+      "category": "3",
+      "member_id": 4368,
+      "member_name": "Neil Coyle",
+      "payer_id": 148,
+      "payer_name": "Bread Ahead",
+      "amount": 1930.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4368/registeredinterests?categoryId=3",
+      "summary": "Bread Ahead - £1,930.00",
+      "description": "Team building class for 8 people and 300 mincepies"
+    },
+    {
+      "id": 14147,
+      "date": "2025-12-08",
+      "category": "2",
+      "member_id": 4368,
+      "member_name": "Neil Coyle",
+      "payer_id": 1028,
+      "payer_name": "Southwark Cathedral",
+      "amount": 6660.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4368/registeredinterests?categoryId=2",
+      "summary": "Southwark Cathedral - £6,660.00",
+      "description": "Venue Hire of Southwark Cathedral for 'Southwark Stands Together Event'"
+    },
+    {
+      "id": 13603,
+      "date": "2025-10-13",
+      "category": "2",
+      "member_id": 4368,
+      "member_name": "Neil Coyle",
+      "payer_id": 1062,
+      "payer_name": "Sunil Gupta",
+      "amount": 2500.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4368/registeredinterests?categoryId=2",
+      "summary": "Sunil Gupta - £2,500.00",
+      "description": "Leaflet printing and distribution costs"
+    },
+    {
+      "id": 13021,
+      "date": "2025-07-24",
+      "category": "3",
+      "member_id": 4368,
+      "member_name": "Neil Coyle",
+      "payer_id": 1029,
+      "payer_name": "Southwark Cathedral Dean and Chapter",
+      "amount": 705.6,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4368/registeredinterests?categoryId=3",
+      "summary": "Southwark Cathedral Dean and Chapter - £705.60",
+      "description": "Community meeting at the Garry Weston Library including UOE owner Elliot Jacobs, Post Office representatives, the CWU and a local councillor, about the future of the Borough High Street Post Office. Room hire fee waived except VAT and cleaning fee"
+    },
+    {
+      "id": 11962,
+      "date": "2025-03-05",
+      "category": "3",
+      "member_id": 4368,
+      "member_name": "Neil Coyle",
+      "payer_id": 707,
+      "payer_name": "Lucky Saint",
+      "amount": 435.35,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4368/registeredinterests?categoryId=3",
+      "summary": "Lucky Saint - £435.35",
+      "description": "hosting an event at the venue of a specialist brewer of non-alcoholic beer"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": 37,
+  "name": "All Party Parliamentary Group for Italy",
+  "address": "House of Commons, London, SW1A 0AA",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 1194.05,
+      "combined": 1194.05,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 1194.05,
+      "combined": 1194.05,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 1194.05,
+      "combined": 1194.05,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 1194.05,
+      "combined": 1194.05,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1194,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 136552,
+      "date": "2025-10-05",
+      "category": "4",
+      "member_id": 4439,
+      "member_name": "Alberto Costa",
+      "payer_id": 37,
+      "payer_name": "All Party Parliamentary Group for Italy",
+      "amount": 989.44,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "italy",
+      "appg_name": "All-Party Parliamentary Group on Italy",
+      "source_url": "https://members.parliament.uk/member/4439/registeredinterests?categoryId=4",
+      "summary": "International visit to Italy between 05 October 2025 and 12 October 2025 — As Chair of the All-Party Parliamentary Group for Italy, the group received an invite from the Chair of the British Friendship Group in the Italian Parliament, as well as an additional invite to visit two factories run by an Anglo-Italian business. The visit to the Italian Parliament was organised by the Italian Interparliamentary Union. The Group met with over 40 senior Italian MPs and Senators (including chairs of Italian parliamentary select committees) in both Houses of the Italian Parliament, as well as undertaking meetings with representatives of the British expat community and at the British School at Rome. Some members of the group also visited two factories run by an Anglo-Italian business company.",
+      "description": "Flights for a staff member and a guest (£368.15), meals for myself, my staff member and a guest (£270.87), transport for myself, my staff member and a guest (£250.21), other incidental costs (£100.21)"
+    },
+    {
+      "id": 137452,
+      "date": "2025-10-05",
+      "category": "4",
+      "member_id": 4397,
+      "member_name": "Peter Dowd",
+      "payer_id": 37,
+      "payer_name": "All Party Parliamentary Group for Italy",
+      "amount": 204.61,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "italy",
+      "appg_name": "All-Party Parliamentary Group on Italy",
+      "source_url": "https://members.parliament.uk/member/4397/registeredinterests?categoryId=4",
+      "summary": "International visit to Italy between 05 October 2025 and 11 October 2025 — As co-chair of the All Party Parliamentary Group for Italy, the Group received an invite from the Chair of the British Friendship Group. The visit to the Italian Parliament was organised by the Italian Inter Parliament Union. The Group met with over 40 senior Italian MPs and Senators (including Chairs of Italian Parliamentary Select Committees) in both Houses of the Italian Parliament, as well as undertaking meetings with representatives of the British expat community and at the British School at Rome.",
+      "description": "Meals for myself and a guest (£158.78), transport for myself and a guest (£45.83)"
+    }
+  ]
+}

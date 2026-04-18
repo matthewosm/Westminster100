@@ -1,0 +1,165 @@
+{
+  "slug": "hospice-and-end-of-life-care",
+  "title": "All-Party Parliamentary Group on Hospice and End of Life Care",
+  "purpose": "To raise awareness and promote the needs of adults and children living with terminal or life-limiting conditions, and their families and carers, in parliament; and to promote person-centred, evidence-based policies to improve end of life care in all settings, including hospices, hospitals, care homes, and in people's own homes.",
+  "categories": [
+    "Health, Medicine & Public Health",
+    "Social Care, Welfare & Family Support"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/hospice-and-end-of-life-care.htm",
+  "secretariat": "Hospice UK, Marie Curie and Sue Ryder jointly act as the group's secretariat.https://www.hospiceuk.organdhttps://www.mariecurie.org.ukandhttps://www.sueryder.org",
+  "website": "https://www.hospiceuk.org/our-campaigns/policy-and-influencing/influencing-parliamentarians/appg-hospice-end-life-care",
+  "registered_contact_name": "Paulette Hamilton MP",
+  "date_of_most_recent_agm": "2024-11-19 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "hospice-and-end-of-life-care",
+      "mnis_id": null,
+      "name": "Baroness Finlay of Llandaff",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/hospice-and-end-of-life-care.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "hospice-and-end-of-life-care",
+      "mnis_id": 5103,
+      "name": "Luke Taylor",
+      "canon_name": "Luke Taylor",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/hospice-and-end-of-life-care.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "hospice-and-end-of-life-care",
+      "mnis_id": 4803,
+      "name": "Paul Holmes",
+      "canon_name": "Paul Holmes",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/hospice-and-end-of-life-care.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "hospice-and-end-of-life-care",
+      "mnis_id": 4938,
+      "name": "Paulette Hamilton",
+      "canon_name": "Paulette Hamilton",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/hospice-and-end-of-life-care.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "hospice-and-end-of-life-care",
+      "mnis_id": null,
+      "name": "Baroness Finlay of Llandaff",
+      "canon_name": null,
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/hospice-and-end-of-life-care.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "hospice-and-end-of-life-care",
+      "mnis_id": 5103,
+      "name": "Luke Taylor",
+      "canon_name": "Luke Taylor",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/hospice-and-end-of-life-care.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "hospice-and-end-of-life-care",
+      "mnis_id": 4803,
+      "name": "Paul Holmes",
+      "canon_name": "Paul Holmes",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/hospice-and-end-of-life-care.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "hospice-and-end-of-life-care",
+      "mnis_id": 4938,
+      "name": "Paulette Hamilton",
+      "canon_name": "Paulette Hamilton",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/hospice-and-end-of-life-care.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

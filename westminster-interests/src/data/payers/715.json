@@ -1,0 +1,124 @@
+{
+  "id": 715,
+  "name": "Malaria No More",
+  "address": "85 Great Portland Street, First Floor, London W1W 7LT",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 8444.6,
+      "combined": 8444.6,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 8444.6,
+      "combined": 8444.6,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 8444.6,
+      "combined": 8444.6,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 8444.6,
+      "combined": 8444.6,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 2
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    8445,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 131761,
+      "date": "2025-07-28",
+      "category": "4",
+      "member_id": 4765,
+      "member_name": "Wendy Chamberlain",
+      "payer_id": 715,
+      "payer_name": "Malaria No More",
+      "amount": 4214.8,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4765/registeredinterests?categoryId=4",
+      "summary": "International visit to Ghana between 28 July 2025 and 03 August 2025 — Visit with Malaria No More to Ghana to visit clinical facilities and meet with political leaders to learn about issues with preventing and treating malaria.",
+      "description": "Internal Transport (10% share of vehicle cost £357), internal transport (10% of fuel and cost of driver £478.61), anti-malaria treatment and visa (£303), flights (£1912.12), hotel (£964.07), meals (£200)"
+    },
+    {
+      "id": 131861,
+      "date": "2025-07-28",
+      "category": "4",
+      "member_id": 4638,
+      "member_name": "Mr Tanmanjeet Singh Dhesi",
+      "payer_id": 715,
+      "payer_name": "Malaria No More",
+      "amount": 4229.8,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4638/registeredinterests?categoryId=4",
+      "summary": "International visit to Ghana between 28 July 2025 and 03 August 2025 — To showcase how UK science is fighting malaria in Ghana.",
+      "description": "Flights (£1912.12), accommodation (£964.07), parking (£178.00), internal transport (£835.61), visa (£140) and meals (£200)"
+    }
+  ]
+}

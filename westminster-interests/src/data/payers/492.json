@@ -1,0 +1,99 @@
+{
+  "id": 492,
+  "name": "Green Rock Robotics INC.",
+  "address": "3150 N Sheffield Ave #201 Chicago IL 60657 USA",
+  "nature_of_business": "Robotics and aviation",
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 11208.94,
+      "combined": 11208.94,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 5173.36,
+      "combined": 5173.36,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 6035.58,
+      "combined": 6035.58,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 11208.94,
+      "combined": 11208.94,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 11208.94,
+      "combined": 11208.94,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    1150,
+    1437,
+    1437,
+    1437,
+    1437,
+    1437,
+    1437,
+    1437
+  ],
+  "payments": [
+    {
+      "id": 13339,
+      "date": "2025-09-19",
+      "category": "1.2",
+      "member_id": 4651,
+      "member_name": "Dan Carden",
+      "payer_id": 492,
+      "payer_name": "Green Rock Robotics INC.",
+      "amount": 1458.0,
+      "payment_type": "In kind",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": "2025-08-27",
+      "end_date": "2027-08-26",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4651/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 27 August 2025 - £1,458.00",
+      "description": "Share options of 0.1% (valued at £35,000 in total)"
+    }
+  ]
+}

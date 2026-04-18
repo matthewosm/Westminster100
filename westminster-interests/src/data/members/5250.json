@@ -1,0 +1,155 @@
+{
+  "mnis_id": 5250,
+  "name": "Gideon Amos",
+  "party": "Liberal Democrat",
+  "party_slug": "liberal-democrat",
+  "constituency": "Taunton and Wellington",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5250/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 808.0,
+      "combined": 808.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 808.0,
+      "combined": 808.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 808.0,
+      "combined": 808.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 808.0,
+      "combined": 808.0,
+      "payment_count": 1,
+      "donor_count": 1
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 808.0,
+        "combined": 808.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 808.0,
+        "combined": 808.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 808.0,
+        "combined": 808.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 808.0,
+        "combined": 808.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    808,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "students",
+      "appg_name": "All-Party Parliamentary Group on Students",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "healthy-homes-and-buildings",
+      "appg_name": "Healthy Homes and Buildings All-Party Parliamentary Group",
+      "officer_role": "Officer",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 137441,
+      "date": "2025-10-23",
+      "category": "4",
+      "member_id": 5250,
+      "member_name": "Gideon Amos",
+      "payer_id": 860,
+      "payer_name": "Parliamentary Renewable & Sustainable Energy Group (PRASEG) Secretariat for the APPG for Renewable & Sustainable Energy",
+      "amount": 808.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "renewable-and-sustainable-energy",
+      "appg_name": "All-Party Parliamentary Group for Renewable and Sustainable Energy",
+      "source_url": "https://members.parliament.uk/member/5250/registeredinterests?categoryId=4",
+      "summary": "International visit to Denmark between 23 October 2025 and 24 October 2025 — APPG visit to high-level meetings and site visits in Copenhagen cross-channel cooperation for decarbonising heat and energy.",
+      "description": "Estimate of the probable value: Accommodation, return flights, subsistence"
+    }
+  ]
+}

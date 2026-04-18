@@ -1,0 +1,164 @@
+{
+  "slug": "infrastructure",
+  "title": "All-Party Parliamentary Group on Infrastructure",
+  "purpose": "To highlights the importance of economic infrastructure in the UK amongst parliamentarians, government and industry.",
+  "categories": [
+    "Infrastructure, Transport & Mobility"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/infrastructure.htm",
+  "secretariat": "Institution of Civil Engineers acts as the group's secretariat.https://www.ice.org.uk/",
+  "website": "https://www.ice.org.uk/news-views-insights/policy-and-advocacy/all-party-parliamentary-group-on-infrastructure",
+  "registered_contact_name": "Mike Reader MP",
+  "date_of_most_recent_agm": "2025-12-10 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "infrastructure",
+      "mnis_id": null,
+      "name": "Baroness Young of Old Scone",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/infrastructure.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "infrastructure",
+      "mnis_id": 4986,
+      "name": "Lord Gascoigne",
+      "canon_name": "Lord Gascoigne",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/infrastructure.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "infrastructure",
+      "mnis_id": 5103,
+      "name": "Luke Taylor",
+      "canon_name": "Luke Taylor",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/infrastructure.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "infrastructure",
+      "mnis_id": 5316,
+      "name": "Mike Reader",
+      "canon_name": "Mike Reader",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/infrastructure.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "infrastructure",
+      "mnis_id": null,
+      "name": "Baroness Young of Old Scone",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/infrastructure.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "infrastructure",
+      "mnis_id": 4986,
+      "name": "Lord Gascoigne",
+      "canon_name": "Lord Gascoigne",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/infrastructure.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "infrastructure",
+      "mnis_id": 5103,
+      "name": "Luke Taylor",
+      "canon_name": "Luke Taylor",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/infrastructure.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "infrastructure",
+      "mnis_id": 5316,
+      "name": "Mike Reader",
+      "canon_name": "Mike Reader",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/infrastructure.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

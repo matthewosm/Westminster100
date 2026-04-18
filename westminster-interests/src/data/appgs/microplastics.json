@@ -1,0 +1,140 @@
+{
+  "slug": "microplastics",
+  "title": "All-Party Parliamentary Group on Microplastics",
+  "purpose": "To further the discussion around the potential harms of microplastics, raise awareness of these harms and provide suggestions for how they can be mitigated – such as via microplastic filters in washing machines.",
+  "categories": [
+    "Environment, Climate & Sustainability"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/microplastics.htm",
+  "secretariat": "National Federation of Women's Institutes, acts as the group's secretariat.https://www.thewi.org.uk/",
+  "website": "https://www.thewi.org.uk/campaigns/key-and-current-campaigns/end-plastic-soup/all-party-parliamentary-group-on-microplastics",
+  "registered_contact_name": "Alberto Costa MP",
+  "date_of_most_recent_agm": "2024-11-19 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "microplastics",
+      "mnis_id": 4439,
+      "name": "Alberto Costa",
+      "canon_name": "Alberto Costa",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/microplastics.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "microplastics",
+      "mnis_id": 3451,
+      "name": "Lord Bach",
+      "canon_name": "Lord Bach",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/microplastics.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "microplastics",
+      "mnis_id": 1400,
+      "name": "Lord Brennan",
+      "canon_name": "Lord Brennan",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/microplastics.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "microplastics",
+      "mnis_id": 4439,
+      "name": "Alberto Costa",
+      "canon_name": "Alberto Costa",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/microplastics.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "microplastics",
+      "mnis_id": 3451,
+      "name": "Lord Bach",
+      "canon_name": "Lord Bach",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/microplastics.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "microplastics",
+      "mnis_id": 1400,
+      "name": "Lord Brennan",
+      "canon_name": "Lord Brennan",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/microplastics.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

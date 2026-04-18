@@ -1,0 +1,164 @@
+{
+  "slug": "public-sector-efficiency",
+  "title": "All-Party Parliamentary Group for Public Sector Efficiency",
+  "purpose": "The APPG’s aim is to create an open forum for research, ideation, and the exchange of ideas and learning captured from the study and understanding of effective delivery solutions in public sector procurement and commissioning in the UK and around the world.",
+  "categories": [
+    "Governance, Democracy & Political Reform"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/public-sector-efficiency.htm",
+  "secretariat": "Efficio Consulting Ltd acts as the group's secretariat.https://www.efficioconsulting.com/en-gb/",
+  "website": "https://appgpse.org.uk/",
+  "registered_contact_name": "Josh Newbury MP",
+  "date_of_most_recent_agm": "2025-10-21 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "public-sector-efficiency",
+      "mnis_id": 5149,
+      "name": "Amanda Hack",
+      "canon_name": "Amanda Hack",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/public-sector-efficiency.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "public-sector-efficiency",
+      "mnis_id": 5034,
+      "name": "Josh Newbury",
+      "canon_name": "Josh Newbury",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/public-sector-efficiency.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "public-sector-efficiency",
+      "mnis_id": null,
+      "name": "Lord Bailey of Paddington",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/public-sector-efficiency.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "public-sector-efficiency",
+      "mnis_id": null,
+      "name": "Lord Jackson of Peterborough",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/public-sector-efficiency.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "public-sector-efficiency",
+      "mnis_id": 5149,
+      "name": "Amanda Hack",
+      "canon_name": "Amanda Hack",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/public-sector-efficiency.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "public-sector-efficiency",
+      "mnis_id": 5034,
+      "name": "Josh Newbury",
+      "canon_name": "Josh Newbury",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/public-sector-efficiency.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "public-sector-efficiency",
+      "mnis_id": null,
+      "name": "Lord Bailey of Paddington",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/public-sector-efficiency.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "public-sector-efficiency",
+      "mnis_id": null,
+      "name": "Lord Jackson of Peterborough",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/public-sector-efficiency.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

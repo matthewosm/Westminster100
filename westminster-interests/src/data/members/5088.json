@@ -1,0 +1,330 @@
+{
+  "mnis_id": 5088,
+  "name": "Sarah Coombes",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "West Bromwich",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5088/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 10000.0,
+      "inkind": 6487.01,
+      "combined": 16487.01,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 10000.0,
+      "inkind": 9607.01,
+      "combined": 19607.01,
+      "payment_count": 5,
+      "donor_count": 5
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 10000.0,
+      "inkind": 9607.01,
+      "combined": 19607.01,
+      "payment_count": 5,
+      "donor_count": 5
+    },
+    "all_time": {
+      "monetary": 10000.0,
+      "inkind": 9607.01,
+      "combined": 19607.01,
+      "payment_count": 5,
+      "donor_count": 5
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 6027.01,
+        "combined": 6027.01,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 6027.01,
+        "combined": 6027.01,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 6027.01,
+        "combined": 6027.01,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 6027.01,
+        "combined": 6027.01,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "2": {
+      "12m": {
+        "monetary": 10000.0,
+        "inkind": 0.0,
+        "combined": 10000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 10000.0,
+        "inkind": 0.0,
+        "combined": 10000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 10000.0,
+        "inkind": 0.0,
+        "combined": 10000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 10000.0,
+        "inkind": 0.0,
+        "combined": 10000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 460.0,
+        "combined": 460.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 3580.0,
+        "combined": 3580.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 3580.0,
+        "combined": 3580.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 3580.0,
+        "combined": 3580.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    2317,
+    0,
+    10000,
+    0,
+    4170,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [],
+  "payments": [
+    {
+      "id": 140961,
+      "date": "2025-11-09",
+      "category": "4",
+      "member_id": 5088,
+      "member_name": "Sarah Coombes",
+      "payer_id": 372,
+      "payer_name": "Energy and Climate Intelligence Unit",
+      "amount": 4169.58,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5088/registeredinterests?categoryId=4",
+      "summary": "International visit to Brazil between 09 November 2025 and 17 November 2025 — Attendance of COP30 to meet legislators and experts and to build knowledge of the international climate process.",
+      "description": "Accommodation (£1,339.33), flights (£2,418.72) and maximum subsistence received (£ 411.5)"
+    },
+    {
+      "id": 13185,
+      "date": "2025-08-28",
+      "category": "2",
+      "member_id": 5088,
+      "member_name": "Sarah Coombes",
+      "payer_id": 290,
+      "payer_name": "Daniel Luhde-Thompson",
+      "amount": 10000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5088/registeredinterests?categoryId=2",
+      "summary": "Daniel Luhde-Thompson - £10,000.00",
+      "description": "Constituency campaigning"
+    },
+    {
+      "id": 131291,
+      "date": "2025-07-20",
+      "category": "4",
+      "member_id": 5088,
+      "member_name": "Sarah Coombes",
+      "payer_id": 246,
+      "payer_name": "The Coalition for Global Prosperity (CGP)",
+      "amount": 1857.43,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5088/registeredinterests?categoryId=4",
+      "summary": "International visit to Jordan between 20 July 2025 and 25 July 2025 — Overseas visit to Jordan to see UK Development programmes 'in-action' and meet with development experts and partners.",
+      "description": "Flights (£937.30), ccommodation (£649.90), food and refreshments (£270.23)"
+    },
+    {
+      "id": 13068,
+      "date": "2025-07-07",
+      "category": "3",
+      "member_id": 5088,
+      "member_name": "Sarah Coombes",
+      "payer_id": 658,
+      "payer_name": "The Lawn Tennis Association",
+      "amount": 460.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5088/registeredinterests?categoryId=3",
+      "summary": "Lawn Tennis Association - £460.00",
+      "description": "Two Centre court and two ground passes to Wimbledon"
+    },
+    {
+      "id": 11949,
+      "date": "2025-03-01",
+      "category": "3",
+      "member_id": 5088,
+      "member_name": "Sarah Coombes",
+      "payer_id": 144,
+      "payer_name": "BPI (British Recorded Music Industry) Ltd",
+      "amount": 3120.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5088/registeredinterests?categoryId=3",
+      "summary": "BPI (British Recorded Music Industry) Limited - £3,120.00",
+      "description": "Two tickets with hospitality to the BRIT Awards 2025"
+    }
+  ]
+}

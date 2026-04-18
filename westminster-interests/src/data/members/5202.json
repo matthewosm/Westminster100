@@ -1,0 +1,211 @@
+{
+  "mnis_id": 5202,
+  "name": "Jessica Toale",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Bournemouth West",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5202/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 2527.56,
+      "combined": 2527.56,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 2527.56,
+      "combined": 2527.56,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 2527.56,
+      "combined": 2527.56,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 2527.56,
+      "combined": 2527.56,
+      "payment_count": 2,
+      "donor_count": 2
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 768.04,
+        "combined": 768.04,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 768.04,
+        "combined": 768.04,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 768.04,
+        "combined": 768.04,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 768.04,
+        "combined": 768.04,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "2": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1759.52,
+        "combined": 1759.52,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1759.52,
+        "combined": 1759.52,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1759.52,
+        "combined": 1759.52,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1759.52,
+        "combined": 1759.52,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    1760,
+    768,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [],
+  "payments": [
+    {
+      "id": 137351,
+      "date": "2025-09-10",
+      "category": "4",
+      "member_id": 5202,
+      "member_name": "Jessica Toale",
+      "payer_id": 1122,
+      "payer_name": "UK Friends of Ukraine",
+      "amount": 768.04,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5202/registeredinterests?categoryId=4",
+      "summary": "International visit to Ukraine between 10 September 2025 and 15 September 2025 — To attend the two day Yalta European Strategy (YES) Conference and meet with Ukrainian government officials, Parliamentarians, businesses, cultural institutions and charities. Visit also included a one day visit to Vinnytsia",
+      "description": "YES Conference cost (£372.04), transfers (£262.12), BUCC-USUBC  roundtable lunch (£45.88), performance by Cultural Forces (£28.00). Vinnytsia transfers (£8.00), lunch (£18.00) and dinner (£34.00)"
+    },
+    {
+      "id": 13221,
+      "date": "2025-08-09",
+      "category": "2",
+      "member_id": 5202,
+      "member_name": "Jessica Toale",
+      "payer_id": 626,
+      "payer_name": "Julia Davies",
+      "amount": 1759.52,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5202/registeredinterests?categoryId=2",
+      "summary": "Julia Davies - £1,759.52",
+      "description": "Donation to fund food and beverage for 78 people at 2-day MP Politics Summer School, for Bournemouth and Dorset based young people between 16-19 years old"
+    }
+  ]
+}

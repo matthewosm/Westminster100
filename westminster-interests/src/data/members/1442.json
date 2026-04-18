@@ -1,0 +1,179 @@
+{
+  "mnis_id": 1442,
+  "name": "Mr Alistair Carmichael",
+  "party": "Liberal Democrat",
+  "party_slug": "liberal-democrat",
+  "constituency": "Orkney and Shetland",
+  "house": "Commons",
+  "start_date": "2001-06-07",
+  "photo_url": "https://members-api.parliament.uk/api/Members/1442/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 750.0,
+      "inkind": 0.0,
+      "combined": 750.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 750.0,
+      "inkind": 0.0,
+      "combined": 750.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 750.0,
+      "inkind": 0.0,
+      "combined": 750.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "all_time": {
+      "monetary": 750.0,
+      "inkind": 0.0,
+      "combined": 750.0,
+      "payment_count": 1,
+      "donor_count": 1
+    }
+  },
+  "categories": {
+    "1.1": {
+      "12m": {
+        "monetary": 750.0,
+        "inkind": 0.0,
+        "combined": 750.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 750.0,
+        "inkind": 0.0,
+        "combined": 750.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 750.0,
+        "inkind": 0.0,
+        "combined": 750.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 750.0,
+        "inkind": 0.0,
+        "combined": 750.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    750,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "space",
+      "appg_name": "All-Party Parliamentary Group for Space",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "fisheries",
+      "appg_name": "All-Party Parliamentary Group on Fisheries",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "marine-energy",
+      "appg_name": "All-Party Parliamentary Group on Marine Energy",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "syria",
+      "appg_name": "All-Party Parliamentary Group on Syria",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "bahai-faith",
+      "appg_name": "All-Party Parliamentary Group on the Baha'i Faith",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "jordan",
+      "appg_name": "All-Party Parliamentary Jordan Group",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 13409,
+      "date": "2025-09-29",
+      "category": "1.1",
+      "member_id": 1442,
+      "member_name": "Mr Alistair Carmichael",
+      "payer_id": 318,
+      "payer_name": "Dods Group Ltd",
+      "amount": 750.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1442/registeredinterests?categoryId=1",
+      "summary": "Payment received on 29 September 2025 - £750.00",
+      "description": null
+    }
+  ]
+}

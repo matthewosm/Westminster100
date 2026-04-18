@@ -1,0 +1,299 @@
+{
+  "mnis_id": 5102,
+  "name": "Carla Denyer",
+  "party": "Green Party",
+  "party_slug": "green-party",
+  "constituency": "Bristol Central",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5102/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 1800.0,
+      "inkind": 2331.32,
+      "combined": 4131.32,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 1800.0,
+      "inkind": 2952.52,
+      "combined": 4752.52,
+      "payment_count": 5,
+      "donor_count": 5
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 1800.0,
+      "inkind": 2952.52,
+      "combined": 4752.52,
+      "payment_count": 5,
+      "donor_count": 5
+    },
+    "all_time": {
+      "monetary": 1800.0,
+      "inkind": 2952.52,
+      "combined": 4752.52,
+      "payment_count": 5,
+      "donor_count": 5
+    }
+  },
+  "categories": {
+    "1.1": {
+      "12m": {
+        "monetary": 1800.0,
+        "inkind": 0.0,
+        "combined": 1800.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 1800.0,
+        "inkind": 0.0,
+        "combined": 1800.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 1800.0,
+        "inkind": 0.0,
+        "combined": 1800.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 1800.0,
+        "inkind": 0.0,
+        "combined": 1800.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 2331.32,
+        "combined": 2331.32,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 2952.52,
+        "combined": 2952.52,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 2952.52,
+        "combined": 2952.52,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 2952.52,
+        "combined": 2952.52,
+        "payment_count": 4,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    495,
+    0,
+    981,
+    0,
+    0,
+    855,
+    1800,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "afrikan-reparations",
+      "appg_name": "All-Party Parliamentary Group for Afrikan Reparations",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "climate-change",
+      "appg_name": "All-Party Parliamentary Group on Climate Change",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14126,
+      "date": "2025-12-08",
+      "category": "1.1",
+      "member_id": 5102,
+      "member_name": "Carla Denyer",
+      "payer_id": 585,
+      "payer_name": "ITV Studios Limited",
+      "amount": 1800.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": true,
+      "donated_to": "Charity",
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5102/registeredinterests?categoryId=1",
+      "summary": "Payment received on 08 December 2025 - £1,800.00",
+      "description": "Fee for three appearances on Christmas University Challenge. Payment to be donated to charity"
+    },
+    {
+      "id": 14127,
+      "date": "2025-11-13",
+      "category": "3",
+      "member_id": 5102,
+      "member_name": "Carla Denyer",
+      "payer_id": 585,
+      "payer_name": "ITV Studios Limited",
+      "amount": 855.4,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-11-21",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5102/registeredinterests?categoryId=3",
+      "summary": "ITV STUDIOS LIMITED - £855.40",
+      "description": "Travel, accommodation and hospitality associated with appearances on Christmas University Challenge"
+    },
+    {
+      "id": 13306,
+      "date": "2025-08-21",
+      "category": "3",
+      "member_id": 5102,
+      "member_name": "Carla Denyer",
+      "payer_id": 493,
+      "payer_name": "Greenbelt Festivals",
+      "amount": 980.92,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-08-24",
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5102/registeredinterests?categoryId=3",
+      "summary": "Greenbelt Festivals - £980.92",
+      "description": "Two glamping tickets at Greenbelt Festival 2025, at which I was a guest speaker, plus one return train ticket and one meal"
+    },
+    {
+      "id": 12778,
+      "date": "2025-06-11",
+      "category": "3",
+      "member_id": 5102,
+      "member_name": "Carla Denyer",
+      "payer_id": 553,
+      "payer_name": "Incisive Business Media",
+      "amount": 495.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5102/registeredinterests?categoryId=3",
+      "summary": "Incisive Business Media - £495.00",
+      "description": "Ticket to an awards ceremony where I presented an award, a meal and entertainment was provided"
+    },
+    {
+      "id": 12315,
+      "date": "2025-04-10",
+      "category": "3",
+      "member_id": 5102,
+      "member_name": "Carla Denyer",
+      "payer_id": 1140,
+      "payer_name": "University of Durham",
+      "amount": 621.2,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-04-11",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5102/registeredinterests?categoryId=3",
+      "summary": "University of Durham - £621.20",
+      "description": "travel, accommodation, food, and a small gift associated with providing a guest lecture at the Durham Energy Institute, Durham University"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": 967,
+  "name": "Royal Borough of Windsor & Maidenhead",
+  "address": "Town Hall, St Ives Road, Maidenhead SL6 1RF",
+  "nature_of_business": "Local Council",
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 9068.79,
+      "inkind": 0.0,
+      "combined": 9068.79,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 2683.37,
+      "inkind": 0.0,
+      "combined": 2683.37,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 9068.79,
+      "inkind": 0.0,
+      "combined": 9068.79,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 3851.13,
+      "inkind": 0.0,
+      "combined": 3851.13,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "since_election": {
+      "monetary": 15603.29,
+      "inkind": 0.0,
+      "combined": 15603.29,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 15603.29,
+      "inkind": 0.0,
+      "combined": 15603.29,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    745,
+    745,
+    745,
+    745,
+    745,
+    745,
+    745,
+    745,
+    745,
+    745,
+    745,
+    745
+  ],
+  "payments": [
+    {
+      "id": 7701,
+      "date": "2024-07-29",
+      "category": "1.2",
+      "member_id": 5343,
+      "member_name": "Mr Joshua Reynolds",
+      "payer_id": 967,
+      "payer_name": "Royal Borough of Windsor & Maidenhead",
+      "amount": 756.25,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5343/registeredinterests?categoryId=1",
+      "summary": "Agreement - £756.25",
+      "description": null
+    }
+  ]
+}

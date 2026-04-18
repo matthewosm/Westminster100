@@ -1,0 +1,155 @@
+{
+  "mnis_id": 4853,
+  "name": "Dr Neil Hudson",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "Epping Forest",
+  "house": "Commons",
+  "start_date": "2019-12-12",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4853/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 3791.95,
+      "inkind": 0.0,
+      "combined": 3791.95,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 1478.45,
+      "inkind": 0.0,
+      "combined": 1478.45,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 2313.5,
+      "inkind": 0.0,
+      "combined": 2313.5,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 3791.95,
+      "inkind": 0.0,
+      "combined": 3791.95,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "all_time": {
+      "monetary": 3791.95,
+      "inkind": 0.0,
+      "combined": 3791.95,
+      "payment_count": 1,
+      "donor_count": 1
+    }
+  },
+  "categories": {
+    "1.2": {
+      "12m": {
+        "monetary": 3791.95,
+        "inkind": 0.0,
+        "combined": 3791.95,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 1478.45,
+        "inkind": 0.0,
+        "combined": 1478.45,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 2313.5,
+        "inkind": 0.0,
+        "combined": 2313.5,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 3791.95,
+        "inkind": 0.0,
+        "combined": 3791.95,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 3791.95,
+        "inkind": 0.0,
+        "combined": 3791.95,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    96,
+    411,
+    411,
+    411,
+    411,
+    411,
+    411,
+    411,
+    411,
+    411
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "animal-welfare",
+      "appg_name": "All-Party Parliamentary Group for Animal Welfare",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "suicide-and-self-harm-prevention",
+      "appg_name": "All-Party Parliamentary Group on Suicide and Self-Harm Prevention",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 13004,
+      "date": "2025-07-25",
+      "category": "1.2",
+      "member_id": 4853,
+      "member_name": "Dr Neil Hudson",
+      "payer_id": 162,
+      "payer_name": "British Horseracing Authority's Horse Welfare Board",
+      "amount": 416.67,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": "2025-07-15",
+      "end_date": "2028-06-30",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4853/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 15 July 2025 - £416.67",
+      "description": "(£5000 per annum)"
+    }
+  ]
+}

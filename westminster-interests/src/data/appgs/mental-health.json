@@ -1,0 +1,260 @@
+{
+  "slug": "mental-health",
+  "title": "All-Party Parliamentary Group on Mental Health",
+  "purpose": "To inform parliamentarians about issues relating to mental health, and to advocate for policies which will improve mental health in the UK.",
+  "categories": [
+    "Health, Medicine & Public Health"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/mental-health.htm",
+  "secretariat": "The Royal College of Psychiatrists  and Rethink Mental Illness  jointly act as the group's secretariat.https://www.rcpsych.ac.uk/andhttps://www.rethink.org/",
+  "website": "https://www.rethink.org/campaigns-and-policy/campaign-with-us/the-difference-we-make/appg-on-mental-health/",
+  "registered_contact_name": "Sojan Joseph MP",
+  "date_of_most_recent_agm": "2025-01-15 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "mental-health",
+      "mnis_id": null,
+      "name": "Baroness Bottomley of Nettlestone",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/mental-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "mental-health",
+      "mnis_id": 5025,
+      "name": "Chris Webb",
+      "canon_name": "Chris Webb",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/mental-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "mental-health",
+      "mnis_id": null,
+      "name": "Lord Davies of Brixton",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/mental-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "mental-health",
+      "mnis_id": 8085,
+      "name": "Miss Nuala McAllister",
+      "canon_name": "Nuala McAllister",
+      "officer_role": "Vice-Chairperson",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=652",
+      "removed": null
+    },
+    {
+      "appg_slug": "mental-health",
+      "mnis_id": 7467,
+      "name": "Mr Pádraig Delargy",
+      "canon_name": "Pádraig Delargy",
+      "officer_role": "Chairperson",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=652",
+      "removed": null
+    },
+    {
+      "appg_slug": "mental-health",
+      "mnis_id": 7468,
+      "name": "Mrs Ciara Ferguson",
+      "canon_name": "Ciara Ferguson",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=652",
+      "removed": null
+    },
+    {
+      "appg_slug": "mental-health",
+      "mnis_id": 7534,
+      "name": "Mrs Deborah Erskine",
+      "canon_name": "Deborah Erskine",
+      "officer_role": "Secretary",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=652",
+      "removed": null
+    },
+    {
+      "appg_slug": "mental-health",
+      "mnis_id": 5247,
+      "name": "Sojan Joseph",
+      "canon_name": "Sojan Joseph",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/mental-health.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "mental-health",
+      "mnis_id": null,
+      "name": "Baroness Bottomley of Nettlestone",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/mental-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "mental-health",
+      "mnis_id": 5025,
+      "name": "Chris Webb",
+      "canon_name": "Chris Webb",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/mental-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "mental-health",
+      "mnis_id": null,
+      "name": "Lord Davies of Brixton",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/mental-health.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "mental-health",
+      "mnis_id": 8085,
+      "name": "Miss Nuala McAllister",
+      "canon_name": "Nuala McAllister",
+      "officer_role": "Vice-Chairperson",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=652",
+      "removed": null
+    },
+    {
+      "appg_slug": "mental-health",
+      "mnis_id": 7467,
+      "name": "Mr Pádraig Delargy",
+      "canon_name": "Pádraig Delargy",
+      "officer_role": "Chairperson",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=652",
+      "removed": null
+    },
+    {
+      "appg_slug": "mental-health",
+      "mnis_id": 7468,
+      "name": "Mrs Ciara Ferguson",
+      "canon_name": "Ciara Ferguson",
+      "officer_role": "Treasurer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=652",
+      "removed": null
+    },
+    {
+      "appg_slug": "mental-health",
+      "mnis_id": 7534,
+      "name": "Mrs Deborah Erskine",
+      "canon_name": "Deborah Erskine",
+      "officer_role": "Secretary",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=652",
+      "removed": null
+    },
+    {
+      "appg_slug": "mental-health",
+      "mnis_id": 5247,
+      "name": "Sojan Joseph",
+      "canon_name": "Sojan Joseph",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/mental-health.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

@@ -1,0 +1,260 @@
+{
+  "slug": "scotch-whisky",
+  "title": "Scotch Whisky All-Party Parliamentary Group",
+  "purpose": "To promote and facilitate communication and understanding between representatives of the Scotch Whisky industry and Parliament.",
+  "categories": [
+    "Economy, Business & Industry"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/scotch-whisky.htm",
+  "secretariat": "Scotch Whisky Association acts as the group's secretariat.https://www.scotch-whisky.org.uk/",
+  "website": "None",
+  "registered_contact_name": "Wendy Chamberlain MP",
+  "date_of_most_recent_agm": "2025-11-05 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "scotch-whisky",
+      "mnis_id": 4601,
+      "name": "Andrew Bowie",
+      "canon_name": "Andrew Bowie",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/scotch-whisky.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "scotch-whisky",
+      "mnis_id": null,
+      "name": "Colin Smyth",
+      "canon_name": "Colin Smyth",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "scotch-whisky",
+      "mnis_id": 5057,
+      "name": "Douglas McAllister",
+      "canon_name": "Douglas McAllister",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/scotch-whisky.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "scotch-whisky",
+      "mnis_id": null,
+      "name": "Emma Harper",
+      "canon_name": "Emma Harper",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "scotch-whisky",
+      "mnis_id": null,
+      "name": "Gordon MacDonald",
+      "canon_name": "Gordon MacDonald",
+      "officer_role": "Co-Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "scotch-whisky",
+      "mnis_id": 5277,
+      "name": "Graham Leadbitter",
+      "canon_name": "Graham Leadbitter",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/scotch-whisky.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "scotch-whisky",
+      "mnis_id": null,
+      "name": "Murdo Fraser",
+      "canon_name": "Murdo Fraser",
+      "officer_role": "Co-Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "scotch-whisky",
+      "mnis_id": 4765,
+      "name": "Wendy Chamberlain",
+      "canon_name": "Wendy Chamberlain",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/scotch-whisky.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "scotch-whisky",
+      "mnis_id": 4601,
+      "name": "Andrew Bowie",
+      "canon_name": "Andrew Bowie",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/scotch-whisky.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "scotch-whisky",
+      "mnis_id": null,
+      "name": "Colin Smyth",
+      "canon_name": "Colin Smyth",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "scotch-whisky",
+      "mnis_id": 5057,
+      "name": "Douglas McAllister",
+      "canon_name": "Douglas McAllister",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/scotch-whisky.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "scotch-whisky",
+      "mnis_id": null,
+      "name": "Emma Harper",
+      "canon_name": "Emma Harper",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "scotch-whisky",
+      "mnis_id": null,
+      "name": "Gordon MacDonald",
+      "canon_name": "Gordon MacDonald",
+      "officer_role": "Co-Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "scotch-whisky",
+      "mnis_id": 5277,
+      "name": "Graham Leadbitter",
+      "canon_name": "Graham Leadbitter",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/scotch-whisky.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "scotch-whisky",
+      "mnis_id": null,
+      "name": "Murdo Fraser",
+      "canon_name": "Murdo Fraser",
+      "officer_role": "Co-Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "scotch-whisky",
+      "mnis_id": 4765,
+      "name": "Wendy Chamberlain",
+      "canon_name": "Wendy Chamberlain",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/scotch-whisky.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

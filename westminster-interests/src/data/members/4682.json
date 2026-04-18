@@ -1,0 +1,261 @@
+{
+  "mnis_id": 4682,
+  "name": "Luke Pollard",
+  "party": "Labour (Co-op)",
+  "party_slug": "labour-co-op",
+  "constituency": "Plymouth Sutton and Devonport",
+  "house": "Commons",
+  "start_date": "2017-06-08",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4682/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 2164.8,
+      "combined": 2164.8,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 2867.55,
+      "combined": 2867.55,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 2867.55,
+      "combined": 2867.55,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 2867.55,
+      "combined": 2867.55,
+      "payment_count": 4,
+      "donor_count": 4
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 2164.8,
+        "combined": 2164.8,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 2164.8,
+        "combined": 2164.8,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 2164.8,
+        "combined": 2164.8,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 2164.8,
+        "combined": 2164.8,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 702.75,
+        "combined": 702.75,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 702.75,
+        "combined": 702.75,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 702.75,
+        "combined": 702.75,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    2165,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [],
+  "payments": [
+    {
+      "id": 13067,
+      "date": "2025-07-24",
+      "category": "2",
+      "member_id": 4682,
+      "member_name": "Luke Pollard",
+      "payer_id": 1143,
+      "payer_name": "University of Plymouth",
+      "amount": 1788.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-07-25",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4682/registeredinterests?categoryId=2",
+      "summary": "University of Plymouth - £1,788.00",
+      "description": "The provision of lecture hall and events space for my summer school for young people in Plymouth"
+    },
+    {
+      "id": 13069,
+      "date": "2025-07-24",
+      "category": "2",
+      "member_id": 4682,
+      "member_name": "Luke Pollard",
+      "payer_id": 90,
+      "payer_name": "Babcock International",
+      "amount": 376.8,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-07-25",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4682/registeredinterests?categoryId=2",
+      "summary": "Babcock International - £376.80",
+      "description": "Provision of items for young people in Plymouth participating in my summer school"
+    },
+    {
+      "id": 12075,
+      "date": "2025-02-27",
+      "category": "3",
+      "member_id": 4682,
+      "member_name": "Luke Pollard",
+      "payer_id": 159,
+      "payer_name": "British Broadcasting Corporation",
+      "amount": 171.5,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4682/registeredinterests?categoryId=3",
+      "summary": "British Broadcasting Corporation - £171.50",
+      "description": "Travel from Westminster to Derby to allow appearance on BBC Question Time. Value £171.50"
+    },
+    {
+      "id": 12013,
+      "date": "2025-02-21",
+      "category": "3",
+      "member_id": 4682,
+      "member_name": "Luke Pollard",
+      "payer_id": 159,
+      "payer_name": "British Broadcasting Corporation",
+      "amount": 531.25,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4682/registeredinterests?categoryId=3",
+      "summary": "British Broadcasting Corporation - £531.25",
+      "description": "Travel from Westminster to Winchester and onwards to Plymouth, for appearance on BBC Any Questions. One meal also included (Value is estimated)"
+    }
+  ]
+}

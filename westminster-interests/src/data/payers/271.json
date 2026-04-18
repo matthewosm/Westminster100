@@ -1,0 +1,99 @@
+{
+  "id": 271,
+  "name": "Cornwall Council",
+  "address": "County Hall, Truro, Kernow TR1 2EY",
+  "nature_of_business": "Local authority",
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 653.75,
+      "inkind": 0.0,
+      "combined": 653.75,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 6084.92,
+      "inkind": 0.0,
+      "combined": 6084.92,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 7493.01,
+      "inkind": 0.0,
+      "combined": 7493.01,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "since_election": {
+      "monetary": 13577.93,
+      "inkind": 0.0,
+      "combined": 13577.93,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 13577.93,
+      "inkind": 0.0,
+      "combined": 13577.93,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    402,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 8717,
+      "date": "2024-08-04",
+      "category": "1.2",
+      "member_id": 227,
+      "member_name": "Andrew George",
+      "payer_id": 271,
+      "payer_name": "Cornwall Council",
+      "amount": 1530.66,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": null,
+      "end_date": "2025-05-01",
+      "is_sole_beneficiary": true,
+      "is_donated": true,
+      "donated_to": "Community organisation",
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/227/registeredinterests?categoryId=1",
+      "summary": "Agreement - £1,530.66",
+      "description": null
+    }
+  ]
+}

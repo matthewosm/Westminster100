@@ -1,0 +1,124 @@
+{
+  "id": 266,
+  "name": "Consulate of San Marino",
+  "address": "c/o Baird House, 15-17 St Cross Street, Farringdon, London EC1N 8UW",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 2691.86,
+      "combined": 2691.86,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 2691.86,
+      "combined": 2691.86,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 2691.86,
+      "combined": 2691.86,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 2691.86,
+      "combined": 2691.86,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 2
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2692,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 137611,
+      "date": "2025-10-21",
+      "category": "4",
+      "member_id": 5158,
+      "member_name": "Rupert Lowe",
+      "payer_id": 266,
+      "payer_name": "Consulate of San Marino",
+      "amount": 1790.92,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "san-marino",
+      "appg_name": "San Marino All-Party Parliamentary Group",
+      "source_url": "https://members.parliament.uk/member/5158/registeredinterests?categoryId=4",
+      "summary": "International visit to San Marino between 21 October 2025 and 26 October 2025 — All-Party Parliamentary Group for San Marino visit to San Marino and Vatican City in order to strengthen bilateral relations with the U.K.",
+      "description": "Airfare and ground transfers (£498.32), accommodation (£879.60) and subsistence (£413)"
+    },
+    {
+      "id": 138261,
+      "date": "2025-10-21",
+      "category": "4",
+      "member_id": 4634,
+      "member_name": "Christine Jardine",
+      "payer_id": 266,
+      "payer_name": "Consulate of San Marino",
+      "amount": 900.94,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "san-marino",
+      "appg_name": "San Marino All-Party Parliamentary Group",
+      "source_url": "https://members.parliament.uk/member/4634/registeredinterests?categoryId=4",
+      "summary": "International visit to Vatican City between 21 October 2025 and 23 October 2025 — Meetings with business people, parliamentarians and faith leaders in the Vatican City and San Marino to foster links between communities, parliaments and countries.",
+      "description": "Airfare and transfers (£534.36), accommodation (£193), subsistence (£173.38)"
+    }
+  ]
+}

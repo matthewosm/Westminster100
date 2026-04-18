@@ -1,0 +1,189 @@
+{
+  "slug": "deafness",
+  "title": "All-Party Parliamentary Group Deafness",
+  "purpose": "To promote the interests of people who are deaf or have a hearing loss.",
+  "categories": [
+    "Health, Medicine & Public Health",
+    "Human Rights, Equality & Social Justice"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/deafness.htm",
+  "secretariat": "RNID acts as the group's secretariat.https://rnid.org.uk",
+  "website": "https://rnid.org.uk/get-involved/campaign-with-us/the-all-party-parliamentary-group-on-deafness",
+  "registered_contact_name": "Catherine Atkinson MP",
+  "date_of_most_recent_agm": "2024-12-10 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "deafness",
+      "mnis_id": 5203,
+      "name": "Alison Griffiths",
+      "canon_name": "Alison Griffiths",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/deafness.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "deafness",
+      "mnis_id": 5143,
+      "name": "Catherine Atkinson",
+      "canon_name": "Catherine Atkinson",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/deafness.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "deafness",
+      "mnis_id": null,
+      "name": "Colin Beattie",
+      "canon_name": "Colin Beattie",
+      "officer_role": "Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "deafness",
+      "mnis_id": null,
+      "name": "Lord Bruce of Bennachie",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/deafness.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "deafness",
+      "mnis_id": 5163,
+      "name": "Peter Prinsley",
+      "canon_name": "Peter Prinsley",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/deafness.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "deafness",
+      "mnis_id": 5203,
+      "name": "Alison Griffiths",
+      "canon_name": "Alison Griffiths",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/deafness.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "deafness",
+      "mnis_id": 5143,
+      "name": "Catherine Atkinson",
+      "canon_name": "Catherine Atkinson",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/deafness.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "deafness",
+      "mnis_id": null,
+      "name": "Colin Beattie",
+      "canon_name": "Colin Beattie",
+      "officer_role": "Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "deafness",
+      "mnis_id": null,
+      "name": "Lord Bruce of Bennachie",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/deafness.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "deafness",
+      "mnis_id": 5163,
+      "name": "Peter Prinsley",
+      "canon_name": "Peter Prinsley",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/deafness.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

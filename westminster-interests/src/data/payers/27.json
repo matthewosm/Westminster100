@@ -1,0 +1,124 @@
+{
+  "id": 27,
+  "name": "Alan Montgomery",
+  "address": null,
+  "nature_of_business": null,
+  "donor_status": "Individual",
+  "is_private_individual": true,
+  "totals": {
+    "12m": {
+      "monetary": 5011.0,
+      "inkind": 0.0,
+      "combined": 5011.0,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 2511.0,
+      "inkind": 0.0,
+      "combined": 2511.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 2500.0,
+      "inkind": 0.0,
+      "combined": 2500.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 5011.0,
+      "inkind": 0.0,
+      "combined": 5011.0,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 5011.0,
+      "inkind": 0.0,
+      "combined": 5011.0,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2500,
+    0,
+    2511,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 14501,
+      "date": "2026-02-05",
+      "category": "2",
+      "member_id": 5263,
+      "member_name": "Alex Brewer",
+      "payer_id": 27,
+      "payer_name": "Alan Montgomery",
+      "amount": 2511.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5263/registeredinterests?categoryId=2",
+      "summary": "Alan Montomery - £2,511.00",
+      "description": null
+    },
+    {
+      "id": 14036,
+      "date": "2025-12-01",
+      "category": "2",
+      "member_id": 5263,
+      "member_name": "Alex Brewer",
+      "payer_id": 27,
+      "payer_name": "Alan Montgomery",
+      "amount": 2500.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5263/registeredinterests?categoryId=2",
+      "summary": "Alan Montgomery - £2,500.00",
+      "description": "Campaigning"
+    }
+  ]
+}

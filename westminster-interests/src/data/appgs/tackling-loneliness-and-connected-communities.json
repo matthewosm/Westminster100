@@ -1,0 +1,164 @@
+{
+  "slug": "tackling-loneliness-and-connected-communities",
+  "title": "All-Party Parliamentary Group on Tackling Loneliness and Connected Communities",
+  "purpose": "To ensure that tackling loneliness is on the Government's agenda.",
+  "categories": [
+    "Social Care, Welfare & Family Support"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/tackling-loneliness-and-connected-communities.htm",
+  "secretariat": "Intergenerational England acts as the group's secretariat.https://www.intergenerationalengland.org/",
+  "website": "https://www.intergenerationalengland.org/appgtacklingloneliness",
+  "registered_contact_name": "Paul Davies MP",
+  "date_of_most_recent_agm": "2025-06-10 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "tackling-loneliness-and-connected-communities",
+      "mnis_id": 4190,
+      "name": "Baroness Hollins",
+      "canon_name": "Baroness Hollins",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/tackling-loneliness-and-connected-communities.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "tackling-loneliness-and-connected-communities",
+      "mnis_id": null,
+      "name": "Lord Bailey of Paddington",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/tackling-loneliness-and-connected-communities.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "tackling-loneliness-and-connected-communities",
+      "mnis_id": 5317,
+      "name": "Paul Davies",
+      "canon_name": "Paul Davies",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/tackling-loneliness-and-connected-communities.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "tackling-loneliness-and-connected-communities",
+      "mnis_id": 5154,
+      "name": "Sarah Hall",
+      "canon_name": "Sarah Hall",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/tackling-loneliness-and-connected-communities.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "tackling-loneliness-and-connected-communities",
+      "mnis_id": 4190,
+      "name": "Baroness Hollins",
+      "canon_name": "Baroness Hollins",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/tackling-loneliness-and-connected-communities.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "tackling-loneliness-and-connected-communities",
+      "mnis_id": null,
+      "name": "Lord Bailey of Paddington",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/tackling-loneliness-and-connected-communities.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "tackling-loneliness-and-connected-communities",
+      "mnis_id": 5317,
+      "name": "Paul Davies",
+      "canon_name": "Paul Davies",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/tackling-loneliness-and-connected-communities.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "tackling-loneliness-and-connected-communities",
+      "mnis_id": 5154,
+      "name": "Sarah Hall",
+      "canon_name": "Sarah Hall",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/tackling-loneliness-and-connected-communities.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

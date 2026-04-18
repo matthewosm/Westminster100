@@ -1,0 +1,99 @@
+{
+  "id": 977,
+  "name": "Royal Society of Chemistry",
+  "address": "Burlington House, Piccadilly, London W1J 0BA",
+  "nature_of_business": null,
+  "donor_status": "Company",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 3732.0,
+      "combined": 3732.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 3732.0,
+      "combined": 3732.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 3732.0,
+      "combined": 3732.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 3732.0,
+      "combined": 3732.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3732,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 14069,
+      "date": "2025-11-12",
+      "category": "2",
+      "member_id": 5194,
+      "member_name": "Steve Yemm",
+      "payer_id": 977,
+      "payer_name": "Royal Society of Chemistry",
+      "amount": 3732.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5194/registeredinterests?categoryId=2",
+      "summary": "Royal Society of Chemistry - £3,732.00",
+      "description": "The Royal Society of Chemistry and I hosted an event in Parliament as part of Chemistry Week including a reception for other MPs and Peers, and students from my constituency. This is an exact cost that was incurred by the RSC in order to provide the chemistry experiment facilities enjoyed at the event"
+    }
+  ]
+}

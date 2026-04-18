@@ -1,0 +1,630 @@
+{
+  "mnis_id": 4651,
+  "name": "Dan Carden",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Liverpool Walton",
+  "house": "Commons",
+  "start_date": "2017-06-08",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4651/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 41825.36,
+      "inkind": 28313.94,
+      "combined": 70139.3,
+      "payment_count": 9,
+      "donor_count": 9
+    },
+    "ytd": {
+      "monetary": 11494.76,
+      "inkind": 14537.36,
+      "combined": 26032.12,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "2025": {
+      "monetary": 38006.16,
+      "inkind": 13776.58,
+      "combined": 51782.74,
+      "payment_count": 8,
+      "donor_count": 8
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 1259.69,
+      "combined": 1259.69,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "since_election": {
+      "monetary": 49500.92,
+      "inkind": 28973.63,
+      "combined": 78474.55,
+      "payment_count": 11,
+      "donor_count": 11
+    },
+    "all_time": {
+      "monetary": 49500.92,
+      "inkind": 29573.63,
+      "combined": 79074.55,
+      "payment_count": 12,
+      "donor_count": 12
+    }
+  },
+  "categories": {
+    "1.1": {
+      "12m": {
+        "monetary": 850.0,
+        "inkind": 0.0,
+        "combined": 850.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 850.0,
+        "inkind": 0.0,
+        "combined": 850.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 6000.0,
+        "inkind": 0.0,
+        "combined": 6000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 6850.0,
+        "inkind": 0.0,
+        "combined": 6850.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 6850.0,
+        "inkind": 0.0,
+        "combined": 6850.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 15781.0,
+        "combined": 15781.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 9364.0,
+        "combined": 9364.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 6417.0,
+        "combined": 6417.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 659.69,
+        "combined": 659.69,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 16440.69,
+        "combined": 16440.69,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 16440.69,
+        "combined": 16440.69,
+        "payment_count": 4,
+        "donor_count": 0
+      }
+    },
+    "1.2": {
+      "12m": {
+        "monetary": 35975.36,
+        "inkind": 11208.94,
+        "combined": 47184.3,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 10644.76,
+        "inkind": 5173.36,
+        "combined": 15818.12,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 27006.16,
+        "inkind": 6035.58,
+        "combined": 33041.74,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 37650.92,
+        "inkind": 11208.94,
+        "combined": 48859.86,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 37650.92,
+        "inkind": 11208.94,
+        "combined": 48859.86,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1324.0,
+        "combined": 1324.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1324.0,
+        "combined": 1324.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 600.0,
+        "combined": 600.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1324.0,
+        "combined": 1324.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1924.0,
+        "combined": 1924.0,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    },
+    "2": {
+      "12m": {
+        "monetary": 5000.0,
+        "inkind": 0.0,
+        "combined": 5000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 5000.0,
+        "inkind": 0.0,
+        "combined": 5000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 5000.0,
+        "inkind": 0.0,
+        "combined": 5000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 5000.0,
+        "inkind": 0.0,
+        "combined": 5000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    2957,
+    2957,
+    7957,
+    4281,
+    4107,
+    4394,
+    4854,
+    10351,
+    4394,
+    14608,
+    4394,
+    4394
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "arts-and-heritage",
+      "appg_name": "All-Party Parliamentary Arts and Heritage Group",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "bosnia-and-herzegovina",
+      "appg_name": "All-Party Parliamentary Group for Bosnia and Herzegovina",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "greenland",
+      "appg_name": "All-Party Parliamentary Group for Greenland",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "music",
+      "appg_name": "All-Party Parliamentary Group on Music",
+      "officer_role": "Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "racing-and-bloodstock",
+      "appg_name": "All-Party Parliamentary Group on Racing and Bloodstock",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "crown-dependencies-and-british-overseas-territories",
+      "appg_name": "All-Party Parliamentary Group on the Crown Dependencies and British Overseas Territories",
+      "officer_role": "Co-Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14466,
+      "date": "2026-01-29",
+      "category": "1.1",
+      "member_id": 4651,
+      "member_name": "Dan Carden",
+      "payer_id": 83,
+      "payer_name": "Associated Newspapers Ltd (ANMFS Ltd)",
+      "amount": 850.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": true,
+      "donated_to": "Charity",
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4651/registeredinterests?categoryId=1",
+      "summary": "Payment received on 29 January 2026 - £850.00",
+      "description": "Article published in the Mail on Sunday on 4th January 2026"
+    },
+    {
+      "id": 145961,
+      "date": "2026-01-27",
+      "category": "4",
+      "member_id": 4651,
+      "member_name": "Dan Carden",
+      "payer_id": 369,
+      "payer_name": "Embassy of the United Arab Emirates",
+      "amount": 9364.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "united-arab-emirates",
+      "appg_name": "United Arab Emirates All-Party Parliamentary Group",
+      "source_url": "https://members.parliament.uk/member/4651/registeredinterests?categoryId=4",
+      "summary": "International visit to United Arab Emirates between 27 January 2026 and 01 February 2026 — Cross-party visit to engage with parliamentarians and civic society representatives.",
+      "description": "Flights (£4095), food and accommodation (£2920) and in-country transport (£2349)"
+    },
+    {
+      "id": 142381,
+      "date": "2025-12-04",
+      "category": "4",
+      "member_id": 4651,
+      "member_name": "Dan Carden",
+      "payer_id": 319,
+      "payer_name": "Doha Forum",
+      "amount": 5957.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4651/registeredinterests?categoryId=4",
+      "summary": "International visit to Qatar between 04 December 2025 and 09 December 2025 — To attend the Doha Forum and participate in meetings with senior Qatari government representatives and others.",
+      "description": "Flights, accommodation and food £5957"
+    },
+    {
+      "id": 139741,
+      "date": "2025-11-12",
+      "category": "4",
+      "member_id": 4651,
+      "member_name": "Dan Carden",
+      "payer_id": 431,
+      "payer_name": "Friedrich-Ebert-Stiftung",
+      "amount": 460.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4651/registeredinterests?categoryId=4",
+      "summary": "International visit to Germany between 12 November 2025 and 14 November 2025 — To attend the Tiergarten Conference in Berlin.",
+      "description": "Flights (£268.71) and accommodation (£191.29)"
+    },
+    {
+      "id": 13339,
+      "date": "2025-09-19",
+      "category": "1.2",
+      "member_id": 4651,
+      "member_name": "Dan Carden",
+      "payer_id": 492,
+      "payer_name": "Green Rock Robotics INC.",
+      "amount": 1458.0,
+      "payment_type": "In kind",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": "2025-08-27",
+      "end_date": "2027-08-26",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4651/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 27 August 2025 - £1,458.00",
+      "description": "Share options of 0.1% (valued at £35,000 in total)"
+    },
+    {
+      "id": 13164,
+      "date": "2025-07-29",
+      "category": "3",
+      "member_id": 4651,
+      "member_name": "Dan Carden",
+      "payer_id": 367,
+      "payer_name": "Embassy of Qatar",
+      "amount": 574.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4651/registeredinterests?categoryId=3",
+      "summary": "Embassy of Qatar - £574.00",
+      "description": "Ticket (£120) and hotel (£454) for the Qatar Goodwood Festival 2025"
+    },
+    {
+      "id": 13189,
+      "date": "2025-07-29",
+      "category": "3",
+      "member_id": 4651,
+      "member_name": "Dan Carden",
+      "payer_id": 329,
+      "payer_name": "The Duchess of Richmond",
+      "amount": 750.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "racing-and-bloodstock",
+      "appg_name": "All-Party Parliamentary Group on Racing and Bloodstock",
+      "source_url": "https://members.parliament.uk/member/4651/registeredinterests?categoryId=3",
+      "summary": "The Duchess of Richmond - £750.00",
+      "description": "to attend Goodwood on 29th July 2025 in their Grace's Box and including hospitality"
+    },
+    {
+      "id": 13076,
+      "date": "2025-07-09",
+      "category": "2",
+      "member_id": 4651,
+      "member_name": "Dan Carden",
+      "payer_id": 774,
+      "payer_name": "Mr. Alan Halsall",
+      "amount": 5000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4651/registeredinterests?categoryId=2",
+      "summary": "Mr. Alan Halsall - £5,000.00",
+      "description": "in recognition of my contribution to British horse racing"
+    },
+    {
+      "id": 12322,
+      "date": "2025-04-30",
+      "category": "1.2",
+      "member_id": 4651,
+      "member_name": "Dan Carden",
+      "payer_id": 1046,
+      "payer_name": "Steps Together Group Ltd",
+      "amount": 3000.0,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": "2025-04-01",
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4651/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 01 April 2025 - £3,000.00",
+      "description": "(£36,000 per annum)"
+    },
+    {
+      "id": 12123,
+      "date": "2025-03-31",
+      "category": "1.1",
+      "member_id": 4651,
+      "member_name": "Dan Carden",
+      "payer_id": 1047,
+      "payer_name": "Steps Together Rehab (St Helen's) Ltd",
+      "amount": 6000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4651/registeredinterests?categoryId=1",
+      "summary": "Payment received on 31 March 2025 - £6,000.00",
+      "description": "work undertaken to design and establish an advisory board"
+    },
+    {
+      "id": 115911,
+      "date": "2024-11-26",
+      "category": "4",
+      "member_id": 4651,
+      "member_name": "Dan Carden",
+      "payer_id": 1145,
+      "payer_name": "UNOCT Programme Office on Parliamentary Engagement in Preventing and Countering Terrorism",
+      "amount": 659.69,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4651/registeredinterests?categoryId=4",
+      "summary": "International visit to Qatar between 26 November 2024 and 28 November 2024 — To participate in the Youth Initiative Closing Plenary Forum, November 27-28, 2024",
+      "description": "Subsistence to participate in Youth Initiative Closing Plenary Forum, November 27-28, 2024"
+    },
+    {
+      "id": 3857,
+      "date": "2024-01-27",
+      "category": "3",
+      "member_id": 4651,
+      "member_name": "Dan Carden",
+      "payer_id": 389,
+      "payer_name": "Everton Football Club",
+      "amount": 600.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4651/registeredinterests?categoryId=3",
+      "summary": "Everton Football Club - £600.00",
+      "description": "Tickets and hospitality for me and a staff member to Everton v Luton"
+    }
+  ]
+}

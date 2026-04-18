@@ -1,0 +1,286 @@
+{
+  "mnis_id": 5038,
+  "name": "Anneliese Midgley",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Knowsley",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5038/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 5982.0,
+      "combined": 5982.0,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 3782.0,
+      "combined": 3782.0,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 4420.0,
+      "combined": 4420.0,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 8202.0,
+      "combined": 8202.0,
+      "payment_count": 6,
+      "donor_count": 6
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 8202.0,
+      "combined": 8202.0,
+      "payment_count": 6,
+      "donor_count": 6
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 5982.0,
+        "combined": 5982.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 3782.0,
+        "combined": 3782.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 4420.0,
+        "combined": 4420.0,
+        "payment_count": 4,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 8202.0,
+        "combined": 8202.0,
+        "payment_count": 6,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 8202.0,
+        "combined": 8202.0,
+        "payment_count": 6,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    2200,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3782,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "industrialised-construction",
+      "appg_name": "All-Party Parliamentary Group on Industrialised Construction",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "ticket-abuse",
+      "appg_name": "All-Party Parliamentary Group on Ticket Abuse",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "liverpool-city-region",
+      "appg_name": "Liverpool City Region All-Party Parliamentary Group",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14759,
+      "date": "2026-03-10",
+      "category": "3",
+      "member_id": 5038,
+      "member_name": "Anneliese Midgley",
+      "payer_id": 516,
+      "payer_name": "Hestview Limited",
+      "amount": 350.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5038/registeredinterests?categoryId=3",
+      "summary": "Hestview Ltd - £350.00",
+      "description": "Ticket and hospitality at Cheltenham Festival 2026"
+    },
+    {
+      "id": 14697,
+      "date": "2026-02-28",
+      "category": "3",
+      "member_id": 5038,
+      "member_name": "Anneliese Midgley",
+      "payer_id": 144,
+      "payer_name": "BPI (British Recorded Music Industry) Ltd",
+      "amount": 3432.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5038/registeredinterests?categoryId=3",
+      "summary": "BPI (British Recorded Music Industry) Ltd - £3,432.00",
+      "description": "A seat for the Brit Awards show, the food and drink provided and access to the after show event for 2 people"
+    },
+    {
+      "id": 12595,
+      "date": "2025-05-23",
+      "category": "3",
+      "member_id": 5038,
+      "member_name": "Anneliese Midgley",
+      "payer_id": 895,
+      "payer_name": "Premier League",
+      "amount": 1000.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5038/registeredinterests?categoryId=3",
+      "summary": "Premier League - £1,000.00",
+      "description": "Two tickets for LFC Foundation Gala Dinner 2025, for me and a member of my staff"
+    },
+    {
+      "id": 12568,
+      "date": "2025-05-22",
+      "category": "3",
+      "member_id": 5038,
+      "member_name": "Anneliese Midgley",
+      "payer_id": 785,
+      "payer_name": "Music Publishers Association",
+      "amount": 1200.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5038/registeredinterests?categoryId=3",
+      "summary": "Music Publishers Association - £1,200.00",
+      "description": "ticket with hospitality for the Ivor Novello Awards"
+    },
+    {
+      "id": 12212,
+      "date": "2025-04-05",
+      "category": "3",
+      "member_id": 5038,
+      "member_name": "Anneliese Midgley",
+      "payer_id": 612,
+      "payer_name": "The Jockey Club",
+      "amount": 900.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5038/registeredinterests?categoryId=3",
+      "summary": "The Jockey Club - £900.00",
+      "description": "Attendance at the Chairman's Lunch at Aintree Racecourse for the Grand National on Saturday 5 April"
+    },
+    {
+      "id": 12280,
+      "date": "2025-03-01",
+      "category": "3",
+      "member_id": 5038,
+      "member_name": "Anneliese Midgley",
+      "payer_id": 1126,
+      "payer_name": "UK Music",
+      "amount": 1320.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5038/registeredinterests?categoryId=3",
+      "summary": "UK Music - £1,320.00",
+      "description": "Ticket and hospitality at the Brit Awards 2025"
+    }
+  ]
+}

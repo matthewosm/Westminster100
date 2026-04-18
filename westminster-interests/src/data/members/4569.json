@@ -1,0 +1,167 @@
+{
+  "mnis_id": 4569,
+  "name": "Jim McMahon",
+  "party": "Labour (Co-op)",
+  "party_slug": "labour-co-op",
+  "constituency": "Oldham West, Chadderton and Royton",
+  "house": "Commons",
+  "start_date": "2015-12-03",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4569/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 580.0,
+      "combined": 580.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 690.0,
+      "combined": 690.0,
+      "payment_count": 2,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 690.0,
+      "combined": 690.0,
+      "payment_count": 2,
+      "donor_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 690.0,
+      "combined": 690.0,
+      "payment_count": 2,
+      "donor_count": 1
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 580.0,
+        "combined": 580.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 690.0,
+        "combined": 690.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 690.0,
+        "combined": 690.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 690.0,
+        "combined": 690.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    580,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [],
+  "payments": [
+    {
+      "id": 12758,
+      "date": "2025-06-01",
+      "category": "3",
+      "member_id": 4569,
+      "member_name": "Jim McMahon",
+      "payer_id": 836,
+      "payer_name": "Oldham Athletic Football Club",
+      "amount": 580.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4569/registeredinterests?categoryId=3",
+      "summary": "Oldham Athletic Football Club - £580.00",
+      "description": "Two matchday tickets including hospitality to the National League Promotion Final at Wembley Stadium (estimated value per ticket £290.) (One of the tickets was given to the club by the National League)"
+    },
+    {
+      "id": 12759,
+      "date": "2025-04-18",
+      "category": "3",
+      "member_id": 4569,
+      "member_name": "Jim McMahon",
+      "payer_id": 836,
+      "payer_name": "Oldham Athletic Football Club",
+      "amount": 110.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4569/registeredinterests?categoryId=3",
+      "summary": "Oldham Athletic Football Club - £110.00",
+      "description": "Two matchday and hospitality tickets for a fixture on Good Friday (estimated total value)"
+    }
+  ]
+}

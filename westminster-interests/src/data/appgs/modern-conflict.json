@@ -1,0 +1,140 @@
+{
+  "slug": "modern-conflict",
+  "title": "All-Party Parliamentary Group on Modern Conflict",
+  "purpose": "The APPG is an interest group for parliamentarians considering the capabilities and commitments driving contemporary warfare. Our work advances discussion and policy-making regarding protection considerations, technology, covert operations, and other issues which are outpacing conventional oversight mechanisms in the context of modern conflict.",
+  "categories": [
+    "Justice, Law & Security"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/modern-conflict.htm",
+  "secretariat": "University College London acts as the group's secretariat.https://www.ucl.ac.uk/",
+  "website": "https://www.appgmodernconflict.org/",
+  "registered_contact_name": "Richard Foord MP",
+  "date_of_most_recent_agm": "2025-02-25 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "modern-conflict",
+      "mnis_id": 2475,
+      "name": "Baroness Stern",
+      "canon_name": "Baroness Stern",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/modern-conflict.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "modern-conflict",
+      "mnis_id": null,
+      "name": "Lord Hodgson of Astley Abbotts",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/modern-conflict.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "modern-conflict",
+      "mnis_id": 4942,
+      "name": "Richard Foord",
+      "canon_name": "Richard Foord",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/modern-conflict.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "modern-conflict",
+      "mnis_id": 2475,
+      "name": "Baroness Stern",
+      "canon_name": "Baroness Stern",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/modern-conflict.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "modern-conflict",
+      "mnis_id": null,
+      "name": "Lord Hodgson of Astley Abbotts",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/modern-conflict.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "modern-conflict",
+      "mnis_id": 4942,
+      "name": "Richard Foord",
+      "canon_name": "Richard Foord",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260112/modern-conflict.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

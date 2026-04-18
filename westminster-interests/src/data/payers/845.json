@@ -1,0 +1,99 @@
+{
+  "id": 845,
+  "name": "Optimistic Trout Productions C.I.C",
+  "address": "Pengraig, Velindre, Llandysul, Carmarthenshire, Wales SA44 5HX",
+  "nature_of_business": null,
+  "donor_status": "Company",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 375.0,
+      "combined": 375.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 375.0,
+      "combined": 375.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 375.0,
+      "combined": 375.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 375.0,
+      "combined": 375.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    375,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 13051,
+      "date": "2025-07-31",
+      "category": "3",
+      "member_id": 4500,
+      "member_name": "Clive Lewis",
+      "payer_id": 845,
+      "payer_name": "Optimistic Trout Productions C.I.C",
+      "amount": 375.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-08-04",
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4500/registeredinterests?categoryId=3",
+      "summary": "Optimistic Trout Productions C.I.C - £375.00",
+      "description": "Two tickets, for myself and a guest (plus car park pass), for a speaking engagement at the Green Gathering Festival (actual value)"
+    }
+  ]
+}

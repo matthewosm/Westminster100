@@ -1,0 +1,124 @@
+{
+  "id": 1128,
+  "name": "UKREiiF & Built Environment Networking Ltd",
+  "address": "5th Floor 133 Houndsditch, London, United Kingdom, EC3A 7BX",
+  "nature_of_business": null,
+  "donor_status": "Company",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 128.22,
+      "inkind": 550.0,
+      "combined": 678.22,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 128.22,
+      "inkind": 550.0,
+      "combined": 678.22,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 128.22,
+      "inkind": 550.0,
+      "combined": 678.22,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 128.22,
+      "inkind": 550.0,
+      "combined": 678.22,
+      "payment_count": 2,
+      "donor_count": 2,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    550,
+    128,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 12644,
+      "date": "2025-05-27",
+      "category": "3",
+      "member_id": 5208,
+      "member_name": "Perran Moon",
+      "payer_id": 1128,
+      "payer_name": "UKREiiF & Built Environment Networking Ltd",
+      "amount": 128.22,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5208/registeredinterests?categoryId=3",
+      "summary": "UKREiiF & Built Environment Networking Ltd - £128.22",
+      "description": "Reimbursement for my train ticket to attend the UK Real Estate Investment & Infrastructure Forum in Leeds"
+    },
+    {
+      "id": 12641,
+      "date": "2025-05-19",
+      "category": "3",
+      "member_id": 5208,
+      "member_name": "Perran Moon",
+      "payer_id": 1128,
+      "payer_name": "UKREiiF & Built Environment Networking Ltd",
+      "amount": 550.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-05-21",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5208/registeredinterests?categoryId=3",
+      "summary": "UKREiiF & Built Environment Networking Ltd - £550.00",
+      "description": "Hotel room for two nights so I could attend the UK Real Estate Investment & Infrastructure Forum in Leeds City Centre"
+    }
+  ]
+}

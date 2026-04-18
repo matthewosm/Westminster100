@@ -1,0 +1,179 @@
+{
+  "mnis_id": 4595,
+  "name": "Gareth Snell",
+  "party": "Labour (Co-op)",
+  "party_slug": "labour-co-op",
+  "constituency": "Stoke-on-Trent Central",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4595/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 10000.0,
+      "inkind": 0.0,
+      "combined": 10000.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 10000.0,
+      "inkind": 0.0,
+      "combined": 10000.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 10000.0,
+      "inkind": 0.0,
+      "combined": 10000.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "all_time": {
+      "monetary": 10000.0,
+      "inkind": 0.0,
+      "combined": 10000.0,
+      "payment_count": 1,
+      "donor_count": 1
+    }
+  },
+  "categories": {
+    "2": {
+      "12m": {
+        "monetary": 10000.0,
+        "inkind": 0.0,
+        "combined": 10000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 10000.0,
+        "inkind": 0.0,
+        "combined": 10000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 10000.0,
+        "inkind": 0.0,
+        "combined": 10000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 10000.0,
+        "inkind": 0.0,
+        "combined": 10000.0,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    10000,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "packaging-in-the-circular-economy",
+      "appg_name": "All Party Parliamentary Group for Packaging in the Circular Economy",
+      "officer_role": "Treasurer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "ceramics",
+      "appg_name": "All-Party Parliamentary Group for Ceramics",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "mutuals",
+      "appg_name": "All-Party Parliamentary Group for Mutuals",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "credit-unions",
+      "appg_name": "All-Party Parliamentary Group on Credit Unions",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "literacy",
+      "appg_name": "All-Party Parliamentary Group on Literacy",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "sixth-form-education",
+      "appg_name": "All-Party Parliamentary Group on Sixth Form Education",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 13027,
+      "date": "2025-07-14",
+      "category": "2",
+      "member_id": 4595,
+      "member_name": "Gareth Snell",
+      "payer_id": 290,
+      "payer_name": "Daniel Luhde-Thompson",
+      "amount": 10000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4595/registeredinterests?categoryId=2",
+      "summary": "Daniel Luhde-Thompson - £10,000.00",
+      "description": null
+    }
+  ]
+}

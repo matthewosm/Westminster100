@@ -1,0 +1,99 @@
+{
+  "id": 834,
+  "name": "Odysight AI",
+  "address": "USA Office, 112 North Curry Street, Carson City, Nevada, 897703",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 28254.62,
+      "inkind": 0.0,
+      "combined": 28254.62,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 14193.02,
+      "inkind": 0.0,
+      "combined": 14193.02,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 14061.6,
+      "inkind": 0.0,
+      "combined": 14061.6,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 28254.62,
+      "inkind": 0.0,
+      "combined": 28254.62,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 28254.62,
+      "inkind": 0.0,
+      "combined": 28254.62,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    657,
+    3943,
+    3943,
+    3943,
+    3943,
+    3943,
+    3943,
+    3943
+  ],
+  "payments": [
+    {
+      "id": 13832,
+      "date": "2025-11-14",
+      "category": "1.2",
+      "member_id": 4108,
+      "member_name": "Sir Gavin Williamson",
+      "payer_id": 834,
+      "payer_name": "Odysight AI",
+      "amount": 4000.0,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": "2025-09-15",
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4108/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 15 September 2025 - £4,000.00",
+      "description": null
+    }
+  ]
+}

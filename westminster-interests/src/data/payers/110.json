@@ -1,0 +1,124 @@
+{
+  "id": 110,
+  "name": "BCP Council",
+  "address": "Civic Centre, Bourne Avenue, Bournemouth BH2 6DY",
+  "nature_of_business": "Local Authority",
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 14448.1,
+      "inkind": 0.0,
+      "combined": 14448.1,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 4275.06,
+      "inkind": 0.0,
+      "combined": 4275.06,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 14448.1,
+      "inkind": 0.0,
+      "combined": 14448.1,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 6848.01,
+      "inkind": 571.42,
+      "combined": 7419.43,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 2
+    },
+    "since_election": {
+      "monetary": 25571.16,
+      "inkind": 571.42,
+      "combined": 26142.58,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 2
+    },
+    "all_time": {
+      "monetary": 25571.16,
+      "inkind": 571.42,
+      "combined": 26142.58,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 2
+    }
+  },
+  "trend_12m": [
+    1188,
+    1188,
+    1188,
+    1188,
+    1188,
+    1188,
+    1188,
+    1188,
+    1188,
+    1188,
+    1188,
+    1188
+  ],
+  "payments": [
+    {
+      "id": 6130,
+      "date": "2024-07-11",
+      "category": "1.2",
+      "member_id": 5327,
+      "member_name": "Vikki Slade",
+      "payer_id": 110,
+      "payer_name": "BCP Council",
+      "amount": 14458.0,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Yearly",
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5327/registeredinterests?categoryId=1",
+      "summary": "Agreement - £14,458.00",
+      "description": null
+    },
+    {
+      "id": 11661,
+      "date": "2024-07-05",
+      "category": "3",
+      "member_id": 5359,
+      "member_name": "Neil Duncan-Jordan",
+      "payer_id": 110,
+      "payer_name": "BCP Council",
+      "amount": 571.42,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2028-07-05",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5359/registeredinterests?categoryId=3",
+      "summary": "BCP Council - £571.42",
+      "description": "Free car parking when on constituency business on an annual basis"
+    }
+  ]
+}

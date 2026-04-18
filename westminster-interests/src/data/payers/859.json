@@ -1,0 +1,99 @@
+{
+  "id": 859,
+  "name": "Parliamentary Renewable & Sustainable Energy Group (PRASEG)",
+  "address": "PRASEG, 10 Dean Farrar Street, London SW1H 0DX",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 1185.0,
+      "combined": 1185.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 1185.0,
+      "combined": 1185.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 1185.0,
+      "combined": 1185.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 1185.0,
+      "combined": 1185.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1185,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 138611,
+      "date": "2025-10-22",
+      "category": "4",
+      "member_id": 4061,
+      "member_name": "Bill Esterson",
+      "payer_id": 859,
+      "payer_name": "Parliamentary Renewable & Sustainable Energy Group (PRASEG)",
+      "amount": 1185.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "renewable-and-sustainable-energy",
+      "appg_name": "All-Party Parliamentary Group for Renewable and Sustainable Energy",
+      "source_url": "https://members.parliament.uk/member/4061/registeredinterests?categoryId=4",
+      "summary": "International visit to Denmark between 22 October 2025 and 24 October 2025 — APPG visit to high-level meetings and site visits in Copenhagen cross-channel cooperation for decarbonising heat and energy.",
+      "description": "Accommodation, return flights, subsistence, ground transport"
+    }
+  ]
+}

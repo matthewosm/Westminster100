@@ -1,0 +1,286 @@
+{
+  "mnis_id": 5053,
+  "name": "Natalie Fleet",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Bolsover",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5053/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 10225.0,
+      "combined": 10225.0,
+      "payment_count": 4,
+      "donor_count": 4
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 1795.0,
+      "combined": 1795.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 8430.0,
+      "combined": 8430.0,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 8500.0,
+      "combined": 8500.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 18725.0,
+      "combined": 18725.0,
+      "payment_count": 5,
+      "donor_count": 4
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 18725.0,
+      "combined": 18725.0,
+      "payment_count": 5,
+      "donor_count": 4
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 3025.0,
+        "combined": 3025.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 1795.0,
+        "combined": 1795.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1230.0,
+        "combined": 1230.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 3025.0,
+        "combined": 3025.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 3025.0,
+        "combined": 3025.0,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    },
+    "2": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 7200.0,
+        "combined": 7200.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 7200.0,
+        "combined": 7200.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 8500.0,
+        "combined": 8500.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 15700.0,
+        "combined": 15700.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 15700.0,
+        "combined": 15700.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    705,
+    0,
+    525,
+    0,
+    0,
+    7200,
+    0,
+    0,
+    0,
+    0,
+    1795,
+    0
+  ],
+  "appg_memberships": [],
+  "payments": [
+    {
+      "id": 14807,
+      "date": "2026-02-28",
+      "category": "3",
+      "member_id": 5053,
+      "member_name": "Natalie Fleet",
+      "payer_id": 480,
+      "payer_name": "Google UK Ltd",
+      "amount": 1795.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5053/registeredinterests?categoryId=3",
+      "summary": "Google UK Ltd - £1,795.00",
+      "description": "Hospitality and accommodation as a guest of YouTube at the BRIT Awards"
+    },
+    {
+      "id": 13934,
+      "date": "2025-10-03",
+      "category": "2",
+      "member_id": 5053,
+      "member_name": "Natalie Fleet",
+      "payer_id": 475,
+      "payer_name": "Godfrey Coaching Ltd",
+      "amount": 7200.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2026-10-02",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5053/registeredinterests?categoryId=2",
+      "summary": "Godfrey Coaching Ltd - £7,200.00",
+      "description": "Coaching"
+    },
+    {
+      "id": 12785,
+      "date": "2025-06-29",
+      "category": "3",
+      "member_id": 5053,
+      "member_name": "Natalie Fleet",
+      "payer_id": 417,
+      "payer_name": "The Football Association Ltd",
+      "amount": 525.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5053/registeredinterests?categoryId=3",
+      "summary": "The Football Association Ltd - £525.00",
+      "description": "Three tickets including hospitality to the England v Jamaica match"
+    },
+    {
+      "id": 12693,
+      "date": "2025-05-18",
+      "category": "3",
+      "member_id": 5053,
+      "member_name": "Natalie Fleet",
+      "payer_id": 417,
+      "payer_name": "The Football Association Ltd",
+      "amount": 705.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5053/registeredinterests?categoryId=3",
+      "summary": "The Football Association - £705.00",
+      "description": "Ticket to Adobe Women's FA Cup Final with hospitality"
+    },
+    {
+      "id": 11516,
+      "date": "2024-10-02",
+      "category": "2",
+      "member_id": 5053,
+      "member_name": "Natalie Fleet",
+      "payer_id": 475,
+      "payer_name": "Godfrey Coaching Ltd",
+      "amount": 8500.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-10-02",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5053/registeredinterests?categoryId=2",
+      "summary": "Godfrey Coaching Ltd - £8,500.00",
+      "description": "Coaching"
+    }
+  ]
+}

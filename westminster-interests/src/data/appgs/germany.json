@@ -1,0 +1,212 @@
+{
+  "slug": "germany",
+  "title": "All-Party Parliamentary Group on Germany",
+  "purpose": "To promote mutual understanding and good relations between the UK and Germany and to facilitate meetings and contacts between parliamentarians of both countries.",
+  "categories": [
+    "Country Group"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/germany.htm",
+  "secretariat": "",
+  "website": "None",
+  "registered_contact_name": "Sir Mark Hendrick MP",
+  "date_of_most_recent_agm": "2026-01-20 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "germany",
+      "mnis_id": null,
+      "name": "Baroness Smith of Newnham",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/germany.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "germany",
+      "mnis_id": null,
+      "name": "Colin Beattie",
+      "canon_name": "Colin Beattie",
+      "officer_role": "Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "germany",
+      "mnis_id": null,
+      "name": "Lord Kirkhope of Harrogate",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/germany.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "germany",
+      "mnis_id": 5128,
+      "name": "Phil Brickell",
+      "canon_name": "Phil Brickell",
+      "officer_role": "Secretary",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/germany.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "germany",
+      "mnis_id": null,
+      "name": "Roz McCall",
+      "canon_name": "Roz McCall",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "germany",
+      "mnis_id": 473,
+      "name": "Sir Mark Hendrick",
+      "canon_name": "Mark Hendrick",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/germany.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "germany",
+      "mnis_id": null,
+      "name": "Baroness Smith of Newnham",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/germany.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "germany",
+      "mnis_id": null,
+      "name": "Colin Beattie",
+      "canon_name": "Colin Beattie",
+      "officer_role": "Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "germany",
+      "mnis_id": null,
+      "name": "Lord Kirkhope of Harrogate",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/germany.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "germany",
+      "mnis_id": 5128,
+      "name": "Phil Brickell",
+      "canon_name": "Phil Brickell",
+      "officer_role": "Secretary",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/germany.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "germany",
+      "mnis_id": null,
+      "name": "Roz McCall",
+      "canon_name": "Roz McCall",
+      "officer_role": "Deputy Convener",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://data.parliament.scot/api/crosspartygroups/json",
+      "removed": null
+    },
+    {
+      "appg_slug": "germany",
+      "mnis_id": 473,
+      "name": "Sir Mark Hendrick",
+      "canon_name": "Mark Hendrick",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/germany.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

@@ -1,0 +1,261 @@
+{
+  "mnis_id": 1489,
+  "name": "Dawn Butler",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Brent East",
+  "house": "Commons",
+  "start_date": "2015-05-07",
+  "photo_url": "https://members-api.parliament.uk/api/Members/1489/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 2500.0,
+      "inkind": 2925.19,
+      "combined": 5425.19,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 3000.0,
+      "inkind": 2925.19,
+      "combined": 5925.19,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 3000.0,
+      "inkind": 2925.19,
+      "combined": 5925.19,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 3000.0,
+      "inkind": 2925.19,
+      "combined": 5925.19,
+      "payment_count": 3,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "1.1": {
+      "12m": {
+        "monetary": 2500.0,
+        "inkind": 0.0,
+        "combined": 2500.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 3000.0,
+        "inkind": 0.0,
+        "combined": 3000.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 3000.0,
+        "inkind": 0.0,
+        "combined": 3000.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 3000.0,
+        "inkind": 0.0,
+        "combined": 3000.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 2925.19,
+        "combined": 2925.19,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 2925.19,
+        "combined": 2925.19,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 2925.19,
+        "combined": 2925.19,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 2925.19,
+        "combined": 2925.19,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    2925,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2500,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "governance-and-inclusive-leadership",
+      "appg_name": "All-Party Parliamentary Group for Governance and Inclusive Leadership",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "jamaica",
+      "appg_name": "All-Party Parliamentary Group for Jamaica",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "artificial-intelligence",
+      "appg_name": "All-Party Parliamentary Group on Artificial Intelligence",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "women-in-parliament",
+      "appg_name": "All-Party Parliamentary Group on Women in Parliament",
+      "officer_role": "Co-Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14050,
+      "date": "2025-11-10",
+      "category": "1.1",
+      "member_id": 1489,
+      "member_name": "Dawn Butler",
+      "payer_id": 452,
+      "payer_name": "Gibson, Dunn & Crutcher LLP",
+      "amount": 2500.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": true,
+      "donated_to": "Other",
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1489/registeredinterests?categoryId=1",
+      "summary": "Payment received on 10 November 2025 - £2,500.00",
+      "description": "Speaking engagement at a Black History Month Event"
+    },
+    {
+      "id": 127021,
+      "date": "2025-05-23",
+      "category": "4",
+      "member_id": 1489,
+      "member_name": "Dawn Butler",
+      "payer_id": 517,
+      "payer_name": "Heward Mills Ltd",
+      "amount": 2925.19,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1489/registeredinterests?categoryId=4",
+      "summary": "International visit to Ghana between 23 May 2025 and 01 June 2025 — The Protect Black Women Tour - Black Women leaders and allies from the UK and the US gathered in Accra, Ghana for a Liberation Tour to mark the 5th anniversary of George Floyd's murder and to establish the Protect Black Women Accra Principles.",
+      "description": "Flights £2,005.19, accommodation £925"
+    },
+    {
+      "id": 12063,
+      "date": "2025-03-26",
+      "category": "1.1",
+      "member_id": 1489,
+      "member_name": "Dawn Butler",
+      "payer_id": 346,
+      "payer_name": "Eden & Partners",
+      "amount": 500.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/1489/registeredinterests?categoryId=1",
+      "summary": "Payment received on 26 March 2025 - £500.00",
+      "description": "Speaking engagement"
+    }
+  ]
+}

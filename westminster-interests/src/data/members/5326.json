@@ -1,0 +1,198 @@
+{
+  "mnis_id": 5326,
+  "name": "Edward Morello",
+  "party": "Liberal Democrat",
+  "party_slug": "liberal-democrat",
+  "constituency": "West Dorset",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5326/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 6937.4,
+      "combined": 6937.4,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 5673.4,
+      "combined": 5673.4,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 1264.0,
+      "combined": 1264.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 6937.4,
+      "combined": 6937.4,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 6937.4,
+      "combined": 6937.4,
+      "payment_count": 2,
+      "donor_count": 2
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 6937.4,
+        "combined": 6937.4,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 5673.4,
+        "combined": 5673.4,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1264.0,
+        "combined": 1264.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 6937.4,
+        "combined": 6937.4,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 6937.4,
+        "combined": 6937.4,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    1264,
+    0,
+    0,
+    0,
+    0,
+    5673,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "climatetech",
+      "appg_name": "All-Party Parliamentary Group on ClimateTech",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "unesco-world-heritage-sites",
+      "appg_name": "All-Party Parliamentary Group on UNESCO World Heritage Sites",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "water-pollution",
+      "appg_name": "All-Party Parliamentary Group on Water Pollution",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "cayman-islands",
+      "appg_name": "Cayman Islands All-Party Parliamentary Group",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "net-zero",
+      "appg_name": "Net Zero All-Party Parliamentary Group",
+      "officer_role": "Co-Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 147381,
+      "date": "2026-02-13",
+      "category": "4",
+      "member_id": 5326,
+      "member_name": "Edward Morello",
+      "payer_id": 523,
+      "payer_name": "HM Government of Cayman Islands",
+      "amount": 5673.4,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5326/registeredinterests?categoryId=4",
+      "summary": "International visit to Cayman Islands between 13 February 2026 and 17 February 2026 — Fact finding visit to UK Overseas Territory, exploring natural disaster responsiveness and preparedness, financial regulation, environmental management, and governance.",
+      "description": "Flights (£2905.60), accommodation (£1919.63), transfers (£206.00), subsistence (£577.83), commemorative item (£64.34)"
+    },
+    {
+      "id": 133741,
+      "date": "2025-09-08",
+      "category": "4",
+      "member_id": 5326,
+      "member_name": "Edward Morello",
+      "payer_id": 482,
+      "payer_name": "HM Government of Gibraltar",
+      "amount": 1264.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5326/registeredinterests?categoryId=4",
+      "summary": "International visit to Gibraltar between 08 September 2025 and 11 September 2025 — To represent the Liberal Democrats at the Gibraltar National Day celebrations",
+      "description": "Flights (£489), accommodation (£525) and\r\nmeals (£250)"
+    }
+  ]
+}

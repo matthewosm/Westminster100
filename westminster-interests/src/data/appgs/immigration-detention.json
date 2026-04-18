@@ -1,0 +1,165 @@
+{
+  "slug": "immigration-detention",
+  "title": "All-Party Parliamentary Group on Immigration Detention",
+  "purpose": "To increase knowledge in Parliament on immigration detention in the UK and its impacts; to connect parliamentarians with relevant research, organisations and experts, including people with lived experience of detention; and to advocate for evidence-based policy reforms and the welfare of detained people.",
+  "categories": [
+    "Justice, Law & Security",
+    "Human Rights, Equality & Social Justice"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/immigration-detention.htm",
+  "secretariat": "Medical Justice acts as the group's secretariat.http://www.medicaljustice.org.uk/",
+  "website": "https://appgdetention.org.uk/",
+  "registered_contact_name": "Bell Ribeiro-Addy MP",
+  "date_of_most_recent_agm": "2026-02-02 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "immigration-detention",
+      "mnis_id": 2652,
+      "name": "Baroness Hamwee",
+      "canon_name": "Baroness Hamwee",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/immigration-detention.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "immigration-detention",
+      "mnis_id": 4764,
+      "name": "Bell Ribeiro-Addy",
+      "canon_name": "Bell Ribeiro-Addy",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/immigration-detention.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "immigration-detention",
+      "mnis_id": 178,
+      "name": "John McDonnell",
+      "canon_name": "John Martin McDonnell",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/immigration-detention.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "immigration-detention",
+      "mnis_id": 337,
+      "name": "Lord Garnier",
+      "canon_name": "Lord Garnier",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/immigration-detention.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "immigration-detention",
+      "mnis_id": 2652,
+      "name": "Baroness Hamwee",
+      "canon_name": "Baroness Hamwee",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/immigration-detention.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "immigration-detention",
+      "mnis_id": 4764,
+      "name": "Bell Ribeiro-Addy",
+      "canon_name": "Bell Ribeiro-Addy",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/immigration-detention.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "immigration-detention",
+      "mnis_id": 178,
+      "name": "John McDonnell",
+      "canon_name": "John Martin McDonnell",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/immigration-detention.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "immigration-detention",
+      "mnis_id": 337,
+      "name": "Lord Garnier",
+      "canon_name": "Lord Garnier",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/immigration-detention.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

@@ -1,0 +1,99 @@
+{
+  "id": 509,
+  "name": "Hayakawa Publishing Inc",
+  "address": "2-2 Kanda-tacho, Chiyoda-ku, Tokyo, 101-0046 Japan",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 1667.0,
+      "inkind": 0.0,
+      "combined": 1667.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 1667.0,
+      "inkind": 0.0,
+      "combined": 1667.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 1667.0,
+      "inkind": 0.0,
+      "combined": 1667.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 1667.0,
+      "inkind": 0.0,
+      "combined": 1667.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    1667,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 13362,
+      "date": "2025-09-18",
+      "category": "1.1",
+      "member_id": 3991,
+      "member_name": "Jesse Norman",
+      "payer_id": 509,
+      "payer_name": "Hayakawa Publishing Inc",
+      "amount": 1667.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": true,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/3991/registeredinterests?categoryId=1",
+      "summary": "Payment received on 18 September 2025 - £1,667.00",
+      "description": null
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "mnis_id": 4592,
+  "name": "Dr Caroline Johnson",
+  "party": "Conservative",
+  "party_slug": "conservative",
+  "constituency": "Sleaford and North Hykeham",
+  "house": "Commons",
+  "start_date": "2016-12-08",
+  "photo_url": "https://members-api.parliament.uk/api/Members/4592/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 26193.66,
+      "inkind": 1635.79,
+      "combined": 27829.45,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "ytd": {
+      "monetary": 7750.45,
+      "inkind": 0.0,
+      "combined": 7750.45,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "2025": {
+      "monetary": 26193.66,
+      "inkind": 1635.79,
+      "combined": 27829.45,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "2024": {
+      "monetary": 26265.42,
+      "inkind": 0.0,
+      "combined": 26265.42,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "since_election": {
+      "monetary": 46933.3,
+      "inkind": 1635.79,
+      "combined": 48569.09,
+      "payment_count": 2,
+      "donor_count": 2
+    },
+    "all_time": {
+      "monetary": 67170.59,
+      "inkind": 1635.79,
+      "combined": 68806.38,
+      "payment_count": 2,
+      "donor_count": 2
+    }
+  },
+  "categories": {
+    "4": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1635.79,
+        "combined": 1635.79,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1635.79,
+        "combined": 1635.79,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 1635.79,
+        "combined": 1635.79,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 1635.79,
+        "combined": 1635.79,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    },
+    "1.2": {
+      "12m": {
+        "monetary": 26193.66,
+        "inkind": 0.0,
+        "combined": 26193.66,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 7750.45,
+        "inkind": 0.0,
+        "combined": 7750.45,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 26193.66,
+        "inkind": 0.0,
+        "combined": 26193.66,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 26265.42,
+        "inkind": 0.0,
+        "combined": 26265.42,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 46933.3,
+        "inkind": 0.0,
+        "combined": 46933.3,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 67170.59,
+        "inkind": 0.0,
+        "combined": 67170.59,
+        "payment_count": 1,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    2153,
+    2153,
+    3789,
+    2153,
+    2153,
+    2153,
+    2153,
+    2153,
+    2153,
+    2153,
+    2153,
+    2153
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "youth-employment",
+      "appg_name": "All-Party Parliamentary Group for Youth Employment",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "emerging-drugs-and-online-behavioural-trends",
+      "appg_name": "All-Party Parliamentary Group on Emerging Drugs and Online Behavioral Trends",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 130641,
+      "date": "2025-07-14",
+      "category": "4",
+      "member_id": 4592,
+      "member_name": "Dr Caroline Johnson",
+      "payer_id": 643,
+      "payer_name": "Konrad Adenauer Stiftung",
+      "amount": 1635.79,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4592/registeredinterests?categoryId=4",
+      "summary": "International visit to Switzerland between 14 July 2025 and 17 July 2025 — Visit to Geneva to represent the Conservative Party at the KAS-IWDU Dialogue Programme for Strategic Exchange on Pushback Against Women's Rights in International Organisations.",
+      "description": "For flights, accommodation, meals and local transport"
+    },
+    {
+      "id": 4866,
+      "date": "2023-10-26",
+      "category": "1.2",
+      "member_id": 4592,
+      "member_name": "Dr Caroline Johnson",
+      "payer_id": 828,
+      "payer_name": "North West Anglia NHS Foundation Trust",
+      "amount": 26211.6,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Yearly",
+      "start_date": "2023-09-25",
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4592/registeredinterests?categoryId=1",
+      "summary": "Agreement starting 25 September 2023 - £26,211.60",
+      "description": "Pay has increased from £25,203.60 per annum, first paid from 22 August 2025 (including pay arrears of £336)"
+    }
+  ]
+}

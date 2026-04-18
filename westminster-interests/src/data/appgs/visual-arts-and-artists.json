@@ -1,0 +1,164 @@
+{
+  "slug": "visual-arts-and-artists",
+  "title": "All-Party Parliamentary Group for Visual Arts and Artists",
+  "purpose": "To advance the understanding of how visual artists carry out their practice and develop their careers, promote the value artists and the visual arts bring to society and the UK economy, and to foster an environment in the UK in which the visual arts sector can flourish.",
+  "categories": [
+    "Arts, Culture, Heritage & Media"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/visual-arts-and-artists.htm",
+  "secretariat": "Design and Artists Copyright Society, Contemporary Visual Arts Network and a-n jointly act as the group's secretariat.https://www.dacs.org.uk/andhttps://cvan.art/andhttps://www.a-n.co.uk/",
+  "website": "https://www.visualartsappg.org.uk/",
+  "registered_contact_name": "Cat Eccles MP",
+  "date_of_most_recent_agm": "2025-11-19 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "visual-arts-and-artists",
+      "mnis_id": 5293,
+      "name": "Cat Eccles",
+      "canon_name": "Cat Eccles",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/visual-arts-and-artists.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "visual-arts-and-artists",
+      "mnis_id": null,
+      "name": "Lord Bassam of Brighton",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/visual-arts-and-artists.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "visual-arts-and-artists",
+      "mnis_id": null,
+      "name": "Lord Vaizey of Didcot",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/visual-arts-and-artists.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "visual-arts-and-artists",
+      "mnis_id": 5122,
+      "name": "Manuela Perteghella",
+      "canon_name": "Manuela Perteghella",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/visual-arts-and-artists.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "visual-arts-and-artists",
+      "mnis_id": 5293,
+      "name": "Cat Eccles",
+      "canon_name": "Cat Eccles",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/visual-arts-and-artists.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "visual-arts-and-artists",
+      "mnis_id": null,
+      "name": "Lord Bassam of Brighton",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/visual-arts-and-artists.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "visual-arts-and-artists",
+      "mnis_id": null,
+      "name": "Lord Vaizey of Didcot",
+      "canon_name": null,
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/visual-arts-and-artists.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "visual-arts-and-artists",
+      "mnis_id": 5122,
+      "name": "Manuela Perteghella",
+      "canon_name": "Manuela Perteghella",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/visual-arts-and-artists.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

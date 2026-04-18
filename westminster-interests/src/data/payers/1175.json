@@ -1,0 +1,99 @@
+{
+  "id": 1175,
+  "name": "Wilton Park",
+  "address": "Wilton Park, Wiston House, Steyning, West Sussex , BN44 3DZ",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 4491.21,
+      "combined": 4491.21,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 4491.21,
+      "combined": 4491.21,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 4491.21,
+      "combined": 4491.21,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 4491.21,
+      "combined": 4491.21,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    4491,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 142931,
+      "date": "2025-12-13",
+      "category": "4",
+      "member_id": 4124,
+      "member_name": "Dame Chi Onwurah",
+      "payer_id": 1175,
+      "payer_name": "Wilton Park",
+      "amount": 4491.21,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": false,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4124/registeredinterests?categoryId=4",
+      "summary": "International visit to South Korea between 13 December 2025 and 17 December 2025 — ROK-UK Forum in capacity as Chair of the Science, Innovation and Technology Committee",
+      "description": "Flights (£3971.21)- Chi Onwurah only\r\nHotel accommodation and hospitality (£520)-Chi Onwurah and partner"
+    }
+  ]
+}

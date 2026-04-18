@@ -1,0 +1,164 @@
+{
+  "slug": "modern-languages",
+  "title": "All-Party Parliamentary Group on Modern Languages",
+  "purpose": "To explore the benefits of learning and using languages throughout the UK; provide a parliamentary forum for information exchange and consultation on languages and linguists; encourage and support policies and action improving the take-up of languages in schools, further and higher education, in the workplace and in the community.",
+  "categories": [
+    "Education, Skills & Youth"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/modern-languages.htm",
+  "secretariat": "Chartered Institute of Linguists acts as the group's secretariat.https://www.ciol.org.uk/",
+  "website": "https://www.ciol.org.uk/appgml",
+  "registered_contact_name": "Darren Paffey MP",
+  "date_of_most_recent_agm": "2025-11-25 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "modern-languages",
+      "mnis_id": 3829,
+      "name": "Baroness Coussins",
+      "canon_name": "Baroness Coussins",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/modern-languages.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "modern-languages",
+      "mnis_id": 5270,
+      "name": "Darren Paffey",
+      "canon_name": "Darren Paffey",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/modern-languages.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "modern-languages",
+      "mnis_id": null,
+      "name": "Lord Sherbourne of Didsbury",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/modern-languages.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "modern-languages",
+      "mnis_id": 4623,
+      "name": "Tonia Antoniazzi",
+      "canon_name": "Tonia Antoniazzi",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/modern-languages.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "modern-languages",
+      "mnis_id": 3829,
+      "name": "Baroness Coussins",
+      "canon_name": "Baroness Coussins",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/modern-languages.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "modern-languages",
+      "mnis_id": 5270,
+      "name": "Darren Paffey",
+      "canon_name": "Darren Paffey",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/modern-languages.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "modern-languages",
+      "mnis_id": null,
+      "name": "Lord Sherbourne of Didsbury",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/modern-languages.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "modern-languages",
+      "mnis_id": 4623,
+      "name": "Tonia Antoniazzi",
+      "canon_name": "Tonia Antoniazzi",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/modern-languages.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

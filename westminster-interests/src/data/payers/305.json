@@ -1,0 +1,99 @@
+{
+  "id": 305,
+  "name": "Deluxshana Kuganesan",
+  "address": null,
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": true,
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 291.44,
+      "combined": 291.44,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 291.44,
+      "combined": 291.44,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 291.44,
+      "combined": 291.44,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 291.44,
+      "combined": 291.44,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    291,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 136901,
+      "date": "2025-09-17",
+      "category": "4",
+      "member_id": 5083,
+      "member_name": "Bobby Dean",
+      "payer_id": 305,
+      "payer_name": "Deluxshana Kuganesan",
+      "amount": 291.44,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": "tamils",
+      "appg_name": "All-Party Parliamentary Group for Tamils",
+      "source_url": "https://members.parliament.uk/member/5083/registeredinterests?categoryId=4",
+      "summary": "International visit to Switzerland between 17 September 2025 and 18 September 2025 — Speaking on behalf of Tamil interests in the UK",
+      "description": "Flight to Geneva for visit to the UN"
+    }
+  ]
+}

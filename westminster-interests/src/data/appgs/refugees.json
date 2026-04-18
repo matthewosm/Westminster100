@@ -1,0 +1,165 @@
+{
+  "slug": "refugees",
+  "title": "All-Party Parliamentary Group on Refugees",
+  "purpose": "To provide a forum for the discussion of issues relating to refugees, both in the UK and abroad, and to promote the welfare of refugees.",
+  "categories": [
+    "Human Rights, Equality & Social Justice",
+    "International Affairs, Development & Trade"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/refugees.htm",
+  "secretariat": "Refugee Council acts as the group's secretariat.https://www.refugeecouncil.org.uk/",
+  "website": "https://www.refugeecouncil.org.uk/our-work/championing-the-rights-of-refugees/appg-on-refugees/",
+  "registered_contact_name": "Tony Vaughan MP",
+  "date_of_most_recent_agm": "2024-09-10 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "refugees",
+      "mnis_id": 4546,
+      "name": "Baroness Stroud",
+      "canon_name": "Baroness Stroud",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/refugees.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "refugees",
+      "mnis_id": 805,
+      "name": "Lord Dubs",
+      "canon_name": "Lord Dubs",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/refugees.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "refugees",
+      "mnis_id": 5067,
+      "name": "Tony Vaughan",
+      "canon_name": "Tony Vaughan",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/refugees.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "refugees",
+      "mnis_id": 5313,
+      "name": "Zöe Franklin",
+      "canon_name": "Zöe Franklin",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/refugees.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "refugees",
+      "mnis_id": 4546,
+      "name": "Baroness Stroud",
+      "canon_name": "Baroness Stroud",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/refugees.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "refugees",
+      "mnis_id": 805,
+      "name": "Lord Dubs",
+      "canon_name": "Lord Dubs",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/refugees.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "refugees",
+      "mnis_id": 5067,
+      "name": "Tony Vaughan",
+      "canon_name": "Tony Vaughan",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/refugees.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "refugees",
+      "mnis_id": 5313,
+      "name": "Zöe Franklin",
+      "canon_name": "Zöe Franklin",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/251201/refugees.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

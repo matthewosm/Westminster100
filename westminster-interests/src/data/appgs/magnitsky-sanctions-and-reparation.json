@@ -1,0 +1,166 @@
+{
+  "slug": "magnitsky-sanctions-and-reparation",
+  "title": "All-Party Parliamentary Group on Magnitsky Sanctions and Reparation",
+  "purpose": "To raise the profile of human rights and anti-corruption sanctions within parliament, to examine specific situations where sanctions may be appropriate, and to consider changes to the operation of the UK’s Magnitsky Sanctions legislation to improve its efficiency and impact.",
+  "categories": [
+    "Justice, Law & Security",
+    "Human Rights, Equality & Social Justice",
+    "International Affairs, Development & Trade"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/magnitsky-sanctions-and-reparation.htm",
+  "secretariat": "Redress acts as the group's secretariat.https://redress.org/",
+  "website": "https://redress.org/magnitsky-sanctions/appg-on-magnitsky-sanctions-and-reparation/",
+  "registered_contact_name": "Sir Iain Duncan Smith MP",
+  "date_of_most_recent_agm": "2025-10-21 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "magnitsky-sanctions-and-reparation",
+      "mnis_id": null,
+      "name": "Lord Austin of Dudley",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/magnitsky-sanctions-and-reparation.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "magnitsky-sanctions-and-reparation",
+      "mnis_id": 4457,
+      "name": "Ms Marie Rimmer",
+      "canon_name": "Marie Rimmer",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/magnitsky-sanctions-and-reparation.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "magnitsky-sanctions-and-reparation",
+      "mnis_id": 5128,
+      "name": "Phil Brickell",
+      "canon_name": "Phil Brickell",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/magnitsky-sanctions-and-reparation.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "magnitsky-sanctions-and-reparation",
+      "mnis_id": 152,
+      "name": "Sir Iain Duncan Smith",
+      "canon_name": "Iain Duncan Smith",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/magnitsky-sanctions-and-reparation.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "magnitsky-sanctions-and-reparation",
+      "mnis_id": null,
+      "name": "Lord Austin of Dudley",
+      "canon_name": null,
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/magnitsky-sanctions-and-reparation.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "magnitsky-sanctions-and-reparation",
+      "mnis_id": 4457,
+      "name": "Ms Marie Rimmer",
+      "canon_name": "Marie Rimmer",
+      "officer_role": "Co-Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/magnitsky-sanctions-and-reparation.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "magnitsky-sanctions-and-reparation",
+      "mnis_id": 5128,
+      "name": "Phil Brickell",
+      "canon_name": "Phil Brickell",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/magnitsky-sanctions-and-reparation.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "magnitsky-sanctions-and-reparation",
+      "mnis_id": 152,
+      "name": "Sir Iain Duncan Smith",
+      "canon_name": "Iain Duncan Smith",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/magnitsky-sanctions-and-reparation.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

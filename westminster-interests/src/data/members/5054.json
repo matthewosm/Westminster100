@@ -1,0 +1,223 @@
+{
+  "mnis_id": 5054,
+  "name": "Mr Calvin Bailey",
+  "party": "Labour",
+  "party_slug": "labour",
+  "constituency": "Leyton and Wanstead",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5054/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 226.0,
+      "combined": 226.0,
+      "payment_count": 2,
+      "donor_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 500.0,
+      "combined": 500.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 726.0,
+      "combined": 726.0,
+      "payment_count": 3,
+      "donor_count": 2
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 726.0,
+      "combined": 726.0,
+      "payment_count": 3,
+      "donor_count": 2
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 226.0,
+        "combined": 226.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 500.0,
+        "combined": 500.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 726.0,
+        "combined": 726.0,
+        "payment_count": 3,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 726.0,
+        "combined": 726.0,
+        "payment_count": 3,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "commonwealth-war-graves-commission-and-commemoration",
+      "appg_name": "All-Party Parliamentary Group for the Commonwealth War Graves Commission and Commemoration",
+      "officer_role": "Officer",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "aviation",
+      "appg_name": "All-Party Parliamentary Group on Aviation",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "prostate-cancer",
+      "appg_name": "All-Party Parliamentary Group on Prostate Cancer",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "armed-forces-community",
+      "appg_name": "All-Party Parliamentary Group on the Armed Forces Community",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": true
+    },
+    {
+      "appg_slug": "kurdistan-region-in-iraq",
+      "appg_name": "All-Party Parliamentary Group on the Kurdistan Region in Iraq",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 11982,
+      "date": "2025-02-03",
+      "category": "3",
+      "member_id": 5054,
+      "member_name": "Mr Calvin Bailey",
+      "payer_id": 89,
+      "payer_name": "Babcock",
+      "amount": 90.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5054/registeredinterests?categoryId=3",
+      "summary": "Babcock - £90.00",
+      "description": "Dinner and Drinks"
+    },
+    {
+      "id": 11981,
+      "date": "2025-01-30",
+      "category": "3",
+      "member_id": 5054,
+      "member_name": "Mr Calvin Bailey",
+      "payer_id": 89,
+      "payer_name": "Babcock",
+      "amount": 136.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5054/registeredinterests?categoryId=3",
+      "summary": "Babcock - £136.00",
+      "description": "ADS Dinner Ticket"
+    },
+    {
+      "id": 11957,
+      "date": "2024-11-05",
+      "category": "3",
+      "member_id": 5054,
+      "member_name": "Mr Calvin Bailey",
+      "payer_id": 91,
+      "payer_name": "Babcock International Group",
+      "amount": 500.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5054/registeredinterests?categoryId=3",
+      "summary": "Babcock International Group - £500.00",
+      "description": "One ticket for SSAFA Annual Defence Industry Charitable Dinner"
+    }
+  ]
+}

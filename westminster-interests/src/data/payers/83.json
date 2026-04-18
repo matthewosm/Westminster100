@@ -1,0 +1,124 @@
+{
+  "id": 83,
+  "name": "Associated Newspapers Ltd (ANMFS Ltd)",
+  "address": "Northcliffe House, 2 Derry Street, London W8 5TT",
+  "nature_of_business": null,
+  "donor_status": null,
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 850.0,
+      "inkind": 0.0,
+      "combined": 850.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 850.0,
+      "inkind": 0.0,
+      "combined": 850.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2025": {
+      "monetary": 700.0,
+      "inkind": 0.0,
+      "combined": 700.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 1550.0,
+      "inkind": 0.0,
+      "combined": 1550.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 2
+    },
+    "all_time": {
+      "monetary": 1550.0,
+      "inkind": 0.0,
+      "combined": 1550.0,
+      "payment_count": 2,
+      "donor_count": 1,
+      "mp_count": 2
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    850,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 14466,
+      "date": "2026-01-29",
+      "category": "1.1",
+      "member_id": 4651,
+      "member_name": "Dan Carden",
+      "payer_id": 83,
+      "payer_name": "Associated Newspapers Ltd (ANMFS Ltd)",
+      "amount": 850.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": true,
+      "donated_to": "Charity",
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/4651/registeredinterests?categoryId=1",
+      "summary": "Payment received on 29 January 2026 - £850.00",
+      "description": "Article published in the Mail on Sunday on 4th January 2026"
+    },
+    {
+      "id": 12011,
+      "date": "2025-03-13",
+      "category": "1.1",
+      "member_id": 152,
+      "member_name": "Sir Iain Duncan Smith",
+      "payer_id": 83,
+      "payer_name": "Associated Newspapers Ltd (ANMFS Ltd)",
+      "amount": 700.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/152/registeredinterests?categoryId=1",
+      "summary": "Payment received on 13 March 2025 - £700.00",
+      "description": "Article published in the Mail on Sunday on 2nd February 2025"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": 554,
+  "name": "India Legal Services Limited",
+  "address": "134 Buckingham Palace Road, London SW1W 9SA",
+  "nature_of_business": null,
+  "donor_status": "Company",
+  "is_private_individual": false,
+  "totals": {
+    "12m": {
+      "monetary": 4000.0,
+      "inkind": 0.0,
+      "combined": 4000.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 4000.0,
+      "inkind": 0.0,
+      "combined": 4000.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 4000.0,
+      "inkind": 0.0,
+      "combined": 4000.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    },
+    "all_time": {
+      "monetary": 4000.0,
+      "inkind": 0.0,
+      "combined": 4000.0,
+      "payment_count": 1,
+      "donor_count": 1,
+      "mp_count": 1
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    4000,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "payments": [
+    {
+      "id": 13090,
+      "date": "2025-07-11",
+      "category": "2",
+      "member_id": 5039,
+      "member_name": "Kanishka Narayan",
+      "payer_id": 554,
+      "payer_name": "India Legal Services Limited",
+      "amount": 4000.0,
+      "payment_type": "Monetary",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": null,
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5039/registeredinterests?categoryId=2",
+      "summary": "India Legal Services Limited - £4,000.00",
+      "description": "Returned in full on 6th September 2025"
+    }
+  ]
+}

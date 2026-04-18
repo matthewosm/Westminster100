@@ -1,0 +1,140 @@
+{
+  "slug": "less-survivable-cancers",
+  "title": "All-Party Parliamentary Group on the Less Survivable Cancers",
+  "purpose": "To create a forum to raise political awareness of issues affecting patients with a less survivable cancer – in particular cancers of the brain, liver, lungs, pancreas, oesophagus and stomach – and to advocate for actions to improve survival rates.",
+  "categories": [
+    "Health, Medicine & Public Health"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/less-survivable-cancers.htm",
+  "secretariat": "Pancreatic Cancer UK acts as the group's secretariat.https://www.pancreaticcancer.org.uk/",
+  "website": "https://lesssurvivablecancers.org.uk/all-party-parliamentary-group-on-less-survivable-cancers/",
+  "registered_contact_name": "Paulette Hamilton MP",
+  "date_of_most_recent_agm": "2025-01-14 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "less-survivable-cancers",
+      "mnis_id": 5325,
+      "name": "Charlie Maynard",
+      "canon_name": "Charlie Maynard",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/less-survivable-cancers.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "less-survivable-cancers",
+      "mnis_id": 4883,
+      "name": "Lord Moylan",
+      "canon_name": "Lord Moylan",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/less-survivable-cancers.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "less-survivable-cancers",
+      "mnis_id": 4938,
+      "name": "Paulette Hamilton",
+      "canon_name": "Paulette Hamilton",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/less-survivable-cancers.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "less-survivable-cancers",
+      "mnis_id": 5325,
+      "name": "Charlie Maynard",
+      "canon_name": "Charlie Maynard",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/less-survivable-cancers.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "less-survivable-cancers",
+      "mnis_id": 4883,
+      "name": "Lord Moylan",
+      "canon_name": "Lord Moylan",
+      "officer_role": "Officer",
+      "is_officer": 1,
+      "member_type": "lord",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/less-survivable-cancers.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "less-survivable-cancers",
+      "mnis_id": 4938,
+      "name": "Paulette Hamilton",
+      "canon_name": "Paulette Hamilton",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/less-survivable-cancers.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

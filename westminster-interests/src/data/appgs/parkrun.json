@@ -1,0 +1,164 @@
+{
+  "slug": "parkrun",
+  "title": "All-Party Parliamentary Group on Parkrun",
+  "purpose": "To celebrate and promote the health and wellbeing advantages of Parkrun in Parliament and throughout the UK",
+  "categories": [
+    "Health, Medicine & Public Health"
+  ],
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/parkrun.htm",
+  "secretariat": "",
+  "website": "None",
+  "registered_contact_name": "Nick Smith MP",
+  "date_of_most_recent_agm": "2025-12-02 00:00:00",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2025": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "2024": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "since_election": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    },
+    "all_time": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0,
+      "mp_count": 0
+    }
+  },
+  "officers": [
+    {
+      "appg_slug": "parkrun",
+      "mnis_id": 4436,
+      "name": "Cat Smith",
+      "canon_name": "Cat Smith",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/parkrun.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "parkrun",
+      "mnis_id": 5311,
+      "name": "Harriet Cross",
+      "canon_name": "Harriet Cross",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/parkrun.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "parkrun",
+      "mnis_id": 5322,
+      "name": "Mr Will Forster",
+      "canon_name": "Will Forster",
+      "officer_role": "Secretary",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/parkrun.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "parkrun",
+      "mnis_id": 3928,
+      "name": "Nick Smith",
+      "canon_name": "Nick Smith",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/parkrun.htm",
+      "removed": null
+    }
+  ],
+  "members": [
+    {
+      "appg_slug": "parkrun",
+      "mnis_id": 4436,
+      "name": "Cat Smith",
+      "canon_name": "Cat Smith",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/parkrun.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "parkrun",
+      "mnis_id": 5311,
+      "name": "Harriet Cross",
+      "canon_name": "Harriet Cross",
+      "officer_role": "Vice Chair",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/parkrun.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "parkrun",
+      "mnis_id": 5322,
+      "name": "Mr Will Forster",
+      "canon_name": "Will Forster",
+      "officer_role": "Secretary",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/parkrun.htm",
+      "removed": null
+    },
+    {
+      "appg_slug": "parkrun",
+      "mnis_id": 3928,
+      "name": "Nick Smith",
+      "canon_name": "Nick Smith",
+      "officer_role": "Chair & Registered Contact",
+      "is_officer": 1,
+      "member_type": "mp",
+      "last_updated": "2026-02-23 00:00:00",
+      "url_source": "https://publications.parliament.uk/pa/cm/cmallparty/260223/parkrun.htm",
+      "removed": null
+    }
+  ],
+  "payments": []
+}

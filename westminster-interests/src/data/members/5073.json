@@ -1,0 +1,268 @@
+{
+  "mnis_id": 5073,
+  "name": "Marie Goldman",
+  "party": "Liberal Democrat",
+  "party_slug": "liberal-democrat",
+  "constituency": "Chelmsford",
+  "house": "Commons",
+  "start_date": "2024-07-04",
+  "photo_url": "https://members-api.parliament.uk/api/Members/5073/Thumbnail",
+  "totals": {
+    "12m": {
+      "monetary": 0.0,
+      "inkind": 1140.0,
+      "combined": 1140.0,
+      "payment_count": 1,
+      "donor_count": 1
+    },
+    "ytd": {
+      "monetary": 0.0,
+      "inkind": 0.0,
+      "combined": 0.0,
+      "payment_count": 0,
+      "donor_count": 0
+    },
+    "2025": {
+      "monetary": 4351.14,
+      "inkind": 1140.0,
+      "combined": 5491.14,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "2024": {
+      "monetary": 8534.92,
+      "inkind": 1608.0,
+      "combined": 10142.92,
+      "payment_count": 3,
+      "donor_count": 3
+    },
+    "since_election": {
+      "monetary": 12886.06,
+      "inkind": 2748.0,
+      "combined": 15634.06,
+      "payment_count": 4,
+      "donor_count": 3
+    },
+    "all_time": {
+      "monetary": 12886.06,
+      "inkind": 2748.0,
+      "combined": 15634.06,
+      "payment_count": 4,
+      "donor_count": 3
+    }
+  },
+  "categories": {
+    "3": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 1140.0,
+        "combined": 1140.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 0.0,
+        "inkind": 1140.0,
+        "combined": 1140.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 0.0,
+        "inkind": 1608.0,
+        "combined": 1608.0,
+        "payment_count": 1,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 0.0,
+        "inkind": 2748.0,
+        "combined": 2748.0,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 0.0,
+        "inkind": 2748.0,
+        "combined": 2748.0,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    },
+    "1.2": {
+      "12m": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "ytd": {
+        "monetary": 0.0,
+        "inkind": 0.0,
+        "combined": 0.0,
+        "payment_count": 0,
+        "donor_count": 0
+      },
+      "2025": {
+        "monetary": 4351.14,
+        "inkind": 0.0,
+        "combined": 4351.14,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "2024": {
+        "monetary": 8534.92,
+        "inkind": 0.0,
+        "combined": 8534.92,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "since_election": {
+        "monetary": 12886.06,
+        "inkind": 0.0,
+        "combined": 12886.06,
+        "payment_count": 2,
+        "donor_count": 0
+      },
+      "all_time": {
+        "monetary": 12886.06,
+        "inkind": 0.0,
+        "combined": 12886.06,
+        "payment_count": 2,
+        "donor_count": 0
+      }
+    }
+  },
+  "trend_12m": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1140,
+    0,
+    0,
+    0
+  ],
+  "appg_memberships": [
+    {
+      "appg_slug": "east-of-england",
+      "appg_name": "East of England All-Party Parliamentary Group",
+      "officer_role": "Vice Chair",
+      "is_officer": true
+    }
+  ],
+  "payments": [
+    {
+      "id": 14347,
+      "date": "2025-12-23",
+      "category": "3",
+      "member_id": 5073,
+      "member_name": "Marie Goldman",
+      "payer_id": 792,
+      "payer_name": "National Liberal Club",
+      "amount": 1140.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2026-12-31",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5073/registeredinterests?categoryId=3",
+      "summary": "National Liberal Club - £1,140.00",
+      "description": "Annual membership to the National Liberal Club"
+    },
+    {
+      "id": 10888,
+      "date": "2024-08-15",
+      "category": "3",
+      "member_id": 5073,
+      "member_name": "Marie Goldman",
+      "payer_id": 792,
+      "payer_name": "National Liberal Club",
+      "amount": 1608.0,
+      "payment_type": "In kind",
+      "is_regular": false,
+      "period": null,
+      "start_date": null,
+      "end_date": "2025-12-31",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5073/registeredinterests?categoryId=3",
+      "summary": "National Liberal Club - £1,608.00",
+      "description": "Annual membership to the National Liberal Club. Value listed is membership fee and one-off joining fee"
+    },
+    {
+      "id": 7899,
+      "date": "2024-07-31",
+      "category": "1.2",
+      "member_id": 5073,
+      "member_name": "Marie Goldman",
+      "payer_id": 221,
+      "payer_name": "Chelmsford City Council",
+      "amount": 553.75,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": null,
+      "end_date": "2025-03-19",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5073/registeredinterests?categoryId=1",
+      "summary": "Agreement - £553.75",
+      "description": null
+    },
+    {
+      "id": 7906,
+      "date": "2024-07-31",
+      "category": "1.2",
+      "member_id": 5073,
+      "member_name": "Marie Goldman",
+      "payer_id": 380,
+      "payer_name": "Essex County Council",
+      "amount": 1144.17,
+      "payment_type": "Monetary",
+      "is_regular": true,
+      "period": "Monthly",
+      "start_date": null,
+      "end_date": "2025-03-19",
+      "is_sole_beneficiary": true,
+      "is_donated": false,
+      "donated_to": null,
+      "is_ultimate_payer_override": false,
+      "is_confidential_payer": false,
+      "appg_slug": null,
+      "appg_name": null,
+      "source_url": "https://members.parliament.uk/member/5073/registeredinterests?categoryId=1",
+      "summary": "Agreement - £1,144.17",
+      "description": null
+    }
+  ]
+}
