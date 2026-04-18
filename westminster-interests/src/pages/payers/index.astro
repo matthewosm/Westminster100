@@ -1,11 +1,10 @@
 ---
 import BaseLayout from "@/layouts/BaseLayout.astro";
 import WindowSelector from "@/components/WindowSelector.astro";
-import GridIsland from "@/components/GridIsland.astro";
 import SummaryChart from "@/components/SummaryChart.astro";
 import AsOfFooter from "@/components/AsOfFooter.astro";
 import { formatGbp, formatNumber } from "@/lib/format";
-import { DEFAULT_WINDOW } from "@/types/window";
+import { DEFAULT_WINDOW, WINDOWS } from "@/types/window";
 import type { PayerIndexRow } from "@/types/payer";
 
 import payersJson from "@/data/index/payers.json";
@@ -22,6 +21,21 @@ const top10 = sorted.slice(0, 10).map((p) => ({
   inkind: p.totals[DEFAULT_WINDOW].inkind,
   href: `/payer/${p.id}`,
 }));
+
+const chartsByWindow = Object.fromEntries(
+  WINDOWS.map((w) => [
+    w,
+    [...payers]
+      .sort((a, b) => b.totals[w].combined - a.totals[w].combined)
+      .slice(0, 10)
+      .map((p) => ({
+        label: p.name,
+        monetary: p.totals[w].monetary,
+        inkind: p.totals[w].inkind,
+        href: `/payer/${p.id}`,
+      })),
+  ]),
+);
 ---
 
 <BaseLayout
@@ -32,9 +46,10 @@ const top10 = sorted.slice(0, 10).map((p) => ({
     <h1 class="text-3xl mb-2">Payers</h1>
     <p class="text-sm max-w-2xl" style="color: var(--color-muted);">
       Every registered funder of an MP's declared interest — companies,
-      unions, trusts, and individuals. Totals for the selected window.
-      <a href="/payer/confidential">Confidential payers</a> are aggregated
-      separately.
+      unions, trusts, and individuals. The chart and grid both
+      re-compute when you change the reporting window.
+      <a href="/payer/confidential">Confidential payers</a> are
+      aggregated separately.
     </p>
     <div class="mt-4">
       <WindowSelector />
@@ -43,44 +58,129 @@ const top10 = sorted.slice(0, 10).map((p) => ({
 
   <section class="py-4" data-pagefind-ignore>
     <h2 class="text-sm font-semibold uppercase tracking-wide" style="color: var(--color-muted);">
-      Top 10 payers — trailing 12 months
+      Top 10 — <span data-active-window-label>trailing 12 months</span>
     </h2>
-    <SummaryChart rows={top10} />
+    <div data-chart data-chart-json={JSON.stringify(chartsByWindow)}>
+      <SummaryChart rows={top10} />
+    </div>
   </section>
 
   <section class="py-2">
-    <GridIsland search paginate={50}>
-      <table class="w-full" data-payers-table>
+    <div class="wi-index-grid" data-index-grid="payers">
+      <table class="wi-ssr-fallback w-full">
         <thead>
           <tr>
             <th>Name</th>
             <th>Status</th>
-            <th class="text-right">Total (12m)</th>
+            <th class="text-right">Monetary</th>
+            <th class="text-right">In kind</th>
             <th class="text-right">MPs funded</th>
             <th class="text-right">Payments</th>
           </tr>
         </thead>
         <tbody>
-          {
-            sorted.map((p) => {
-              const t = p.totals[DEFAULT_WINDOW];
-              return (
-                <tr>
-                  <td>
-                    <a href={`/payer/${p.id}`}>{p.name}</a>
-                  </td>
-                  <td>{p.donor_status ?? "—"}</td>
-                  <td class="text-right tabular-nums">{formatGbp(t.combined)}</td>
-                  <td class="text-right tabular-nums">{formatNumber(t.mp_count ?? 0)}</td>
-                  <td class="text-right tabular-nums">{formatNumber(t.payment_count)}</td>
-                </tr>
-              );
-            })
-          }
+          {sorted.map((p) => {
+            const t = p.totals[DEFAULT_WINDOW];
+            return (
+              <tr>
+                <td><a href={`/payer/${p.id}`}>{p.name}</a></td>
+                <td>{p.donor_status ?? "—"}</td>
+                <td class="text-right tabular-nums">{formatGbp(t.monetary)}</td>
+                <td class="text-right tabular-nums">{formatGbp(t.inkind)}</td>
+                <td class="text-right tabular-nums">{formatNumber(t.mp_count ?? 0)}</td>
+                <td class="text-right tabular-nums">{formatNumber(t.payment_count)}</td>
+              </tr>
+            );
+          })}
         </tbody>
       </table>
-    </GridIsland>
+      <div class="wi-grid-mount"></div>
+    </div>
   </section>
 
   <AsOfFooter />
 </BaseLayout>
+
+<script is:inline define:vars={{ rows: payers }}>
+  window.__WI_PAYERS_INDEX = rows;
+</script>
+
+<script>
+  import { Grid, html } from "gridjs";
+  import "gridjs/dist/theme/mermaid.min.css";
+  import { DEFAULT_WINDOW, WINDOW_LABELS, isWindow } from "@/types/window";
+  import type { Window } from "@/types/window";
+  import type { PayerIndexRow } from "@/types/payer";
+  import { renderSummaryChart, escapeHtml } from "@/lib/client-chart";
+
+  const gbp = new Intl.NumberFormat("en-GB", {
+    style: "currency",
+    currency: "GBP",
+    maximumFractionDigits: 0,
+  });
+
+  function cmpCurrency(a: unknown, b: unknown): number {
+    const fa = parseFloat(String(a).replace(/[^0-9.-]/g, "")) || 0;
+    const fb = parseFloat(String(b).replace(/[^0-9.-]/g, "")) || 0;
+    return fa - fb;
+  }
+
+  const root = document.querySelector<HTMLElement>('[data-index-grid="payers"]');
+  if (root) {
+    const data = (window as unknown as { __WI_PAYERS_INDEX: PayerIndexRow[] })
+      .__WI_PAYERS_INDEX;
+    const fallback = root.querySelector<HTMLTableElement>(".wi-ssr-fallback")!;
+    const mount = root.querySelector<HTMLElement>(".wi-grid-mount")!;
+    let activeWindow: Window = DEFAULT_WINDOW;
+
+    function buildRows(win: Window) {
+      return data.map((p) => [
+        html(`<a href="/payer/${p.id}">${escapeHtml(p.name)}</a>`),
+        p.donor_status ?? "—",
+        gbp.format(p.totals[win].monetary),
+        gbp.format(p.totals[win].inkind),
+        p.totals[win].mp_count ?? 0,
+        p.totals[win].payment_count,
+      ]);
+    }
+
+    fallback.style.display = "none";
+    const grid = new Grid({
+      columns: [
+        { name: "Name" },
+        { name: "Status" },
+        { name: "Monetary", sort: { compare: cmpCurrency } },
+        { name: "In kind", sort: { compare: cmpCurrency } },
+        { name: "MPs funded" },
+        { name: "Payments" },
+      ],
+      data: buildRows(activeWindow),
+      sort: true,
+      search: true,
+      pagination: { limit: 50 },
+    }).render(mount);
+
+    document.addEventListener("window:change", (event) => {
+      const detail = (event as CustomEvent).detail as { window: string };
+      const next = isWindow(detail.window) ? detail.window : DEFAULT_WINDOW;
+      if (next === activeWindow) return;
+      activeWindow = next;
+      grid.updateConfig({ data: buildRows(next) }).forceRender();
+    });
+  }
+
+  const chartRoot = document.querySelector<HTMLElement>("[data-chart]");
+  const chartLabel = document.querySelector<HTMLElement>("[data-active-window-label]");
+  if (chartRoot) {
+    const chartsByWindow = JSON.parse(chartRoot.dataset.chartJson ?? "{}") as Record<
+      string,
+      import("@/lib/client-chart").ChartRow[]
+    >;
+    document.addEventListener("window:change", (event) => {
+      const detail = (event as CustomEvent).detail as { window: string };
+      const win: Window = isWindow(detail.window) ? detail.window : DEFAULT_WINDOW;
+      renderSummaryChart(chartRoot, chartsByWindow[win] ?? []);
+      if (chartLabel) chartLabel.textContent = WINDOW_LABELS[win];
+    });
+  }
+</script>
