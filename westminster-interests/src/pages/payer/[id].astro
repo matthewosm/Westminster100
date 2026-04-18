@@ -261,6 +261,13 @@ const topMps = mpList.slice(0, 10).map((m) => ({
     document.querySelector("time[datetime]")?.getAttribute("datetime") ??
     new Date().toISOString().slice(0, 10);
 
+  // Raw payments are shared by the MPs-funded grid and the payments
+  // grid. Populate once up front so the MPs grid's initial render
+  // (below) doesn't trip the TDZ on `payments`.
+  const payments: PaymentLike[] =
+    (window as unknown as { __WI_PAYER_PAYMENTS: PaymentLike[] })
+      .__WI_PAYER_PAYMENTS ?? [];
+
   // Totals swap.
   const totalsBlock = document.querySelector<HTMLElement>("[data-totals-block]");
   const totalsByWindow = totalsBlock
@@ -342,12 +349,9 @@ const topMps = mpList.slice(0, 10).map((m) => ({
   // Payments Grid.js (window-aware).
   const payRoot = document.querySelector<HTMLElement>('[data-payments-grid="payer"]');
   let grid: Grid | null = null;
-  let payments: PaymentLike[] = [];
   let activeWindow: Window = DEFAULT_WINDOW;
 
   if (payRoot) {
-    payments =
-      (window as unknown as { __WI_PAYER_PAYMENTS: PaymentLike[] }).__WI_PAYER_PAYMENTS ?? [];
     const fallback = payRoot.querySelector<HTMLTableElement>(".wi-ssr-fallback")!;
     const mount = payRoot.querySelector<HTMLElement>(".wi-grid-mount")!;
 

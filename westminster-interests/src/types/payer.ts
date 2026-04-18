@@ -19,4 +19,5 @@ export interface PayerIndexRow {
   donor_status: string | null;
   is_private_individual: boolean;
   totals: TotalsByWindow;
+  trend_12m?: number[];
 }

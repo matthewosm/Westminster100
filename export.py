@@ -654,6 +654,8 @@ def build_tree(
         for key, bucket in totals.items():
             bucket["mp_count"] = len(mp_tracker[key])
 
+        trend_12m = _compute_trend_combined(rows, trend_windows)
+
         doc = {
             "id": master_id,
             "name": master["canonical_name"],
@@ -662,6 +664,7 @@ def build_tree(
             "donor_status": master["donor_status"],
             "is_private_individual": bool(master["is_private_individual"]),
             "totals": totals,
+            "trend_12m": trend_12m,
             "payments": [_payment_json(r, appgs) for r in rows],
         }
         _write_json(out_dir / "payers" / f"{master_id}.json", doc)
@@ -673,6 +676,7 @@ def build_tree(
                 "donor_status": master["donor_status"],
                 "is_private_individual": bool(master["is_private_individual"]),
                 "totals": totals,
+                "trend_12m": trend_12m,
             }
         )
 

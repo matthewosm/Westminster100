@@ -108,5 +108,21 @@ const {
         );
       });
     </script>
+
+    <script>
+      // Site-wide: label Grid.js `<td>` cells with their column header
+      // so the mobile card layout (theme.css, <640px) can put the
+      // column name next to each value without any page-level code.
+      import { enableMobileGridLabels } from "@/lib/client-grid";
+      if (document.readyState === "loading") {
+        document.addEventListener(
+          "DOMContentLoaded",
+          () => enableMobileGridLabels(),
+          { once: true },
+        );
+      } else {
+        enableMobileGridLabels();
+      }
+    </script>
   </body>
 </html>

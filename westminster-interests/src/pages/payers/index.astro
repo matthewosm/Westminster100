@@ -78,6 +78,7 @@ const chartsByWindow = Object.fromEntries(
             <th class="text-right">In kind</th>
             <th class="text-right">MPs funded</th>
             <th class="text-right">Payments</th>
+            <th>Trend</th>
           </tr>
         </thead>
         <tbody>
@@ -91,6 +92,7 @@ const chartsByWindow = Object.fromEntries(
                 <td class="text-right tabular-nums">{formatGbp(t.inkind)}</td>
                 <td class="text-right tabular-nums">{formatNumber(t.mp_count ?? 0)}</td>
                 <td class="text-right tabular-nums">{formatNumber(t.payment_count)}</td>
+                <td>—</td>
               </tr>
             );
           })}
@@ -127,6 +129,25 @@ const chartsByWindow = Object.fromEntries(
     return fa - fb;
   }
 
+  function sparklineHtml(values: number[] | undefined): string {
+    if (!values || values.length === 0) return "";
+    const w = 80;
+    const h = 22;
+    const n = values.length;
+    const peak = Math.max(...values, 1);
+    const barW = w / n;
+    const bars = values
+      .map((v, i) => {
+        const bh = (v / peak) * (h - 2);
+        const x = i * barW;
+        const y = h - bh;
+        return `<rect x="${x.toFixed(2)}" y="${y.toFixed(2)}" width="${(barW - 1).toFixed(2)}" height="${bh.toFixed(2)}" fill="var(--color-accent-500)" opacity="0.8"/>`;
+      })
+      .join("");
+    const total = values.reduce((a, b) => a + b, 0);
+    return `<svg viewBox="0 0 ${w} ${h}" width="${w}" height="${h}" style="display:inline-block; vertical-align:middle;" role="img" aria-label="12-month trend"><title>12-month trend (total £${total.toLocaleString("en-GB")})</title>${bars}</svg>`;
+  }
+
   const root = document.querySelector<HTMLElement>('[data-index-grid="payers"]');
   if (root) {
     const data = (window as unknown as { __WI_PAYERS_INDEX: PayerIndexRow[] })
@@ -143,6 +164,7 @@ const chartsByWindow = Object.fromEntries(
         gbp.format(p.totals[win].inkind),
         p.totals[win].mp_count ?? 0,
         p.totals[win].payment_count,
+        html(sparklineHtml(p.trend_12m)),
       ]);
     }
 
@@ -155,6 +177,7 @@ const chartsByWindow = Object.fromEntries(
         { name: "In kind", width: "8rem", sort: { compare: cmpCurrency } },
         { name: "MPs funded", width: "7rem" },
         { name: "Payments", width: "6rem" },
+        { name: "Trend (12m)", width: "7rem", sort: false },
       ],
       data: buildRows(activeWindow),
       sort: true,

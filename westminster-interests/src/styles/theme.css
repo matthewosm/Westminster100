@@ -234,3 +234,150 @@ svg a:hover text {
   color: var(--color-foreground);
   border-color: var(--color-foreground);
 }
+
+/* ------------------------------------------------------------
+   Mobile: flip Grid.js tables into labelled cards.
+
+   The client-grid helper tags every <td> with data-label from the
+   matching <th>. Below 640px we hide the column header row, stack
+   each row into a bordered card, and render the column name on the
+   left of each cell via ::before.
+
+   Also applies to the SSR fallback tables (class .wi-ssr-fallback)
+   for no-JS users, which BaseLayout's <noscript> reveals.
+   ------------------------------------------------------------ */
+
+@media (max-width: 640px) {
+  .gridjs-wrapper,
+  .gridjs-wrapper > table,
+  .wi-ssr-fallback {
+    border: 0 !important;
+    background: transparent !important;
+    box-shadow: none !important;
+  }
+
+  .gridjs-wrapper thead,
+  .wi-ssr-fallback thead {
+    /* Header labels are surfaced per-cell via ::before; hide the row
+       but keep it in the DOM so sort clicks still work via the
+       Grid.js head menu / search, and so screen readers can still
+       identify column scope. */
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    white-space: nowrap;
+    border: 0;
+  }
+
+  .gridjs-wrapper tbody tr,
+  .wi-ssr-fallback tbody tr {
+    display: block;
+    margin: 0 0 0.6rem;
+    padding: 0.55rem 0.65rem;
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+  }
+
+  .gridjs-wrapper tbody td,
+  .wi-ssr-fallback tbody td {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.75rem;
+    width: 100% !important;
+    max-width: none !important;
+    padding: 0.2rem 0 !important;
+    border: 0 !important;
+    background: transparent !important;
+    white-space: normal !important;
+    overflow: visible !important;
+    text-overflow: clip !important;
+    font-size: 0.9rem;
+    text-align: right;
+  }
+
+  /* First cell: treat as the card heading — bigger, no left label. */
+  .gridjs-wrapper tbody td:first-child,
+  .wi-ssr-fallback tbody td:first-child {
+    display: block;
+    font-size: 1rem;
+    font-weight: 600;
+    text-align: left;
+    margin-bottom: 0.2rem;
+    padding-bottom: 0.3rem !important;
+    border-bottom: 1px solid var(--color-border) !important;
+  }
+
+  .gridjs-wrapper tbody td[data-label]::before,
+  .wi-ssr-fallback tbody td[data-label]::before {
+    content: attr(data-label);
+    color: var(--color-muted);
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    font-weight: 600;
+    white-space: nowrap;
+    flex: 0 0 auto;
+    text-align: left;
+  }
+
+  /* First cell: don't render the pseudo-label (the value is the title). */
+  .gridjs-wrapper tbody td:first-child::before,
+  .wi-ssr-fallback tbody td:first-child::before {
+    content: none;
+  }
+
+  /* Numeric / amount cells keep tabular nums and right-align. */
+  .gridjs-td[data-column-id*="amount"],
+  .gridjs-td[data-column-id*="monetary"],
+  .gridjs-td[data-column-id*="inkind"],
+  .gridjs-td[data-column-id*="payments"],
+  .gridjs-td[data-column-id*="mps"],
+  .gridjs-td[data-column-id*="avg"] {
+    text-align: right;
+  }
+
+  /* Grid.js search / pagination widgets: let them breathe full-width. */
+  .gridjs-search,
+  .gridjs-search-input {
+    width: 100% !important;
+    min-width: 0 !important;
+  }
+
+  .gridjs-pagination {
+    font-size: 0.85rem;
+  }
+  .gridjs-pagination .gridjs-pages button {
+    padding: 0.3rem 0.55rem !important;
+  }
+
+  /* Headers get a sort-dropdown-ish feel rather than sprawling clicks. */
+  .gridjs-search-input {
+    padding: 0.5rem 0.7rem !important;
+  }
+
+  /* Wide detail cells (PaymentDetails excerpt): allow wrap on mobile. */
+  .gridjs-td .wi-details-cell {
+    max-width: 100%;
+    white-space: normal;
+    text-overflow: clip;
+  }
+
+  /* Category stacked bar: let labels wrap under the bar when narrow. */
+  .wi-catbar {
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-areas:
+      "label"
+      "track"
+      "total"
+      "legend";
+  }
+  .wi-catbar-total {
+    text-align: left;
+  }
+}
