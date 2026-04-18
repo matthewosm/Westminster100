@@ -15,19 +15,21 @@ const sorted = [...payers].sort(
     b.totals[DEFAULT_WINDOW].combined - a.totals[DEFAULT_WINDOW].combined,
 );
 
-const top10 = sorted.slice(0, 10).map((p) => ({
-  label: p.name,
-  monetary: p.totals[DEFAULT_WINDOW].monetary,
-  inkind: p.totals[DEFAULT_WINDOW].inkind,
-  href: `/payer/${p.id}`,
-}));
+const allForChartDefault = sorted
+  .filter((p) => p.totals[DEFAULT_WINDOW].combined > 0)
+  .map((p) => ({
+    label: p.name,
+    monetary: p.totals[DEFAULT_WINDOW].monetary,
+    inkind: p.totals[DEFAULT_WINDOW].inkind,
+    href: `/payer/${p.id}`,
+  }));
 
 const chartsByWindow = Object.fromEntries(
   WINDOWS.map((w) => [
     w,
     [...payers]
+      .filter((p) => p.totals[w].combined > 0)
       .sort((a, b) => b.totals[w].combined - a.totals[w].combined)
-      .slice(0, 10)
       .map((p) => ({
         label: p.name,
         monetary: p.totals[w].monetary,
@@ -61,7 +63,7 @@ const chartsByWindow = Object.fromEntries(
       Top 10 — <span data-active-window-label>trailing 12 months</span>
     </h2>
     <div data-chart data-chart-json={JSON.stringify(chartsByWindow)}>
-      <SummaryChart rows={top10} />
+      <SummaryChart rows={allForChartDefault} limit={10} />
     </div>
   </section>
 
@@ -157,6 +159,7 @@ const chartsByWindow = Object.fromEntries(
       data: buildRows(activeWindow),
       sort: true,
       search: true,
+      resizable: true,
       pagination: { limit: 50 },
     }).render(mount);
 
@@ -182,7 +185,7 @@ const chartsByWindow = Object.fromEntries(
       const win: Window = isWindow(detail.window) ? detail.window : DEFAULT_WINDOW;
       if (win === chartWin) return;
       chartWin = win;
-      renderSummaryChart(chartRoot, chartsByWindow[win] ?? []);
+      renderSummaryChart(chartRoot, chartsByWindow[win] ?? [], { limit: 10 });
       if (chartLabel) chartLabel.textContent = WINDOW_LABELS[win];
     });
   }

@@ -26,17 +26,23 @@ interface Props {
   unit?: "currency" | "number";
   title?: string;
   emptyMessage?: string;
+  /** Render only the first N rows on the server. Client-side the
+   *  "Show all" toggle reveals the remainder. */
+  limit?: number;
   class?: string;
 }
 
 const {
-  rows,
+  rows: allRows,
   max,
   unit = "currency",
   title,
   emptyMessage = "No data in the selected window.",
+  limit,
   class: className,
 } = Astro.props;
+
+const rows = typeof limit === "number" ? allRows.slice(0, limit) : allRows;
 
 const stacked = rows.some(
   (r) => r.monetary !== undefined || r.inkind !== undefined,

@@ -1,12 +1,12 @@
 ---
 import BaseLayout from "@/layouts/BaseLayout.astro";
 import WindowSelector from "@/components/WindowSelector.astro";
-import PaymentFlags from "@/components/PaymentFlags.astro";
 import PaymentDetails from "@/components/PaymentDetails.astro";
 import CitationLink from "@/components/CitationLink.astro";
+import CategoryPill from "@/components/CategoryPill.astro";
 import AsOfFooter from "@/components/AsOfFooter.astro";
-import { CATEGORY_SHORT } from "@/consts";
 import { formatDate, formatGbp, formatNumber } from "@/lib/format";
+import { shortenAppgName } from "@/consts";
 import { DEFAULT_WINDOW } from "@/types/window";
 import { allAppgs } from "@/lib/data";
 import type { Appg } from "@/types/appg";
@@ -36,7 +36,7 @@ const rankAndFileMembers = activeMembers.filter((m) => !m.is_officer);
   description={`${appg.title} — canonical APPG record, officers, members, and linked payments.`}
 >
   <section class="py-4 max-w-3xl" data-pagefind-body>
-    <h1 class="text-3xl mb-1">{appg.title}</h1>
+    <h1 class="text-3xl mb-1" title={appg.title}>{shortenAppgName(appg.title)}</h1>
     <div class="flex flex-wrap gap-x-3 text-sm" style="color: var(--color-muted);">
       {appg.categories.length > 0 && <span>{appg.categories.join(" · ")}</span>}
       {appg.date_of_most_recent_agm && (
@@ -143,98 +143,174 @@ const rankAndFileMembers = activeMembers.filter((m) => !m.is_officer);
         free-text declarations to the canonical register entry is
         maintained in <a href="/methodology">the methodology</a>.
       </p>
-      <table class="w-full text-sm" data-payments-table>
-        <thead>
-          <tr>
-            <th>Date</th>
-            <th>Member</th>
-            <th>Details</th>
-            <th>Category</th>
-            <th>Payer</th>
-            <th class="text-right">Amount</th>
-            <th>Type</th>
-            <th>Flags</th>
-            <th>Source</th>
-          </tr>
-        </thead>
-        <tbody>
-          {appg.payments.map((p) => (
-            <tr
-              data-date={p.date ?? ""}
-              data-regular={p.is_regular ? "1" : "0"}
-              data-start={p.start_date ?? ""}
-              data-end={p.end_date ?? ""}
-            >
-              <td class="tabular-nums">{formatDate(p.date)}</td>
-              <td>
-                {p.member_id && <a href={`/member/${p.member_id}`}>{p.member_name}</a>}
-                {!p.member_id && (p.member_name ?? "—")}
-              </td>
-              <td><PaymentDetails summary={p.summary} description={p.description} /></td>
-              <td>{CATEGORY_SHORT[p.category] ?? p.category}</td>
-              <td>
-                {p.is_confidential_payer && <a href="/payer/confidential">Confidential</a>}
-                {!p.is_confidential_payer && p.payer_id && (
-                  <a href={`/payer/${p.payer_id}`}>{p.payer_name}</a>
-                )}
-                {!p.is_confidential_payer && !p.payer_id && (p.payer_name ?? "—")}
-              </td>
-              <td class="text-right tabular-nums">{formatGbp(p.amount, true)}</td>
-              <td>{p.payment_type}</td>
-              <td><PaymentFlags payment={p} /></td>
-              <td><CitationLink href={p.source_url} /></td>
+      <div class="wi-payments-grid" data-payments-grid="appg">
+        <table class="wi-ssr-fallback w-full text-sm">
+          <thead>
+            <tr>
+              <th>Date</th>
+              <th>Member</th>
+              <th>Details</th>
+              <th>Category</th>
+              <th>Payer</th>
+              <th class="text-right">Amount</th>
+              <th>Type</th>
+              <th>Source</th>
             </tr>
-          ))}
-        </tbody>
-      </table>
+          </thead>
+          <tbody>
+            {appg.payments.map((p) => (
+              <tr>
+                <td class="tabular-nums">{formatDate(p.date)}</td>
+                <td>
+                  {p.member_id && <a href={`/member/${p.member_id}`}>{p.member_name}</a>}
+                  {!p.member_id && (p.member_name ?? "—")}
+                </td>
+                <td><PaymentDetails summary={p.summary} description={p.description} /></td>
+                <td><CategoryPill category={p.category} /></td>
+                <td>
+                  {p.is_confidential_payer && <a href="/payer/confidential">Confidential</a>}
+                  {!p.is_confidential_payer && p.payer_id && (
+                    <a href={`/payer/${p.payer_id}`}>{p.payer_name}</a>
+                  )}
+                  {!p.is_confidential_payer && !p.payer_id && (p.payer_name ?? "—")}
+                </td>
+                <td class="text-right tabular-nums">{formatGbp(p.amount, true)}</td>
+                <td>{p.payment_type}</td>
+                <td><CitationLink href={p.source_url} /></td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+        <div class="wi-grid-mount"></div>
+      </div>
     </section>
   )}
 
   <AsOfFooter />
 </BaseLayout>
 
+<script is:inline define:vars={{ payments: appg.payments }}>
+  window.__WI_APPG_PAYMENTS = payments;
+</script>
+
 <script>
+  import { Grid } from "gridjs";
+  import "gridjs/dist/theme/mermaid.min.css";
   import { DEFAULT_WINDOW, isWindow } from "@/types/window";
   import type { Window } from "@/types/window";
   import type { TotalsByWindow, WindowTotals } from "@/types/totals";
-  import { windowRange, paymentInWindow } from "@/lib/windows";
+  import { windowRange } from "@/lib/windows";
+  import {
+    categoryCell,
+    detailsCell,
+    fmtAmount,
+    fmtDateCell,
+    memberCell,
+    payerCell,
+    paymentParticipatesInWindow,
+    sourceCell,
+    type PaymentLike,
+  } from "@/lib/client-payments";
 
   const GBP = new Intl.NumberFormat("en-GB", { style: "currency", currency: "GBP", maximumFractionDigits: 0 });
+
+  function cmpCurrency(a: unknown, b: unknown): number {
+    const fa = parseFloat(String(a).replace(/[^0-9.-]/g, "")) || 0;
+    const fb = parseFloat(String(b).replace(/[^0-9.-]/g, "")) || 0;
+    return fa - fb;
+  }
+
+  const asOf =
+    document.querySelector("time[datetime]")?.getAttribute("datetime") ??
+    new Date().toISOString().slice(0, 10);
 
   const totalsBlock = document.querySelector<HTMLElement>("[data-totals-block]");
   const totalsByWindow = totalsBlock
     ? (JSON.parse(totalsBlock.dataset.totalsJson ?? "{}") as TotalsByWindow)
     : null;
   const totalsFields = document.querySelectorAll<HTMLElement>("[data-totals-field]");
-  const paymentsTable = document.querySelector<HTMLTableElement>("[data-payments-table]");
-  const asOf =
-    document.querySelector("time[datetime]")?.getAttribute("datetime") ??
-    new Date().toISOString().slice(0, 10);
 
+  function applyTotals(win: Window) {
+    if (!totalsByWindow) return;
+    const bucket = totalsByWindow[win] as WindowTotals | undefined;
+    if (!bucket) return;
+    totalsFields.forEach((el) => {
+      const field = el.dataset.totalsField as keyof WindowTotals;
+      const raw = bucket[field] as number | undefined;
+      if (typeof raw === "number") el.textContent = GBP.format(raw);
+    });
+  }
+
+  const payRoot = document.querySelector<HTMLElement>('[data-payments-grid="appg"]');
+  let grid: Grid | null = null;
+  let payments: PaymentLike[] = [];
+  let activeWindow: Window = DEFAULT_WINDOW;
+
+  if (payRoot) {
+    payments =
+      (window as unknown as { __WI_APPG_PAYMENTS: PaymentLike[] }).__WI_APPG_PAYMENTS ?? [];
+    const fallback = payRoot.querySelector<HTMLTableElement>(".wi-ssr-fallback")!;
+    const mount = payRoot.querySelector<HTMLElement>(".wi-grid-mount")!;
+
+    function rowsForWindow(win: Window) {
+      const r = windowRange(win, asOf);
+      return payments
+        .filter((p) => paymentParticipatesInWindow(p, r.since, r.end))
+        .map((p) => [
+          fmtDateCell(p.date),
+          memberCell(p),
+          detailsCell(p),
+          categoryCell(p.category),
+          payerCell(p),
+          fmtAmount(p.amount),
+          p.payment_type,
+          sourceCell(p),
+        ]);
+    }
+
+    fallback.style.display = "none";
+    grid = new Grid({
+      columns: [
+        { name: "Date", width: "7.5rem" },
+        { name: "Member", width: "14rem" },
+        { name: "Details", width: "28rem" },
+        { name: "Category", width: "6.5rem" },
+        { name: "Payer", width: "14rem" },
+        { name: "Amount", width: "8rem", sort: { compare: cmpCurrency } },
+        { name: "Type", width: "6rem" },
+        { name: "Source", width: "5rem", sort: false },
+      ],
+      data: rowsForWindow(activeWindow),
+      sort: true,
+      search: true,
+      resizable: true,
+      pagination: payments.length > 25 ? { limit: 25 } : false,
+    }).render(mount);
+  }
+
+  let currentWin: Window = DEFAULT_WINDOW;
   document.addEventListener("window:change", (event) => {
     const detail = (event as CustomEvent).detail as { window: string };
-    const win: Window = isWindow(detail.window) ? detail.window : DEFAULT_WINDOW;
-    if (totalsByWindow) {
-      const bucket = totalsByWindow[win] as WindowTotals | undefined;
-      if (bucket) {
-        totalsFields.forEach((el) => {
-          const field = el.dataset.totalsField as keyof WindowTotals;
-          const raw = bucket[field] as number | undefined;
-          if (typeof raw === "number") el.textContent = GBP.format(raw);
-        });
-      }
-    }
-    if (paymentsTable) {
-      const range = windowRange(win, asOf);
-      paymentsTable.querySelectorAll<HTMLTableRowElement>("tbody tr").forEach((row) => {
-        const payload = {
-          is_regular: row.dataset.regular === "1",
-          date: row.dataset.date || null,
-          start_date: row.dataset.start || null,
-          end_date: row.dataset.end || null,
-        };
-        row.style.display = paymentInWindow(payload, row.dataset.start || null, range) ? "" : "none";
-      });
+    const win = isWindow(detail.window) ? detail.window : DEFAULT_WINDOW;
+    if (win === currentWin) return;
+    currentWin = win;
+    activeWindow = win;
+    applyTotals(win);
+    if (grid) {
+      const r = windowRange(win, asOf);
+      const newData = payments
+        .filter((p) => paymentParticipatesInWindow(p, r.since, r.end))
+        .map((p) => [
+          fmtDateCell(p.date),
+          memberCell(p),
+          detailsCell(p),
+          categoryCell(p.category),
+          payerCell(p),
+          fmtAmount(p.amount),
+          p.payment_type,
+          sourceCell(p),
+        ]);
+      grid.updateConfig({ data: newData }).forceRender();
     }
   });
 </script>

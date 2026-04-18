@@ -6,6 +6,7 @@ import AsOfFooter from "@/components/AsOfFooter.astro";
 import { formatGbp, formatNumber } from "@/lib/format";
 import { DEFAULT_WINDOW, WINDOWS } from "@/types/window";
 import type { AppgIndexRow } from "@/types/appg";
+import { shortenAppgName } from "@/consts";
 
 import appgsJson from "@/data/index/appgs.json";
 
@@ -15,11 +16,10 @@ const sorted = [...appgs].sort(
     b.totals[DEFAULT_WINDOW].combined - a.totals[DEFAULT_WINDOW].combined,
 );
 
-const top10 = sorted
+const allForChartDefault = sorted
   .filter((a) => a.totals[DEFAULT_WINDOW].combined > 0)
-  .slice(0, 10)
   .map((a) => ({
-    label: a.title,
+    label: shortenAppgName(a.title),
     monetary: a.totals[DEFAULT_WINDOW].monetary,
     inkind: a.totals[DEFAULT_WINDOW].inkind,
     href: `/appg/${a.slug}`,
@@ -31,9 +31,8 @@ const chartsByWindow = Object.fromEntries(
     [...appgs]
       .filter((a) => a.totals[w].combined > 0)
       .sort((a, b) => b.totals[w].combined - a.totals[w].combined)
-      .slice(0, 10)
       .map((a) => ({
-        label: a.title,
+        label: shortenAppgName(a.title),
         monetary: a.totals[w].monetary,
         inkind: a.totals[w].inkind,
         href: `/appg/${a.slug}`,
@@ -65,7 +64,7 @@ const chartsByWindow = Object.fromEntries(
       Top APPGs — <span data-active-window-label>trailing 12 months</span>
     </h2>
     <div data-chart data-chart-json={JSON.stringify(chartsByWindow)}>
-      <SummaryChart rows={top10} />
+      <SummaryChart rows={allForChartDefault} limit={10} />
     </div>
   </section>
 
@@ -87,7 +86,7 @@ const chartsByWindow = Object.fromEntries(
             const t = a.totals[DEFAULT_WINDOW];
             return (
               <tr>
-                <td><a href={`/appg/${a.slug}`}>{a.title}</a></td>
+                <td><a href={`/appg/${a.slug}`} title={a.title}>{shortenAppgName(a.title)}</a></td>
                 <td style="color: var(--color-muted);">{a.categories.join(", ") || "—"}</td>
                 <td class="text-right tabular-nums">{formatGbp(t.monetary)}</td>
                 <td class="text-right tabular-nums">{formatGbp(t.inkind)}</td>
@@ -116,6 +115,7 @@ const chartsByWindow = Object.fromEntries(
   import type { Window } from "@/types/window";
   import type { AppgIndexRow } from "@/types/appg";
   import { renderSummaryChart, escapeHtml } from "@/lib/client-chart";
+  import { shortenAppgName } from "@/consts";
 
   const gbp = new Intl.NumberFormat("en-GB", {
     style: "currency",
@@ -139,7 +139,9 @@ const chartsByWindow = Object.fromEntries(
 
     function buildRows(win: Window) {
       return data.map((a) => [
-        html(`<a href="/appg/${escapeHtml(a.slug)}">${escapeHtml(a.title)}</a>`),
+        html(
+          `<a href="/appg/${escapeHtml(a.slug)}" title="${escapeHtml(a.title)}">${escapeHtml(shortenAppgName(a.title))}</a>`,
+        ),
         html(`<span style="color: var(--color-muted);">${escapeHtml(a.categories.join(", ") || "—")}</span>`),
         gbp.format(a.totals[win].monetary),
         gbp.format(a.totals[win].inkind),
@@ -161,6 +163,7 @@ const chartsByWindow = Object.fromEntries(
       data: buildRows(activeWindow),
       sort: true,
       search: true,
+      resizable: true,
       pagination: { limit: 50 },
     }).render(mount);
 
@@ -186,7 +189,7 @@ const chartsByWindow = Object.fromEntries(
       const win: Window = isWindow(detail.window) ? detail.window : DEFAULT_WINDOW;
       if (win === chartWin) return;
       chartWin = win;
-      renderSummaryChart(chartRoot, chartsByWindow[win] ?? []);
+      renderSummaryChart(chartRoot, chartsByWindow[win] ?? [], { limit: 10 });
       if (chartLabel) chartLabel.textContent = WINDOW_LABELS[win];
     });
   }

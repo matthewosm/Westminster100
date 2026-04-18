@@ -2,12 +2,12 @@
 import BaseLayout from "@/layouts/BaseLayout.astro";
 import WindowSelector from "@/components/WindowSelector.astro";
 import PartyTag from "@/components/PartyTag.astro";
-import PaymentFlags from "@/components/PaymentFlags.astro";
 import PaymentDetails from "@/components/PaymentDetails.astro";
 import CitationLink from "@/components/CitationLink.astro";
+import CategoryPill from "@/components/CategoryPill.astro";
 import SummaryChart from "@/components/SummaryChart.astro";
 import AsOfFooter from "@/components/AsOfFooter.astro";
-import { CATEGORY_SHORT } from "@/consts";
+import { CATEGORY_SHORT, shortenAppgName } from "@/consts";
 import { formatDate, formatGbp, formatNumber } from "@/lib/format";
 import { DEFAULT_WINDOW, WINDOWS, WINDOW_LABELS } from "@/types/window";
 import { allMembers } from "@/lib/data";
@@ -79,9 +79,9 @@ for (const win of WINDOWS) {
     else prev.inkind += p.amount;
     byPayer.set(key, prev);
   }
-  payerTotalsByWindow[win] = [...byPayer.values()]
-    .sort((a, b) => b.monetary + b.inkind - (a.monetary + a.inkind))
-    .slice(0, 10);
+  payerTotalsByWindow[win] = [...byPayer.values()].sort(
+    (a, b) => b.monetary + b.inkind - (a.monetary + a.inkind),
+  );
 }
 
 const topPayerRows = payerTotalsByWindow[activeWindow].map((row) => ({
@@ -177,7 +177,7 @@ const categories = Object.entries(member.categories);
     <h2 class="text-sm font-semibold uppercase tracking-wide mb-2" style="color: var(--color-muted);">
       Top payers — <span data-active-window-label>{WINDOW_LABELS[activeWindow]}</span>
     </h2>
-    <SummaryChart rows={topPayerRows} />
+    <SummaryChart rows={topPayerRows} limit={10} />
   </section>
 
   {member.appg_memberships.length > 0 && (
@@ -212,7 +212,6 @@ const categories = Object.entries(member.categories);
               <th class="text-right">Amount</th>
               <th>Type</th>
               <th>APPG</th>
-              <th>Flags</th>
               <th>Source</th>
             </tr>
           </thead>
@@ -220,7 +219,7 @@ const categories = Object.entries(member.categories);
             {member.payments.map((p) => (
               <tr>
                 <td class="tabular-nums">{formatDate(p.date)}</td>
-                <td>{CATEGORY_SHORT[p.category] ?? p.category}</td>
+                <td><CategoryPill category={p.category} /></td>
                 <td>
                   {p.is_confidential_payer && <a href="/payer/confidential">Confidential</a>}
                   {!p.is_confidential_payer && p.payer_id && (
@@ -232,10 +231,9 @@ const categories = Object.entries(member.categories);
                 <td class="text-right tabular-nums">{formatGbp(p.amount, true)}</td>
                 <td>{p.payment_type}</td>
                 <td>
-                  {p.appg_slug && <a href={`/appg/${p.appg_slug}`}>{p.appg_name}</a>}
+                  {p.appg_slug && <a href={`/appg/${p.appg_slug}`} title={p.appg_name ?? ""}>{shortenAppgName(p.appg_name)}</a>}
                   {!p.appg_slug && "—"}
                 </td>
-                <td><PaymentFlags payment={p} /></td>
                 <td><CitationLink href={p.source_url} /></td>
               </tr>
             ))}
@@ -264,7 +262,6 @@ const categories = Object.entries(member.categories);
     appgCell,
     categoryCell,
     detailsCell,
-    flagsCell,
     fmtAmount,
     fmtDateCell,
     payerCell,
@@ -351,7 +348,7 @@ const categories = Object.entries(member.categories);
       inkind: r.inkind,
       href: r.id ? `/payer/${r.id}` : undefined,
     }));
-    renderSummaryChart(chartRoot, rows);
+    renderSummaryChart(chartRoot, rows, { limit: 10 });
   }
 
   // --- Payments Grid.js ---
@@ -379,7 +376,6 @@ const categories = Object.entries(member.categories);
           fmtAmount(p.amount),
           p.payment_type,
           appgCell(p),
-          flagsCell(p),
           sourceCell(p),
         ]);
     }
@@ -390,16 +386,16 @@ const categories = Object.entries(member.categories);
         { name: "Date", width: "7.5rem" },
         { name: "Category", width: "6.5rem" },
         { name: "Payer", width: "16rem" },
-        { name: "Details", width: "22rem" },
+        { name: "Details", width: "30rem" },
         { name: "Amount", width: "8rem", sort: { compare: cmpCurrency } },
         { name: "Type", width: "6rem" },
         { name: "APPG", width: "12rem" },
-        { name: "Flags", width: "10rem", sort: false },
         { name: "Source", width: "5rem", sort: false },
       ],
       data: rowsForWindow(activeWindow),
       sort: true,
       search: true,
+      resizable: true,
       pagination: paymentsData.length > 25 ? { limit: 25 } : false,
     }).render(mount);
   }
@@ -433,7 +429,6 @@ const categories = Object.entries(member.categories);
           fmtAmount(p.amount),
           p.payment_type,
           appgCell(p),
-          flagsCell(p),
           sourceCell(p),
         ]);
       grid.updateConfig({ data: newData }).forceRender();

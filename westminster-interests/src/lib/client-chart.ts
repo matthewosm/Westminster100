@@ -37,7 +37,12 @@ function truncateLabel(s: string): string {
 export function renderSummaryChart(
   host: HTMLElement,
   rows: ChartRow[],
-  opts: { unit?: "currency" | "number"; emptyMessage?: string } = {},
+  opts: {
+    unit?: "currency" | "number";
+    emptyMessage?: string;
+    limit?: number;
+    expanded?: boolean;
+  } = {},
 ): void {
   const unit = opts.unit ?? "currency";
   const fmt = (v: number): string => (unit === "currency" ? GBP.format(v) : NUM.format(v));
@@ -54,17 +59,21 @@ export function renderSummaryChart(
     return;
   }
 
-  const peak = Math.max(...rows.map(rowTotal), 1);
+  const limit = opts.limit;
+  const canTruncate = typeof limit === "number" && rows.length > limit;
+  const showingAll = !canTruncate || opts.expanded === true;
+  const visibleRows = showingAll ? rows : rows.slice(0, limit as number);
+  const peak = Math.max(...visibleRows.map(rowTotal), 1);
   const barHeight = 18;
   const barGap = 6;
   const labelWidth = 220;
   const valueWidth = 140;
   const trackWidth = 360;
-  const chartHeight = rows.length * (barHeight + barGap) + 4;
   const svgWidth = labelWidth + trackWidth + valueWidth + 16;
 
   const parts: string[] = [];
-  rows.forEach((r, i) => {
+  const chartHeightForRows = visibleRows.length * (barHeight + barGap) + 4;
+  visibleRows.forEach((r, i) => {
     const y = i * (barHeight + barGap);
     const total = rowTotal(r);
     const totalW = (total / peak) * trackWidth;
@@ -98,11 +107,25 @@ export function renderSummaryChart(
        </div>`
     : "";
 
+  const toggle = canTruncate
+    ? `<button type="button" class="wi-chart-toggle" data-chart-toggle>${
+        showingAll ? "Show top " + limit : "Show all " + rows.length
+      }</button>`
+    : "";
+
   host.innerHTML = `
     <figure class="my-4">
-      <svg viewBox="0 0 ${svgWidth} ${chartHeight}" role="img" aria-label="Summary" class="w-full max-w-3xl" style="height: auto; font-family: var(--font-sans);">${parts.join("")}</svg>
+      <svg viewBox="0 0 ${svgWidth} ${chartHeightForRows}" role="img" aria-label="Summary" class="w-full max-w-3xl" style="height: auto; font-family: var(--font-sans);">${parts.join("")}</svg>
       ${legend}
+      ${toggle}
     </figure>`;
+
+  if (canTruncate) {
+    host.querySelector<HTMLButtonElement>("[data-chart-toggle]")?.addEventListener(
+      "click",
+      () => renderSummaryChart(host, rows, { ...opts, expanded: !showingAll }),
+    );
+  }
 }
 
 export { escapeHtml };

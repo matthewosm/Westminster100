@@ -7,7 +7,13 @@
 
 import { html as gridHtml } from "gridjs";
 import { escapeHtml } from "@/lib/client-chart";
-import { CATEGORY_SHORT } from "@/consts";
+import {
+  CATEGORY_COLOURS,
+  CATEGORY_SHORT,
+  PARTY_COLOURS,
+  PARTY_SHORT,
+  shortenAppgName,
+} from "@/consts";
 
 const GBP_PENNY = new Intl.NumberFormat("en-GB", {
   style: "currency",
@@ -55,8 +61,45 @@ export function fmtAmount(value: number) {
   return GBP_PENNY.format(value);
 }
 
-export function categoryCell(category: string): string {
-  return CATEGORY_SHORT[category] ?? category;
+export function categoryCell(category: string): ReturnType<typeof gridHtml> {
+  const label = CATEGORY_SHORT[category] ?? category;
+  const colour = CATEGORY_COLOURS[category] ?? {
+    bg: "var(--color-ink-100)",
+    fg: "var(--color-foreground)",
+  };
+  return gridHtml(
+    `<span class="inline-flex items-center px-1.5 py-0.5 text-[10px] font-semibold rounded-sm uppercase tracking-wide" style="color: ${colour.fg}; background: ${colour.bg};">${escapeHtml(label)}</span>`,
+  );
+}
+
+export function partyCell(
+  party: string | null | undefined,
+  partySlug: string | null | undefined,
+): ReturnType<typeof gridHtml> {
+  const tag = party
+    ? (PARTY_SHORT[party] ?? party.slice(0, 3).toUpperCase())
+    : "—";
+  const colour = party ? PARTY_COLOURS[party] : undefined;
+  const bg = colour?.bg ?? "var(--color-surface)";
+  const fg = colour?.fg ?? "var(--color-muted)";
+  const inner = `<span class="inline-flex items-center px-1.5 py-0.5 text-xs font-semibold rounded-sm border uppercase tracking-wide" style="color: ${fg}; border-color: ${bg}; background: ${bg};" title="${escapeHtml(party ?? "Independent / unknown")}">${escapeHtml(tag)}</span>`;
+  if (partySlug) {
+    return gridHtml(
+      `<a href="/party/${escapeHtml(partySlug)}" class="no-underline hover:opacity-90">${inner}</a>`,
+    );
+  }
+  return gridHtml(inner);
+}
+
+export function appgCellDisplay(
+  slug: string | null | undefined,
+  fullName: string | null | undefined,
+): ReturnType<typeof gridHtml> {
+  if (!slug) return gridHtml("—");
+  const short = shortenAppgName(fullName ?? slug);
+  return gridHtml(
+    `<a href="/appg/${escapeHtml(slug)}" title="${escapeHtml(fullName ?? slug)}">${escapeHtml(short)}</a>`,
+  );
 }
 
 export function memberCell(p: PaymentLike): ReturnType<typeof gridHtml> {
@@ -85,10 +128,7 @@ export function payerCell(p: PaymentLike): ReturnType<typeof gridHtml> {
 }
 
 export function appgCell(p: PaymentLike): ReturnType<typeof gridHtml> {
-  if (!p.appg_slug) return gridHtml("—");
-  return gridHtml(
-    `<a href="/appg/${escapeHtml(p.appg_slug)}">${escapeHtml(p.appg_name ?? p.appg_slug)}</a>`,
-  );
+  return appgCellDisplay(p.appg_slug, p.appg_name);
 }
 
 export function flagsCell(p: PaymentLike): ReturnType<typeof gridHtml> {

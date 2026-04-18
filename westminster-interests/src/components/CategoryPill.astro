@@ -1,0 +1,25 @@
+---
+import { CATEGORY_COLOURS, CATEGORY_SHORT } from "@/consts";
+
+interface Props {
+  category: string;
+  class?: string;
+}
+
+const { category, class: className } = Astro.props;
+const label = CATEGORY_SHORT[category] ?? category;
+const colour = CATEGORY_COLOURS[category] ?? {
+  bg: "var(--color-ink-100)",
+  fg: "var(--color-foreground)",
+};
+---
+
+<span
+  class:list={[
+    "inline-flex items-center px-1.5 py-0.5 text-[10px] font-semibold rounded-sm uppercase tracking-wide",
+    className,
+  ]}
+  style={`color: ${colour.fg}; background: ${colour.bg};`}
+>
+  {label}
+</span>

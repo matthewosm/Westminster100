@@ -22,39 +22,26 @@ function avgFor(p: PartyIndexRow, w: Window) {
   };
 }
 
-// Server-render the default window; all window values embedded below
-// for client-side swap.
-const defaultChart = [...parties]
-  .filter((p) => avgFor(p, DEFAULT_WINDOW).combined > 0)
-  .sort((a, b) => avgFor(b, DEFAULT_WINDOW).combined - avgFor(a, DEFAULT_WINDOW).combined)
-  .slice(0, 10)
-  .map((p) => {
-    const a = avgFor(p, DEFAULT_WINDOW);
-    return {
-      label: p.party,
-      monetary: a.monetary,
-      inkind: a.inkind,
-      href: `/party/${p.party_slug}`,
-    };
-  });
+// Parties chart shows every party by default — the list is short
+// enough that truncating to a top-10 hides meaningful signal.
+function partiesForChart(win: Window) {
+  return [...parties]
+    .filter((p) => avgFor(p, win).combined > 0)
+    .sort((a, b) => avgFor(b, win).combined - avgFor(a, win).combined)
+    .map((p) => {
+      const a = avgFor(p, win);
+      return {
+        label: p.party,
+        monetary: a.monetary,
+        inkind: a.inkind,
+        href: `/party/${p.party_slug}`,
+      };
+    });
+}
 
+const defaultChart = partiesForChart(DEFAULT_WINDOW);
 const chartsByWindow = Object.fromEntries(
-  WINDOWS.map((w) => [
-    w,
-    [...parties]
-      .filter((p) => avgFor(p, w).combined > 0)
-      .sort((a, b) => avgFor(b, w).combined - avgFor(a, w).combined)
-      .slice(0, 10)
-      .map((p) => {
-        const a = avgFor(p, w);
-        return {
-          label: p.party,
-          monetary: a.monetary,
-          inkind: a.inkind,
-          href: `/party/${p.party_slug}`,
-        };
-      }),
-  ]),
+  WINDOWS.map((w) => [w, partiesForChart(w)]),
 );
 
 const tableRows = [...parties].sort(
@@ -80,7 +67,7 @@ const tableRows = [...parties].sort(
 
   <section class="py-4" data-pagefind-ignore>
     <h2 class="text-sm font-semibold uppercase tracking-wide" style="color: var(--color-muted);">
-      Top parties by £ per MP — <span data-active-window-label>trailing 12 months</span>
+      Parties by £ per MP — <span data-active-window-label>trailing 12 months</span>
     </h2>
     <div data-chart data-chart-json={JSON.stringify(chartsByWindow)}>
       <SummaryChart rows={defaultChart} />
@@ -188,6 +175,7 @@ const tableRows = [...parties].sort(
       ],
       data: buildRows(activeWindow),
       sort: true,
+      resizable: true,
     }).render(mount);
 
     document.addEventListener("window:change", (event) => {

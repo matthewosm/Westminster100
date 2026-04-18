@@ -1,12 +1,9 @@
 ---
-import { PARTY_SHORT } from "@/consts";
+import { PARTY_SHORT, PARTY_COLOURS } from "@/consts";
 
 interface Props {
   party: string | null | undefined;
-  /** Canonical slug for /party/[slug]. When provided, the tag renders as a link. */
   partySlug?: string | null;
-  /** Force a non-linked tag even if partySlug is provided. Useful on the
-   *  party detail page where self-linking adds no value. */
   noLink?: boolean;
   class?: string;
 }
@@ -15,14 +12,18 @@ const { party, partySlug, noLink = false, class: className } = Astro.props;
 const tag = party ? (PARTY_SHORT[party] ?? party.slice(0, 3).toUpperCase()) : "—";
 const title = party ?? "Independent / unknown";
 
+const colour = party ? PARTY_COLOURS[party] : undefined;
+const fallback = { bg: "var(--color-surface)", fg: "var(--color-muted)" };
+const bg = colour?.bg ?? fallback.bg;
+const fg = colour?.fg ?? fallback.fg;
+
 const href = !noLink && partySlug ? `/party/${partySlug}` : undefined;
 const classes = [
   "inline-flex items-center px-1.5 py-0.5 text-xs font-semibold rounded-sm border uppercase tracking-wide",
-  href ? "no-underline hover:underline" : "",
+  href ? "no-underline hover:opacity-90" : "",
   className,
 ];
-const style =
-  "color: var(--color-muted); border-color: var(--color-border); background: var(--color-surface);";
+const style = `color: ${fg}; border-color: ${bg}; background: ${bg};`;
 ---
 
 {

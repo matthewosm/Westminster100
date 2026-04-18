@@ -16,12 +16,14 @@ const sorted = [...members].sort(
     b.totals[DEFAULT_WINDOW].combined - a.totals[DEFAULT_WINDOW].combined,
 );
 
-const top10 = sorted.slice(0, 10).map((m) => ({
-  label: `${m.name} (${m.party ?? "—"})`,
-  monetary: m.totals[DEFAULT_WINDOW].monetary,
-  inkind: m.totals[DEFAULT_WINDOW].inkind,
-  href: `/member/${m.mnis_id}`,
-}));
+const allForChartDefault = sorted
+  .filter((m) => m.totals[DEFAULT_WINDOW].combined > 0)
+  .map((m) => ({
+    label: `${m.name} (${m.party ?? "—"})`,
+    monetary: m.totals[DEFAULT_WINDOW].monetary,
+    inkind: m.totals[DEFAULT_WINDOW].inkind,
+    href: `/member/${m.mnis_id}`,
+  }));
 ---
 
 <BaseLayout
@@ -55,8 +57,8 @@ const top10 = sorted.slice(0, 10).map((m) => ({
             w,
             sorted
               .slice()
+              .filter((m) => m.totals[w as keyof typeof m.totals].combined > 0)
               .sort((a, b) => b.totals[w as keyof typeof b.totals].combined - a.totals[w as keyof typeof a.totals].combined)
-              .slice(0, 10)
               .map((m) => ({
                 label: `${m.name} (${m.party ?? "—"})`,
                 monetary: m.totals[w as keyof typeof m.totals].monetary,
@@ -67,7 +69,7 @@ const top10 = sorted.slice(0, 10).map((m) => ({
         ),
       )}
     >
-      <SummaryChart rows={top10} />
+      <SummaryChart rows={allForChartDefault} limit={10} />
     </div>
   </section>
 
@@ -187,6 +189,7 @@ const top10 = sorted.slice(0, 10).map((m) => ({
       data: buildRows(activeWindow),
       sort: true,
       search: true,
+      resizable: true,
       pagination: { limit: 50 },
     }).render(mount);
 
@@ -220,7 +223,7 @@ const top10 = sorted.slice(0, 10).map((m) => ({
       const win: Window = isWindow(detail.window) ? detail.window : DEFAULT_WINDOW;
       if (win === chartWin) return;
       chartWin = win;
-      renderSummaryChart(chartRoot, chartsByWindow[win] ?? []);
+      renderSummaryChart(chartRoot, chartsByWindow[win] ?? [], { limit: 10 });
       if (chartLabel) chartLabel.textContent = WINDOW_LABELS[win];
     });
   }

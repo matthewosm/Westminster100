@@ -1,12 +1,12 @@
 ---
 import BaseLayout from "@/layouts/BaseLayout.astro";
 import WindowSelector from "@/components/WindowSelector.astro";
-import PaymentFlags from "@/components/PaymentFlags.astro";
 import PaymentDetails from "@/components/PaymentDetails.astro";
 import CitationLink from "@/components/CitationLink.astro";
+import CategoryPill from "@/components/CategoryPill.astro";
 import SummaryChart from "@/components/SummaryChart.astro";
 import AsOfFooter from "@/components/AsOfFooter.astro";
-import { CATEGORY_SHORT } from "@/consts";
+import { CATEGORY_SHORT, shortenAppgName } from "@/consts";
 import { formatDate, formatGbp, formatNumber } from "@/lib/format";
 import { DEFAULT_WINDOW } from "@/types/window";
 import { allPayers } from "@/lib/data";
@@ -148,98 +148,125 @@ const topMps = mpList.slice(0, 10).map((m) => ({
   {mpList.length > 0 && (
     <section class="py-6">
       <h2 class="text-xl mb-3">MPs funded ({mpList.length})</h2>
-      <table class="w-full text-sm">
-        <thead>
-          <tr>
-            <th>Member</th>
-            <th class="text-right">Total received</th>
-            <th class="text-right">Payments</th>
-          </tr>
-        </thead>
-        <tbody>
-          {mpList.map((m) => (
+      <div class="wi-mps-grid" data-mps-grid>
+        <!-- SSR fallback — hidden on JS mount. -->
+        <table class="wi-ssr-fallback w-full text-sm">
+          <thead>
             <tr>
-              <td><a href={`/member/${m.mnis_id}`}>{m.name}</a></td>
-              <td class="text-right tabular-nums">{formatGbp(m.monetary + m.inkind, true)}</td>
-              <td class="text-right tabular-nums">{formatNumber(m.count)}</td>
+              <th>Member</th>
+              <th class="text-right">Total received</th>
+              <th class="text-right">Payments</th>
             </tr>
-          ))}
-        </tbody>
-      </table>
+          </thead>
+          <tbody>
+            {mpList.map((m) => (
+              <tr>
+                <td><a href={`/member/${m.mnis_id}`}>{m.name}</a></td>
+                <td class="text-right tabular-nums">{formatGbp(m.monetary + m.inkind, true)}</td>
+                <td class="text-right tabular-nums">{formatNumber(m.count)}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+        <div class="wi-grid-mount"></div>
+      </div>
     </section>
   )}
 
   <section class="py-6">
     <h2 class="text-xl mb-3">Registered payments</h2>
-    <table class="w-full text-sm" data-payments-table>
-      <thead>
-        <tr>
-          <th>Date</th>
-          <th>Member</th>
-          <th>Details</th>
-          <th>Category</th>
-          <th class="text-right">Amount</th>
-          <th>Type</th>
-          <th>APPG</th>
-          <th>Flags</th>
-          <th>Source</th>
-        </tr>
-      </thead>
-      <tbody>
-        {payer.payments.map((p) => (
-          <tr
-            data-date={p.date ?? ""}
-            data-regular={p.is_regular ? "1" : "0"}
-            data-start={p.start_date ?? ""}
-            data-end={p.end_date ?? ""}
-          >
-            <td class="tabular-nums">{formatDate(p.date)}</td>
-            <td>
-              {p.member_id && <a href={`/member/${p.member_id}`}>{p.member_name}</a>}
-              {!p.member_id && (p.member_name ?? "—")}
-            </td>
-            <td><PaymentDetails summary={p.summary} description={p.description} /></td>
-            <td>{CATEGORY_SHORT[p.category] ?? p.category}</td>
-            <td class="text-right tabular-nums">{formatGbp(p.amount, true)}</td>
-            <td>{p.payment_type}</td>
-            <td>
-              {p.appg_slug && <a href={`/appg/${p.appg_slug}`}>{p.appg_name}</a>}
-              {!p.appg_slug && "—"}
-            </td>
-            <td><PaymentFlags payment={p} /></td>
-            <td><CitationLink href={p.source_url} /></td>
+    <div class="wi-payments-grid" data-payments-grid="payer">
+      <table class="wi-ssr-fallback w-full text-sm">
+        <thead>
+          <tr>
+            <th>Date</th>
+            <th>Member</th>
+            <th>Details</th>
+            <th>Category</th>
+            <th class="text-right">Amount</th>
+            <th>Type</th>
+            <th>APPG</th>
+            <th>Source</th>
           </tr>
-        ))}
-      </tbody>
-    </table>
+        </thead>
+        <tbody>
+          {payer.payments.map((p) => (
+            <tr>
+              <td class="tabular-nums">{formatDate(p.date)}</td>
+              <td>
+                {p.member_id && <a href={`/member/${p.member_id}`}>{p.member_name}</a>}
+                {!p.member_id && (p.member_name ?? "—")}
+              </td>
+              <td><PaymentDetails summary={p.summary} description={p.description} /></td>
+              <td><CategoryPill category={p.category} /></td>
+              <td class="text-right tabular-nums">{formatGbp(p.amount, true)}</td>
+              <td>{p.payment_type}</td>
+              <td>
+                {p.appg_slug && <a href={`/appg/${p.appg_slug}`} title={p.appg_name ?? ""}>{shortenAppgName(p.appg_name)}</a>}
+                {!p.appg_slug && "—"}
+              </td>
+              <td><CitationLink href={p.source_url} /></td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+      <div class="wi-grid-mount"></div>
+    </div>
   </section>
 
   <AsOfFooter />
 </BaseLayout>
 
+<script is:inline define:vars={{ payments: payer.payments, mps: mpList }}>
+  window.__WI_PAYER_PAYMENTS = payments;
+  window.__WI_PAYER_MPS = mps;
+</script>
+
 <script>
+  import { Grid, html } from "gridjs";
+  import "gridjs/dist/theme/mermaid.min.css";
   import { DEFAULT_WINDOW, isWindow } from "@/types/window";
   import type { Window } from "@/types/window";
   import type { TotalsByWindow, WindowTotals } from "@/types/totals";
-  import { windowRange, paymentInWindow } from "@/lib/windows";
+  import { windowRange } from "@/lib/windows";
+  import {
+    appgCell,
+    categoryCell,
+    detailsCell,
+    fmtAmount,
+    fmtDateCell,
+    memberCell,
+    paymentParticipatesInWindow,
+    sourceCell,
+    type PaymentLike,
+  } from "@/lib/client-payments";
+  import { escapeHtml } from "@/lib/client-chart";
 
   const GBP = new Intl.NumberFormat("en-GB", { style: "currency", currency: "GBP", maximumFractionDigits: 0 });
+  const GBP_PENNY = new Intl.NumberFormat("en-GB", {
+    style: "currency",
+    currency: "GBP",
+    minimumFractionDigits: 2,
+    maximumFractionDigits: 2,
+  });
   const UK_NUMBER = new Intl.NumberFormat("en-GB");
 
-  function fmt(value: number, unit: string | null): string {
-    return unit === "number" ? UK_NUMBER.format(value) : GBP.format(value);
+  function cmpCurrency(a: unknown, b: unknown): number {
+    const fa = parseFloat(String(a).replace(/[^0-9.-]/g, "")) || 0;
+    const fb = parseFloat(String(b).replace(/[^0-9.-]/g, "")) || 0;
+    return fa - fb;
   }
 
+  const asOf =
+    document.querySelector("time[datetime]")?.getAttribute("datetime") ??
+    new Date().toISOString().slice(0, 10);
+
+  // Totals swap.
   const totalsBlock = document.querySelector<HTMLElement>("[data-totals-block]");
   const totalsByWindow = totalsBlock
     ? (JSON.parse(totalsBlock.dataset.totalsJson ?? "{}") as TotalsByWindow)
     : null;
   const totalsFields = document.querySelectorAll<HTMLElement>("[data-totals-field]");
-  const paymentsTable = document.querySelector<HTMLTableElement>("[data-payments-table]");
-
-  const asOf =
-    document.querySelector("time[datetime]")?.getAttribute("datetime") ??
-    new Date().toISOString().slice(0, 10);
 
   function applyTotals(win: Window) {
     if (!totalsByWindow) return;
@@ -249,28 +276,111 @@ const topMps = mpList.slice(0, 10).map((m) => ({
       const field = el.dataset.totalsField as keyof WindowTotals;
       const unit = el.dataset.unit ?? "currency";
       const raw = bucket[field] as number | undefined;
-      if (typeof raw === "number") el.textContent = fmt(raw, unit);
+      if (typeof raw === "number") {
+        el.textContent = unit === "number" ? UK_NUMBER.format(raw) : GBP.format(raw);
+      }
     });
   }
 
-  function applyRows(win: Window) {
-    if (!paymentsTable) return;
-    const range = windowRange(win, asOf);
-    paymentsTable.querySelectorAll<HTMLTableRowElement>("tbody tr").forEach((row) => {
-      const payload = {
-        is_regular: row.dataset.regular === "1",
-        date: row.dataset.date || null,
-        start_date: row.dataset.start || null,
-        end_date: row.dataset.end || null,
-      };
-      row.style.display = paymentInWindow(payload, row.dataset.start || null, range) ? "" : "none";
-    });
+  // MPs-funded Grid (static — doesn't change with window since amounts
+  // on this table reflect the full payment history from this payer).
+  const mpsRoot = document.querySelector<HTMLElement>("[data-mps-grid]");
+  if (mpsRoot) {
+    const mps = (window as unknown as {
+      __WI_PAYER_MPS: { mnis_id: number; name: string; monetary: number; inkind: number; count: number }[];
+    }).__WI_PAYER_MPS ?? [];
+    const fallback = mpsRoot.querySelector<HTMLTableElement>(".wi-ssr-fallback")!;
+    const mount = mpsRoot.querySelector<HTMLElement>(".wi-grid-mount")!;
+    fallback.style.display = "none";
+    new Grid({
+      columns: [
+        { name: "Member", width: "22rem" },
+        { name: "Total received", width: "10rem", sort: { compare: cmpCurrency } },
+        { name: "Payments", width: "7rem" },
+      ],
+      resizable: true,
+      data: mps.map((m) => [
+        html(`<a href="/member/${m.mnis_id}">${escapeHtml(m.name)}</a>`),
+        GBP_PENNY.format(m.monetary + m.inkind),
+        m.count,
+      ]),
+      sort: true,
+      search: mps.length > 10,
+      pagination: mps.length > 25 ? { limit: 25 } : false,
+    }).render(mount);
   }
 
+  // Payments Grid.js (window-aware).
+  const payRoot = document.querySelector<HTMLElement>('[data-payments-grid="payer"]');
+  let grid: Grid | null = null;
+  let payments: PaymentLike[] = [];
+  let activeWindow: Window = DEFAULT_WINDOW;
+
+  if (payRoot) {
+    payments =
+      (window as unknown as { __WI_PAYER_PAYMENTS: PaymentLike[] }).__WI_PAYER_PAYMENTS ?? [];
+    const fallback = payRoot.querySelector<HTMLTableElement>(".wi-ssr-fallback")!;
+    const mount = payRoot.querySelector<HTMLElement>(".wi-grid-mount")!;
+
+    function rowsForWindow(win: Window) {
+      const r = windowRange(win, asOf);
+      return payments
+        .filter((p) => paymentParticipatesInWindow(p, r.since, r.end))
+        .map((p) => [
+          fmtDateCell(p.date),
+          memberCell(p),
+          detailsCell(p),
+          categoryCell(p.category),
+          fmtAmount(p.amount),
+          p.payment_type,
+          appgCell(p),
+          sourceCell(p),
+        ]);
+    }
+
+    fallback.style.display = "none";
+    grid = new Grid({
+      columns: [
+        { name: "Date", width: "7.5rem" },
+        { name: "Member", width: "16rem" },
+        { name: "Details", width: "30rem" },
+        { name: "Category", width: "6.5rem" },
+        { name: "Amount", width: "8rem", sort: { compare: cmpCurrency } },
+        { name: "Type", width: "6rem" },
+        { name: "APPG", width: "12rem" },
+        { name: "Source", width: "5rem", sort: false },
+      ],
+      data: rowsForWindow(activeWindow),
+      sort: true,
+      search: true,
+      resizable: true,
+      pagination: payments.length > 25 ? { limit: 25 } : false,
+    }).render(mount);
+  }
+
+  let currentWin: Window = DEFAULT_WINDOW;
   document.addEventListener("window:change", (event) => {
     const detail = (event as CustomEvent).detail as { window: string };
     const win = isWindow(detail.window) ? detail.window : DEFAULT_WINDOW;
+    if (win === currentWin) return;
+    currentWin = win;
+    activeWindow = win;
     applyTotals(win);
-    applyRows(win);
+    if (grid) {
+      const r = windowRange(win, asOf);
+      const newData = payments
+        .filter((p) => paymentParticipatesInWindow(p, r.since, r.end))
+        .map((p) => [
+          fmtDateCell(p.date),
+          memberCell(p),
+          detailsCell(p),
+          categoryCell(p.category),
+          fmtAmount(p.amount),
+          p.payment_type,
+          appgCell(p),
+          sourceCell(p),
+        ]);
+      grid.updateConfig({ data: newData }).forceRender();
+    }
   });
 </script>
