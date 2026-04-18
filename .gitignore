@@ -1,3 +1,7 @@
 interests.db
 __pycache__/
 *.pyc
+
+# Exporter output — derived from interests.db. Rebuild locally with
+#   py import.py && py rebuild_master.py && py seed_appgs.py && py export.py
+westminster-interests/src/data/
