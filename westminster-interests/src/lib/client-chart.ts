@@ -128,4 +128,69 @@ export function renderSummaryChart(
   }
 }
 
+/** Category → pill colour. Mirrors CATEGORY_COLOURS in @/consts. */
+const CATEGORY_BG: Record<string, string> = {
+  "1.1": "#dbeafe",
+  "1.2": "#e0e7ff",
+  "2": "#fee2e2",
+  "3": "#fef3c7",
+  "4": "#dcfce7",
+  "5": "#f3e8ff",
+};
+
+const CATEGORY_ORDER = ["1.1", "1.2", "2", "3", "4", "5"] as const;
+const CATEGORY_LABEL_FULL: Record<string, string> = {
+  "1.1": "Employment — ad hoc",
+  "1.2": "Employment — regular",
+  "2": "Donations",
+  "3": "Gifts & hospitality",
+  "4": "Visits abroad",
+  "5": "Overseas gifts",
+};
+
+/** Update the segments inside a .wi-catbar host element in place.
+ *
+ * `categories` maps category code → combined £ for the active window.
+ * `normaliseTo` lets callers pin the bar scale for side-by-side bars.
+ */
+export function renderCategoryBar(
+  host: HTMLElement,
+  categories: Record<string, number>,
+  opts: { normaliseTo?: number } = {},
+): void {
+  const track = host.querySelector<HTMLElement>(".wi-catbar-track");
+  const totalEl = host.querySelector<HTMLElement>(".wi-catbar-total");
+  if (!track) return;
+
+  const segs = CATEGORY_ORDER.map((cat) => ({
+    cat,
+    value: categories[cat] ?? 0,
+  }));
+  const barTotal = segs.reduce((a, s) => a + s.value, 0);
+  const denom = opts.normaliseTo && opts.normaliseTo > 0 ? opts.normaliseTo : barTotal;
+
+  if (barTotal <= 0) {
+    track.innerHTML =
+      '<div class="wi-catbar-empty">No category data in this window.</div>';
+    if (totalEl) totalEl.textContent = GBP.format(0);
+    return;
+  }
+
+  const parts: string[] = [];
+  for (const s of segs) {
+    if (s.value <= 0) continue;
+    const pct = denom > 0 ? (s.value / denom) * 100 : 0;
+    if (pct <= 0) continue;
+    const bg = CATEGORY_BG[s.cat] ?? "var(--color-ink-300)";
+    const label = CATEGORY_LABEL_FULL[s.cat] ?? s.cat;
+    parts.push(
+      `<div class="wi-catbar-seg" style="width: ${pct}%; background: ${bg};" data-cat="${escapeHtml(
+        s.cat,
+      )}" title="${escapeHtml(label)} — ${GBP.format(s.value)}"></div>`,
+    );
+  }
+  track.innerHTML = parts.join("");
+  if (totalEl) totalEl.textContent = GBP.format(barTotal);
+}
+
 export { escapeHtml };

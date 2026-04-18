@@ -5,9 +5,10 @@ import PartyTag from "@/components/PartyTag.astro";
 import PaymentDetails from "@/components/PaymentDetails.astro";
 import CitationLink from "@/components/CitationLink.astro";
 import CategoryPill from "@/components/CategoryPill.astro";
+import CategoryStackedBar from "@/components/CategoryStackedBar.astro";
 import SummaryChart from "@/components/SummaryChart.astro";
 import AsOfFooter from "@/components/AsOfFooter.astro";
-import { CATEGORY_SHORT, shortenAppgName } from "@/consts";
+import { shortenAppgName } from "@/consts";
 import { formatDate, formatGbp, formatNumber } from "@/lib/format";
 import { DEFAULT_WINDOW, WINDOWS, WINDOW_LABELS } from "@/types/window";
 import { allMembers } from "@/lib/data";
@@ -92,6 +93,18 @@ const topPayerRows = payerTotalsByWindow[activeWindow].map((row) => ({
 }));
 
 const categories = Object.entries(member.categories);
+
+// Flatten the {cat: TotalsByWindow} structure into a per-window map of
+// {cat: combined £} snapshots the stacked bar (and its client-side
+// renderer) can consume directly.
+const categoryCombinedByWindow: Record<string, Record<string, number>> = {};
+for (const win of WINDOWS) {
+  const snap: Record<string, number> = {};
+  for (const [cat, catTotals] of categories) {
+    snap[cat] = catTotals[win].combined;
+  }
+  categoryCombinedByWindow[win] = snap;
+}
 ---
 
 <BaseLayout
@@ -154,18 +167,18 @@ const categories = Object.entries(member.categories);
 
   {categories.length > 0 && (
     <section
-      class="py-2 text-sm flex flex-wrap gap-x-4 gap-y-1"
-      style="color: var(--color-muted);"
-      data-category-block
-      data-categories-json={JSON.stringify(member.categories)}
+      class="py-3"
+      data-category-bar-block
+      data-categories-json={JSON.stringify(categoryCombinedByWindow)}
     >
-      <span class="font-semibold">By category:</span>
-      {categories.map(([cat, catTotals]) => (
-        <span>
-          <span class="font-semibold">{CATEGORY_SHORT[cat] ?? cat}</span>{" "}
-          <span data-category-totals={cat}>{formatGbp(catTotals[activeWindow].combined)}</span>
-        </span>
-      ))}
+      <h2 class="text-sm font-semibold uppercase tracking-wide mb-2" style="color: var(--color-muted);">
+        Category mix — <span data-active-window-label>{WINDOW_LABELS[activeWindow]}</span>
+      </h2>
+      <CategoryStackedBar
+        categories={categoryCombinedByWindow[activeWindow]}
+        legend={true}
+        barId="member-category"
+      />
     </section>
   )}
 
@@ -269,7 +282,7 @@ const categories = Object.entries(member.categories);
     sourceCell,
     type PaymentLike,
   } from "@/lib/client-payments";
-  import { renderSummaryChart } from "@/lib/client-chart";
+  import { renderSummaryChart, renderCategoryBar } from "@/lib/client-chart";
 
   const GBP = new Intl.NumberFormat("en-GB", {
     style: "currency",
@@ -299,16 +312,22 @@ const categories = Object.entries(member.categories);
     : null;
   const totalsFields = document.querySelectorAll<HTMLElement>("[data-totals-field]");
 
-  const categoryBlock = document.querySelector<HTMLElement>("[data-category-block]");
-  const categoriesByWindow = categoryBlock
-    ? (JSON.parse(categoryBlock.dataset.categoriesJson ?? "{}") as Record<
+  const categoryBarBlock = document.querySelector<HTMLElement>(
+    "[data-category-bar-block]",
+  );
+  const categoriesByWindow = categoryBarBlock
+    ? (JSON.parse(categoryBarBlock.dataset.categoriesJson ?? "{}") as Record<
         string,
-        TotalsByWindow
+        Record<string, number>
       >)
     : null;
-  const categoryCells = document.querySelectorAll<HTMLElement>("[data-category-totals]");
+  const categoryBarHost = categoryBarBlock?.querySelector<HTMLElement>(
+    '[data-catbar="member-category"]',
+  );
 
-  const windowLabel = document.querySelector<HTMLElement>("[data-active-window-label]");
+  // Multiple sections now carry their own window label. Select them all
+  // so each "— 12m" caption updates when the window changes.
+  const windowLabels = document.querySelectorAll<HTMLElement>("[data-active-window-label]");
 
   function applyTotals(win: Window) {
     if (!totalsByWindow) return;
@@ -323,12 +342,8 @@ const categories = Object.entries(member.categories);
   }
 
   function applyCategories(win: Window) {
-    if (!categoriesByWindow) return;
-    categoryCells.forEach((el) => {
-      const cat = el.dataset.categoryTotals ?? "";
-      const bucket = categoriesByWindow[cat]?.[win];
-      if (bucket) el.textContent = GBP.format(bucket.combined);
-    });
+    if (!categoriesByWindow || !categoryBarHost) return;
+    renderCategoryBar(categoryBarHost, categoriesByWindow[win] ?? {});
   }
 
   // --- Top-payers chart (per-window stacked) ---
@@ -401,7 +416,10 @@ const categories = Object.entries(member.categories);
   }
 
   function applyLabel(win: Window) {
-    if (windowLabel) windowLabel.textContent = WINDOW_LABELS[win];
+    const text = WINDOW_LABELS[win];
+    windowLabels.forEach((el) => {
+      el.textContent = text;
+    });
   }
 
   let currentWin: Window = DEFAULT_WINDOW;

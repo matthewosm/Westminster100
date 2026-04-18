@@ -2,9 +2,10 @@
 import BaseLayout from "@/layouts/BaseLayout.astro";
 import WindowSelector from "@/components/WindowSelector.astro";
 import SummaryChart from "@/components/SummaryChart.astro";
+import CategoryStackedBar from "@/components/CategoryStackedBar.astro";
 import AsOfFooter from "@/components/AsOfFooter.astro";
 import { formatGbp, formatNumber } from "@/lib/format";
-import { DEFAULT_WINDOW, WINDOWS } from "@/types/window";
+import { DEFAULT_WINDOW, WINDOWS, WINDOW_LABELS } from "@/types/window";
 import type { Window } from "@/types/window";
 import type { PartyIndexRow } from "@/types/party";
 
@@ -48,17 +49,54 @@ const tableRows = [...parties].sort(
   (a, b) =>
     b.totals[DEFAULT_WINDOW].combined - a.totals[DEFAULT_WINDOW].combined,
 );
+
+// Per-party category breakdowns, keyed by window, so the client can
+// re-render on window change without retouching the JSON.
+//   partyCategorySnapshot[win][party_slug] = { "1.1": £, "1.2": £, ... }
+const partyCategorySnapshot: Record<
+  string,
+  Record<string, Record<string, number>>
+> = {};
+for (const win of WINDOWS) {
+  const snap: Record<string, Record<string, number>> = {};
+  for (const p of parties) {
+    const entry: Record<string, number> = {};
+    for (const [cat, byWin] of Object.entries(p.categories ?? {})) {
+      entry[cat] = byWin[win]?.combined ?? 0;
+    }
+    snap[p.party_slug] = entry;
+  }
+  partyCategorySnapshot[win] = snap;
+}
+
+// Order parties by combined total for the default window, descending,
+// so the stacked-bar grid reads top-down by scale rather than alphabet.
+const partiesByTotal = [...parties].sort(
+  (a, b) =>
+    b.totals[DEFAULT_WINDOW].combined - a.totals[DEFAULT_WINDOW].combined,
+);
+
+// Shared normaliser: the largest party's combined total. Bars become
+// proportional to the biggest party rather than each filling their own
+// row, so headcount + scale are both visible at a glance.
+const catBarNormaliserByWindow: Record<string, number> = {};
+for (const win of WINDOWS) {
+  catBarNormaliserByWindow[win] = Math.max(
+    1,
+    ...parties.map((p) => p.totals[win].combined),
+  );
+}
 ---
 
 <BaseLayout title="Parties" description="Party-level aggregates of MPs' declared financial interests.">
   <section class="py-4" data-pagefind-ignore>
     <h1 class="text-3xl mb-2">Parties</h1>
     <p class="text-sm max-w-2xl" style="color: var(--color-muted);">
-      Party-level aggregates of registered interests. The chart ranks by
-      <em>average £ per MP</em> so headcount doesn't skew the picture.
-      The table carries both totals and averages. Chart and table
-      re-compute on window change. Party tags are monochrome — the
-      register makes no case for colour-coded analysis.
+      Party-level aggregates of registered interests. The first chart
+      ranks by <em>average £ per MP</em> so headcount doesn't skew the
+      picture; the grid below shows each party's category mix on a shared
+      scale. The table carries both totals and averages. All three
+      re-compute on window change.
     </p>
     <div class="mt-4">
       <WindowSelector />
@@ -71,6 +109,55 @@ const tableRows = [...parties].sort(
     </h2>
     <div data-chart data-chart-json={JSON.stringify(chartsByWindow)}>
       <SummaryChart rows={defaultChart} />
+    </div>
+  </section>
+
+  <section
+    class="py-4"
+    data-pagefind-ignore
+    data-party-category-block
+    data-categories-json={JSON.stringify(partyCategorySnapshot)}
+    data-normalisers-json={JSON.stringify(catBarNormaliserByWindow)}
+  >
+    <h2 class="text-sm font-semibold uppercase tracking-wide" style="color: var(--color-muted);">
+      Category mix by party — <span data-active-window-label>{WINDOW_LABELS[DEFAULT_WINDOW]}</span>
+    </h2>
+    <p class="text-xs mt-1 max-w-2xl" style="color: var(--color-muted);">
+      Bars share a common scale — the longest bar is the party with the
+      largest combined total in the selected window. Shorter bars are
+      parties with smaller aggregate declarations, not narrower category
+      mixes.
+    </p>
+    <div class="mt-3 grid gap-2">
+      {partiesByTotal.map((p) => (
+        <CategoryStackedBar
+          categories={partyCategorySnapshot[DEFAULT_WINDOW][p.party_slug] ?? {}}
+          label={p.party}
+          href={`/party/${p.party_slug}`}
+          normaliseTo={catBarNormaliserByWindow[DEFAULT_WINDOW]}
+          barId={`party-${p.party_slug}`}
+        />
+      ))}
+    </div>
+    <div class="mt-3 flex flex-wrap gap-x-4 gap-y-1 text-xs" style="color: var(--color-muted);">
+      <span class="inline-flex items-center gap-1">
+        <span class="inline-block w-3 h-3 rounded-sm" style="background: #dbeafe;" aria-hidden="true"></span>Ad hoc (1.1)
+      </span>
+      <span class="inline-flex items-center gap-1">
+        <span class="inline-block w-3 h-3 rounded-sm" style="background: #e0e7ff;" aria-hidden="true"></span>Regular (1.2)
+      </span>
+      <span class="inline-flex items-center gap-1">
+        <span class="inline-block w-3 h-3 rounded-sm" style="background: #fee2e2;" aria-hidden="true"></span>Donations (2)
+      </span>
+      <span class="inline-flex items-center gap-1">
+        <span class="inline-block w-3 h-3 rounded-sm" style="background: #fef3c7;" aria-hidden="true"></span>Gifts (3)
+      </span>
+      <span class="inline-flex items-center gap-1">
+        <span class="inline-block w-3 h-3 rounded-sm" style="background: #dcfce7;" aria-hidden="true"></span>Visits (4)
+      </span>
+      <span class="inline-flex items-center gap-1">
+        <span class="inline-block w-3 h-3 rounded-sm" style="background: #f3e8ff;" aria-hidden="true"></span>Overseas (5)
+      </span>
     </div>
   </section>
 
@@ -123,7 +210,7 @@ const tableRows = [...parties].sort(
   import { DEFAULT_WINDOW, WINDOW_LABELS, isWindow } from "@/types/window";
   import type { Window } from "@/types/window";
   import type { PartyIndexRow } from "@/types/party";
-  import { renderSummaryChart, escapeHtml } from "@/lib/client-chart";
+  import { renderSummaryChart, renderCategoryBar, escapeHtml } from "@/lib/client-chart";
 
   const gbp = new Intl.NumberFormat("en-GB", {
     style: "currency",
@@ -188,7 +275,9 @@ const tableRows = [...parties].sort(
   }
 
   const chartRoot = document.querySelector<HTMLElement>("[data-chart]");
-  const chartLabel = document.querySelector<HTMLElement>("[data-active-window-label]");
+  // Two headings now carry window labels — the averages chart and the
+  // category-mix grid. Select all so both update on window change.
+  const chartLabels = document.querySelectorAll<HTMLElement>("[data-active-window-label]");
   if (chartRoot) {
     const chartsByWindow = JSON.parse(chartRoot.dataset.chartJson ?? "{}") as Record<
       string,
@@ -201,7 +290,39 @@ const tableRows = [...parties].sort(
       if (win === chartWin) return;
       chartWin = win;
       renderSummaryChart(chartRoot, chartsByWindow[win] ?? []);
-      if (chartLabel) chartLabel.textContent = WINDOW_LABELS[win];
+      const text = WINDOW_LABELS[win];
+      chartLabels.forEach((el) => {
+        el.textContent = text;
+      });
+    });
+  }
+
+  // --- Per-party category stacked bars ---
+  const catBlock = document.querySelector<HTMLElement>(
+    "[data-party-category-block]",
+  );
+  if (catBlock) {
+    const snapshot = JSON.parse(catBlock.dataset.categoriesJson ?? "{}") as Record<
+      string,
+      Record<string, Record<string, number>>
+    >;
+    const normalisers = JSON.parse(
+      catBlock.dataset.normalisersJson ?? "{}",
+    ) as Record<string, number>;
+    const hosts = catBlock.querySelectorAll<HTMLElement>("[data-catbar]");
+    let catWin: Window = DEFAULT_WINDOW;
+    document.addEventListener("window:change", (event) => {
+      const detail = (event as CustomEvent).detail as { window: string };
+      const win: Window = isWindow(detail.window) ? detail.window : DEFAULT_WINDOW;
+      if (win === catWin) return;
+      catWin = win;
+      const winSnap = snapshot[win] ?? {};
+      const normaliseTo = normalisers[win] ?? 0;
+      hosts.forEach((host) => {
+        const id = host.dataset.catbar ?? "";
+        const slug = id.startsWith("party-") ? id.slice("party-".length) : id;
+        renderCategoryBar(host, winSnap[slug] ?? {}, { normaliseTo });
+      });
     });
   }
 </script>

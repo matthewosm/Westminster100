@@ -27,10 +27,6 @@ const {
       rel="stylesheet"
       href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&display=swap"
     />
-    <link
-      rel="stylesheet"
-      href="https://unpkg.com/@phosphor-icons/web@2.1.1/src/regular/style.css"
-    />
     <noscript>
       <style>
         /* JS off: reveal SSR fallback tables, hide the (empty) Grid.js
@@ -60,7 +56,17 @@ const {
     <header class="border-b" style="border-color: var(--color-border)" data-pagefind-ignore>
       <div class="mx-auto max-w-screen-2xl px-4 py-4 flex items-center justify-between gap-4 flex-wrap">
         <a href="/" class="font-serif text-xl font-semibold no-underline flex items-center gap-2" style="color: var(--color-foreground)">
-          <i class="ph ph-bank" aria-hidden="true" style="font-size: 1.4em; color: var(--color-accent-600)"></i>
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 256 256"
+            width="1.4em"
+            height="1.4em"
+            fill="currentColor"
+            aria-hidden="true"
+            style="color: var(--color-accent-600); flex-shrink: 0"
+          >
+            <path d="M240,208H224V136a8,8,0,0,0-16,0v72H176V136a8,8,0,0,0-16,0v72H136V136a8,8,0,0,0-16,0v72H96V136a8,8,0,0,0-16,0v72H48V136a8,8,0,0,0-16,0v72H16a8,8,0,0,0,0,16H240a8,8,0,0,0,0-16ZM16,104a8,8,0,0,1,4.46-7.17l104-56a7.94,7.94,0,0,1,7.08,0l104,56A8,8,0,0,1,232,112H24A8,8,0,0,1,16,104Z" />
+          </svg>
           Westminster Interests
         </a>
         <nav class="flex gap-4 text-sm">

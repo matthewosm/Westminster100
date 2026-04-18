@@ -51,6 +51,25 @@ const segs = entries();
 const barTotal = segs.reduce((a, s) => a + s.value, 0);
 const denominator = normaliseTo && normaliseTo > 0 ? normaliseTo : barTotal;
 const empty = barTotal <= 0;
+
+// Pre-filter segments to avoid returning null from inside the JSX map,
+// which Astro's compiler mis-parses as a fragment with attributes.
+const visibleSegs = segs
+  .map((s) => ({
+    cat: s.cat,
+    value: s.value,
+    pct: denominator > 0 ? (s.value / denominator) * 100 : 0,
+    colour: CATEGORY_COLOURS[s.cat]?.bg ?? "var(--color-ink-300)",
+    title: `${CATEGORY_LABELS[s.cat] ?? s.cat} — ${formatGbp(s.value)}`,
+  }))
+  .filter((s) => s.pct > 0);
+
+const legendEntries = ORDER.map((cat) => ({
+  cat,
+  colour: CATEGORY_COLOURS[cat]?.bg ?? "var(--color-ink-300)",
+  short: CATEGORY_SHORT[cat] ?? cat,
+  full: CATEGORY_LABELS[cat] ?? cat,
+}));
 ---
 
 <div class="wi-catbar" data-catbar={barId ?? undefined}>
@@ -61,35 +80,27 @@ const empty = barTotal <= 0;
   )}
   <div class="wi-catbar-track" role="img" aria-label={`Category breakdown — ${formatGbp(barTotal)} total`}>
     {empty && <div class="wi-catbar-empty">No category data in this window.</div>}
-    {!empty && segs.map((s) => {
-      const pct = denominator > 0 ? (s.value / denominator) * 100 : 0;
-      if (pct <= 0) return null;
-      const colour = CATEGORY_COLOURS[s.cat]?.bg ?? "var(--color-ink-300)";
-      return (
-        <div
-          class="wi-catbar-seg"
-          style={`width: ${pct}%; background: ${colour};`}
-          data-cat={s.cat}
-          title={`${CATEGORY_LABELS[s.cat] ?? s.cat} — ${formatGbp(s.value)}`}
-        ></div>
-      );
-    })}
+    {!empty && visibleSegs.map((s) => (
+      <div
+        class="wi-catbar-seg"
+        style={`width: ${s.pct}%; background: ${s.colour};`}
+        data-cat={s.cat}
+        title={s.title}
+      ></div>
+    ))}
   </div>
   <div class="wi-catbar-total tabular-nums">{formatGbp(barTotal)}</div>
   {legend && (
     <ul class="wi-catbar-legend">
-      {ORDER.map((cat) => {
-        const colour = CATEGORY_COLOURS[cat]?.bg ?? "var(--color-ink-300)";
-        return (
-          <li>
-            <span class="wi-catbar-swatch" style={`background: ${colour};`} aria-hidden="true"></span>
-            <span class="wi-catbar-swatch-label">
-              {CATEGORY_SHORT[cat] ?? cat}
-              <span class="wi-catbar-swatch-full">· {CATEGORY_LABELS[cat] ?? cat}</span>
-            </span>
-          </li>
-        );
-      })}
+      {legendEntries.map((e) => (
+        <li>
+          <span class="wi-catbar-swatch" style={`background: ${e.colour};`} aria-hidden="true"></span>
+          <span class="wi-catbar-swatch-label">
+            {e.short}
+            <span class="wi-catbar-swatch-full">· {e.full}</span>
+          </span>
+        </li>
+      ))}
     </ul>
   )}
 </div>
