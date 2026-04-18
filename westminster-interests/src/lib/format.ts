@@ -36,3 +36,11 @@ export function formatDate(iso: string | null | undefined): string {
   const d = new Date(iso);
   return isNaN(d.getTime()) ? "—" : UK_DATE.format(d);
 }
+
+/** Truncate a long declaration to a single-line excerpt. */
+export function truncate(text: string | null | undefined, max = 90): string {
+  if (!text) return "";
+  const collapsed = text.replace(/\s+/g, " ").trim();
+  if (collapsed.length <= max) return collapsed;
+  return collapsed.slice(0, max - 1) + "…";
+}

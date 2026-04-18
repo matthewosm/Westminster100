@@ -3,21 +3,36 @@ import { PARTY_SHORT } from "@/consts";
 
 interface Props {
   party: string | null | undefined;
+  /** Canonical slug for /party/[slug]. When provided, the tag renders as a link. */
+  partySlug?: string | null;
+  /** Force a non-linked tag even if partySlug is provided. Useful on the
+   *  party detail page where self-linking adds no value. */
+  noLink?: boolean;
   class?: string;
 }
 
-const { party, class: className } = Astro.props;
+const { party, partySlug, noLink = false, class: className } = Astro.props;
 const tag = party ? (PARTY_SHORT[party] ?? party.slice(0, 3).toUpperCase()) : "—";
 const title = party ?? "Independent / unknown";
+
+const href = !noLink && partySlug ? `/party/${partySlug}` : undefined;
+const classes = [
+  "inline-flex items-center px-1.5 py-0.5 text-xs font-semibold rounded-sm border uppercase tracking-wide",
+  href ? "no-underline hover:underline" : "",
+  className,
+];
+const style =
+  "color: var(--color-muted); border-color: var(--color-border); background: var(--color-surface);";
 ---
 
-<span
-  class:list={[
-    "inline-flex items-center px-1.5 py-0.5 text-xs font-semibold rounded-sm border uppercase tracking-wide",
-    className,
-  ]}
-  style="color: var(--color-muted); border-color: var(--color-border); background: var(--color-surface);"
-  title={title}
->
-  {tag}
-</span>
+{
+  href ? (
+    <a class:list={classes} style={style} href={href} title={title}>
+      {tag}
+    </a>
+  ) : (
+    <span class:list={classes} style={style} title={title}>
+      {tag}
+    </span>
+  )
+}

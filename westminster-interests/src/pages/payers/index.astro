@@ -18,7 +18,8 @@ const sorted = [...payers].sort(
 
 const top10 = sorted.slice(0, 10).map((p) => ({
   label: p.name,
-  value: p.totals[DEFAULT_WINDOW].combined,
+  monetary: p.totals[DEFAULT_WINDOW].monetary,
+  inkind: p.totals[DEFAULT_WINDOW].inkind,
   href: `/payer/${p.id}`,
 }));
 ---

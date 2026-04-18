@@ -19,7 +19,8 @@ const sorted = [...members].sort(
 
 const top10 = sorted.slice(0, 10).map((m) => ({
   label: `${m.name} (${m.party ?? "—"})`,
-  value: m.totals[DEFAULT_WINDOW].combined,
+  monetary: m.totals[DEFAULT_WINDOW].monetary,
+  inkind: m.totals[DEFAULT_WINDOW].inkind,
   href: `/member/${m.mnis_id}`,
 }));
 ---
@@ -73,7 +74,7 @@ const top10 = sorted.slice(0, 10).map((m) => ({
                     <a href={`/member/${m.mnis_id}`}>{m.name}</a>
                   </td>
                   <td>
-                    <PartyTag party={m.party} />
+                    <PartyTag party={m.party} partySlug={m.party_slug} />
                   </td>
                   <td>{m.constituency ?? "—"}</td>
                   <td class="text-right tabular-nums" data-totals="monetary">

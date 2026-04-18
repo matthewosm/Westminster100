@@ -2,6 +2,7 @@
 import BaseLayout from "@/layouts/BaseLayout.astro";
 import WindowSelector from "@/components/WindowSelector.astro";
 import CitationLink from "@/components/CitationLink.astro";
+import PaymentDetails from "@/components/PaymentDetails.astro";
 import AsOfFooter from "@/components/AsOfFooter.astro";
 import { CATEGORY_SHORT } from "@/consts";
 import { formatDate, formatGbp, formatNumber } from "@/lib/format";
@@ -68,6 +69,8 @@ const totalsCards = [
       <thead>
         <tr>
           <th>Date</th>
+          <th>Member</th>
+          <th>Details</th>
           <th>Category</th>
           <th class="text-right">Amount</th>
           <th>Type</th>
@@ -83,6 +86,11 @@ const totalsCards = [
             data-end={p.end_date ?? ""}
           >
             <td class="tabular-nums">{formatDate(p.date)}</td>
+            <td>
+              {p.member_id && <a href={`/member/${p.member_id}`}>{p.member_name}</a>}
+              {!p.member_id && (p.member_name ?? "—")}
+            </td>
+            <td><PaymentDetails summary={p.summary} description={p.description} /></td>
             <td>{CATEGORY_SHORT[p.category] ?? p.category}</td>
             <td class="text-right tabular-nums">{formatGbp(p.amount, true)}</td>
             <td>{p.payment_type}</td>

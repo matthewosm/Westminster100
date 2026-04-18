@@ -3,6 +3,7 @@ import BaseLayout from "@/layouts/BaseLayout.astro";
 import WindowSelector from "@/components/WindowSelector.astro";
 import PartyTag from "@/components/PartyTag.astro";
 import PaymentFlags from "@/components/PaymentFlags.astro";
+import PaymentDetails from "@/components/PaymentDetails.astro";
 import CitationLink from "@/components/CitationLink.astro";
 import SummaryChart from "@/components/SummaryChart.astro";
 import AsOfFooter from "@/components/AsOfFooter.astro";
@@ -54,33 +55,39 @@ const totalsCards = [
   },
 ];
 
-// Top-10 payers per window, ranked by declared amount within that
-// window's payment set. Tables remain authoritative; this is an
-// at-a-glance "who funds this MP" view.
-const payerTotalsByWindow: Record<
-  string,
-  { id: number | null; name: string | null; total: number }[]
-> = {};
+// Top-10 payers per window, split by monetary/in-kind for the stacked
+// chart. Tables remain authoritative.
+type PayerAgg = {
+  id: number | null;
+  name: string | null;
+  monetary: number;
+  inkind: number;
+};
+const payerTotalsByWindow: Record<string, PayerAgg[]> = {};
 for (const win of WINDOWS) {
-  const byPayer = new Map<
-    string,
-    { id: number | null; name: string | null; total: number }
-  >();
+  const byPayer = new Map<string, PayerAgg>();
   for (const p of member.payments) {
     if (!p.payer_name) continue;
     const key = String(p.payer_id ?? p.payer_name);
-    const prev = byPayer.get(key) ?? { id: p.payer_id, name: p.payer_name, total: 0 };
-    prev.total += p.amount;
+    const prev = byPayer.get(key) ?? {
+      id: p.payer_id,
+      name: p.payer_name,
+      monetary: 0,
+      inkind: 0,
+    };
+    if (p.payment_type === "Monetary") prev.monetary += p.amount;
+    else prev.inkind += p.amount;
     byPayer.set(key, prev);
   }
   payerTotalsByWindow[win] = [...byPayer.values()]
-    .sort((a, b) => b.total - a.total)
+    .sort((a, b) => b.monetary + b.inkind - (a.monetary + a.inkind))
     .slice(0, 10);
 }
 
 const topPayerRows = payerTotalsByWindow[activeWindow].map((row) => ({
   label: row.name ?? "Unknown",
-  value: row.total,
+  monetary: row.monetary,
+  inkind: row.inkind,
   href: row.id ? `/payer/${row.id}` : undefined,
 }));
 
@@ -105,7 +112,7 @@ const categories = Object.entries(member.categories);
     <div class="flex-1 min-w-0">
       <h1 class="text-3xl mb-1">{member.name}</h1>
       <p class="flex gap-2 items-center flex-wrap text-sm" style="color: var(--color-muted);">
-        <PartyTag party={member.party} />
+        <PartyTag party={member.party} partySlug={member.party_slug} />
         <span>{member.constituency ?? "—"}</span>
         <span>·</span>
         <span>{member.house}</span>
@@ -199,6 +206,7 @@ const categories = Object.entries(member.categories);
             <th>Date</th>
             <th>Category</th>
             <th>Payer</th>
+            <th>Details</th>
             <th class="text-right">Amount</th>
             <th>Type</th>
             <th>APPG</th>
@@ -228,6 +236,7 @@ const categories = Object.entries(member.categories);
                   </span>
                 )}
               </td>
+              <td><PaymentDetails summary={p.summary} description={p.description} /></td>
               <td class="text-right tabular-nums">{formatGbp(p.amount, true)}</td>
               <td>{p.payment_type}</td>
               <td>

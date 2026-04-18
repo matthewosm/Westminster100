@@ -1,10 +1,23 @@
 ---
 import { formatGbp, formatNumber } from "@/lib/format";
 
+/**
+ * Horizontal-bar summary chart rendered as inline SVG at build time.
+ *
+ * Rows accept either:
+ *   - { label, value }                              — single-colour bar
+ *   - { label, monetary, inkind }                   — stacked two-colour bar
+ *                                                     (monetary + in-kind)
+ *
+ * Stacked mode auto-renders a legend. No chart library, no JS.
+ */
+
 interface ChartRow {
   label: string;
-  value: number;
   href?: string;
+  value?: number;
+  monetary?: number;
+  inkind?: number;
 }
 
 interface Props {
@@ -25,14 +38,24 @@ const {
   class: className,
 } = Astro.props;
 
-const values = rows.map((r) => r.value);
-const peak = Math.max(max ?? 0, ...values, 1); // avoid /0
+const stacked = rows.some(
+  (r) => r.monetary !== undefined || r.inkind !== undefined,
+);
+
+function rowTotal(r: ChartRow): number {
+  if (stacked) return (r.monetary ?? 0) + (r.inkind ?? 0);
+  return r.value ?? 0;
+}
+
+const values = rows.map(rowTotal);
+const peak = Math.max(max ?? 0, ...values, 1);
+
 const barHeight = 18;
 const barGap = 6;
 const totalHeight = rows.length * (barHeight + barGap);
 const chartHeight = totalHeight + 4;
 const labelWidth = 220;
-const valueWidth = 110;
+const valueWidth = 140;
 const trackWidth = 360;
 const svgWidth = labelWidth + trackWidth + valueWidth + 16;
 
@@ -49,19 +72,25 @@ function fmt(v: number) {
         {emptyMessage}
       </p>
     ) : (
-      <svg
-        viewBox={`0 0 ${svgWidth} ${chartHeight}`}
-        role="img"
-        aria-label={title ?? "Summary chart"}
-        class="w-full max-w-3xl"
-        style="height: auto;"
-      >
-        {rows.map((row, i) => {
-          const y = i * (barHeight + barGap);
-          const barX = labelWidth;
-          const barW = (row.value / peak) * trackWidth;
-          const labelNode = row.href ? (
-            <a href={row.href}>
+      <>
+        <svg
+          viewBox={`0 0 ${svgWidth} ${chartHeight}`}
+          role="img"
+          aria-label={title ?? "Summary chart"}
+          class="w-full max-w-3xl"
+          style="height: auto;"
+        >
+          {rows.map((row, i) => {
+            const y = i * (barHeight + barGap);
+            const barX = labelWidth;
+            const total = rowTotal(row);
+            const totalW = (total / peak) * trackWidth;
+            const monetaryValue = stacked ? row.monetary ?? 0 : 0;
+            const inkindValue = stacked ? row.inkind ?? 0 : 0;
+            const monetaryW = stacked ? (monetaryValue / peak) * trackWidth : totalW;
+            const inkindW = stacked ? (inkindValue / peak) * trackWidth : 0;
+
+            const labelContent = (
               <text
                 x={labelWidth - 6}
                 y={y + barHeight / 2 + 4}
@@ -71,48 +100,81 @@ function fmt(v: number) {
               >
                 {row.label}
               </text>
-            </a>
-          ) : (
-            <text
-              x={labelWidth - 6}
-              y={y + barHeight / 2 + 4}
-              text-anchor="end"
-              font-size="12"
-              fill="currentColor"
-            >
-              {row.label}
-            </text>
-          );
-          return (
-            <g>
-              {labelNode}
-              <rect
-                x={barX}
-                y={y}
-                width={trackWidth}
-                height={barHeight}
-                fill="var(--color-ink-100)"
+            );
+            const labelNode = row.href ? (
+              <a href={row.href}>{labelContent}</a>
+            ) : (
+              labelContent
+            );
+
+            return (
+              <g>
+                {labelNode}
+                {/* Track */}
+                <rect
+                  x={barX}
+                  y={y}
+                  width={trackWidth}
+                  height={barHeight}
+                  fill="var(--color-ink-100)"
+                />
+                {/* Monetary segment (or whole bar in single-value mode) */}
+                <rect
+                  x={barX}
+                  y={y}
+                  width={monetaryW}
+                  height={barHeight}
+                  fill="var(--color-accent-600)"
+                >
+                  {stacked && (
+                    <title>Monetary {fmt(monetaryValue)}</title>
+                  )}
+                </rect>
+                {/* In-kind segment — only in stacked mode */}
+                {stacked && (
+                  <rect
+                    x={barX + monetaryW}
+                    y={y}
+                    width={inkindW}
+                    height={barHeight}
+                    fill="var(--color-ink-400)"
+                  >
+                    <title>In kind {fmt(inkindValue)}</title>
+                  </rect>
+                )}
+                <text
+                  x={barX + trackWidth + 6}
+                  y={y + barHeight / 2 + 4}
+                  font-size="12"
+                  fill="currentColor"
+                >
+                  {fmt(total)}
+                </text>
+              </g>
+            );
+          })}
+        </svg>
+        {stacked && (
+          <div class="flex gap-4 text-xs mt-2" style="color: var(--color-muted);">
+            <span class="inline-flex items-center gap-1">
+              <span
+                class="inline-block w-3 h-3 rounded-sm"
+                style="background: var(--color-accent-600);"
+                aria-hidden="true"
               />
-              <rect
-                x={barX}
-                y={y}
-                width={barW}
-                height={barHeight}
-                fill="var(--color-accent-500)"
-                opacity="0.85"
+              Monetary (cash)
+            </span>
+            <span class="inline-flex items-center gap-1">
+              <span
+                class="inline-block w-3 h-3 rounded-sm"
+                style="background: var(--color-ink-400);"
+                aria-hidden="true"
               />
-              <text
-                x={barX + trackWidth + 6}
-                y={y + barHeight / 2 + 4}
-                font-size="12"
-                fill="currentColor"
-              >
-                {fmt(row.value)}
-              </text>
-            </g>
-          );
-        })}
-      </svg>
+              In kind
+            </span>
+          </div>
+        )}
+      </>
     )
   }
 </figure>

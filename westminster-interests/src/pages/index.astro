@@ -28,7 +28,8 @@ const topMembers = [...members]
   .slice(0, 10)
   .map((m) => ({
     label: `${m.name} (${m.party ?? "—"})`,
-    value: m.totals["12m"].combined,
+    monetary: m.totals["12m"].monetary,
+    inkind: m.totals["12m"].inkind,
     href: `/member/${m.mnis_id}`,
   }));
 
@@ -37,7 +38,8 @@ const topPayers = [...payers]
   .slice(0, 10)
   .map((p) => ({
     label: p.name,
-    value: p.totals["12m"].combined,
+    monetary: p.totals["12m"].monetary,
+    inkind: p.totals["12m"].inkind,
     href: `/payer/${p.id}`,
   }));
 ---

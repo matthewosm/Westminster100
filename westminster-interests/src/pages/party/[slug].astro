@@ -51,7 +51,8 @@ const top10 = sortedMembers
   .slice(0, 10)
   .map((m) => ({
     label: m.name,
-    value: m.totals[activeWindow].combined,
+    monetary: m.totals[activeWindow].monetary,
+    inkind: m.totals[activeWindow].inkind,
     href: `/member/${m.mnis_id}`,
   }));
 ---
@@ -62,7 +63,7 @@ const top10 = sortedMembers
 >
   <section class="py-4" data-pagefind-body>
     <h1 class="text-3xl mb-1 flex items-center gap-3">
-      <PartyTag party={party.party} />
+      <PartyTag party={party.party} noLink />
       <span>{party.party}</span>
     </h1>
     <p class="text-sm" style="color: var(--color-muted);">

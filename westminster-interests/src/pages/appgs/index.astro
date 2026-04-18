@@ -21,7 +21,8 @@ const top10 = sorted
   .slice(0, 10)
   .map((a) => ({
     label: a.title,
-    value: a.totals[DEFAULT_WINDOW].combined,
+    monetary: a.totals[DEFAULT_WINDOW].monetary,
+    inkind: a.totals[DEFAULT_WINDOW].inkind,
     href: `/appg/${a.slug}`,
   }));
 ---

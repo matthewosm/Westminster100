@@ -2,6 +2,7 @@
 import BaseLayout from "@/layouts/BaseLayout.astro";
 import WindowSelector from "@/components/WindowSelector.astro";
 import PaymentFlags from "@/components/PaymentFlags.astro";
+import PaymentDetails from "@/components/PaymentDetails.astro";
 import CitationLink from "@/components/CitationLink.astro";
 import SummaryChart from "@/components/SummaryChart.astro";
 import AsOfFooter from "@/components/AsOfFooter.astro";
@@ -42,26 +43,37 @@ for (const p of payer.payments) {
 const categoryLine = [...categories.entries()].sort((a, b) => b[1] - a[1]);
 
 // MP aggregation — payments carry member_id + member_name since the
-// post-Unit-9 payer-dedup fix. Roll up by MP for both the summary chart
-// and the MPs grid.
-type MpRow = { mnis_id: number; name: string; total: number; count: number };
+// post-Unit-9 payer-dedup fix. Roll up by MP, splitting monetary from
+// in-kind so the chart can stack the two.
+type MpRow = {
+  mnis_id: number;
+  name: string;
+  monetary: number;
+  inkind: number;
+  count: number;
+};
 const mpMap = new Map<number, MpRow>();
 for (const p of payer.payments) {
   if (p.member_id == null) continue;
   const existing = mpMap.get(p.member_id) ?? {
     mnis_id: p.member_id,
     name: p.member_name ?? "Unknown",
-    total: 0,
+    monetary: 0,
+    inkind: 0,
     count: 0,
   };
-  existing.total += p.amount;
+  if (p.payment_type === "Monetary") existing.monetary += p.amount;
+  else existing.inkind += p.amount;
   existing.count += 1;
   mpMap.set(p.member_id, existing);
 }
-const mpList = [...mpMap.values()].sort((a, b) => b.total - a.total);
+const mpList = [...mpMap.values()].sort(
+  (a, b) => b.monetary + b.inkind - (a.monetary + a.inkind),
+);
 const topMps = mpList.slice(0, 10).map((m) => ({
   label: m.name,
-  value: m.total,
+  monetary: m.monetary,
+  inkind: m.inkind,
   href: `/member/${m.mnis_id}`,
 }));
 ---
@@ -148,7 +160,7 @@ const topMps = mpList.slice(0, 10).map((m) => ({
           {mpList.map((m) => (
             <tr>
               <td><a href={`/member/${m.mnis_id}`}>{m.name}</a></td>
-              <td class="text-right tabular-nums">{formatGbp(m.total, true)}</td>
+              <td class="text-right tabular-nums">{formatGbp(m.monetary + m.inkind, true)}</td>
               <td class="text-right tabular-nums">{formatNumber(m.count)}</td>
             </tr>
           ))}
@@ -164,6 +176,7 @@ const topMps = mpList.slice(0, 10).map((m) => ({
         <tr>
           <th>Date</th>
           <th>Member</th>
+          <th>Details</th>
           <th>Category</th>
           <th class="text-right">Amount</th>
           <th>Type</th>
@@ -185,6 +198,7 @@ const topMps = mpList.slice(0, 10).map((m) => ({
               {p.member_id && <a href={`/member/${p.member_id}`}>{p.member_name}</a>}
               {!p.member_id && (p.member_name ?? "—")}
             </td>
+            <td><PaymentDetails summary={p.summary} description={p.description} /></td>
             <td>{CATEGORY_SHORT[p.category] ?? p.category}</td>
             <td class="text-right tabular-nums">{formatGbp(p.amount, true)}</td>
             <td>{p.payment_type}</td>

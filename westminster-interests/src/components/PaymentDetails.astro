@@ -1,0 +1,39 @@
+---
+import { truncate } from "@/lib/format";
+
+interface Props {
+  summary: string | null | undefined;
+  description: string | null | undefined;
+  max?: number;
+}
+
+const { summary, description, max = 90 } = Astro.props;
+
+// Prefer the longer field for the excerpt; fall back between the two.
+const candidates = [description, summary].filter(
+  (s): s is string => typeof s === "string" && s.trim().length > 0,
+);
+const full = candidates.length
+  ? candidates.sort((a, b) => b.length - a.length)[0]
+  : "";
+const excerpt = truncate(full, max);
+
+// The title attribute renders the full text verbatim so users can
+// verify declarations against the register.
+---
+
+{
+  excerpt ? (
+    <span
+      class="text-xs whitespace-nowrap overflow-hidden text-ellipsis inline-block max-w-xs align-middle"
+      style="color: var(--color-muted);"
+      title={full}
+    >
+      {excerpt}
+    </span>
+  ) : (
+    <span class="text-xs" style="color: var(--color-muted);">
+      —
+    </span>
+  )
+}

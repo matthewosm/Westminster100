@@ -10,26 +10,52 @@ import type { PartyIndexRow } from "@/types/party";
 import partiesJson from "@/data/index/parties.json";
 
 const parties = partiesJson as unknown as PartyIndexRow[];
-const sorted = [...parties].sort(
-  (a, b) =>
-    b.totals[DEFAULT_WINDOW].combined - a.totals[DEFAULT_WINDOW].combined,
-);
 
-const chartRows = sorted
-  .filter((p) => p.totals[DEFAULT_WINDOW].combined > 0)
+type EnrichedRow = PartyIndexRow & {
+  avgMonetary: number;
+  avgInkind: number;
+  avgCombined: number;
+};
+
+const enriched: EnrichedRow[] = parties.map((p) => {
+  const t = p.totals[DEFAULT_WINDOW];
+  const n = Math.max(p.member_count, 1); // guard against /0 for empty buckets
+  return {
+    ...p,
+    avgMonetary: t.monetary / n,
+    avgInkind: t.inkind / n,
+    avgCombined: t.combined / n,
+  };
+});
+
+// Sort the chart by per-MP average so the chart answers "where does an
+// average member have more declared interests", rather than favouring
+// the biggest party by headcount.
+const chartRows = [...enriched]
+  .filter((p) => p.avgCombined > 0)
+  .sort((a, b) => b.avgCombined - a.avgCombined)
   .slice(0, 10)
   .map((p) => ({
     label: p.party,
-    value: p.totals[DEFAULT_WINDOW].combined,
+    monetary: p.avgMonetary,
+    inkind: p.avgInkind,
     href: `/party/${p.party_slug}`,
   }));
+
+// Table sorted by total value — keeps the "whole register" view intact.
+const tableRows = [...enriched].sort(
+  (a, b) =>
+    b.totals[DEFAULT_WINDOW].combined - a.totals[DEFAULT_WINDOW].combined,
+);
 ---
 
 <BaseLayout title="Parties" description="Party-level aggregates of MPs' declared financial interests.">
   <section class="py-4" data-pagefind-ignore>
     <h1 class="text-3xl mb-2">Parties</h1>
     <p class="text-sm max-w-2xl" style="color: var(--color-muted);">
-      Party-level aggregates of registered interests. Party tags are
+      Party-level aggregates of registered interests. The chart ranks by
+      <em>average £ per MP</em> so headcount doesn't skew the picture.
+      The table carries both totals and averages. Party tags are
       monochrome — the register makes no case for colour-coded analysis.
     </p>
     <div class="mt-4">
@@ -39,7 +65,7 @@ const chartRows = sorted
 
   <section class="py-4" data-pagefind-ignore>
     <h2 class="text-sm font-semibold uppercase tracking-wide" style="color: var(--color-muted);">
-      Top parties — trailing 12 months
+      Top parties by £ per MP — trailing 12 months
     </h2>
     <SummaryChart rows={chartRows} />
   </section>
@@ -50,13 +76,15 @@ const chartRows = sorted
         <tr>
           <th>Party</th>
           <th class="text-right">Members</th>
-          <th class="text-right">Monetary (12m)</th>
-          <th class="text-right">In kind (12m)</th>
-          <th class="text-right">Payments (12m)</th>
+          <th class="text-right">Total monetary</th>
+          <th class="text-right">Total in kind</th>
+          <th class="text-right">Avg £/MP (cash)</th>
+          <th class="text-right">Avg £/MP (in kind)</th>
+          <th class="text-right">Avg £/MP (total)</th>
         </tr>
       </thead>
       <tbody>
-        {sorted.map((p) => {
+        {tableRows.map((p) => {
           const t = p.totals[DEFAULT_WINDOW];
           return (
             <tr>
@@ -64,7 +92,9 @@ const chartRows = sorted
               <td class="text-right tabular-nums">{formatNumber(p.member_count)}</td>
               <td class="text-right tabular-nums">{formatGbp(t.monetary)}</td>
               <td class="text-right tabular-nums">{formatGbp(t.inkind)}</td>
-              <td class="text-right tabular-nums">{formatNumber(t.payment_count)}</td>
+              <td class="text-right tabular-nums">{formatGbp(p.avgMonetary)}</td>
+              <td class="text-right tabular-nums">{formatGbp(p.avgInkind)}</td>
+              <td class="text-right tabular-nums">{formatGbp(p.avgCombined)}</td>
             </tr>
           );
         })}
