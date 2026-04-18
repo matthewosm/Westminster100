@@ -123,6 +123,9 @@ def _load_members(conn: sqlite3.Connection) -> dict[int, dict]:
 
 
 def _load_payers(conn: sqlite3.Connection) -> dict[int, dict]:
+    """Load raw payer records. Kept for confidential detection only —
+    the canonical payer model comes from _load_master_payers().
+    """
     rows = conn.execute(
         """
         SELECT id, name, address, nature_of_business, is_private_individual,
@@ -131,6 +134,54 @@ def _load_payers(conn: sqlite3.Connection) -> dict[int, dict]:
         """
     ).fetchall()
     return {r["id"]: dict(r) for r in rows}
+
+
+def _load_master_payers(
+    conn: sqlite3.Connection,
+) -> tuple[dict[int, dict], dict[int, int]]:
+    """Return (master_id → master record) and (raw_payer_id → master_id).
+
+    When rebuild_master.py hasn't run, falls back to emitting one master
+    record per raw payer so the downstream code path stays uniform.
+    """
+    exists = conn.execute(
+        "SELECT COUNT(*) FROM sqlite_master WHERE type='table' AND name='payers_master'"
+    ).fetchone()[0]
+
+    if exists:
+        masters = {
+            r["id"]: dict(r)
+            for r in conn.execute(
+                """
+                SELECT id, canonical_name, address, nature_of_business,
+                       is_private_individual, donor_status
+                FROM payers_master
+                """
+            ).fetchall()
+        }
+        raw_to_master = {
+            r["payer_id"]: r["master_id"]
+            for r in conn.execute(
+                "SELECT payer_id, master_id FROM payers_master_map"
+            ).fetchall()
+        }
+        return masters, raw_to_master
+
+    # Fallback: treat each raw payer as its own master.
+    raw_payers = _load_payers(conn)
+    masters = {
+        pid: {
+            "id": pid,
+            "canonical_name": p["name"],
+            "address": p["address"],
+            "nature_of_business": p["nature_of_business"],
+            "is_private_individual": p["is_private_individual"],
+            "donor_status": p["donor_status"],
+        }
+        for pid, p in raw_payers.items()
+    }
+    raw_to_master = {pid: pid for pid in raw_payers}
+    return masters, raw_to_master
 
 
 def _load_appgs(conn: sqlite3.Connection) -> dict[str, dict]:
@@ -192,8 +243,13 @@ def _load_payments(conn: sqlite3.Connection) -> list[dict]:
 # ---------------------------------------------------------------------------
 
 
-def _derive_payment_flags(row: dict, payers: dict[int, dict]) -> dict:
-    """Compute source_url, effective_date, override/confidential flags."""
+def _derive_payment_flags(
+    row: dict,
+    raw_payers: dict[int, dict],
+    master_payers: dict[int, dict],
+    raw_to_master: dict[int, int],
+) -> dict:
+    """Compute source_url, master-payer resolution, and flags."""
     mnis_id = row["member_id"]
     category = row["category"]
     category_id = CATEGORY_URL_ID.get(category)
@@ -211,14 +267,26 @@ def _derive_payment_flags(row: dict, payers: dict[int, dict]) -> dict:
         category in ("1.1", "1.2") and direct is not None and direct != parent
     )
 
-    # Confidential payer: resolved payer name starts with "Confidential".
-    payer = payers.get(row["resolved_payer_id"]) if row["resolved_payer_id"] else None
-    is_confidential = _is_confidential_payer_name(payer["name"] if payer else None)
+    raw_payer_id = row["resolved_payer_id"]
+    master_id = raw_to_master.get(raw_payer_id) if raw_payer_id is not None else None
+    master = master_payers.get(master_id) if master_id is not None else None
+
+    # Confidential detection: check both the raw payer name (the declared
+    # form) AND the master canonical name, since the dedup pass may have
+    # picked a non-"Confidential" canonical name for a mixed group.
+    raw_payer = raw_payers.get(raw_payer_id) if raw_payer_id is not None else None
+    is_confidential = _is_confidential_payer_name(
+        raw_payer["name"] if raw_payer else None
+    ) or _is_confidential_payer_name(
+        master["canonical_name"] if master else None
+    )
 
     return {
         "source_url": source_url,
         "is_ultimate_payer_override": is_override,
         "is_confidential_payer": is_confidential,
+        "master_payer_id": master_id,
+        "master_payer_name": master["canonical_name"] if master else None,
     }
 
 
@@ -317,18 +385,39 @@ def _write_json(path: Path, obj: Any) -> None:
         fh.write("\n")
 
 
+def _clean_tree(out_dir: Path) -> None:
+    """Remove prior-build artefacts so stale entity files don't linger
+    across payer-dedup / rename / deletion scenarios. Idempotent.
+    """
+    import shutil
+
+    for sub in ("members", "payers", "appgs", "index"):
+        target = out_dir / sub
+        if target.exists():
+            shutil.rmtree(target)
+
+
 def _payment_json(row: dict, appgs: dict[str, dict]) -> dict:
-    """Shape a payment row for inclusion in per-entity JSON."""
+    """Shape a payment row for inclusion in per-entity JSON.
+
+    payer_id and payer_name point at the CANONICAL (master) payer, so
+    links collapse variants together. member_id + member_name ship
+    alongside so payer-side pages can render MP lists without a second
+    pass over the member tree.
+    """
     appg_slug = row["appg_slug"]
     appg_name = None
     if appg_slug and appg_slug in appgs:
         appg_name = appgs[appg_slug]["title"]
+    derived = row["_derived"]
     return {
         "id": row["id"],
         "date": (row["payment_date"] or row["registered"]),
         "category": row["category"],
-        "payer_id": row["resolved_payer_id"],
-        "payer_name": row["payer_name"],
+        "member_id": row["member_id"],
+        "member_name": row["member_name"],
+        "payer_id": derived["master_payer_id"],
+        "payer_name": derived["master_payer_name"] or row["payer_name"],
         "amount": float(row["amount"] or 0),
         "payment_type": row["payment_type"],
         "is_regular": bool(row["is_regular"]),
@@ -338,11 +427,11 @@ def _payment_json(row: dict, appgs: dict[str, dict]) -> dict:
         "is_sole_beneficiary": bool(row["is_sole_beneficiary"]),
         "is_donated": bool(row["is_donated"]),
         "donated_to": row["donated_to"],
-        "is_ultimate_payer_override": row["_derived"]["is_ultimate_payer_override"],
-        "is_confidential_payer": row["_derived"]["is_confidential_payer"],
+        "is_ultimate_payer_override": derived["is_ultimate_payer_override"],
+        "is_confidential_payer": derived["is_confidential_payer"],
         "appg_slug": appg_slug,
         "appg_name": appg_name,
-        "source_url": row["_derived"]["source_url"],
+        "source_url": derived["source_url"],
         "summary": row["summary"],
         "description": row["description"],
     }
@@ -370,27 +459,34 @@ def build_tree(
     out_dir: Path,
     as_of_date: date,
 ) -> dict:
+    _clean_tree(out_dir)
+
     window_ranges = list(windows_mod.iter_windows(as_of_date))
 
     members = _load_members(conn)
-    payers = _load_payers(conn)
+    raw_payers = _load_payers(conn)
+    master_payers, raw_to_master = _load_master_payers(conn)
     appgs = _load_appgs(conn)
     memberships_by_slug = _load_appg_memberships(conn)
     raw_payments = _load_payments(conn)
 
     # Precompute derived flags per payment.
     for row in raw_payments:
-        row["_derived"] = _derive_payment_flags(row, payers)
+        row["_derived"] = _derive_payment_flags(
+            row, raw_payers, master_payers, raw_to_master
+        )
 
-    # Per-MP aggregation.
+    # Per-entity aggregation — payer buckets now keyed by MASTER id so
+    # "GB News" and "GB News Ltd" collapse into one canonical page.
     per_member_payments: dict[int, list[dict]] = defaultdict(list)
     per_payer_payments: dict[int, list[dict]] = defaultdict(list)
     per_appg_payments: dict[str, list[dict]] = defaultdict(list)
 
     for row in raw_payments:
         per_member_payments[row["member_id"]].append(row)
-        if row["resolved_payer_id"] is not None:
-            per_payer_payments[row["resolved_payer_id"]].append(row)
+        master_id = row["_derived"]["master_payer_id"]
+        if master_id is not None:
+            per_payer_payments[master_id].append(row)
         if row["appg_slug"]:
             per_appg_payments[row["appg_slug"]].append(row)
 
@@ -469,15 +565,22 @@ def build_tree(
     _write_json(out_dir / "index" / "members.json", member_index)
 
     # ----- Payer JSON files + index -----
+    # Keyed by master (canonical) payer id. Raw payer variants are
+    # collapsed via raw_to_master in _derive_payment_flags.
     payer_index: list[dict] = []
-    for payer_id, payer in payers.items():
-        if _is_confidential_payer_name(payer["name"]):
+    for master_id, master in master_payers.items():
+        if _is_confidential_payer_name(master["canonical_name"]):
             continue
         rows = sorted(
-            per_payer_payments.get(payer_id, []),
+            per_payer_payments.get(master_id, []),
             key=lambda r: (r["payment_date"] or r["registered"] or ""),
             reverse=True,
         )
+        # Skip master records that have no payments attributed — they
+        # exist in the master table but ended up with all rows
+        # consolidated to a different master.
+        if not rows:
+            continue
         totals = _new_totals_by_window(window_ranges)
         mp_tracker: dict[str, set] = {w.key: set() for w in window_ranges}
         donor_tracker: dict[str, set] = {w.key: set() for w in window_ranges}
@@ -492,23 +595,23 @@ def build_tree(
             bucket["mp_count"] = len(mp_tracker[key])
 
         doc = {
-            "id": payer_id,
-            "name": payer["name"],
-            "address": payer["address"],
-            "nature_of_business": payer["nature_of_business"],
-            "donor_status": payer["donor_status"],
-            "is_private_individual": bool(payer["is_private_individual"]),
+            "id": master_id,
+            "name": master["canonical_name"],
+            "address": master["address"],
+            "nature_of_business": master["nature_of_business"],
+            "donor_status": master["donor_status"],
+            "is_private_individual": bool(master["is_private_individual"]),
             "totals": totals,
             "payments": [_payment_json(r, appgs) for r in rows],
         }
-        _write_json(out_dir / "payers" / f"{payer_id}.json", doc)
+        _write_json(out_dir / "payers" / f"{master_id}.json", doc)
 
         payer_index.append(
             {
-                "id": payer_id,
-                "name": payer["name"],
-                "donor_status": payer["donor_status"],
-                "is_private_individual": bool(payer["is_private_individual"]),
+                "id": master_id,
+                "name": master["canonical_name"],
+                "donor_status": master["donor_status"],
+                "is_private_individual": bool(master["is_private_individual"]),
                 "totals": totals,
             }
         )

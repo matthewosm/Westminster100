@@ -37,6 +37,11 @@ manual_merges = [
     ['taiwan ministry of foreign affairs', 'taiwanese ministry of foreign affairs',
      'taiwans ministry of foreign affairs', 'ministry of foreign affairs taiwan'],
 
+    # GB News variants — the normaliser doesn't collapse "Ltd" suffixes
+    # and there's no legitimate private-individual / company split for
+    # this name, so merge all forms into one canonical entity.
+    ['gb news', 'gb news ltd'],
+
     # Typos
     ['armed force parliamentary scheme', 'armed forces parliamentary scheme'],
     ['communication workers union', 'communications workers union'],

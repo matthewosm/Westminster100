@@ -3,6 +3,7 @@ import BaseLayout from "@/layouts/BaseLayout.astro";
 import WindowSelector from "@/components/WindowSelector.astro";
 import PaymentFlags from "@/components/PaymentFlags.astro";
 import CitationLink from "@/components/CitationLink.astro";
+import SummaryChart from "@/components/SummaryChart.astro";
 import AsOfFooter from "@/components/AsOfFooter.astro";
 import { CATEGORY_SHORT } from "@/consts";
 import { formatDate, formatGbp, formatNumber } from "@/lib/format";
@@ -40,10 +41,29 @@ for (const p of payer.payments) {
 }
 const categoryLine = [...categories.entries()].sort((a, b) => b[1] - a[1]);
 
-// Top-MPs chart: payment rows don't carry member_id (the JSON tree
-// groups payments under the payer's file). A per-window MP chart would
-// need a second pass joining against members.json — deferring to avoid
-// re-walking 1.5k members × 1.6k payers. Tables remain authoritative.
+// MP aggregation — payments carry member_id + member_name since the
+// post-Unit-9 payer-dedup fix. Roll up by MP for both the summary chart
+// and the MPs grid.
+type MpRow = { mnis_id: number; name: string; total: number; count: number };
+const mpMap = new Map<number, MpRow>();
+for (const p of payer.payments) {
+  if (p.member_id == null) continue;
+  const existing = mpMap.get(p.member_id) ?? {
+    mnis_id: p.member_id,
+    name: p.member_name ?? "Unknown",
+    total: 0,
+    count: 0,
+  };
+  existing.total += p.amount;
+  existing.count += 1;
+  mpMap.set(p.member_id, existing);
+}
+const mpList = [...mpMap.values()].sort((a, b) => b.total - a.total);
+const topMps = mpList.slice(0, 10).map((m) => ({
+  label: m.name,
+  value: m.total,
+  href: `/member/${m.mnis_id}`,
+}));
 ---
 
 <BaseLayout
@@ -104,12 +124,46 @@ const categoryLine = [...categories.entries()].sort((a, b) => b[1] - a[1]);
     </section>
   )}
 
+  {mpList.length > 0 && (
+    <section class="py-6">
+      <h2 class="text-sm font-semibold uppercase tracking-wide mb-2" style="color: var(--color-muted);">
+        Top MPs funded — trailing 12 months
+      </h2>
+      <SummaryChart rows={topMps} />
+    </section>
+  )}
+
+  {mpList.length > 0 && (
+    <section class="py-6">
+      <h2 class="text-xl mb-3">MPs funded ({mpList.length})</h2>
+      <table class="w-full text-sm">
+        <thead>
+          <tr>
+            <th>Member</th>
+            <th class="text-right">Total received</th>
+            <th class="text-right">Payments</th>
+          </tr>
+        </thead>
+        <tbody>
+          {mpList.map((m) => (
+            <tr>
+              <td><a href={`/member/${m.mnis_id}`}>{m.name}</a></td>
+              <td class="text-right tabular-nums">{formatGbp(m.total, true)}</td>
+              <td class="text-right tabular-nums">{formatNumber(m.count)}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </section>
+  )}
+
   <section class="py-6">
     <h2 class="text-xl mb-3">Registered payments</h2>
     <table class="w-full text-sm" data-payments-table>
       <thead>
         <tr>
           <th>Date</th>
+          <th>Member</th>
           <th>Category</th>
           <th class="text-right">Amount</th>
           <th>Type</th>
@@ -127,6 +181,10 @@ const categoryLine = [...categories.entries()].sort((a, b) => b[1] - a[1]);
             data-end={p.end_date ?? ""}
           >
             <td class="tabular-nums">{formatDate(p.date)}</td>
+            <td>
+              {p.member_id && <a href={`/member/${p.member_id}`}>{p.member_name}</a>}
+              {!p.member_id && (p.member_name ?? "—")}
+            </td>
             <td>{CATEGORY_SHORT[p.category] ?? p.category}</td>
             <td class="text-right tabular-nums">{formatGbp(p.amount, true)}</td>
             <td>{p.payment_type}</td>
