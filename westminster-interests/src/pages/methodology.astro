@@ -1,0 +1,174 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { formatDate } from "@/lib/format";
+import type { Meta, BuildWarnings } from "@/types/meta";
+
+import metaJson from "@/data/meta.json";
+import warningsJson from "@/data/build-warnings.json";
+
+const meta = metaJson as unknown as Meta;
+const warnings = warningsJson as unknown as BuildWarnings;
+---
+
+<BaseLayout
+  title="Methodology"
+  description="How Westminster Interests sources, processes, and presents MPs' registered financial interests."
+>
+  <article class="prose-like max-w-3xl py-6" data-pagefind-body>
+    <h1 class="text-3xl mb-2">Methodology</h1>
+    <p class="text-sm" style="color: var(--color-muted)">
+      Data as of <time datetime={meta.as_of_date}>{formatDate(meta.as_of_date)}</time>.
+    </p>
+
+    <h2 class="text-xl mt-8 mb-2">Sources</h2>
+    <ul class="list-disc pl-6 space-y-1">
+      <li>
+        <a href="https://interests.parliament.uk/" target="_blank" rel="noopener">
+          MPs' Register of Financial Interests ↗
+        </a>
+        — the Parliamentary register. All declared payments, gifts,
+        hospitality, and sponsorships flow from this source via the
+        Published Interests CSVs.
+      </li>
+      <li>
+        <a
+          href="https://pages.mysociety.org/appg_membership"
+          target="_blank"
+          rel="noopener"
+        >
+          mySociety's APPG dataset ↗
+        </a>
+        — canonical names, officers, members, and registration pages for
+        every All-Party Parliamentary Group. We filter to UK-Parliament
+        groups; devolved assemblies are out of scope.
+      </li>
+    </ul>
+
+    <h2 class="text-xl mt-8 mb-2">Reporting windows</h2>
+    <p>
+      Every page offers six date windows. Totals and payment lists update
+      client-side when you switch windows; the URL preserves your choice.
+    </p>
+    <ul class="list-disc pl-6 space-y-1">
+      <li>
+        <strong>Trailing 12 months</strong> (default) — the 12 months ending
+        at the "as of" date above.
+      </li>
+      <li>
+        <strong>Year to date</strong> — 1 January of the current year through
+        the "as of" date.
+      </li>
+      <li><strong>2025</strong>, <strong>2024</strong> — full calendar years.</li>
+      <li>
+        <strong>Since 2024 election</strong> — 4 July 2024 onwards. Includes
+        payments dated the election day itself.
+      </li>
+      <li>
+        <strong>All time</strong> — every received payment in the register.
+      </li>
+    </ul>
+
+    <h2 class="text-xl mt-8 mb-2">Monetary vs in-kind</h2>
+    <p>
+      Monetary payments are cash received (salaries, fees, donations). In-kind
+      payments are non-cash benefits (gifts, hospitality, travel). Both are
+      declared at their registered value. Totals show them separately and as
+      a combined figure; individual payment rows identify the type.
+    </p>
+
+    <h2 class="text-xl mt-8 mb-2">Pro-rata for regular payments</h2>
+    <p>
+      Regular payments (salaries, retainers) list a period rate and a start
+      date. For each window we apportion the payment by the number of days
+      its active range overlaps the window, divided by the period length
+      (365.25 days for yearly, 91.3125 for quarterly, 30.4375 for monthly,
+      7 for weekly). Undated retainers fall back to the register-entry date
+      as the earliest effective start.
+    </p>
+
+    <h2 class="text-xl mt-8 mb-2">Caveats</h2>
+    <ul class="list-disc pl-6 space-y-1">
+      <li>
+        <strong>Undated donations.</strong> Some Category 2 donations have no
+        received date; we attribute them using the register-entry date as a
+        fallback.
+      </li>
+      <li>
+        <strong>Payer deduplication.</strong> The same funder often appears
+        with slightly different names or addresses. A canonicalisation step
+        collapses variants; the canonical name is shown on payer pages and
+        the variants remain searchable.
+      </li>
+      <li>
+        <strong>Shared-benefit payments.</strong> Some hospitality rows list
+        the MP as not the sole beneficiary (staff, guests). The full value
+        appears here but may overstate the MP's personal benefit; rows are
+        badged "Shared".
+      </li>
+      <li>
+        <strong>Donated-onwards payments.</strong> An MP may receive and
+        donate on (to charity or party branch). These rows are not visually
+        separated — the full payment is shown as declared, regardless of
+        eventual destination. The register discloses both facts; we
+        preserve the declared amount.
+      </li>
+      <li>
+        <strong>Confidential payers.</strong> A small number of donations
+        come from a confidential source (permitted under the Code of
+        Conduct, generally for safety reasons). These are aggregated on
+        <a href="/payer/confidential">the confidential-payer page</a>;
+        individual payer pages are not generated for them.
+      </li>
+      <li>
+        <strong>Category 1.2 per-period amounts.</strong> Retainers are
+        declared as "£X per period" — the period rate shown on payment rows
+        is the MP's declared rate, not the pro-rata attribution to any one
+        window.
+      </li>
+      <li>
+        <strong>Multi-APPG free-text strings.</strong> One payment may
+        declare support for multiple APPGs in a single free-text field. Our
+        canonicalisation picks the first named group; the register retains
+        both.
+      </li>
+    </ul>
+
+    <h2 class="text-xl mt-8 mb-2">APPG canonicalisation</h2>
+    <p>
+      APPG references in payment rows are free text. We resolve them to the
+      canonical mySociety register entries via a hand-maintained aliases
+      table. Unresolved strings appear below and are fixed iteratively.
+    </p>
+    {
+      warnings.unmapped_appgs.length === 0 ? (
+        <p class="text-sm" style="color: var(--color-muted);">
+          All APPG references resolved to the canonical register.
+        </p>
+      ) : (
+        <>
+          <p class="text-sm" style="color: var(--color-muted);">
+            {warnings.unmapped_appgs.length} unresolved free-text strings:
+          </p>
+          <ul class="list-disc pl-6 text-sm">
+            {warnings.unmapped_appgs.map((s) => <li>{s}</li>)}
+          </ul>
+        </>
+      )
+    }
+
+    <h2 class="text-xl mt-8 mb-2">Source links</h2>
+    <p>
+      Every payment row carries a link (↗) to the MP's registered interests
+      page on parliament.uk, filtered to the relevant category. Parliament
+      does not expose row-level anchors; the link lands on the category
+      view containing the payment.
+    </p>
+
+    <h2 class="text-xl mt-8 mb-2">Data freshness</h2>
+    <p>
+      Built at <time datetime={meta.build_timestamp}>{formatDate(meta.build_timestamp)}</time>{" "}
+      from a snapshot of the register. Rebuild cadence is manual; check the
+      "as of" stamp in page footers for the current snapshot date.
+    </p>
+  </article>
+</BaseLayout>

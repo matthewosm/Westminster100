@@ -1,25 +1,123 @@
 ---
 import BaseLayout from "@/layouts/BaseLayout.astro";
+import AsOfFooter from "@/components/AsOfFooter.astro";
+import SummaryChart from "@/components/SummaryChart.astro";
+import { formatGbp, formatNumber } from "@/lib/format";
+import type { Meta } from "@/types/meta";
+import type { MemberIndexRow } from "@/types/member";
+import type { PayerIndexRow } from "@/types/payer";
+
+import metaJson from "@/data/meta.json";
+import membersIndex from "@/data/index/members.json";
+import payersIndex from "@/data/index/payers.json";
+
+const meta = metaJson as unknown as Meta;
+const members = membersIndex as unknown as MemberIndexRow[];
+const payers = payersIndex as unknown as PayerIndexRow[];
+
+const totalDeclared12m = members.reduce(
+  (acc, m) => acc + m.totals["12m"].combined,
+  0,
+);
+const earningMembers12m = members.filter(
+  (m) => m.totals["12m"].combined > 0,
+).length;
+
+const topMembers = [...members]
+  .sort((a, b) => b.totals["12m"].combined - a.totals["12m"].combined)
+  .slice(0, 10)
+  .map((m) => ({
+    label: `${m.name} (${m.party ?? "—"})`,
+    value: m.totals["12m"].combined,
+    href: `/member/${m.mnis_id}`,
+  }));
+
+const topPayers = [...payers]
+  .sort((a, b) => b.totals["12m"].combined - a.totals["12m"].combined)
+  .slice(0, 10)
+  .map((p) => ({
+    label: p.name,
+    value: p.totals["12m"].combined,
+    href: `/payer/${p.id}`,
+  }));
 ---
 
 <BaseLayout title="Home">
-  <section class="py-10">
-    <h1 class="text-4xl mb-4">Westminster Interests</h1>
-    <p class="text-lg" style="color: var(--color-muted)">
-      UK MPs' declared financial interests, as registered with Parliament.
-      Neutral, citable, full register.
+  <section class="py-8">
+    <h1 class="text-4xl mb-3">Westminster Interests</h1>
+    <p class="text-lg max-w-2xl" style="color: var(--color-muted)">
+      UK MPs' declared financial interests, as registered with Parliament —
+      neutral, citable, full register.
     </p>
-    <p class="mt-8" style="color: var(--color-muted)">
-      Scaffold landing page — content arrives in Unit 7.
-    </p>
-    <nav class="mt-6 flex gap-3 text-sm">
-      <a href="/methodology">Methodology</a>
-      <span style="color: var(--color-border)">·</span>
-      <a href="/members">Members</a>
-      <span style="color: var(--color-border)">·</span>
-      <a href="/payers">Payers</a>
-      <span style="color: var(--color-border)">·</span>
-      <a href="/appgs">APPGs</a>
-    </nav>
   </section>
+
+  <section class="grid gap-4 md:grid-cols-3 py-6">
+    <div
+      class="border rounded-md p-4"
+      style="border-color: var(--color-border); background: var(--color-surface);"
+    >
+      <div class="text-xs uppercase tracking-wide" style="color: var(--color-muted)">
+        Declared value — last 12 months
+      </div>
+      <div class="text-3xl font-serif mt-1">{formatGbp(totalDeclared12m)}</div>
+    </div>
+    <div
+      class="border rounded-md p-4"
+      style="border-color: var(--color-border); background: var(--color-surface);"
+    >
+      <div class="text-xs uppercase tracking-wide" style="color: var(--color-muted)">
+        Members with registered interests
+      </div>
+      <div class="text-3xl font-serif mt-1">
+        {formatNumber(earningMembers12m)}
+        <span class="text-base ml-1" style="color: var(--color-muted);">
+          of {formatNumber(meta.counts.members)}
+        </span>
+      </div>
+    </div>
+    <div
+      class="border rounded-md p-4"
+      style="border-color: var(--color-border); background: var(--color-surface);"
+    >
+      <div class="text-xs uppercase tracking-wide" style="color: var(--color-muted)">
+        Registered payers
+      </div>
+      <div class="text-3xl font-serif mt-1">
+        {formatNumber(meta.counts.payers_with_pages)}
+      </div>
+    </div>
+  </section>
+
+  <section class="py-6 grid gap-8 md:grid-cols-2">
+    <div>
+      <h2 class="text-xl mb-2">Top members, trailing 12 months</h2>
+      <SummaryChart rows={topMembers} title="" />
+      <a href="/members" class="text-sm">View full members register →</a>
+    </div>
+    <div>
+      <h2 class="text-xl mb-2">Top payers, trailing 12 months</h2>
+      <SummaryChart rows={topPayers} title="" />
+      <a href="/payers" class="text-sm">View full payers register →</a>
+    </div>
+  </section>
+
+  <section class="py-8">
+    <h2 class="text-xl mb-3">Browse by</h2>
+    <ul class="grid gap-2 md:grid-cols-4 text-sm">
+      <li>
+        <a href="/members">Members</a>
+      </li>
+      <li>
+        <a href="/payers">Payers</a>
+      </li>
+      <li>
+        <a href="/parties">Parties</a>
+      </li>
+      <li>
+        <a href="/appgs">All-Party Parliamentary Groups</a>
+      </li>
+    </ul>
+  </section>
+
+  <AsOfFooter />
 </BaseLayout>
