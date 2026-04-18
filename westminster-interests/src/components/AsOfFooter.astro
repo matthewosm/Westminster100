@@ -1,0 +1,19 @@
+---
+import type { Meta } from "@/types/meta";
+import meta from "@/data/meta.json";
+import { formatDate } from "@/lib/format";
+
+interface Props {
+  window?: keyof Meta["as_of_dates"];
+}
+
+const m = meta as unknown as Meta;
+const { window } = Astro.props;
+const displayDate = window ? m.as_of_dates[window] : m.as_of_date;
+---
+
+<p class="text-xs mt-4" style="color: var(--color-muted)">
+  Data as of <time datetime={displayDate}>{formatDate(displayDate)}</time>.{" "}
+  See <a href="/methodology">methodology</a> for window definitions, pro-rata
+  rules, and caveats.
+</p>

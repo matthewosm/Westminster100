@@ -1,0 +1,118 @@
+---
+import { formatGbp, formatNumber } from "@/lib/format";
+
+interface ChartRow {
+  label: string;
+  value: number;
+  href?: string;
+}
+
+interface Props {
+  rows: ChartRow[];
+  max?: number;
+  unit?: "currency" | "number";
+  title?: string;
+  emptyMessage?: string;
+  class?: string;
+}
+
+const {
+  rows,
+  max,
+  unit = "currency",
+  title,
+  emptyMessage = "No data in the selected window.",
+  class: className,
+} = Astro.props;
+
+const values = rows.map((r) => r.value);
+const peak = Math.max(max ?? 0, ...values, 1); // avoid /0
+const barHeight = 18;
+const barGap = 6;
+const totalHeight = rows.length * (barHeight + barGap);
+const chartHeight = totalHeight + 4;
+const labelWidth = 220;
+const valueWidth = 110;
+const trackWidth = 360;
+const svgWidth = labelWidth + trackWidth + valueWidth + 16;
+
+function fmt(v: number) {
+  return unit === "currency" ? formatGbp(v) : formatNumber(v);
+}
+---
+
+<figure class:list={["my-4", className]}>
+  {title && <figcaption class="text-sm font-semibold mb-2">{title}</figcaption>}
+  {
+    rows.length === 0 ? (
+      <p class="text-sm" style="color: var(--color-muted);">
+        {emptyMessage}
+      </p>
+    ) : (
+      <svg
+        viewBox={`0 0 ${svgWidth} ${chartHeight}`}
+        role="img"
+        aria-label={title ?? "Summary chart"}
+        class="w-full max-w-3xl"
+        style="height: auto;"
+      >
+        {rows.map((row, i) => {
+          const y = i * (barHeight + barGap);
+          const barX = labelWidth;
+          const barW = (row.value / peak) * trackWidth;
+          const labelNode = row.href ? (
+            <a href={row.href}>
+              <text
+                x={labelWidth - 6}
+                y={y + barHeight / 2 + 4}
+                text-anchor="end"
+                font-size="12"
+                fill="currentColor"
+              >
+                {row.label}
+              </text>
+            </a>
+          ) : (
+            <text
+              x={labelWidth - 6}
+              y={y + barHeight / 2 + 4}
+              text-anchor="end"
+              font-size="12"
+              fill="currentColor"
+            >
+              {row.label}
+            </text>
+          );
+          return (
+            <g>
+              {labelNode}
+              <rect
+                x={barX}
+                y={y}
+                width={trackWidth}
+                height={barHeight}
+                fill="var(--color-ink-100)"
+              />
+              <rect
+                x={barX}
+                y={y}
+                width={barW}
+                height={barHeight}
+                fill="var(--color-accent-500)"
+                opacity="0.85"
+              />
+              <text
+                x={barX + trackWidth + 6}
+                y={y + barHeight / 2 + 4}
+                font-size="12"
+                fill="currentColor"
+              >
+                {fmt(row.value)}
+              </text>
+            </g>
+          );
+        })}
+      </svg>
+    )
+  }
+</figure>

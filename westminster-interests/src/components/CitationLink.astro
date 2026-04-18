@@ -1,0 +1,27 @@
+---
+interface Props {
+  href: string | null | undefined;
+  label?: string;
+  class?: string;
+}
+
+const { href, label = "source", class: className } = Astro.props;
+---
+
+{
+  href ? (
+    <a
+      href={href}
+      target="_blank"
+      rel="noopener"
+      class:list={["text-xs no-underline hover:underline", className]}
+      title="Opens the parliament.uk register entry in a new tab."
+    >
+      {label} <span aria-hidden="true">↗</span>
+    </a>
+  ) : (
+    <span class:list={["text-xs", className]} style="color: var(--color-muted);" title="No source URL available.">
+      —
+    </span>
+  )
+}

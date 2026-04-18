@@ -1,0 +1,92 @@
+---
+import { WINDOWS, WINDOW_LABELS, DEFAULT_WINDOW } from "@/types/window";
+
+interface Props {
+  class?: string;
+}
+
+const { class: className } = Astro.props;
+---
+
+<div
+  class:list={["wi-window-selector flex flex-wrap gap-1", className]}
+  data-default={DEFAULT_WINDOW}
+  role="group"
+  aria-label="Select reporting window"
+>
+  {
+    WINDOWS.map((key) => (
+      <button
+        type="button"
+        class="px-2 py-1 text-xs border rounded-sm no-underline"
+        style="border-color: var(--color-border); background: var(--color-surface); color: var(--color-foreground);"
+        data-window={key}
+        aria-pressed="false"
+      >
+        {WINDOW_LABELS[key]}
+      </button>
+    ))
+  }
+</div>
+
+<script>
+  import { WINDOWS, DEFAULT_WINDOW, isWindow } from "@/types/window";
+
+  const SELECTED_STYLE = {
+    background: "var(--color-accent-500)",
+    color: "#ffffff",
+    borderColor: "var(--color-accent-600)",
+  };
+
+  function paint(root: HTMLElement, current: string) {
+    root.querySelectorAll<HTMLButtonElement>("button[data-window]").forEach((btn) => {
+      const isActive = btn.dataset.window === current;
+      btn.setAttribute("aria-pressed", isActive ? "true" : "false");
+      btn.style.background = isActive ? SELECTED_STYLE.background : "var(--color-surface)";
+      btn.style.color = isActive ? SELECTED_STYLE.color : "var(--color-foreground)";
+      btn.style.borderColor = isActive
+        ? SELECTED_STYLE.borderColor
+        : "var(--color-border)";
+    });
+  }
+
+  function readWindowFromUrl(): string {
+    const params = new URLSearchParams(location.search);
+    const value = params.get("window");
+    return isWindow(value) ? value : DEFAULT_WINDOW;
+  }
+
+  function announce(window: string) {
+    document.dispatchEvent(
+      new CustomEvent("window:change", { detail: { window } }),
+    );
+  }
+
+  document
+    .querySelectorAll<HTMLElement>(".wi-window-selector")
+    .forEach((root) => {
+      const initial = readWindowFromUrl();
+      paint(root, initial);
+
+      root.addEventListener("click", (event) => {
+        const btn = (event.target as Element).closest<HTMLButtonElement>(
+          "button[data-window]",
+        );
+        if (!btn) return;
+        const next = btn.dataset.window;
+        if (!next || !WINDOWS.includes(next as (typeof WINDOWS)[number])) return;
+        paint(root, next);
+        const url = new URL(location.href);
+        if (next === DEFAULT_WINDOW) {
+          url.searchParams.delete("window");
+        } else {
+          url.searchParams.set("window", next);
+        }
+        history.replaceState({}, "", url);
+        announce(next);
+      });
+    });
+
+  // Announce the initial state on load so other islands can sync.
+  queueMicrotask(() => announce(readWindowFromUrl()));
+</script>

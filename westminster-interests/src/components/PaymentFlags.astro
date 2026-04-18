@@ -1,0 +1,65 @@
+---
+import type { Payment } from "@/types/payment";
+
+interface Props {
+  payment: Payment;
+  class?: string;
+}
+
+const { payment, class: className } = Astro.props;
+
+type Flag = { label: string; title: string; href?: string };
+const flags: Flag[] = [];
+
+if (!payment.is_sole_beneficiary) {
+  flags.push({
+    label: "Shared",
+    title: "MP was not the sole beneficiary — value may overstate personal benefit.",
+  });
+}
+
+if (payment.is_ultimate_payer_override) {
+  flags.push({
+    label: "Ultimate payer",
+    title: "The direct payer differs from the parent engagement's employer.",
+  });
+}
+
+if (payment.is_confidential_payer) {
+  flags.push({
+    label: "Confidential",
+    title: "Payer is confidential under the Code of Conduct. See /payer/confidential.",
+    href: "/payer/confidential",
+  });
+}
+
+// Note: is_donated intentionally does NOT render a badge. Charitable /
+// donated-onwards payments are treated as one bulk (confirmed 2026-04-18).
+---
+
+{
+  flags.length > 0 && (
+    <span class:list={["inline-flex flex-wrap gap-1", className]}>
+      {flags.map((flag) =>
+        flag.href ? (
+          <a
+            href={flag.href}
+            title={flag.title}
+            class="inline-flex items-center px-1.5 py-0.5 text-[10px] font-semibold rounded-sm border no-underline"
+            style="color: var(--color-muted); border-color: var(--color-border); background: var(--color-surface);"
+          >
+            {flag.label}
+          </a>
+        ) : (
+          <span
+            title={flag.title}
+            class="inline-flex items-center px-1.5 py-0.5 text-[10px] font-semibold rounded-sm border"
+            style="color: var(--color-muted); border-color: var(--color-border); background: var(--color-surface);"
+          >
+            {flag.label}
+          </span>
+        ),
+      )}
+    </span>
+  )
+}

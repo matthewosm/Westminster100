@@ -1,0 +1,23 @@
+---
+import { PARTY_SHORT } from "@/consts";
+
+interface Props {
+  party: string | null | undefined;
+  class?: string;
+}
+
+const { party, class: className } = Astro.props;
+const tag = party ? (PARTY_SHORT[party] ?? party.slice(0, 3).toUpperCase()) : "—";
+const title = party ?? "Independent / unknown";
+---
+
+<span
+  class:list={[
+    "inline-flex items-center px-1.5 py-0.5 text-xs font-semibold rounded-sm border uppercase tracking-wide",
+    className,
+  ]}
+  style="color: var(--color-muted); border-color: var(--color-border); background: var(--color-surface);"
+  title={title}
+>
+  {tag}
+</span>

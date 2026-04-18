@@ -1,0 +1,60 @@
+---
+interface Props {
+  /** Optional id for external control / tests. */
+  id?: string;
+  /** Enable pagination. Defaults off for small tables. */
+  paginate?: boolean | number;
+  /** Search column selector. If provided, Grid.js renders a search box. */
+  search?: boolean;
+  /** Custom CSS class on the wrapper. */
+  class?: string;
+}
+
+const {
+  id,
+  paginate = false,
+  search = false,
+  class: className,
+} = Astro.props;
+
+const pageLimit = typeof paginate === "number" ? paginate : 50;
+const paginateEnabled = paginate !== false;
+---
+
+<div
+  class:list={["wi-grid-island", className]}
+  id={id}
+  data-paginate={paginateEnabled ? "1" : "0"}
+  data-page-limit={pageLimit.toString()}
+  data-search={search ? "1" : "0"}
+>
+  <slot />
+</div>
+
+<script>
+  import { Grid } from "gridjs";
+  import "gridjs/dist/theme/mermaid.min.css";
+
+  document.querySelectorAll<HTMLElement>(".wi-grid-island").forEach((root) => {
+    const table = root.querySelector<HTMLTableElement>("table");
+    if (!table) return;
+
+    // Keep the SSR'd table as the canonical "no-JS" rendering. Grid.js
+    // mounts over a clone so we can re-render without losing the
+    // progressive-enhancement fallback on JS failure.
+    const paginate = root.dataset.paginate === "1";
+    const search = root.dataset.search === "1";
+    const pageLimit = parseInt(root.dataset.pageLimit ?? "50", 10);
+
+    new Grid({
+      from: table,
+      sort: true,
+      search,
+      pagination: paginate ? { limit: pageLimit } : false,
+      style: {
+        table: { width: "100%" },
+      },
+    }).render(root);
+    table.remove();
+  });
+</script>
