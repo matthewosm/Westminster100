@@ -147,7 +147,7 @@ const topMps = mpList.slice(0, 10).map((m) => ({
 
   {mpList.length > 0 && (
     <section class="py-6">
-      <h2 class="text-xl mb-3">MPs funded ({mpList.length})</h2>
+      <h2 class="text-xl mb-3">MPs funded (<span data-mps-count>{mpList.length}</span>)</h2>
       <div class="wi-mps-grid" data-mps-grid>
         <!-- SSR fallback — hidden on JS mount. -->
         <table class="wi-ssr-fallback w-full text-sm">
@@ -282,31 +282,60 @@ const topMps = mpList.slice(0, 10).map((m) => ({
     });
   }
 
-  // MPs-funded Grid (static — doesn't change with window since amounts
-  // on this table reflect the full payment history from this payer).
+  // MPs-funded Grid — window-aware. Aggregate per MP from the raw
+  // payments array so the "£ received in this window" reflects only
+  // payments that land inside the active window.
   const mpsRoot = document.querySelector<HTMLElement>("[data-mps-grid]");
+  let mpsGrid: Grid | null = null;
+
+  function buildMpsForWindow(win: Window) {
+    const r = windowRange(win, asOf);
+    const byMp = new Map<
+      number,
+      { mnis_id: number; name: string; total: number; count: number }
+    >();
+    for (const p of payments) {
+      if (p.member_id == null) continue;
+      if (!paymentParticipatesInWindow(p, r.since, r.end)) continue;
+      const existing = byMp.get(p.member_id) ?? {
+        mnis_id: p.member_id,
+        name: p.member_name ?? "Unknown",
+        total: 0,
+        count: 0,
+      };
+      existing.total += p.amount;
+      existing.count += 1;
+      byMp.set(p.member_id, existing);
+    }
+    return [...byMp.values()].sort((a, b) => b.total - a.total);
+  }
+
+  function mpRowsForGrid(
+    rows: { mnis_id: number; name: string; total: number; count: number }[],
+  ) {
+    return rows.map((m) => [
+      html(`<a href="/member/${m.mnis_id}">${escapeHtml(m.name)}</a>`),
+      GBP_PENNY.format(m.total),
+      m.count,
+    ]);
+  }
+
   if (mpsRoot) {
-    const mps = (window as unknown as {
-      __WI_PAYER_MPS: { mnis_id: number; name: string; monetary: number; inkind: number; count: number }[];
-    }).__WI_PAYER_MPS ?? [];
     const fallback = mpsRoot.querySelector<HTMLTableElement>(".wi-ssr-fallback")!;
     const mount = mpsRoot.querySelector<HTMLElement>(".wi-grid-mount")!;
     fallback.style.display = "none";
-    new Grid({
+    const initial = buildMpsForWindow(DEFAULT_WINDOW);
+    mpsGrid = new Grid({
       columns: [
         { name: "Member", width: "22rem" },
         { name: "Total received", width: "10rem", sort: { compare: cmpCurrency } },
         { name: "Payments", width: "7rem" },
       ],
       resizable: true,
-      data: mps.map((m) => [
-        html(`<a href="/member/${m.mnis_id}">${escapeHtml(m.name)}</a>`),
-        GBP_PENNY.format(m.monetary + m.inkind),
-        m.count,
-      ]),
+      data: mpRowsForGrid(initial),
       sort: true,
-      search: mps.length > 10,
-      pagination: mps.length > 25 ? { limit: 25 } : false,
+      search: initial.length > 10,
+      pagination: initial.length > 25 ? { limit: 25 } : false,
     }).render(mount);
   }
 
@@ -381,6 +410,13 @@ const topMps = mpList.slice(0, 10).map((m) => ({
           sourceCell(p),
         ]);
       grid.updateConfig({ data: newData }).forceRender();
+    }
+    if (mpsGrid) {
+      const newMps = buildMpsForWindow(win);
+      mpsGrid.updateConfig({ data: mpRowsForGrid(newMps) }).forceRender();
+      // Update the "MPs funded (N)" heading.
+      const heading = document.querySelector<HTMLElement>("[data-mps-count]");
+      if (heading) heading.textContent = String(newMps.length);
     }
   });
 </script>

@@ -20,6 +20,8 @@ export interface Member {
   photo_url: string;
   totals: TotalsByWindow;
   categories: Record<string, TotalsByWindow>;
+  /** 12 trailing ~30-day buckets, oldest first. Combined £ per bucket. */
+  trend_12m: number[];
   appg_memberships: MemberAppgMembership[];
   payments: Payment[];
 }
@@ -33,4 +35,6 @@ export interface MemberIndexRow {
   constituency: string | null;
   house: string | null;
   totals: TotalsByWindow;
+  /** 12 trailing ~30-day buckets, oldest first. Combined £ per bucket. */
+  trend_12m: number[];
 }

@@ -349,6 +349,36 @@ def _new_totals_by_window(window_ranges: list[windows_mod.WindowRange]) -> dict:
     return {w.key: _empty_window_totals() for w in window_ranges}
 
 
+def _build_trend_windows(
+    as_of_date: date, months: int = 12
+) -> list[windows_mod.WindowRange]:
+    """Return `months` trailing ~30-day windows for sparkline use, oldest first.
+
+    Each bucket is 30 days wide; the final bucket ends at as_of_date.
+    Windows are inclusive of the end date per the half-open (since, end]
+    convention used everywhere else in the exporter.
+    """
+    ranges: list[windows_mod.WindowRange] = []
+    for i in range(months, 0, -1):
+        end = as_of_date - timedelta(days=30 * (i - 1))
+        since = end - timedelta(days=30)
+        ranges.append(windows_mod.WindowRange(f"t{months - i}", since, end))
+    return ranges
+
+
+def _compute_trend_combined(
+    rows: list[dict], trend_windows: list[windows_mod.WindowRange]
+) -> list[float]:
+    """Return one combined total per trend window, rounded to whole pounds."""
+    out: list[float] = []
+    for w in trend_windows:
+        total = 0.0
+        for row in rows:
+            total += _window_contribution(row, w)
+        out.append(round(total))
+    return out
+
+
 def _add_payment_to_totals(
     totals: dict,
     row: dict,
@@ -469,6 +499,7 @@ def build_tree(
     _clean_tree(out_dir)
 
     window_ranges = list(windows_mod.iter_windows(as_of_date))
+    trend_windows = _build_trend_windows(as_of_date, months=12)
 
     members = _load_members(conn)
     raw_payers = _load_payers(conn)
@@ -514,6 +545,11 @@ def build_tree(
             )
 
     # ----- Member JSON files + index -----
+    # Per-party category totals collected here so the Parties index can
+    # render category-stacked bars without a second pass over payments.
+    # Shape: party_slug -> category -> {window_key: {monetary, inkind, combined}}
+    party_category_totals: dict[str, dict[str, dict]] = {}
+
     member_index: list[dict] = []
     for mnis_id, member in members.items():
         rows = sorted(
@@ -535,6 +571,21 @@ def build_tree(
         for cat_bucket in category_totals.values():
             _finalise_totals(cat_bucket, defaultdict(set))
 
+        # Fold this MP's category totals into the party-level aggregate
+        # before we lose the per-window structure.
+        party_slug = _slugify(member["party"])
+        party_bucket = party_category_totals.setdefault(party_slug, {})
+        for cat, cat_by_win in category_totals.items():
+            cat_party_bucket = party_bucket.setdefault(
+                cat, {w.key: {"monetary": 0.0, "inkind": 0.0, "combined": 0.0} for w in window_ranges}
+            )
+            for key, bucket in cat_by_win.items():
+                cat_party_bucket[key]["monetary"] += bucket["monetary"]
+                cat_party_bucket[key]["inkind"] += bucket["inkind"]
+                cat_party_bucket[key]["combined"] += bucket["combined"]
+
+        trend_12m = _compute_trend_combined(rows, trend_windows)
+
         member_memberships = sorted(
             appgs_by_mnis.get(mnis_id, []),
             key=lambda m: (not m["is_officer"], m["appg_name"]),
@@ -544,13 +595,14 @@ def build_tree(
             "mnis_id": mnis_id,
             "name": member["name"],
             "party": member["party"],
-            "party_slug": _slugify(member["party"]),
+            "party_slug": party_slug,
             "constituency": member["constituency"],
             "house": member["house"],
             "start_date": member["start_date"],
             "photo_url": THUMBNAIL_URL_TEMPLATE.format(mnis_id=mnis_id),
             "totals": totals,
             "categories": category_totals,
+            "trend_12m": trend_12m,
             "appg_memberships": member_memberships,
             "payments": [_payment_json(r, appgs) for r in rows],
         }
@@ -561,10 +613,11 @@ def build_tree(
                 "mnis_id": mnis_id,
                 "name": member["name"],
                 "party": member["party"],
-                "party_slug": _slugify(member["party"]),
+                "party_slug": party_slug,
                 "constituency": member["constituency"],
                 "house": member["house"],
                 "totals": totals,
+                "trend_12m": trend_12m,
             }
         )
 
@@ -681,6 +734,23 @@ def build_tree(
             bucket["monetary"] = _round(bucket["monetary"])
             bucket["inkind"] = _round(bucket["inkind"])
             bucket["combined"] = _round(bucket["combined"])
+
+    # Attach per-category totals collected during the member loop so the
+    # Parties index can render category-stacked bars without reshaping.
+    for rec in party_aggregates.values():
+        slug = rec["party_slug"]
+        raw_cats = party_category_totals.get(slug, {})
+        rounded: dict[str, dict] = {}
+        for cat, by_win in raw_cats.items():
+            rounded[cat] = {
+                key: {
+                    "monetary": _round(bucket["monetary"]),
+                    "inkind": _round(bucket["inkind"]),
+                    "combined": _round(bucket["combined"]),
+                }
+                for key, bucket in by_win.items()
+            }
+        rec["categories"] = rounded
 
     party_index = list(party_aggregates.values())
     _rank_index(party_index)

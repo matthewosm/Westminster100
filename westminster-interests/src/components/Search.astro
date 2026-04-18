@@ -1,14 +1,134 @@
 ---
-// Pagefind search mounted in the site header. Wired up at build time
-// via `pagefind --site dist` (postbuild). The first visit triggers a
-// one-off JSON index fetch; subsequent searches hit the client cache.
+// Pagefind search as a floating overlay. The header shows a trigger
+// button; clicking it (or Cmd/Ctrl+K, or "/" when not typing) opens
+// a modal containing the Pagefind default UI. Escape or clicking the
+// backdrop dismisses it.
 ---
 
-<div id="search" class="wi-search" data-pagefind-ignore></div>
+<button
+  type="button"
+  class="wi-search-trigger"
+  data-wi-search-open
+  aria-haspopup="dialog"
+  aria-controls="wi-search-modal"
+>
+  <span aria-hidden="true">🔍</span>
+  <span>Search</span>
+  <kbd>⌘K</kbd>
+</button>
+
+<div
+  id="wi-search-modal"
+  class="wi-search-modal"
+  data-wi-search-modal
+  role="dialog"
+  aria-modal="true"
+  aria-label="Search Westminster Interests"
+  hidden
+>
+  <div class="wi-search-backdrop" data-wi-search-close></div>
+  <div class="wi-search-panel">
+    <div class="wi-search-header">
+      <span style="color: var(--color-muted); font-size: 0.85rem;">
+        Search MPs, payers, APPGs…
+      </span>
+      <button
+        type="button"
+        class="wi-search-close"
+        data-wi-search-close
+        aria-label="Close search"
+      >
+        ×
+      </button>
+    </div>
+    <div id="search" class="wi-search-body" data-pagefind-ignore></div>
+  </div>
+</div>
 
 <style>
-  /* Tune the default Pagefind UI to match the monochrome/civic theme. */
-  .wi-search {
+  .wi-search-trigger {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.35rem 0.6rem;
+    font-size: 0.85rem;
+    color: var(--color-muted);
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 0.375rem;
+    cursor: pointer;
+    min-width: 10rem;
+  }
+  .wi-search-trigger:hover {
+    color: var(--color-foreground);
+    border-color: var(--color-foreground);
+  }
+  .wi-search-trigger kbd {
+    margin-left: auto;
+    padding: 0 0.35rem;
+    font-size: 0.7rem;
+    color: var(--color-muted);
+    background: var(--color-ink-100);
+    border: 1px solid var(--color-border);
+    border-radius: 0.25rem;
+    font-family: var(--font-mono);
+  }
+
+  .wi-search-modal[hidden] {
+    display: none;
+  }
+  .wi-search-modal {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 6vh 1rem 1rem;
+  }
+  .wi-search-backdrop {
+    position: absolute;
+    inset: 0;
+    background: rgba(15, 15, 15, 0.5);
+    backdrop-filter: blur(2px);
+  }
+  .wi-search-panel {
+    position: relative;
+    width: min(640px, 100%);
+    max-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    background: var(--color-surface);
+    color: var(--color-foreground);
+    border: 1px solid var(--color-border);
+    border-radius: 0.5rem;
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+  }
+  .wi-search-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.5rem 0.75rem;
+    border-bottom: 1px solid var(--color-border);
+  }
+  .wi-search-close {
+    background: transparent;
+    border: 0;
+    color: var(--color-muted);
+    font-size: 1.25rem;
+    line-height: 1;
+    cursor: pointer;
+    padding: 0.25rem 0.5rem;
+  }
+  .wi-search-close:hover {
+    color: var(--color-foreground);
+  }
+  .wi-search-body {
+    flex: 1;
+    overflow: auto;
+    padding: 0.5rem 0.75rem 0.75rem;
+    /* Pagefind UI CSS tokens. */
     --pagefind-ui-primary: var(--color-accent-600);
     --pagefind-ui-text: var(--color-foreground);
     --pagefind-ui-background: var(--color-surface);
@@ -16,7 +136,6 @@
     --pagefind-ui-tag: var(--color-ink-100);
     --pagefind-ui-border-radius: 0.375rem;
     --pagefind-ui-font: var(--font-sans);
-    min-width: 18rem;
   }
 </style>
 
@@ -25,15 +144,85 @@
   // @ts-expect-error — @pagefind/default-ui has no types bundled
   import { PagefindUI } from "@pagefind/default-ui";
 
-  window.addEventListener("DOMContentLoaded", () => {
+  function init() {
     const el = document.getElementById("search");
-    if (!el) return;
-    new PagefindUI({
-      element: el,
-      showSubResults: true,
-      showImages: false,
-      resetStyles: false,
-      bundlePath: "/pagefind/",
+    if (!el || el.dataset.wiInit === "1") return;
+    el.dataset.wiInit = "1";
+    try {
+      new PagefindUI({
+        element: el,
+        showSubResults: true,
+        showImages: false,
+        resetStyles: false,
+        bundlePath: "/pagefind/",
+      });
+    } catch (err) {
+      console.warn("[wi-search] PagefindUI failed to init", err);
+    }
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", init, { once: true });
+  } else {
+    init();
+  }
+
+  // Modal open/close wiring.
+  const modal = document.querySelector<HTMLElement>("[data-wi-search-modal]");
+  const trigger = document.querySelector<HTMLButtonElement>("[data-wi-search-open]");
+
+  function openSearch() {
+    if (!modal) return;
+    modal.hidden = false;
+    // Focus the Pagefind input once the UI is mounted.
+    queueMicrotask(() => {
+      const input = modal.querySelector<HTMLInputElement>(
+        ".pagefind-ui__search-input, input[type='text']",
+      );
+      input?.focus();
     });
+  }
+
+  function closeSearch() {
+    if (!modal) return;
+    modal.hidden = true;
+    trigger?.focus();
+  }
+
+  trigger?.addEventListener("click", openSearch);
+
+  modal?.addEventListener("click", (event) => {
+    const target = event.target as Element | null;
+    if (target?.closest("[data-wi-search-close]")) {
+      closeSearch();
+    }
+  });
+
+  document.addEventListener("keydown", (event) => {
+    // Cmd/Ctrl+K toggles the search modal.
+    if ((event.metaKey || event.ctrlKey) && event.key.toLowerCase() === "k") {
+      event.preventDefault();
+      if (modal?.hidden) openSearch();
+      else closeSearch();
+      return;
+    }
+    // "/" opens search when the user is not already in an input/textarea.
+    if (event.key === "/" && modal?.hidden) {
+      const active = document.activeElement;
+      const inEditable =
+        active instanceof HTMLInputElement ||
+        active instanceof HTMLTextAreaElement ||
+        (active instanceof HTMLElement && active.isContentEditable);
+      if (!inEditable) {
+        event.preventDefault();
+        openSearch();
+      }
+      return;
+    }
+    // Escape closes the modal.
+    if (event.key === "Escape" && modal && !modal.hidden) {
+      event.preventDefault();
+      closeSearch();
+    }
   });
 </script>

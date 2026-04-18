@@ -86,6 +86,7 @@ const allForChartDefault = sorted
             <th class="text-right">In kind</th>
             <th class="text-right">Payments</th>
             <th class="text-right">Payers</th>
+            <th>Trend</th>
           </tr>
         </thead>
         <tbody>
@@ -100,6 +101,7 @@ const allForChartDefault = sorted
                 <td class="text-right tabular-nums">{formatGbp(t.inkind)}</td>
                 <td class="text-right tabular-nums">{formatNumber(t.payment_count)}</td>
                 <td class="text-right tabular-nums">{formatNumber(t.donor_count)}</td>
+                <td>—</td>
               </tr>
             );
           })}
@@ -122,7 +124,8 @@ const allForChartDefault = sorted
   import { DEFAULT_WINDOW, WINDOW_LABELS, isWindow } from "@/types/window";
   import type { Window } from "@/types/window";
   import type { MemberIndexRow } from "@/types/member";
-  import { PARTY_SHORT } from "@/consts";
+  import { partyCell } from "@/lib/client-payments";
+  import { escapeHtml as clientEscapeHtml } from "@/lib/client-chart";
 
   const gbp = new Intl.NumberFormat("en-GB", {
     style: "currency",
@@ -131,24 +134,26 @@ const allForChartDefault = sorted
   });
 
   function escape(s: string | null | undefined): string {
-    return (s ?? "")
-      .replace(/&/g, "&amp;")
-      .replace(/</g, "&lt;")
-      .replace(/>/g, "&gt;")
-      .replace(/"/g, "&quot;");
+    return clientEscapeHtml(s ?? "");
   }
 
-  function partyTagHtml(
-    party: string | null | undefined,
-    slug: string | null | undefined,
-  ): string {
-    const tag = party
-      ? (PARTY_SHORT[party] ?? party.slice(0, 3).toUpperCase())
-      : "—";
-    const inner = `<span class="inline-flex items-center px-1.5 py-0.5 text-xs font-semibold rounded-sm border uppercase tracking-wide" style="color: var(--color-muted); border-color: var(--color-border); background: var(--color-surface);">${escape(tag)}</span>`;
-    return slug
-      ? `<a href="/party/${escape(slug)}" class="no-underline" title="${escape(party ?? "")}">${inner}</a>`
-      : inner;
+  function sparklineHtml(values: number[] | undefined): string {
+    if (!values || values.length === 0) return "";
+    const w = 80;
+    const h = 22;
+    const n = values.length;
+    const peak = Math.max(...values, 1);
+    const barW = w / n;
+    const bars = values
+      .map((v, i) => {
+        const bh = (v / peak) * (h - 2);
+        const x = i * barW;
+        const y = h - bh;
+        return `<rect x="${x.toFixed(2)}" y="${y.toFixed(2)}" width="${(barW - 1).toFixed(2)}" height="${bh.toFixed(2)}" fill="var(--color-accent-500)" opacity="0.8"/>`;
+      })
+      .join("");
+    const total = values.reduce((a, b) => a + b, 0);
+    return `<svg viewBox="0 0 ${w} ${h}" width="${w}" height="${h}" style="display:inline-block; vertical-align:middle;" role="img" aria-label="12-month trend"><title>12-month trend (total £${total.toLocaleString("en-GB")})</title>${bars}</svg>`;
   }
 
   const root = document.querySelector<HTMLElement>(
@@ -165,12 +170,13 @@ const allForChartDefault = sorted
     function buildRows(win: Window) {
       return data.map((m) => [
         html(`<a href="/member/${m.mnis_id}">${escape(m.name)}</a>`),
-        html(partyTagHtml(m.party, m.party_slug)),
+        partyCell(m.party, m.party_slug),
         m.constituency ?? "—",
         gbp.format(m.totals[win].monetary),
         gbp.format(m.totals[win].inkind),
         m.totals[win].payment_count,
         m.totals[win].donor_count,
+        html(sparklineHtml(m.trend_12m)),
       ]);
     }
 
@@ -185,6 +191,7 @@ const allForChartDefault = sorted
         { name: "In kind", width: "8rem", sort: { compare: cmpCurrency } },
         { name: "Payments", width: "6rem" },
         { name: "Payers", width: "6rem" },
+        { name: "Trend (12m)", width: "7rem", sort: false },
       ],
       data: buildRows(activeWindow),
       sort: true,
