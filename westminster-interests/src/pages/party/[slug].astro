@@ -5,7 +5,8 @@ import PartyTag from "@/components/PartyTag.astro";
 import SummaryChart from "@/components/SummaryChart.astro";
 import AsOfFooter from "@/components/AsOfFooter.astro";
 import { formatGbp, formatNumber } from "@/lib/format";
-import { DEFAULT_WINDOW } from "@/types/window";
+import { DEFAULT_WINDOW, WINDOWS, WINDOW_LABELS } from "@/types/window";
+import type { Window } from "@/types/window";
 import type { PartyIndexRow } from "@/types/party";
 import type { MemberIndexRow } from "@/types/member";
 
@@ -46,15 +47,25 @@ const sortedMembers = [...partyMembers].sort(
     b.totals[activeWindow].combined - a.totals[activeWindow].combined,
 );
 
-const top10 = sortedMembers
-  .filter((m) => m.totals[activeWindow].combined > 0)
-  .slice(0, 10)
-  .map((m) => ({
-    label: m.name,
-    monetary: m.totals[activeWindow].monetary,
-    inkind: m.totals[activeWindow].inkind,
-    href: `/member/${m.mnis_id}`,
-  }));
+// Pre-compute Top-10 chart data for every window so the client can flip
+// without recomputation or extra fetches.
+function topChartFor(win: Window) {
+  return [...partyMembers]
+    .filter((m) => m.totals[win].combined > 0)
+    .sort((a, b) => b.totals[win].combined - a.totals[win].combined)
+    .slice(0, 10)
+    .map((m) => ({
+      label: m.name,
+      monetary: m.totals[win].monetary,
+      inkind: m.totals[win].inkind,
+      href: `/member/${m.mnis_id}`,
+    }));
+}
+
+const chartsByWindow = Object.fromEntries(
+  WINDOWS.map((w) => [w, topChartFor(w)]),
+);
+const defaultChart = chartsByWindow[DEFAULT_WINDOW];
 ---
 
 <BaseLayout
@@ -98,50 +109,81 @@ const top10 = sortedMembers
     </div>
   </section>
 
-  <section class="py-4">
+  <section class="py-4" data-pagefind-ignore>
     <h2 class="text-sm font-semibold uppercase tracking-wide mb-2" style="color: var(--color-muted);">
-      Top {party.party} members — trailing 12 months
+      Top {party.party} members — <span data-active-window-label>{WINDOW_LABELS[DEFAULT_WINDOW]}</span>
     </h2>
-    <SummaryChart rows={top10} />
+    <div data-chart data-chart-json={JSON.stringify(chartsByWindow)}>
+      <SummaryChart rows={defaultChart} limit={10} />
+    </div>
   </section>
 
   <section class="py-6">
     <h2 class="text-xl mb-3">Members</h2>
-    <table class="w-full">
-      <thead>
-        <tr>
-          <th>Name</th>
-          <th>Constituency</th>
-          <th class="text-right">Total (12m)</th>
-          <th class="text-right">Payments (12m)</th>
-        </tr>
-      </thead>
-      <tbody>
-        {sortedMembers.map((m) => {
-          const t = m.totals[activeWindow];
-          return (
-            <tr>
-              <td><a href={`/member/${m.mnis_id}`}>{m.name}</a></td>
-              <td>{m.constituency ?? "—"}</td>
-              <td class="text-right tabular-nums">{formatGbp(t.combined)}</td>
-              <td class="text-right tabular-nums">{formatNumber(t.payment_count)}</td>
-            </tr>
-          );
-        })}
-      </tbody>
-    </table>
+    <div class="wi-index-grid" data-index-grid="party-members">
+      <!-- SSR fallback — hidden when JS mounts Grid.js. -->
+      <table class="wi-ssr-fallback w-full">
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Constituency</th>
+            <th class="text-right">Monetary</th>
+            <th class="text-right">In kind</th>
+            <th class="text-right">Total</th>
+            <th class="text-right">Payments</th>
+            <th class="text-right">Payers</th>
+          </tr>
+        </thead>
+        <tbody>
+          {sortedMembers.map((m) => {
+            const t = m.totals[activeWindow];
+            return (
+              <tr>
+                <td><a href={`/member/${m.mnis_id}`}>{m.name}</a></td>
+                <td>{m.constituency ?? "—"}</td>
+                <td class="text-right tabular-nums">{formatGbp(t.monetary)}</td>
+                <td class="text-right tabular-nums">{formatGbp(t.inkind)}</td>
+                <td class="text-right tabular-nums">{formatGbp(t.combined)}</td>
+                <td class="text-right tabular-nums">{formatNumber(t.payment_count)}</td>
+                <td class="text-right tabular-nums">{formatNumber(t.donor_count)}</td>
+              </tr>
+            );
+          })}
+        </tbody>
+      </table>
+      <div class="wi-grid-mount"></div>
+    </div>
   </section>
 
   <AsOfFooter />
 </BaseLayout>
 
+<script is:inline define:vars={{ rows: partyMembers }}>
+  window.__WI_PARTY_MEMBERS = rows;
+</script>
+
 <script>
-  import { DEFAULT_WINDOW, isWindow } from "@/types/window";
+  import { Grid, html } from "gridjs";
+  import "gridjs/dist/theme/mermaid.min.css";
+  import { DEFAULT_WINDOW, WINDOW_LABELS, isWindow } from "@/types/window";
   import type { Window } from "@/types/window";
+  import type { MemberIndexRow } from "@/types/member";
   import type { TotalsByWindow, WindowTotals } from "@/types/totals";
+  import { escapeHtml } from "@/lib/client-chart";
 
-  const GBP = new Intl.NumberFormat("en-GB", { style: "currency", currency: "GBP", maximumFractionDigits: 0 });
+  const gbp = new Intl.NumberFormat("en-GB", {
+    style: "currency",
+    currency: "GBP",
+    maximumFractionDigits: 0,
+  });
 
+  function cmpCurrency(a: unknown, b: unknown): number {
+    const fa = parseFloat(String(a).replace(/[^0-9.-]/g, "")) || 0;
+    const fb = parseFloat(String(b).replace(/[^0-9.-]/g, "")) || 0;
+    return fa - fb;
+  }
+
+  // --- KPI totals ---
   const totalsBlock = document.querySelector<HTMLElement>("[data-totals-block]");
   const totalsByWindow = totalsBlock
     ? (JSON.parse(totalsBlock.dataset.totalsJson ?? "{}") as TotalsByWindow)
@@ -157,7 +199,84 @@ const top10 = sortedMembers
     totalsFields.forEach((el) => {
       const field = el.dataset.totalsField as keyof WindowTotals;
       const raw = bucket[field] as number | undefined;
-      if (typeof raw === "number") el.textContent = GBP.format(raw);
+      if (typeof raw === "number") el.textContent = gbp.format(raw);
     });
   });
+
+  // --- Members grid (Grid.js, same pattern as /members) ---
+  const root = document.querySelector<HTMLElement>(
+    '[data-index-grid="party-members"]',
+  );
+  if (root) {
+    const data = (window as unknown as { __WI_PARTY_MEMBERS: MemberIndexRow[] })
+      .__WI_PARTY_MEMBERS;
+    const fallback = root.querySelector<HTMLTableElement>(".wi-ssr-fallback")!;
+    const mount = root.querySelector<HTMLElement>(".wi-grid-mount")!;
+
+    let activeWindow: Window = DEFAULT_WINDOW;
+
+    function buildRows(win: Window) {
+      return [...data]
+        .sort((a, b) => b.totals[win].combined - a.totals[win].combined)
+        .map((m) => [
+          html(`<a href="/member/${m.mnis_id}">${escapeHtml(m.name)}</a>`),
+          m.constituency ?? "—",
+          gbp.format(m.totals[win].monetary),
+          gbp.format(m.totals[win].inkind),
+          gbp.format(m.totals[win].combined),
+          m.totals[win].payment_count,
+          m.totals[win].donor_count,
+        ]);
+    }
+
+    fallback.style.display = "none";
+
+    const grid = new Grid({
+      columns: [
+        { name: "Name", width: "22rem" },
+        { name: "Constituency", width: "14rem" },
+        { name: "Monetary", width: "8rem", sort: { compare: cmpCurrency } },
+        { name: "In kind", width: "8rem", sort: { compare: cmpCurrency } },
+        { name: "Total", width: "8rem", sort: { compare: cmpCurrency } },
+        { name: "Payments", width: "6rem" },
+        { name: "Payers", width: "6rem" },
+      ],
+      data: buildRows(activeWindow),
+      sort: true,
+      search: true,
+      resizable: true,
+      pagination: { limit: 50 },
+    }).render(mount);
+
+    document.addEventListener("window:change", (event) => {
+      const detail = (event as CustomEvent).detail as { window: string };
+      const next = isWindow(detail.window) ? detail.window : DEFAULT_WINDOW;
+      if (next === activeWindow) return;
+      activeWindow = next;
+      grid.updateConfig({ data: buildRows(next) }).forceRender();
+    });
+  }
+
+  // --- Top-10 chart window swap ---
+  const chartRoot = document.querySelector<HTMLElement>("[data-chart]");
+  const chartLabels = document.querySelectorAll<HTMLElement>("[data-active-window-label]");
+  if (chartRoot) {
+    const { renderSummaryChart } = await import("@/lib/client-chart");
+    const chartsByWindow = JSON.parse(chartRoot.dataset.chartJson ?? "{}") as Record<
+      string,
+      import("@/lib/client-chart").ChartRow[]
+    >;
+    let chartWin: Window = DEFAULT_WINDOW;
+    document.addEventListener("window:change", (event) => {
+      const detail = (event as CustomEvent).detail as { window: string };
+      const win: Window = isWindow(detail.window) ? detail.window : DEFAULT_WINDOW;
+      if (win === chartWin) return;
+      chartWin = win;
+      renderSummaryChart(chartRoot, chartsByWindow[win] ?? [], { limit: 10 });
+      const text = WINDOW_LABELS[win];
+      chartLabels.forEach((el) => {
+        el.textContent = text;
+      });
+    });
+  }
 </script>
